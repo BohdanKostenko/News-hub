@@ -386,7 +386,6 @@
                 let sName = s.source_name || ("Джерело " + (idx + 1));
                 let sText = s.raw_text ? s.raw_text : "Текст цього джерела не збережено.";
                 let sLink = (s.source_url && s.source_url !== "#") ? ("<a href=\"" + s.source_url + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"source-direct-link\">Читати в першоджерелі ↗</a>") : "";
-                let sLink = (s.source_url && s.source_url !== "#") ? ("<a href=\"" + s.source_url + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"source-direct-link\">Читати в першоджерелі ↗</a>") : "";
                 return "<div id=\"src-box-" + a.id + "-" + idx + "\" class=\"source-expand-box\" style=\"display:none;\">" +
                        "<div class=\"source-box-header\"><div style=\"display:flex;align-items:center;\"><span class=\"source-box-title\">" + (s.is_base ? "⭐ " : "") + sName + "</span>" + timeStr + "</div>" + sLink + "</div>" +
                        "<div class=\"source-box-body\">" + sText + "</div>" +
