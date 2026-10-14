@@ -1,13 +1,19 @@
 {
-  "name": "Персональний Хаб Новин",
+  "name": "Хаб Новин",
   "short_name": "Новини",
-  "start_url": "/",
+  "start_url": "/News-hub/",
+  "scope": "/News-hub/",
   "display": "standalone",
-  "background_color": "#121214",
-  "theme_color": "#121214",
+  "background_color": "#121212",
+  "theme_color": "#121212",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
