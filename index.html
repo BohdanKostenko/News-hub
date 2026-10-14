@@ -78,6 +78,35 @@
     .lightbox { display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.92); z-index: 200; justify-content: center; align-items: center; padding: 12px; }
     .lightbox img { max-width: 100%; max-height: 95vh; border-radius: 8px; object-fit: contain; }
     .lightbox-close { position: absolute; top: 16px; right: 20px; font-size: 32px; color: #fff; cursor: pointer; background: none; border: none; }
+  
+    /* Стилі для пов'язаних джерел */
+    .related-chain-wrap { margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); }
+    .related-chain-label { font-size: 0.8rem; color: #94a3b8; margin-bottom: 8px; font-weight: 500; }
+    .related-chips-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+    .source-chip-btn {
+      background: #1e293b; color: #38bdf8; border: 1px solid #334155;
+      border-radius: 8px; padding: 6px 12px; font-size: 0.82rem; cursor: pointer; transition: all 0.2s;
+    }
+    .source-chip-btn.is-main {
+      border-color: #f59e0b; color: #fcd34d; background: #292010; font-weight: 600;
+    }
+    .source-chip-btn:hover, .source-chip-btn.active {
+      background: #0284c7; color: #ffffff; border-color: #38bdf8;
+    }
+    .source-expand-box {
+      background: #0f172a; border: 1px solid #1e293b; border-left: 3px solid #0284c7;
+      border-radius: 8px; padding: 12px; margin-top: 10px; font-size: 0.88rem; color: #f1f5f9;
+    }
+    .source-box-header {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 8px; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;
+      flex-wrap: wrap; gap: 6px;
+    }
+    .source-box-title { font-weight: 600; color: #38bdf8; }
+    .source-direct-link { color: #f59e0b; text-decoration: none; font-size: 0.82rem; font-weight: 500; }
+    .source-direct-link:hover { text-decoration: underline; }
+    .source-box-body { line-height: 1.5; color: #cbd5e1; font-size: 0.84rem; white-space: pre-wrap; margin: 0; }
+
   </style>
 
 <style>
@@ -97,7 +126,36 @@
 .source-ext-link { color: #f59e0b; text-decoration: none; font-size: 0.8rem; }
 .source-ext-link:hover { text-decoration: underline; }
 .source-panel-body { margin: 0; line-height: 1.4; color: #d1d5db; white-space: pre-wrap; }
-</style>
+
+    /* Стилі для пов'язаних джерел */
+    .related-chain-wrap { margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); }
+    .related-chain-label { font-size: 0.8rem; color: #94a3b8; margin-bottom: 8px; font-weight: 500; }
+    .related-chips-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+    .source-chip-btn {
+      background: #1e293b; color: #38bdf8; border: 1px solid #334155;
+      border-radius: 8px; padding: 6px 12px; font-size: 0.82rem; cursor: pointer; transition: all 0.2s;
+    }
+    .source-chip-btn.is-main {
+      border-color: #f59e0b; color: #fcd34d; background: #292010; font-weight: 600;
+    }
+    .source-chip-btn:hover, .source-chip-btn.active {
+      background: #0284c7; color: #ffffff; border-color: #38bdf8;
+    }
+    .source-expand-box {
+      background: #0f172a; border: 1px solid #1e293b; border-left: 3px solid #0284c7;
+      border-radius: 8px; padding: 12px; margin-top: 10px; font-size: 0.88rem; color: #f1f5f9;
+    }
+    .source-box-header {
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 8px; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;
+      flex-wrap: wrap; gap: 6px;
+    }
+    .source-box-title { font-weight: 600; color: #38bdf8; }
+    .source-direct-link { color: #f59e0b; text-decoration: none; font-size: 0.82rem; font-weight: 500; }
+    .source-direct-link:hover { text-decoration: underline; }
+    .source-box-body { line-height: 1.5; color: #cbd5e1; font-size: 0.84rem; white-space: pre-wrap; margin: 0; }
+
+  </style>
 
 </head>
 <body>
