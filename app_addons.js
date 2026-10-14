@@ -1,11 +1,7 @@
-// 1. Інжектуємо CSS: приховуємо дублюючі кнопки для згрупованих карток та стилізуємо ланцюжок
+// 1. Стилі
 const addonStyle = document.createElement('style');
 addonStyle.textContent = `
-/* Якщо картка має ланцюжок джерел - приховуємо нижній блок кнопок і дублюючий сирий текст */
-.card:has(.related-chain-wrap) .card-actions,
-.card:has(.related-chain-wrap) .full-text {
-  display: none !important;
-}
+.hide-redundant-actions { display: none !important; }
 
 .related-chain-wrap { margin-top: 10px; padding-top: 8px; border-top: 1px dashed rgba(255,255,255,0.15); }
 .related-chain-label { font-size: 0.78rem; color: #9ca3af; margin-bottom: 6px; }
@@ -43,7 +39,7 @@ addonStyle.textContent = `
 `;
 document.head.appendChild(addonStyle);
 
-// 2. Функція перемикання розкриття тексту
+// 2. Функція перемикання блоків джерел
 window.toggleSourceAccordion = function(artId, idx, evt) {
   if (evt) {
     evt.preventDefault();
@@ -63,84 +59,104 @@ window.toggleSourceAccordion = function(artId, idx, evt) {
   }
 };
 
-// 3. Побудова ланцюжка джерел
-function enhanceArticlesWithChain() {
-  if (!window.rawData || !window.rawData.articles) return;
+// 3. Пряма обробка DOM
+function processCards() {
+  const fullTextElements = document.querySelectorAll('[id^="full-"]');
 
-  window.rawData.articles.forEach(art => {
-    const fullTextEl = document.getElementById('full-' + art.id);
-    if (!fullTextEl) return;
-    const cardBody = fullTextEl.parentElement;
-    if (!cardBody) return;
+  fullTextElements.forEach(fullEl => {
+    const artId = fullEl.id.replace('full-', '');
+    const card = fullEl.closest('.card') || fullEl.closest('.news-card') || fullEl.parentElement.parentElement;
+    if (!card) return;
 
-    const hasRelated = art.related_sources && art.related_sources.length > 0;
+    // Перевіряємо, чи є в картці пов'язані джерела (новий або старий блок)
+    const existingChain = card.querySelector('.related-chain-wrap');
+    const oldRelatedBox = card.querySelector('.related-box');
+    
+    // Шукаємо дані статті в пам'яті
+    const art = (window.rawData && window.rawData.articles)
+      ? window.rawData.articles.find(a => String(a.id) === String(artId))
+      : null;
+
+    const hasRelated = (art && art.related_sources && art.related_sources.length > 0) || !!oldRelatedBox;
 
     if (hasRelated) {
-      // Ховаємо старий стандартний блок "Про це також повідомили"
-      const oldBox = cardBody.querySelector('.related-box');
-      if (oldBox) oldBox.style.display = 'none';
+      // Приховуємо дублюючі нижні кнопки
+      const actions = card.querySelector('.card-actions');
+      if (actions) actions.classList.add('hide-redundant-actions');
 
-      // Якщо вже сформовано новий ланцюжок — не дублюємо
-      if (cardBody.querySelector('.related-chain-wrap')) return;
+      // Приховуємо дублюючий нижній текст картки
+      fullEl.classList.add('hide-redundant-actions');
 
-      // Збираємо список усіх джерел: базове першим із міткою ⭐
-      const allSources = [];
-      if (art.source_name) {
-        allSources.push({
-          source_name: art.source_name,
-          source_url: art.source_url || '#',
-          raw_text: art.raw_text || art.summary || '',
-          published_at: art.published_at || '',
-          is_base: true
-        });
-      }
-      art.related_sources.forEach(s => allSources.push(s));
+      // Приховуємо старий блок списку джерел
+      if (oldRelatedBox) oldRelatedBox.style.display = 'none';
 
-      const chips = allSources.map((s, idx) => {
-        const sName = s.source_name || ('Джерело ' + (idx + 1));
-        const badge = s.is_base ? '⭐ ' : '🔗 ';
-        const btnClass = s.is_base ? 'source-chip-btn is-main' : 'source-chip-btn';
-        return `<button type="button" id="src-btn-${art.id}-${idx}" class="${btnClass}" onclick="toggleSourceAccordion('${art.id}', ${idx}, event)">${badge}${sName}</button>`;
-      }).join(' ');
+      // Якщо покращений блок уже вбудовано — завершуємо
+      if (card.querySelector('.enhanced-chain-wrap')) return;
 
-      const panels = allSources.map((s, idx) => {
-        const sName = s.source_name || ('Джерело ' + (idx + 1));
-        const sText = s.raw_text ? s.raw_text : 'Оригінальний текст підтягнеться під час наступного автооновлення стрічки.';
-        const sLink = (s.source_url && s.source_url !== '#') ? `<a href="${s.source_url}" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>` : '';
-        const timeStr = s.published_at ? `<span class="source-box-time">🕒 ${s.published_at}</span>` : '';
+      if (art) {
+        // Формуємо список: базове першоджерело ⭐ + супутні канали
+        const allSources = [];
+        if (art.source_name) {
+          allSources.push({
+            source_name: art.source_name,
+            source_url: art.source_url || '#',
+            raw_text: art.raw_text || art.summary || '',
+            published_at: art.published_at || '',
+            is_base: true
+          });
+        }
+        if (Array.isArray(art.related_sources)) {
+          art.related_sources.forEach(s => allSources.push(s));
+        }
 
-        return `
-          <div id="src-box-${art.id}-${idx}" class="source-expand-box">
-            <div class="source-box-header">
-              <div class="source-header-left">
-                <span class="source-box-title">${s.is_base ? '⭐ Базове джерело: ' : ''}${sName}</span>
-                ${timeStr}
+        const chips = allSources.map((s, idx) => {
+          const sName = s.source_name || ('Джерело ' + (idx + 1));
+          const badge = s.is_base ? '⭐ ' : '🔗 ';
+          const btnClass = s.is_base ? 'source-chip-btn is-main' : 'source-chip-btn';
+          return `<button type="button" id="src-btn-${art.id}-${idx}" class="${btnClass}" onclick="toggleSourceAccordion('${art.id}', ${idx}, event)">${badge}${sName}</button>`;
+        }).join(' ');
+
+        const panels = allSources.map((s, idx) => {
+          const sName = s.source_name || ('Джерело ' + (idx + 1));
+          const sText = s.raw_text ? s.raw_text : 'Оригінальний текст підтягнеться під час наступного автооновлення.';
+          const sLink = (s.source_url && s.source_url !== '#') ? `<a href="${s.source_url}" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>` : '';
+          const timeStr = s.published_at ? `<span class="source-box-time">🕒 ${s.published_at}</span>` : '';
+
+          return `
+            <div id="src-box-${art.id}-${idx}" class="source-expand-box">
+              <div class="source-box-header">
+                <div class="source-header-left">
+                  <span class="source-box-title">${s.is_base ? '⭐ Базове джерело: ' : ''}${sName}</span>
+                  ${timeStr}
+                </div>
+                ${sLink}
               </div>
-              ${sLink}
+              <div class="source-box-body">${sText}</div>
             </div>
-            <div class="source-box-body">${sText}</div>
-          </div>
+          `;
+        }).join('');
+
+        const wrap = document.createElement('div');
+        wrap.className = 'enhanced-chain-wrap related-chain-wrap';
+        wrap.innerHTML = `
+          <div class="related-chain-label">Джерела події (натисніть для перегляду версії джерела):</div>
+          <div class="related-chips-row">${chips}</div>
+          <div class="related-panels-container">${panels}</div>
         `;
-      }).join('');
 
-      const wrap = document.createElement('div');
-      wrap.className = 'related-chain-wrap';
-      wrap.innerHTML = `
-        <div class="related-chain-label">Джерела події (натисніть, щоб переглянути версію джерела):</div>
-        <div class="related-chips-row">${chips}</div>
-        <div class="related-panels-container">${panels}</div>
-      `;
-
-      cardBody.insertBefore(wrap, fullTextEl);
+        if (existingChain) existingChain.remove();
+        fullEl.parentElement.insertBefore(wrap, fullEl);
+      }
     }
   });
 }
 
-// Слухач для надійного спрацювання після побудови карток
 const observer = new MutationObserver(() => {
-  enhanceArticlesWithChain();
+  processCards();
 });
 observer.observe(document.body, { childList: true, subtree: true });
 
-setTimeout(enhanceArticlesWithChain, 300);
-setTimeout(enhanceArticlesWithChain, 1000);
+// Періодична перевірка після побудови інтерфейсу
+setTimeout(processCards, 200);
+setTimeout(processCards, 600);
+setTimeout(processCards, 1500);
