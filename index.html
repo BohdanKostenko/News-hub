@@ -301,39 +301,22 @@
         }
         let relHtml = '';
         if (a.related_sources && a.related_sources.length > 0) {
-            let allSources = [];
-            if (a.source_name) {
-                allSources.push({
-                    source_name: a.source_name,
-                    source_url: a.source_url || '#',
-                    raw_text: a.raw_text || a.summary || '',
-                    published_at: a.published_at || '',
-                    is_base: true
-                });
-            }
-            a.related_sources.forEach(s => allSources.push(s));
-
-            let chips = allSources.map((s, idx) => {
+            let chips = a.related_sources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                let badge = s.is_base ? '⭐ ' : '🔗 ';
-                let cls = s.is_base ? 'source-chip-btn is-main' : 'source-chip-btn';
-                return '<button type="button" id="src-btn-' + a.id + '-' + idx + '" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + sName + '</button>';
+                return '<button type="button" class="source-chip-btn" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">🔗 ' + sName + '</button>';
             }).join(' ');
 
-            let panels = allSources.map((s, idx) => {
+            let panels = a.related_sources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                let sText = s.raw_text ? s.raw_text.replace(/
-/g, '<br>') : 'Текст підтягнеться в наступному автооновленні новин.';
-                let sLink = (s.source_url && s.source_url !== '#') ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
-                let timeStr = s.published_at ? '<span class="source-box-time">🕒 ' + s.published_at + '</span>' : '';
-
-                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
-                       '<div class="source-box-header"><div class="source-header-left"><span class="source-box-title">' + (s.is_base ? '⭐ ' : '') + sName + '</span>' + timeStr + '</div>' + sLink + '</div>' +
+                let sText = s.raw_text ? s.raw_text : 'Текст цього джерела не збережено.';
+                let linkHtml = s.source_url ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
+                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box">' +
+                       '<div class="source-box-header"><span class="source-box-title">' + sName + '</span>' + linkHtml + '</div>' +
                        '<div class="source-box-body">' + sText + '</div>' +
                        '</div>';
             }).join('');
 
-            relHtml = '<div class="related-chain-wrap"><div class="related-chain-label">Джерела події (натисніть для перегляду тексту):</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+            relHtml = '<div class="related-chain-wrap"><div class="related-chain-label">Пов\'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
         }
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
         const card = document.createElement('div');
@@ -344,7 +327,7 @@
             '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
             '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
             '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text||a.summary) + '</div>' +
-            ((a.related_sources && a.related_sources.length > 0) ? '' : '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText('' + a.id + '')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>') +
+            '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>' +
             '<div class="card-tags">' + tagsHtml + '</div>' +
           '</div>';
         container.appendChild(card);
