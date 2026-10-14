@@ -358,7 +358,7 @@
           });
           mediaHtml = '<div class="media-gallery gallery-' + count + '">' + items + '</div>';
         }
-                        let hasRel = (a.related_sources && a.related_sources.length > 0);
+                                let hasRel = (a.related_sources && a.related_sources.length > 0);
         let relHtml = "";
         if (hasRel) {
             let allSources = [];
@@ -379,20 +379,23 @@
                 let sName = s.source_name || ("Джерело " + (idx + 1));
                 let badge = s.is_base ? "⭐ " : "🔗 ";
                 let cls = s.is_base ? "source-chip-btn is-main" : "source-chip-btn";
-                return "<button type=\"button\" class=\"" + cls + "\" onclick=\"toggleSourceAccordion('" + a.id + "', " + idx + ", event)\">" + badge + sName + "</button>";
+                return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion('' + a.id + '', ' + idx + ', event)">' + badge + sName + '</button>';
             }).join(" ");
 
-                        let panels = allSources.map(function(s, idx) {
+            let panels = allSources.map(function(s, idx) {
                 let sName = s.source_name || ("Джерело " + (idx + 1));
                 let sText = s.raw_text ? s.raw_text : "Текст цього джерела не збережено.";
-                let sLink = (s.source_url && s.source_url !== "#") ? ("<a href=\"" + s.source_url + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"source-direct-link\">Читати в першоджерелі ↗</a>") : "";
-                return "<div id=\"src-box-" + a.id + "-" + idx + "\" class=\"source-expand-box\" style=\"display:none;\">" +
-                       "<div class=\"source-box-header\"><div style=\"display:flex;align-items:center;\"><span class=\"source-box-title\">" + (s.is_base ? "⭐ " : "") + sName + "</span>" + timeStr + "</div>" + sLink + "</div>" +
-                       "<div class=\"source-box-body\">" + sText + "</div>" +
-                       "</div>";
+                let sLink = (s.source_url && s.source_url !== "#") ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
+                let timeStr = s.published_at ? '<span class="source-box-time">🕒 ' + s.published_at + '</span>' : '';
+                let star = s.is_base ? "⭐ " : "";
+
+                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
+                       '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + sName + '</span>' + timeStr + '</div>' + sLink + '</div>' +
+                       '<div class="source-box-body">' + sText + '</div>' +
+                       '</div>';
             }).join("");
 
-            relHtml = "<div class=\"related-chain-wrap\"><div class=\"related-chain-label\">Пов'язані джерела:</div><div class=\"related-chips-row\">" + chips + "</div>" + panels + "</div>";
+            relHtml = '<div class="related-chain-wrap"><div class="related-chain-label">Пов'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
         }
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
         const card = document.createElement('div');
