@@ -328,7 +328,7 @@
             '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
             '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
             '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text||a.summary) + '</div>' +
-            ((a.related_sources && a.related_sources.length > 0) ? '' : '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>' +)
+            '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>' +
             '<div class="card-tags">' + tagsHtml + '</div>' +
           '</div>';
         container.appendChild(card);
