@@ -78,6 +78,26 @@
     .lightbox img { max-width: 100%; max-height: 95vh; border-radius: 8px; object-fit: contain; }
     .lightbox-close { position: absolute; top: 16px; right: 20px; font-size: 32px; color: #fff; cursor: pointer; background: none; border: none; }
   </style>
+
+<style>
+.sources-chain-wrapper { margin-top: 14px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px; }
+.sources-chain-title { font-size: 0.8rem; color: #9ca3af; margin-bottom: 6px; }
+.sources-chips-container { display: flex; flex-wrap: wrap; gap: 6px; }
+.source-chip {
+  background: #1f2937; color: #60a5fa; border: 1px solid #374151;
+  border-radius: 6px; padding: 4px 8px; font-size: 0.8rem; cursor: pointer; transition: 0.2s;
+}
+.source-chip:hover { background: #374151; color: #93c5fd; }
+.source-accordion-panel {
+  background: #111827; border: 1px solid #374151; border-radius: 8px;
+  padding: 10px; margin-top: 8px; font-size: 0.85rem; color: #e5e7eb;
+}
+.source-panel-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.source-ext-link { color: #f59e0b; text-decoration: none; font-size: 0.8rem; }
+.source-ext-link:hover { text-decoration: underline; }
+.source-panel-body { margin: 0; line-height: 1.4; color: #d1d5db; white-space: pre-wrap; }
+</style>
+
 </head>
 <body>
   <div class="container">
@@ -336,5 +356,46 @@
     async function deleteSource(idx) { currentSources.splice(idx, 1); await saveSources(currentSources); }
     init();
   </script>
+<script>
+function renderSourcesChain(articleId, sources) {
+  if (!sources || !sources.length) return '';
+  
+  let buttons = sources.map((s, idx) => `
+    <button class="source-chip" onclick="toggleSourceText('${articleId}', ${idx}, event)">
+      ${s.name || 'Джерело'}
+    </button>
+  `).join('');
+
+  let panels = sources.map((s, idx) => `
+    <div id="source-detail-${articleId}-${idx}" class="source-accordion-panel" style="display: none;">
+      <div class="source-panel-header">
+        <strong>${s.name || 'Джерело'}</strong>
+        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener noreferrer" class="source-ext-link">Читати в першоджерелі ↗</a>` : ''}
+      </div>
+      <p class="source-panel-body">${s.text || 'Текст від цього джерела відсутній.'}</p>
+    </div>
+  `).join('');
+
+  return `
+    <div class="sources-chain-wrapper">
+      <div class="sources-chain-title">Джерела цієї події:</div>
+      <div class="sources-chips-container">${buttons}</div>
+      <div class="sources-panels-container">${panels}</div>
+    </div>
+  `;
+}
+
+function toggleSourceText(articleId, index, event) {
+  if (event) event.stopPropagation();
+  const panel = document.getElementById(`source-detail-${articleId}-${index}`);
+  if (!panel) return;
+  const isVisible = panel.style.display === 'block';
+  
+  // Приховуємо інші розгорнуті панелі цього запису
+  document.querySelectorAll(`[id^="source-detail-${articleId}-"]`).forEach(el => el.style.display = 'none');
+  
+  panel.style.display = isVisible ? 'none' : 'block';
+}
+</script>
 </body>
 </html>
