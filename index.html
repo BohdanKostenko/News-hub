@@ -125,16 +125,216 @@
       <div style="text-align:right;margin-top:16px;"><button class="tag-btn" onclick="closeSourcesModal()">Закрити</button></div>
     </div>
   </div>
-  
-<script>
-  if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => {
-      navigator.serviceWorker.register("/News-hub/sw.js", { scope: "/News-hub/" })
-        .then(reg => console.log("SW зареєстровано успішно:", reg.scope))
-        .catch(err => console.error("Помилка SW:", err));
-    });
-  }
-</script>
+  <script>
+    if ('serviceWorker' in navigator) { navigator.serviceWorker.register('sw.js'); }
+    let rawData = { digest: [], articles: [] };
+    let currentSources = [];
+    let activeTag = 'all';
+    let dateFilter = 'week';
+    let quickFilter = null;
+    let searchQuery = '';
+    let showOnlyFav = false;
+    let pollInterval = null;
+    let isSpeaking = false;
+    function parseItemDate(s) { return s ? new Date(s) : new Date(); }
+    function formatDateTime(s) {
+      if (!s) return '';
+      const d = parseItemDate(s);
+      return isNaN(d.getTime()) ? '' : d.toLocaleString('uk-UA', { timeZone: 'Europe/Kyiv', day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+    }
+    function calcReadingTime(t) {
+      const w = (t || '').trim().split(/\s+/).length;
+      const sec = Math.max(15, Math.round((w / 160) * 60));
+      return sec < 60 ? ('⏱ ' + sec + ' сек') : ('⏱ ' + Math.round(sec / 60) + ' хв');
+    }
+    function isSameDay(a, b) { return a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate(); }
+    function isEnergyArticle(a) {
+      const t = ((a.title||'') + ' ' + (a.summary||'') + ' ' + (a.tags||[]).join(' ')).toLowerCase();
+      return ['світл', 'енерг', 'відключ', 'графік', 'блекаут', 'обленерго', 'знеструм', 'дтек'].some(k => t.includes(k));
+    }
+    function isKremenArticle(a) {
+      const s = (a.source_name||'').toLowerCase(); const u = (a.source_url||'').toLowerCase(); const t = ((a.title||'') + ' ' + (a.summary||'')).toLowerCase();
+      return s.includes('kremen') || u.includes('kremen') || t.includes('кременчу');
+    }
+    function isWorldArticle(a) {
+      const s = (a.source_name||'').toLowerCase(); const u = (a.source_url||'').toLowerCase(); const c = (a.category||'').toLowerCase();
+      return ['bbc', 'reuters', 'economist', 'aljazeera', 'dw', 'bloomberg', 'apnews'].some(k => s.includes(k) || u.includes(k)) || c === 'світ';
+    }
+    function isUaArticle(a) {
+      const s = (a.source_name||'').toLowerCase(); const u = (a.source_url||'').toLowerCase();
+      return ['suspilne', 'hromadske', 'eurointegration', 'resurgam', 'holosameryky'].some(k => s.includes(k) || u.includes(k));
+    }
+    async function init() {
+      try {
+        const res = await fetch('data.json?t=' + Date.now());
+        const data = await res.json();
+        rawData = Array.isArray(data) ? { digest: [], articles: data } : data;
+        setDateFilter('week'); renderDigest(); renderTags(); renderFeed();
+      } catch (e) {
+        document.getElementById('feed-container').innerHTML = '<p style="text-align:center;color:gray;">Немає новин. Натисніть "Оновити".</p>';
+      }
+    }
+    function renderDigest() {
+      const box = document.getElementById('digest-box'); const list = document.getElementById('digest-list');
+      if (rawData.digest && rawData.digest.length > 0) {
+        box.style.display = 'block'; list.innerHTML = rawData.digest.map(i => '<li>' + i + '</li>').join('');
+      } else { box.style.display = 'none'; }
+    }
+    function toggleTTS() {
+      if (!('speechSynthesis' in window)) { alert('Аудіо не підтримується.'); return; }
+      const btn = document.getElementById('tts-btn');
+      if (isSpeaking) { window.speechSynthesis.cancel(); isSpeaking = false; btn.innerText = '🔊 Слухати'; return; }
+      if (!rawData.digest || !rawData.digest.length) return;
+      const u = new SpeechSynthesisUtterance('Головне коротко: ' + rawData.digest.join('. '));
+      u.lang = 'uk-UA'; u.rate = 1.05;
+      u.onend = () => { isSpeaking = false; btn.innerText = '🔊 Слухати'; };
+      u.onerror = () => { isSpeaking = false; btn.innerText = '🔊 Слухати'; };
+      window.speechSynthesis.speak(u); isSpeaking = true; btn.innerText = '⏹ Зупинити';
+    }
+    function renderTags() {
+      const tags = new Set(); (rawData.articles || []).forEach(a => (a.tags || []).forEach(t => tags.add(t)));
+      const bar = document.getElementById('tag-bar');
+      bar.innerHTML = '<button class="tag-btn active" onclick="filterByTag(\'all\')">Всі</button>';
+      tags.forEach(t => bar.innerHTML += '<button class="tag-btn" onclick="filterByTag(\'' + t + '\')">#' + t + '</button>');
+    }
+    function setDateFilter(f) {
+      dateFilter = f; document.querySelectorAll('.filter-tab').forEach(tab => tab.classList.remove('active'));
+      const cur = document.getElementById('tab-' + f); if (cur) cur.classList.add('active'); renderFeed();
+    }
+    function toggleQuickFilter(type) {
+      quickFilter = (quickFilter === type) ? null : type;
+      ['alert', 'power', 'world', 'ua', 'kremen'].forEach(k => {
+        const b = document.getElementById('q-' + k); if (b) b.classList.toggle('active', quickFilter === k);
+      });
+      renderFeed();
+    }
+    function getBookmarks() { return JSON.parse(localStorage.getItem('fav_news') || '[]'); }
+    function toggleBookmark(id) {
+      let favs = getBookmarks();
+      favs = favs.includes(id) ? favs.filter(i => i !== id) : [...favs, id];
+      localStorage.setItem('fav_news', JSON.stringify(favs)); renderFeed();
+    }
+    function toggleBookmarkedOnly() { showOnlyFav = !showOnlyFav; document.getElementById('fav-filter').classList.toggle('active', showOnlyFav); renderFeed(); }
+    function filterByTag(tag) {
+      activeTag = tag;
+      document.querySelectorAll('#tag-bar .tag-btn').forEach(btn => btn.classList.toggle('active', btn.innerText === (tag === 'all' ? 'Всі' : '#' + tag)));
+      renderFeed();
+    }
+    function handleSearch() { searchQuery = document.getElementById('search-input').value.toLowerCase().trim(); renderFeed(); }
+    function toggleFullText(id) {
+      const el = document.getElementById('full-' + id); const btn = document.getElementById('btn-' + id);
+      const isShow = el.style.display === 'block'; el.style.display = isShow ? 'none' : 'block'; btn.innerText = isShow ? 'Читати повністю ▾' : 'Згорнути ▴';
+    }
+    function openLightbox(u) { document.getElementById('lightbox-img').src = u; document.getElementById('lightbox-modal').style.display = 'flex'; }
+    function closeLightbox() { document.getElementById('lightbox-modal').style.display = 'none'; document.getElementById('lightbox-img').src = ''; }
+    function renderFeed() {
+      const favs = getBookmarks(); const container = document.getElementById('feed-container'); container.innerHTML = '';
+      const now = new Date(); const yesterday = new Date(); yesterday.setDate(now.getDate() - 1);
+      const sorted = (rawData.articles || []).slice().sort((a, b) => parseItemDate(b.published_at) - parseItemDate(a.published_at));
+      const filtered = sorted.filter(a => {
+        if (showOnlyFav && !favs.includes(a.id)) return false;
+        if (activeTag !== 'all' && !(a.tags || []).includes(activeTag)) return false;
+        const pub = parseItemDate(a.published_at);
+        if (dateFilter === 'today' && !isSameDay(pub, now)) return false;
+        if (dateFilter === 'yesterday' && !isSameDay(pub, yesterday)) return false;
+        if (quickFilter === 'alert' && (a.importance || 1) < 4) return false;
+        if (quickFilter === 'power' && !isEnergyArticle(a)) return false;
+        if (quickFilter === 'world' && !isWorldArticle(a)) return false;
+        if (quickFilter === 'ua' && !isUaArticle(a)) return false;
+        if (quickFilter === 'kremen' && !isKremenArticle(a)) return false;
+        if (searchQuery) {
+          const match = ((a.title||'') + ' ' + (a.summary||'') + ' ' + (a.raw_text||'')).toLowerCase();
+          if (!match.includes(searchQuery)) return false;
+        }
+        return true;
+      });
+      if (filtered.length === 0) {
+        container.innerHTML = '<p style="text-align:center;color:gray;padding:20px 0;">Новин за вибраними фільтрами немає</p>'; return;
+      }
+      filtered.forEach(a => {
+        const isFav = favs.includes(a.id); const isUrgent = (a.importance || 1) >= 4;
+        let theme = '';
+        if (quickFilter === 'power' || isEnergyArticle(a)) theme = 'theme-energy';
+        else if (quickFilter === 'world' || isWorldArticle(a)) theme = 'theme-world';
+        else if (quickFilter === 'ua' || isUaArticle(a)) theme = 'theme-ua';
+        else if (quickFilter === 'kremen' || isKremenArticle(a)) theme = 'theme-kremen';
+        else if (isUrgent) theme = 'urgent';
 
+        let rawMedia = a.media_list || []; if (!rawMedia.length && a.media) rawMedia = [a.media];
+        let mediaItems = [];
+        let seenUrls = new Set();
+        rawMedia.forEach(m => {
+          if (m && m.url && !seenUrls.has(m.url)) {
+            seenUrls.add(m.url);
+            mediaItems.push(m);
+          }
+        });
+        let mediaHtml = '';
+        if (mediaItems.length > 0) {
+          const count = Math.min(mediaItems.length, 4);
+          let items = '';
+          mediaItems.forEach(m => {
+            if (m.type === 'image') items += '<img src="' + m.url + '" loading="lazy" onclick="openLightbox(\'' + m.url + '\')">';
+            else if (m.type === 'video') items += '<video src="' + m.url + '" controls></video>';
+          });
+          mediaHtml = '<div class="media-gallery gallery-' + count + '">' + items + '</div>';
+        }
+        let relHtml = '';
+        if (a.related_sources && a.related_sources.length > 0) {
+          relHtml = '<div class="related-box">Про це також повідомили: ' + a.related_sources.map(s => '<a href="' + s.source_url + '" target="_blank">' + s.source_name + '</a>').join(', ') + '</div>';
+        }
+        const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
+        const card = document.createElement('div');
+        card.className = 'card ' + theme;
+        card.innerHTML = mediaHtml +
+          '<div class="card-body">' +
+            '<div class="card-meta"><span>' + a.source_name + ' • ' + (a.category||'Новина') + '</span><button class="bookmark-btn" onclick="toggleBookmark(\'' + a.id + '\')">' + (isFav ? '⭐' : '☆') + '</button></div>' +
+            '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
+            '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
+            '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text||a.summary) + '</div>' +
+            '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>' +
+            '<div class="card-tags">' + tagsHtml + '</div>' +
+          '</div>';
+        container.appendChild(card);
+      });
+    }
+    function startPolling() {
+      const sb = document.getElementById('status-bar'); sb.style.display = 'block'; sb.innerText = '⏳ Збираємо та сортуємо новини...';
+      if (pollInterval) clearInterval(pollInterval);
+      pollInterval = setInterval(async () => {
+        try {
+          const res = await fetch('/api/status'); const d = await res.json();
+          if (!d.updating) { clearInterval(pollInterval); sb.innerText = '✅ Оновлено!'; await init(); setTimeout(() => sb.style.display = 'none', 2000); }
+        } catch (e) { clearInterval(pollInterval); }
+      }, 3000);
+    }
+    async function triggerRefresh() { await fetch('/api/refresh', { method: 'POST' }); startPolling(); }
+    async function openSourcesModal() { document.getElementById('sources-modal').style.display = 'flex'; await loadSourcesList(); }
+    function closeSourcesModal() { document.getElementById('sources-modal').style.display = 'none'; }
+    async function loadSourcesList() {
+      const el = document.getElementById('modal-sources-list');
+      try {
+        const res = await fetch('sources.json?t=' + Date.now()); const d = await res.json();
+        currentSources = d.map(i => typeof i === 'string' ? { url: i } : i);
+        el.innerHTML = currentSources.map((s, idx) => '<div class="source-item"><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:340px;">' + s.url + '</span><button class="del-btn" onclick="deleteSource(' + idx + ')">✕</button></div>').join('');
+      } catch (e) { el.innerHTML = '<p style="color:gray;">Помилка sources.json</p>'; }
+    }
+    async function saveSources(s) {
+      try {
+        const res = await fetch('/api/sources', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(s) });
+        if (res.ok) { await loadSourcesList(); startPolling(); }
+      } catch (e) { alert('Помилка збереження'); }
+    }
+    async function addNewSource() {
+      const input = document.getElementById('new-channel-input'); let val = input.value.trim(); if (!val) return;
+      if (val.includes('t.me/')) {
+        const parts = val.split('t.me/'); let tail = parts[1].replace('s/', '').split('/')[0]; val = 'https://t.me/s/' + tail;
+      } else if (!val.startsWith('http://') && !val.startsWith('https://')) { val = 'https://t.me/s/' + val.replace('@', ''); }
+      if (currentSources.some(s => s.url.toLowerCase() === val.toLowerCase())) { alert('Вже є у списку'); return; }
+      currentSources.push({ url: val, limit: 6 }); await saveSources(currentSources); input.value = '';
+    }
+    async function deleteSource(idx) { currentSources.splice(idx, 1); await saveSources(currentSources); }
+    init();
+  </script>
 </body>
 </html>
