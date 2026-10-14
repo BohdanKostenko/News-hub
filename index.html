@@ -299,39 +299,24 @@
           });
           mediaHtml = '<div class="media-gallery gallery-' + count + '">' + items + '</div>';
         }
-        // Формуємо повний список джерел (головне + супутні)
-        let allSources = [];
-        if (a.source_name) {
-            allSources.push({
-                source_name: a.source_name,
-                source_url: a.source_url || '#',
-                raw_text: a.raw_text || a.summary || ''
-            });
-        }
-        if (a.related_sources && Array.isArray(a.related_sources)) {
-            a.related_sources.forEach(s => allSources.push(s));
-        }
-
         let relHtml = '';
-        if (allSources.length > 1) {
-            let chips = allSources.map((s, idx) => {
+        if (a.related_sources && a.related_sources.length > 0) {
+            let chips = a.related_sources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                let isMain = idx === 0 ? ' ⭐' : '';
-                return '<button type="button" class="source-chip-btn' + (idx === 0 ? ' active' : '') + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">🔗 ' + sName + isMain + '</button>';
+                return '<button type="button" class="source-chip-btn" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">🔗 ' + sName + '</button>';
             }).join(' ');
 
-            let panels = allSources.map((s, idx) => {
+            let panels = a.related_sources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                let sText = s.raw_text ? s.raw_text.replace(/
-/g, '<br>') : 'Текст даного каналу підтягнеться в наступному автооновленні новин.';
-                let linkHtml = s.source_url && s.source_url !== '#' ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
-                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display: ' + (idx === 0 ? 'none' : 'none') + ';">' +
+                let sText = s.raw_text ? s.raw_text : 'Текст цього джерела не збережено.';
+                let linkHtml = s.source_url ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
+                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box">' +
                        '<div class="source-box-header"><span class="source-box-title">' + sName + '</span>' + linkHtml + '</div>' +
                        '<div class="source-box-body">' + sText + '</div>' +
                        '</div>';
             }).join('');
 
-            relHtml = '<div class="related-chain-wrap"><div class="related-chain-label">Джерела новини (натисніть, щоб читати варіант джерела):</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+            relHtml = '<div class="related-chain-wrap"><div class="related-chain-label">Пов\'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
         }
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
         const card = document.createElement('div');
