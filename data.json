@@ -1,44 +1,762 @@
 {
-  "updated_at": "2026-10-14 04:06",
+  "updated_at": "2026-10-14 07:28",
   "digest": [
-    "Київ зазнав ракетних та балістичних ударів, пошкоджено енергооб'єкти столиці, загрозу наразі скасовано.",
-    "В низці регіонів, зокрема у Кременчуцькому районі, оголошували повітряні тривоги через ракетну небезпеку, які наразі вже скасовані.",
-    "Прем'єр-міністр Ефіопії Абій Ахмед розірвав союзницькі відносини з Еритреєю та угрупованням Фано.",
-    "У світі обговорюють арешт співробітника OpenAI через прихований пристрій та новини щодо здоров'я Папи Римського."
+    "Ворожі війська здійснили нічну атаку на всі три ТЕЦ у Києві та критичні об'єкти області.",
+    "ЗСУ в ході операції «Вівальді» звільнили понад 100 км² на Лиманському напрямку.",
+    "Росія завдала масованих ударів по об'єктах Укрзалізниці, що призвело до затримок потягів.",
+    "На Полтавщині від початку року зафіксували 10 випадків небезпечного лептоспірозу.",
+    "The Economist опублікував матеріал про особливості особистого життя управлінських консультантів."
   ],
   "articles": [
     {
-      "id": "truexanewsua_146286",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146286",
-      "published_at": "2026-10-14T03:43:24+00:00",
-      "raw_text": "❗️\nБалістика на Київ\n.\n\n\n\n\nUPD: були вибухи, чисто.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-      "title": "У Києві оголошували балістичну загрозу та лунали вибухи",
-      "summary": "Столицю атакували балістикою, у місті було чутно вибухи. Згодом ситуація стабілізувалася, загрозу скасовано.",
-      "category": "Безпека",
+      "id": "TheEconomistOfficial_27145",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27145",
+      "published_at": "2026-10-14T07:26:05+00:00",
+      "raw_text": "The management consultant’s guide to love and sex \nhttps://t.co/VuPYmlPlfi\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Посібник з кохання та сексу для управлінських консультантів",
+      "summary": "The Economist опублікував матеріали про особливості особистого життя та романтичних стосунків серед менеджмент-консультантів.",
+      "category": "Суспільство",
       "tags": [
+        "суспільство",
+        "стосунки",
+        "кар'єра"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146306",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146306",
+      "published_at": "2026-10-14T07:25:58+00:00",
+      "raw_text": "❗️\n У Києві атаковані всі три міські ТЕЦ вночі. Також рф била по критично важливих обʼєктах у Київській області, \nякі забезпечують живлення столиці й центральних регіонів, – прем'єр Корецький.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "Атака на енергооб'єкти Києва",
+      "summary": "Прем'єр Корецький повідомив про нічну атаку на всі три міські ТЕЦ у Києві. Також удари прийшлися по критично важливих об'єктах у Київській області, що живлять столицю та центральні регіони.",
+      "category": "Енергетика",
+      "tags": [
+        "ТЕЦ",
         "Київ",
-        "вибухи",
-        "балістика",
-        "тривога"
+        "обстріл",
+        "енергетика"
       ],
       "importance": 5,
       "media_list": [],
       "related_sources": [
         {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146285",
-          "raw_text": "🔴\nЗагроза балістики на Київ. «Червона» тривога в столиці та низці областей!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv"
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77427",
+          "raw_text": "РФ завдала ударів по кількох енергооб'єктах Києва, повідомив міський голова Кличко.",
+          "published_at": "2026-10-14T03:15:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_89451",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89451",
+      "published_at": "2026-10-14T07:21:06+00:00",
+      "raw_text": "🪖\n Україна \nзвільнила\n ще понад 100 км² на Лиманському напрямку в межах операції «Вівальді»\n — Білецький.\n\n\n\n\nПротягом четвертого етапу «Вівальді» росіяни втратили ще близько 3000 солдатів. Загалом протягом усієї операції втрати росіян становлять 8000 військових.\n\n\n\n\nЗа словами Білецького, операція, яка розпочалася з ліквідації російської інфільтрації, переросла в стрімкий і масштабний наступ, у результаті якого росіяни почали втрачати контроль над підрозділами і «розпочався справжній хаос»\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "ЗСУ звільнили понад 100 км² на Лиманському напрямку",
+      "summary": "Українські військові звільнили понад 100 квадратних кілометрів на Лиманському напрямку під час операції «Вівальді». За даними Андрія Білецького, загальні втрати росіян за час цієї операції становлять 8000 військових.",
+      "category": "Війна",
+      "tags": [
+        "Лиманський напрямок",
+        "ЗСУ",
+        "наступ",
+        "Втрати ворога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_46507",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46507",
+      "published_at": "2026-10-14T07:20:01+00:00",
+      "raw_text": "⚠️\n 10 випадків лептоспірозу зафіксували на Полтавщині від початку року.\n\n\n \n\n\n4 випадки \nзареєстрували\n у Кременчуцькому районі, ще 6 – у Полтавському.\n\n\n\n\nЦе небезпечна інфекція, якою можна заразитися через контакт із водою або ґрунтом, забрудненими сечею інфікованих тварин. Захворювання може уражати нирки, печінку та інші органи.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "На Полтавщині зафіксували 10 випадків лептоспірозу",
+      "summary": "Від початку року на Полтавщині зареєстрували 10 випадків небезпечної інфекції, зокрема 4 у Кременчуцькому районі. Захворювання передається через контакт із забрудненою водою чи ґрунтом.",
+      "category": "Здоров'я",
+      "tags": [
+        "лептоспіроз",
+        "медицина",
+        "Полтавщина",
+        "Кременчуцький район"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/pd-lGW1nkoVU7ZUU-TeOFaWuQUewWF9_4Vjac1l4kQNzznhOY1V0yxKxtuVsb5-ZDeYhombswDilcObY4Au4Rmnc23izNf910rXPezHZ_XAqW771zcRKRO4toegQkFaLx52Fooke5MN_LZ_Osj0WQ7QpgSc__SfqMu-uXnGrGOQkGH1BQeG3V-t5UEabnNGDtQJB6kl-jmpGydhrTXyXXmpJzKrKqZH_lY1_Pk4q25YjTj-Zw64hWqIJ9YPhyNlrIaCjzfIr3RuBE0N2cN-RqXfM4O6SrtSXdF0UIXwan-ZVry_9we_fOYoZVj7euLcU6V4YUb3Z9uyULg3z5d_d6g.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146303",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146303",
+      "published_at": "2026-10-14T07:20:01+00:00",
+      "raw_text": "❗️\nрф масовано вдарила по об'єктах залізниці на \nХарківщині\n, \nКиївщині\n, \nВінниччині\n, \nХмельниччині\n і \nТернопільщині\n,\n – УЗ. \n\n\n\n\nПостраждалих немає, але матеріальні втрати суттєві. Десятки потягів курсують із затримками. \n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Масований удар рф по залізничній інфраструктурі",
+      "summary": "Війська рф завдали масованих ударів по об'єктах Укрзалізниці у кількох областях, зокрема на Харківщині, Київщині та Вінниччині. Постраждалих немає, проте зафіксовано суттєві матеріальні втрати та затримки потягів.",
+      "category": "Інфраструктура",
+      "tags": [
+        "Укрзалізниця",
+        "обстріл",
+        "транспорт"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/iw2PozHCv0N6ek25tFEYyetMIOsa2RSFNHCVhGoKJaRHG0f4gC8oz3qp1VSQwjIAfafaiZSkW2umY8oAGkmUJrsHbEzNGV8cw-xskBOxghc46oCEr9FeZvfqYh87vfhRYqcbtyNQVH3MAz8lvayvWGAkiQ13WrDh6DlpXkFyqPtlxA5oxBJqY3kPj01F5ubGJ7Atv2AJBklvlmVRtWyCz2xoclHB8bpor3NZAUBan-vwJkjvv5vo_8aMmXm5qyK5OI5SAtanjC4EQBX5NLw_n4u2CkCweLLP6OmlHkwlik-D86A5F3gdhPPa7QuP3gE9gU2m6903s3zClL-L9zJklg.jpg'"
         },
         {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77426",
-          "raw_text": "У Києві лунають вибухи, повідомляють кореспонденти Суспільного."
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/tccMjSGDGMYdyJyFu7diSx8u3TA5AIt9H0N5vv9IqLk-wWhTW9abKV_DvGMYbIlxeNT9KySB41ugHc6qgogvA0DIroijSKs30TRsUFMy0SU16L_lYGF811vRGUqkGmZUE9uoPSyEZ57mds3NuAR7wWXVTUZOzbUya_-0Cn2Y-tnTIpVAsApueLnqWC7yIsHkTc7qqHN66sGAb-7iKSWyasChfrcwkGWFvbam0HzoM4YcI7glu3SDhQWMKfA6ydqBXl0-uv6ibWdmJFZe1t0xGCmEX-41vcifB_ngs04YHSSmuOKeYz6P0qu2VYfeSeEw0-no8u2tAyYxp1JodA9heA.jpg'"
         },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/BXxEdbHSvjfXbilvZw2-hfT3pszX_MHgT2DVzXaBTkJ90B1PeRRLJqqq_uF2jCu_Iv9yi1lFA_YH-qiuMb1BKMfwAGz6QJ6YF_A20D2q92a6caD-I0WqgtMrHI0NTHZK72Phvb2UWRYfReZYXX8XVTyOMe_KbV0PcLrLosiBgUQVpdyP_CTCQrNg0oBtoP8KyvWkNDxBemxf5mF1JX6NN9-E9SGR6HoBBRBkJx9rl4Jc-OMoPUNEghpjTa1mqkYD3HU2WoZ8RjOJUlyupo7TndcgpQSPvTpRexlbN8WnNTBPx2efC3kmIg_iQ3anIjwMG7QQl89lo241qZQGkTXPpQ.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89448",
+          "raw_text": "🇺🇦\n Уночі росіяни \nзапустили\n по Україні 39 балістичних ракет, понад 120 ударних дронів та баражуючих боєприпасів \n— Зеленський.\n\n\n\n\n«Прицільний російський балістичний удар саме по енергетиці, щодо якої Президент Америки визначив припинення вогню. Удар абсолютно свідомий і показовий масштабністю — такої демонстративної неповаги росії до Америки ще не було», — написав президент.\n\n\n\n\nЗа його словами, наразі понад 600 тисяч людей перебувають без електроенергії, але «можуть бути і більші відключення»\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-14T06:09:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TMVYQ7KIP3ID00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/omoto-can-tap-alternative-lng-amid-mideast-disruptions-video",
+      "published_at": "2026-10-14T07:15:33+00:00",
+      "raw_text": "Omoto: Can Tap Alternative LNG Amid Mideast Disruptions\n\nGeopolitics is top of mind at Bloomberg’s New Economy Forum with escalating tensions in the Middle East. One of Japan’s top trading houses explained the impact of the war on their businesses around the world. Masayuki Omoto, President & CEO of Marubeni spoke to Bloomberg’s Shery Ahn on the sidelines of the Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)",
+      "title": "Marubeni розглядає альтернативні постачання ЗПГ на тлі конфлікту на Близькому Сході",
+      "summary": "Президент і генеральний директор Marubeni Масаюкі Омото обговорив вплив війни на Близькому Сході на глобальний бізнес та ринки зрідженого природного газу. Інтерв'ю відбулося на полях форуму Bloomberg New Economy у Нью-Делі.",
+      "category": "Світ",
+      "tags": [
+        "економіка",
+        "енергетика",
+        "близький схід"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_102683",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102683",
+      "published_at": "2026-10-14T07:15:20+00:00",
+      "raw_text": "Дерадянізація по-кременчуцьки: на Соборній замазали радянські медальйони\n\n\n\n\nНа вулиці Соборній, на фасаді будівлі прибрали залишкову радянську символіку.\n\n\n\n\nЛіпні барельєфи-медальйони під самим дахом споруди просто замазали. Раніше на верхній частині фасаду ще можна було розгледіти радянські елементи, однак тепер їх приховали під шаром штукатурки/фарби.\n\n\n\n\nkg.ua\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
+      "title": "У Кременчуці на вулиці Соборній замазали радянські медальйони",
+      "summary": "У рамках дерадянізації на фасаді будівлі по вулиці Соборній прибрали залишкову радянську символіку. Барельєфи-медальйони під дахом споруди замазали штукатуркою та фарбою.",
+      "category": "Місто",
+      "tags": [
+        "декомунізація",
+        "Кременчук",
+        "Соборна"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/ugQfodVzMSTMaFaIfd76RA9ayHI8GEnw2VOvmm4alle24PePNyiFkikc_hN-j_W7Ymvk0NNAcl6Kblto5m9pRwxUeXPeZoJG-k2eLFgOOJrmrmkRWbUNzTi8EFCtnu2WPxJmqFrSby-YW7n2ZT0g1LoJLKN2LayESEdhy134sYuxYk2SW8Ek-ApFJQpeCx8PMgwtVXcyoe-J0ptKRy9wuijw17fhUlKYhsWSk9xLjFUWcG1SgsZPgFchjfke3wIAEYY3J6TYIXUGSvd0DWJPiNC-86yrndlSNH-3hZVQVSkEkPcJZ9YuqTidVT_EYt9ockW_l5r3G3oV5nz3Kiop_w.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/YmtmRfdlAkL4C2tyzy5LUlaoY1RquN77_cPqfPYK7alFVYEaXqLEguNpQvczduquYF5dMtY0vz5TGs__m5JtzQonxki6_dqAN-bDOJ2z3y62S2_d_yUZwPBmVD-OYz_-qAAeY_cxJFlBPECv4VZLLRd4RxYvBuTuWOxPBRllwBQWmYR4r31_V7rFLf5F5HOTTfh25wvacYCIRsAKFq2DeqPZ9CHBfJkEfvUDD_dTyRF0UHmBVDE-OS66s-RDqWA3FNYD1Y0FMDW8U_xoQxjCVYvmaxJdFr1mlIlTmVXiqODyvH1BbcUd7S5gd5Ayyg8EoTpTAqLLUgkpu0LXHyaxfw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/RTNO4tIbHNWoDMt6j_j-Z2V3PLzT-bLcoL5QHdC3KMxfxfUQ0tgkCLIV8FhTmzk5mgNe_fepR7VlxQLVBFYiIPbMCzDPb4maEH6HKdNgndRRs4zU4ntyyxkg9OI7TTWTIZyFDW5BxJuDSZ-dOSBh8pHV9CwMfoeTm4cmjnutQF-Hom0kERx_BWb4Qx5FiXiafQV0stIgojPRNinTyNn-5lVDqLixvyuPuLgCNCWCjo5tOQWUDwHDbEadQa-dRLTfew5D-A7d8-Tm8WB7rZ_ovzAYcT3KeqWPeUCwv_Suj8NJlAKdcocHp92ULS9beZdaAEzGmTTghuG9JKBpqKzTXA.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77445",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77445",
+      "published_at": "2026-10-14T07:08:04+00:00",
+      "raw_text": "Київ ― повітряна тривога через дронову загрозу.",
+      "title": "У Києві оголошено повітряну тривогу через загрозу дронів",
+      "summary": "У столиці України оголошено повітряну тривогу. Причиною загрози є рух ударних безпілотників.",
+      "category": "Місто",
+      "tags": [
+        "Київ",
+        "Тривога",
+        "Дрони",
+        "Безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13544",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-14T06:12:05+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13543",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-14T04:35:13+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146286",
+          "raw_text": "❗️\nБалістика на Київ\n.\n\n\n\n\nUPD: були вибухи, чисто.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+          "published_at": "2026-10-14T03:43:24+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102672",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+          "published_at": "2026-10-14T00:33:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_146302",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146302",
+      "published_at": "2026-10-14T07:07:39+00:00",
+      "raw_text": "🟡\n Знову дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+      "title": "Дронова загроза у Києві та областях",
+      "summary": "У Києві та низці регіонів оголошено «жовту» тривогу через загрозу ворожих безпілотників. Жителів закликають стежити за оновленнями ситуації.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "дрони",
+        "Київ"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102681",
+          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
+          "published_at": "2026-10-14T06:53:04+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146260",
+          "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+          "published_at": "2026-10-13T22:40:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TMVYFTKIJH9D00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-14/imf-says-the-uk-must-explain-spending-cuts-needed-to-fund-defence",
+      "published_at": "2026-10-14T07:07:05+00:00",
+      "raw_text": "IMF Says The UK Must Explain Spending Cuts Needed To Fund Defence\n\nIMF weighs in on UK defence spending; Burnham hosts Zelenskyy",
+      "title": "МВФ закликає Велику Британію пояснити скорочення витрат на оборону",
+      "summary": "Міжнародний валютний фонд висловився щодо британських витрат на оборону. Тим часом мер Манчестера Енді Бернем приймає президента України Володимира Зеленського.",
+      "category": "Світ",
+      "tags": [
+        "мвф",
+        "велика британія",
+        "оборона"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13546",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13546",
+      "published_at": "2026-10-14T07:05:26+00:00",
+      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У Кременчуцькому районі пролунав відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "Кременчуцький район"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/58917",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-14T07:05:25+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102682",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-14T07:05:25+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13542",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-14T04:33:10+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13540",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-14T03:35:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27144",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27144",
+      "published_at": "2026-10-14T07:02:17+00:00",
+      "raw_text": "Gone are the days when fashionistas worth their Vogue subscription wore Lululemon leggings for the coffee run, school run or just to run. Hotter rivals are gaining ground \nhttps://t.co/naM12OBjTe\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Конкуренція на ринку легінсів",
+      "summary": "Бренд Lululemon втрачає колишні позиції серед модників через появу нових сильніших конкурентів. Про це пише видання The Economist.",
+      "category": "Суспільство",
+      "tags": [
+        "мода",
+        "бізнес",
+        "тренди"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "ok_kremen_58916",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/58916",
+      "published_at": "2026-10-14T06:55:12+00:00",
+      "raw_text": "❗️\nСьогодні, 14 жовтня, в одній з громад Кременчуцького району відбудеться контрольований технічний вибух. \n\n\n\n\nЯкщо у зазначений час буде оголошено повітряну тривогу, вибух буде перенесено на час після закінчення тривоги або інші дати.\n\n\n\n\nЗберігайте спокій та повідомте своїх близьких про це.",
+      "title": "Контрольований технічний вибух у Кременчуцькому районі",
+      "summary": "Сьогодні, 14 жовтня, в одній з громад Кременчуцького району пройде контрольований технічний вибух. У разі повітряної тривоги проведення робіт буде відкладено.",
+      "category": "Безпека",
+      "tags": [
+        "вибух",
+        "Кременчуцький район",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
         {
           "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/46488",
-          "raw_text": "БР на Кременчук\n.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину"
+          "source_url": "https://t.me/kremenchugtruexa/46503",
+          "raw_text": "Реактивні БпЛА у Кременчуцькому районі.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
+          "published_at": "2026-10-14T06:39:51+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13545",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-14T06:34:25+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102680",
+          "raw_text": "🔴\n \nКременчуцький р-н\n\n\nРівень підвищено до червоного\n\n\nРакетна загроза",
+          "published_at": "2026-10-14T06:34:13+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13541",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-14T03:40:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_89450",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89450",
+      "published_at": "2026-10-14T06:51:01+00:00",
+      "raw_text": "✉️\nЮщенко \nнаписав\n відкритого листа Трампу.\n\n\n\n\nВін закликав президента США подивитися на те, як щоночі росіяни атакують Україну. Ющенко зазначив, що варто було Трампу заговорити про можливість домовленостей з путіним, як кремль одразу ж «подякував за це черговими кривавими ударами».\n\n\n\n\n«​І на цьому тлі виглядає дико й боляче, коли лунають заклики до України “зупинитися”, повчання, кого нам обирати й як жити, або коли дається зелене світло на торгівлю російським дизелем. Кожен долар від цього дизелю — це куплена ракета, яка завтра прилетить у наші хати», — пише Ющенко.\n\n\n\n\nПро що ще йдеться в листі — \nчитайте\n на сайті\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Ющенко написав відкритого листа до Трампа",
+      "summary": "Третій президент України Віктор Ющенко звернувся до Дональда Трампа з відкритим листом. Він закликав звернути увагу на нічні російські атаки та критикує заклики до України «зупинитися» або торгувати з РФ.",
+      "category": "Політика",
+      "tags": [
+        "Ющенко",
+        "Трамп",
+        "політика",
+        "США"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/ZeJbE0RNYHknqQgPmd92Hr5hncb4_qRW42iN_HvvZi-_YiKLVo10LMT-sIJwPlSLlYn9vaCC3RPuYLQ4S8r2xcT6vEgNKi42sv6IuCnn9XOHOyYi4HJyHwnk_328ANEfewNsBIx5NPEr0aN0YbpAv1a115tNHE_AgRD8I9hpTHxjXMi200_0NH3vIthy_ie92Rp9DN03g9GIbv3tcac8oC6bPnYzXFZGph_kOgV74FZcjPzTwB9nf2vh5GrCjKLv7UREVRI2W6mImqJ_AoncTuLhH0Q6W9t_0EO2Ql6H1Y_B8vXSq-QfYy6dTb3f6_xtmpUVxLf1v0ejGxBdVBtXuQ.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "EurointegrationComUA_23377",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23377",
+      "published_at": "2026-10-14T06:42:50+00:00",
+      "raw_text": "​\nЗ 24 до 26 вересня в німецькому Гамбурзі відбулися навчання Red Storm Charlie. Бундесвер, поліція та цивільні організації перевіряли готовність до спільних дій у надзвичайній ситуації. \n\n\n\n\nНавчання проводилися відповідно до секретного плану оборони Німеччини, який визначає дії Бундесверу в разі можливого нападу Росії на НАТО.\n\n\n\n\nЧи готова Німеччина до оборони та що досі залишається головною проблемою - \nчитайте в матеріалі DW\n.\n\n\n\n\n🟡\n \nПідписуйтеся на DW Україна",
+      "title": "У Німеччині пройшли військові навчання Red Storm Charlie",
+      "summary": "У Гамбурзі Бундесвер, поліція та цивільні служби провели спільні навчання для перевірки готовності до надзвичайних ситуацій. Заходи відбулися відповідно до секретного плану оборони на випадок можливого нападу РФ на НАТО.",
+      "category": "Світ",
+      "tags": [
+        "Німеччина",
+        "Бундесвер",
+        "навчання",
+        "НАТО",
+        "безпека"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146301",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146301",
+      "published_at": "2026-10-14T06:42:06+00:00",
+      "raw_text": "❗️\nПопередження про балістику від партнерів не було. Військові та служби з'ясовують, – радник Зеленського Литвин.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+      "title": "Заява щодо відсутності попередження про балістику",
+      "summary": "Радник Зеленського Литвин повідомив, що попередження про балістичний удар від партнерів не надходило. Військові та відповідні служби наразі з'ясовують обставини.",
+      "category": "Безпека",
+      "tags": [
+        "балістика",
+        "ЗСУ",
+        "попередження"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146300",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146300",
+      "published_at": "2026-10-14T06:33:25+00:00",
+      "raw_text": "❗️\nОбмеження швидкості Starlink без попередження: наразі це стосується «військового пакету» послуг StarShield, зараз доступна швидкість 100 миль на годину, – радник Зеленського Сергій «Флеш».  Наші джерела підтвердили інформацію, але додали, що встановлених…",
+      "title": "Обмеження швидкості Starlink для військових",
+      "summary": "Зафіксовано обмеження швидкості супутникового зв'язку Starlink у межах «військового пакету» StarShield без попередження. Інформацію підтвердили джерела та радник президента Сергій «Флеш».",
+      "category": "Технології",
+      "tags": [
+        "Starlink",
+        "зв'язок",
+        "технології",
+        "ЗСУ"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77444",
+          "raw_text": "Радник президента з питань розвитку технологічних напрямів оборони Бескрестнов \nпідтвердив\n, що вночі компанія SpaceX запровадила обмеження швидкості роботи терміналів Starlink під час руху. За його словами, обмеження стосуються «військового пакету» послуг StarShield і встановлено на швидкість 100 миль на годину.\n\n\n\n\n«Наші сили оборони не отримували попередження про таке обмеження, і це призвело до зриву низки місій. Очевидно, що ця дія не може бути збігом і пов’язана з поточною політичною ситуацією», — прокоментував Флеш.",
+          "published_at": "2026-10-14T06:15:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_89449",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89449",
+      "published_at": "2026-10-14T06:29:01+00:00",
+      "raw_text": "📡\n Компанія SpaceX могла \nобмежити\n швидкість роботи терміналів супутникового зв’язку Starlink в Україні, які використовують військові на фронті. \n\n\n\n\nПро це повідомили волонтер Сергій Стерненко і радник президента України з технологічних питань Сергій Бескрестнов (Флеш).\n\n\n\n\n«Наші сили оборони не отримували попередження про таке обмеження, і це призвело до зриву низки місій. Очевидно, що ця дія не може бути збігом і пов’язана з поточною політичною ситуацією», — написав Флеш\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "SpaceX могла обмежити роботу Starlink для ЗСУ",
+      "summary": "Компанія SpaceX могла обмежити швидкість роботи терміналів Starlink на фронті в Україні. За словами волонтерів та експертів, сили оборони не отримували попереджень, що призвело до зриву низки місій.",
+      "category": "Технології",
+      "tags": [
+        "Starlink",
+        "SpaceX",
+        "ЗСУ",
+        "технології"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27143",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27143",
+      "published_at": "2026-10-14T06:26:22+00:00",
+      "raw_text": "Our tracker of Spain’s election suggests the country could move to the right in November. Pedro Sánchez, the great survivor of Spanish politics, will probably narrow the gap—but he is unlikely to close it \nhttps://t.co/1XWjEVLbm1\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Прогнози перед виборами в Іспанії",
+      "summary": "Виборчий трекер прогнозує можливий зсув Іспанії вправо за результатами листопада. Прем'єр-міністр Педро Санчес намагається скоротити відставання, проте його шанси на перемогу оцінюються як невисокі.",
+      "category": "Світ",
+      "tags": [
+        "Іспанія",
+        "вибори",
+        "політика"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_46502",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46502",
+      "published_at": "2026-10-14T06:21:27+00:00",
+      "raw_text": "❗️\nРеактивні БпЛА на Горішні Плавні/Кременчук.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
+      "title": "Загроза ударних БпЛА на Полтавщині",
+      "summary": "У Кременчуцькому районі та на Горішніх Плавнях зафіксовано реактивні БпЛА. Мешканців закликають дотримуватися безпеки.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "Кременчук",
+        "Горішні Плавні",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146299",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146299",
+      "published_at": "2026-10-14T06:13:06+00:00",
+      "raw_text": "❗️\nСША попередили Україну, що можуть припинити передачу розвідданих через удари по російських НПЗ, \n– Зеленський.\n\n\n\n\nВодночас він наголосив: \nнаразі США не припинили обмін \nрозвідданими. Інші тези інтерв’ю:\n\n\n▪️\nГоловною \nпричиною зростання цін на енергоносії є війна на Близькому Сході \nта блокування Ормузької протоки;\n\n\n▪️\nНаша головна мета зараз – якнайшвидше завершити війну;\n\n\n▪️\nУкраїна хоче лишатися стратегічним партнером США\n та готова ділитися власними оборонними технологіями.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Заява Зеленського про можливе припинення передачі розвідданих США",
+      "summary": "Президент Володимир Зеленський повідомив, що США попереджали про можливе припинення передачі розвідданих через удари по російських НПЗ, проте наразі обмін триває. Також він окреслив ключові тези щодо війни та партнерства зі США.",
+      "category": "Політика",
+      "tags": [
+        "Зеленський",
+        "США",
+        "розвідка",
+        "НПЗ"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/9c66af7180.mp4?token=lICpELAj8Y0c2XcyWtzRI8ztQRAnXQ9bmdZroCFdF5rp9wt5H3ReKUh9pOel48LFHcSjhUX7NpJz7P_Raro85VZVm_kwU5Il8zvbkWIrhWpmKtQZ437MBtS6JSfViQcKmB8SYUKPgv3Zb_TtzytV_0TlPAVDRSNuErGTpPm3HEYif1gtHUyM5CLyl9Ps3f45843fCZwd2_n5JDNz4-Okp5MysOs4BaPu9qUJYfPUVFmId1wRVhS1VFE6cOlVpE3OlV6UIllBb8FdIBuGwlwk1Ct0m-QUO4NRhWflwG-RHMQ_nutJ--3arL-EOq_Hg8ftHQ3aDZw-N1bMjqtwbFUWGw"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27142",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27142",
+      "published_at": "2026-10-14T06:06:24+00:00",
+      "raw_text": "Thousands of Russians have left the country, fearing that the country’s sham parliamentary elections could pave the way for a new wave of military mobilisation \nhttps://t.co/BDk9bywBJlPhoto\n: IMAGO/ITAR-TASS \nhttps://t.co/agOPvLk0ts\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Від'їзд росіян через побоювання мобілізації",
+      "summary": "Тисячі росіян покинули країну через побоювання нової хвилі військової мобілізації на тлі парламентських виборів. Про це повідомляє The Economist.",
+      "category": "Світ",
+      "tags": [
+        "Росія",
+        "мобілізація",
+        "еміграція"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77443",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77443",
+      "published_at": "2026-10-14T06:06:14+00:00",
+      "raw_text": "Уночі армія РФ \nатакувала\n Україну 39 балістичними ракетами та понад 120 ударними дронами, повідомив президент Зеленський. Він зазначив, що удар був по енергетичній інфраструктурі ― щонайменше 600 тисяч людей залишаються без електрики. Є пошкодження обʼєктів та обладнання на 26 елементах  електроенергетичного комплексу і на чотирьох об’єктах нафтогазового комплексу.\n\n\n\n\nУ Повітряних силах підтвердили атаку 39 протикорабельними ракетами та 128 ударними БпЛА. Протиповітряна оборона знищила чотири балістичні ракети та 115 безпілотників. \n\n\n\n\nІнфографіка: Повітряні сили",
+      "title": "Масована атака на енергосистему України",
+      "summary": "Армія РФ атакувала Україну ракетами та дронами, пошкодивши об'єкти енергетики та нафтогазового комплексу. Понад 600 тисяч людей залишилися без світла, ППО збила частину цілей.",
+      "category": "Війна",
+      "tags": [
+        "обстріл",
+        "енергетика",
+        "ППО"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/Fh1bQwau3ZmXUg1wAvpaL8TRR5CnF5bNoBHLIvpPBggzScAjMnH46egjnFdPg9JyXDxIab7bRVfMitOgvxVMLycM2139VnMmUQ0vJA6oU4q6anAhnNdKfRVNsEsdA8l8iIiZuEf3dz8V03zUmdUgJy-687wlzaIeYB5h5jrP9L4_SKqMxR3GM1b4Fg3JMS43TwM_mNNrwZYX4KCCy35sFdJxiYTEKhONUcQMdZdd7MUNDqgIWI9ymEY2CAVNc5Ymty9kygtDpxWCXy_eCTzl7ExXt_Dd8iRxsLfrQmMeOHB37U_l4QXYPZEmEuL4I3OidxvOcMne5Z_90HWiR5gJRA.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146254",
+          "raw_text": "🔥\n+/- 500 БпЛА летять атакувати рф та об'єкти на т.о. території.  «Яндекс», спиш?  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+          "published_at": "2026-10-13T21:08:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27141",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27141",
+      "published_at": "2026-10-14T05:46:31+00:00",
+      "raw_text": "Binyamin Netanyahu is campaigning on the issue where he is arguably most damaged: security. Register to read how he is once again casting himself as Israel’s indispensable protector \nhttps://t.co/YRR9iRlRUb\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Беньямін Нетаньягу будує виборчу кампанію на питанні безпеки",
+      "summary": "Прем'єр-міністр Ізраїлю Беньямін Нетаньягу використовує тему безпеки у своїй передвиборчій кампанії. Він намагається знову позиціонувати себе як незамінного захисника країни попри наявні репутаційні втрати.",
+      "category": "Світ",
+      "tags": [
+        "Ізраїль",
+        "Нетаньягу",
+        "вибори",
+        "безпека"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89447",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89447",
+      "published_at": "2026-10-14T05:41:09+00:00",
+      "raw_text": "😔\n Папа Римський Лев XIV переніс операцію на легені, після якої в нього \nдіагностували\n один із підвидів раку.\n\n\n\n\nНижню частку правої легені видалили під час 90-хвилинної операції.  Досліджений зразок тканини підтвердив діагноз — аденокарциному легені.\n\n\n\n\nОчікується, що понтифік пробуде в лікарні близько тижня, тому всі його зустрічі до 20 жовтня скасували\n\n\n\n\n \n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Понтифіку діагностували рак легені після операції",
+      "summary": "Під час операції на легені Папі Римському видалили нижню частку правого органу, після чого гістологія підтвердила аденокарциному. Понтифік пробуде в лікарні близько тижня, його зустрічі скасовано до 20 жовтня.",
+      "category": "Світ",
+      "tags": [
+        "Ватикан",
+        "Здоров'я",
+        "Папа Римський"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/Yon0Cet-PP8YBwWHxleej8cGUzDFgayZuO3RdvK9QKlibKomOrf_DzsUzVrHD-haDzOpCIPNoznw-1KA3ff5TuY0gmxvCqtniS6lZr359dLkc53sUhmvstoZD4qNMdk7rt3TYoGhIqa9BYuZJkydokjvNqwHHIiTbOGhtfgbRYzncAuUDqNanLVE5xSnEdTEeIoy-1hbTnaIQZjKuBiMmqHe5YdvPFolxLdOnWXGSt2Gd6rfg061G13AJFeSuNbLtLppwDKY_Bp9b26IU5_NziZ7KxQ4t4SCkIcCwO39Ylx4mJel38aEUS_p9jzToTCNpDLAKAPwKExGCa-NWJS-mw.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77442",
+          "raw_text": "Папі Римському Леву XIV під час операції \nпідтвердили\n діагноз аденокарциноми легені — однієї з форм раку. Про це повідомили в пресслужбі Святого Престолу.\n\n\n\n\nЗазначається, що Лев XIV перебував в операційній близько трьох годин, а сама операція тривала близько 90 хвилин. Процедура пройшла успішно і без жодних ускладнень.",
+          "published_at": "2026-10-14T05:21:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TMVSRFKK3NYB00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/galderma-expands-in-us-skincare-with-1-5-billion-purchase-of-zo",
+      "published_at": "2026-10-14T05:33:06+00:00",
+      "raw_text": "Blackstone Sells ZO Skin Health to Galderma for $1.5 Billion\n\nGalderma Group AG agreed to buy ZO Skin Health Inc. for an enterprise value of $1.5 billion in an all-cash deal that expands the Swiss dermatology company’s physician-dispensed skincare portfolio in the US.",
+      "title": "Blackstone продає ZO Skin Health компанії Galderma за $1,5 млрд",
+      "summary": "Galderma Group AG погодилася придбати ZO Skin Health Inc. за 1,5 мільярда доларів готівкою. Ця угода розширює портфель дерматологічної продукції швейцарської компанії в США.",
+      "category": "Бізнес",
+      "tags": [
+        "Blackstone",
+        "Galderma",
+        "угода",
+        "бізнес"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27140",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27140",
+      "published_at": "2026-10-14T05:21:37+00:00",
+      "raw_text": "China’s government is counting on a couple of things regarding its new taxation drive. The rich do not have anywhere to run—while most of the population will remain untouched \nhttps://t.co/6zCLBMGY30\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Нова податкова політика Китаю щодо багатих людей",
+      "summary": "Уряд Китаю розраховує на нову податкову ініціативу, яка зачепить заможних громадян, тоді як більшість населення залишиться поза її дією. Багаті люди не мають можливості уникнути нових податків.",
+      "category": "Економіка",
+      "tags": [
+        "Китай",
+        "податки",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "holosameryky_22299",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22299",
+      "published_at": "2026-10-14T05:01:28+00:00",
+      "raw_text": "Український письменник Андрій Курков у\nвійшов до короткого списку премії PEN–Inge Feltrinelli 2026 \"Письмо як опір\".\n\n\n\n\nПро це 13 жовтня повідомили міжнародний письменницький клуб PEN International та італійське видавництво Feltrinelli, які спільно заснували цю нагороду, що відзначає \nавторів, які використовують літературу для протидії репресіям та захисту культурної ідентичності.\n\n\n\n\n📌\n \nЧитайте тут \n➡️\n \nhttps://www.holosameryky.com/a/8210918.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Андрій Курков увійшов до короткого списку премії PEN–Inge Feltrinelli 2026",
+      "summary": "Український письменник Андрій Курков потрапив до шорт-листа міжнародної премії \"Письмо як опір\". Нагорода відзначає авторів, які використовують літературу для протидії репресіям.",
+      "category": "Культура",
+      "tags": [
+        "література",
+        "премія",
+        "андрій курков"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cqpvgyz30zepo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T05:01:07+00:00",
+      "raw_text": "One stolen every four minutes - inside the police battle against vehicle thieves\n\nOfficers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+      "title": "Британська поліція бореться зі зростанням викрадень автомобілів",
+      "summary": "Поліцейські у Великій Британії повідомляють про перевантаженість через масові викрадення автомобілів. Злочинці стають дедалі технологічнішими, а правоохоронці ледве встигають реагувати.",
+      "category": "Світ",
+      "tags": [
+        "Велика Британія",
+        "поліція",
+        "злочинність",
+        "автомобілі"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_uk_news_videos_cw4g195p3g23o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T05:00:37+00:00",
+      "raw_text": "Watch: BBC joins police on front line against car theft\n\nInvestigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+      "title": "BBC разом з поліцією протидіє викраденню автомобілів",
+      "summary": "Журналіст-розслідувач долучився до нічного рейду правоохоронців. Операція спрямована на затримання автомобільних злодіїв.",
+      "category": "Світ",
+      "tags": [
+        "поліція",
+        "злочинність",
+        "BBC"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77441",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77441",
+      "published_at": "2026-10-14T04:58:09+00:00",
+      "raw_text": "Київ — повітряна тривога через дронову загрозу.",
+      "title": "Повітряна тривога в Києві",
+      "summary": "У Києві оголошено повітряну тривогу через загрозу ворожих дронів. Мешканців закликають залишатися в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "дрони"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102674",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
+          "published_at": "2026-10-14T03:40:34+00:00"
         }
       ]
     },
@@ -63,106 +781,6 @@
           "source_name": "@ok_kremen",
           "source_url": "https://t.me/ok_kremen/58897",
           "raw_text": "Загроза балістики"
-        }
-      ]
-    },
-    {
-      "id": "sirena_kremenchuk_13541",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13541",
-      "published_at": "2026-10-14T03:40:54+00:00",
-      "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-      "title": "Ракетна небезпека у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу через загрозу ракетного удару. Червоний рівень небезпеки вимагає негайного перебування в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "ракетна загроза",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/58903",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146284",
-          "raw_text": "❗️\n Балістика на Київ.\n\n\n\n\nUPD: \nчисто."
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13539",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13537",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)"
-        }
-      ]
-    },
-    {
-      "id": "h_kremenchug_102674",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102674",
-      "published_at": "2026-10-14T03:40:34+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
-      "title": "Повітряна тривога: ракетна загроза",
-      "summary": "У місті та області оголошено повітряну тривогу через ракетну загрозу. Жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "ракетна загроза"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146272",
-          "raw_text": "❗️\nЦиркон на Київщину повз Полтаву."
-        }
-      ]
-    },
-    {
-      "id": "sirena_kremenchuk_13540",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13540",
-      "published_at": "2026-10-14T03:35:04+00:00",
-      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-      "title": "Відбій повітряної тривоги",
-      "summary": "У Кременчуцькому районі офіційно завершено повітряну тривогу. Можна залишати укриття.",
-      "category": "Безпека",
-      "tags": [
-        "відбій",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/58902",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102673",
-          "raw_text": "🟢\n Відбій повітряної тривоги!"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13538",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102671",
-          "raw_text": "🟢\n Відбій повітряної тривоги!"
         }
       ]
     },
@@ -207,25 +825,6 @@
           "raw_text": "Williams: No Hike in 2027, Pope Leo Found to Have Lung Cancer\n\nSource: Bloomberg, 0:00"
         }
       ]
-    },
-    {
-      "id": "suspilnenews_77427",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77427",
-      "published_at": "2026-10-14T03:15:32+00:00",
-      "raw_text": "РФ завдала ударів по кількох енергооб'єктах Києва, повідомив міський голова Кличко.",
-      "title": "Удари по енергооб'єктах Києва",
-      "summary": "Російські війська завдали ударів по кількох енергетичних об'єктах столиці. Про це повідомив міський голова Віталій Кличко.",
-      "category": "Надзвичайні ситуації",
-      "tags": [
-        "обстріл",
-        "Кличко",
-        "енергетика",
-        "Київ"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
     },
     {
       "id": "rss_TMVI2ARKV2UC00",
@@ -739,6 +1338,25 @@
       "related_sources": []
     },
     {
+      "id": "rss_TMVFPJKK3NYF00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/world-s-top-copper-mine-faces-strike-as-wage-talks-break-down",
+      "published_at": "2026-10-14T01:05:52+00:00",
+      "raw_text": "BHP, Union Make Bid to Avert Strike at Top Chile Copper Mine\n\nA union representing more than 1,000 workers at Escondida in Chile said it’s holding wage talks with operator BHP Group in a last-ditch effort to avert a strike at the world’s biggest copper mine.",
+      "title": "BHP та профспілка намагаються уникнути страйку на шахті в Чилі",
+      "summary": "Профспілка шахти Escondida проводить переговори з оператором BHP Group. Сторони намагаються досягти згоди щодо зарплат, щоб запобігти страйку на найбільшому мідному родовищі світу.",
+      "category": "Економіка",
+      "tags": [
+        "BHP",
+        "страйк",
+        "Чилі",
+        "видобуток"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "rss_TMVF2UKK3NYA00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/ossoff-pledges-he-won-t-run-for-president-despite-strong-polling",
@@ -832,24 +1450,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_102672",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102672",
-      "published_at": "2026-10-14T00:33:21+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-      "title": "Оголошено повітряну тривогу",
-      "summary": "У місті оголошено повітряну тривогу через загрозу ворожих безпілотників. Встановлено жовтий рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "дрони",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "TheEconomistOfficial_27125",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/27125",
@@ -920,7 +1520,14 @@
       ],
       "importance": 3,
       "media_list": [],
-      "related_sources": []
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-13/boe-s-bailey-says-getting-harder-to-avoid-inflationary-impact",
+          "raw_text": "BOE Hawk Pill Skeptical of Market Pricing Four UK Rate Hikes\n\nOne of the Bank of England’s most hawkish officials cast doubt on market pricing that suggests the UK central bank will hike interest rates four times by next summer.",
+          "published_at": "2026-10-13T20:42:10+00:00"
+        }
+      ]
     },
     {
       "id": "TheEconomistOfficial_27122",
@@ -956,24 +1563,6 @@
         "вибори"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_146260",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146260",
-      "published_at": "2026-10-13T22:40:45+00:00",
-      "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-      "title": "Дронова загроза у Києві та низці областей",
-      "summary": "У Києві та кількох областях оголошено дронову загрозу («жовту» тривогу). Мешканців закликають слідкувати за оновленням ситуації.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "дрони",
-        "Київ"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
@@ -1299,37 +1888,6 @@
           "source_url": "https://t.me/EurointegrationComUA/23369"
         }
       ]
-    },
-    {
-      "id": "truexanewsua_146254",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146254",
-      "published_at": "2026-10-13T21:08:38+00:00",
-      "raw_text": "🔥\n+/- 500 БпЛА летять атакувати рф та об'єкти на т.о. території.  «Яндекс», спиш?  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
-      "title": "Масована атака безпілотників",
-      "summary": "Зафіксовано масовий запуск приблизно 500 безпілотників для атаки на об'єкти на території рф та тимчасово окупованих територіях. Деталі уточнюються.",
-      "category": "Війна",
-      "tags": [
-        "БпЛА",
-        "атака",
-        "рф"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/SepPDhft3N2uMtK4gji92WGwbdN1nhMTgrj1y2MkeuF3NBNRuP5toSebe44VeGSt6_7p3bkEpnhr70vgRNwSexKCn_fQ4hNM-eD31b6wW2PbN8hboL6IDYEDEiPyEy1sDRuKep2_Lgrj8d4bA4yItad3x7APVafEY0wMhsG0Ep1h4_rGQpCzxIASXJkaw9jNeFOKUycMthBv-FFlyOQbgpGVwcGazDQ8mtMJ9tLa4rr7N5eIRLhGBRzoCYife2b-xCLwKVEicB-LIroWv3ktdez2NUJrnGwpxLZ2FesrG7XKyZ9ULjK3ZamcG92ZJqlGQnxB4GIu7mOjkM332c6Hqg.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/03b9ac9528.mp4?token=K8pRUp6dAukebjCH0afDlkAk0bBBBIWRkDfBesksRjrRek-ep3j-zaR0vrUtInqfyim-HZwxndNYR4ArrJbnCOCgjnGmE-O4zN10m_JUc1oyo2729LWB9SA4V_G_xUMvVZsF7E4FM420ORsPhUvuuLoLh4_dALua2V26vEqShrVDH0KbQPqnwpjPZ2qKI-vSQzdawGj8qhFdSpW41A1G-LzVx3F5ZjVLBlPc7cAvL9bwWAcAwQjzIVZsEQDjxxoMAn4epnushi5BAs78Qnzjgx2ggeQHz6PONkDVUg5S1JjHClv-gVTdEc0CZvfLTHjWFRD2NrwbMYA80hyqr9GmjA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/1b3c408e61.mp4?token=Om2uqvxRdfOcL8uaPPowsNPrxE-XbFiQqEf3zSqss92zDVrOIhyjDDCZDcWe1Cks29HqD61V-QhdAqVV1kDIJ2Y7Hiyd074_CdxJ61RUaRws-oDpo7yF6sGhfyq7OEneAhFK7wdmeRITr59ely3dU6kfOX8lnUPq1CkNgxAavgfGoYD_7EJnEgo0IG5pEjWh6dLvJHDFJXf7tmctO9mhMjpfz3hPs3F_KyUfDtbdIwYLJs_JrUcTaCHOV1qLy-cpX_33QIDmOpo97xzK4RwPFE1aBxYwzJN3ef3fk7ijfix4U7z-kNQG5nbjglA5FLPKLb0t-RmhtxlqDy4I6AQzSQ"
-        }
-      ],
-      "related_sources": []
     },
     {
       "id": "rss_TMV6CTKGZAIY00",
@@ -1687,6 +2245,12 @@
           "source_name": "@EurointegrationComUa",
           "source_url": "https://t.me/EurointegrationComUA/23374",
           "raw_text": "У США запевняють, що \"нічого не змінилося\" щодо поставок зброї Україні через PURL\n\n\n\n\nПосол США при НАТО Метью Вітакер повідомив, що Сполучені Штати продовжують \"продавати наше обладнання та боєприпаси нашим європейським і канадським союзникам, які потім передають їх Україні\".\n\n\n\n\nВін додав, що йому нічого не відомо про будь-які зміни в програмі PURL.\n\n\n\n\nВодночас посол визнав, що через високий попит наразі спостерігається затримка з постачанням обладнання в рамках програми PURL, особливо це стосується систем протиповітряної оборони.\n\n\n\n\nВітакер вважає, що це короткострокова проблема.\n\n\n\n\nДокладніше у новині:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/13/7247611/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23374",
+          "raw_text": "У США запевняють, що \"нічого не змінилося\" щодо поставок зброї Україні через PURL\n\n\n\n\nПосол США при НАТО Метью Вітакер повідомив, що Сполучені Штати продовжують \"продавати наше обладнання та боєприпаси нашим європейським і канадським союзникам, які потім передають їх Україні\".\n\n\n\n\nВін додав, що йому нічого не відомо про будь-які зміни в програмі PURL.\n\n\n\n\nВодночас посол визнав, що через високий попит наразі спостерігається затримка з постачанням обладнання в рамках програми PURL, особливо це стосується систем протиповітряної оборони.\n\n\n\n\nВітакер вважає, що це короткострокова проблема.\n\n\n\n\nДокладніше у новині:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/13/7247611/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-13T15:50:41+00:00"
         }
       ]
     },
