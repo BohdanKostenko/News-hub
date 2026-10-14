@@ -269,7 +269,7 @@ def cluster_and_deduplicate(articles):
         matched = False
         for main_art in clustered:
             if are_similar_articles(art, main_art):
-                src_entry = {"source_name": art["source_name"], "source_url": art["source_url"]}
+                src_entry = {"source_name": art["source_name"], "source_url": art["source_url"], "raw_text": art.get("raw_text", "")}
                 if src_entry not in main_art.setdefault("related_sources", []):
                     main_art["related_sources"].append(src_entry)
                 if not main_art.get("media_list") and art.get("media_list"):
