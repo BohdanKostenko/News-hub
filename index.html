@@ -300,19 +300,36 @@
           });
           mediaHtml = '<div class="media-gallery gallery-' + count + '">' + items + '</div>';
         }
+                let hasRel = (a.related_sources && a.related_sources.length > 0);
         let relHtml = '';
-        if (a.related_sources && a.related_sources.length > 0) {
-            let chips = a.related_sources.map((s, idx) => {
+        if (hasRel) {
+            let allSources = [];
+            if (a.source_name) {
+                allSources.push({
+                    source_name: a.source_name,
+                    source_url: a.source_url || '#',
+                    raw_text: a.raw_text || a.summary || '',
+                    published_at: a.published_at || '',
+                    is_base: true
+                });
+            }
+            a.related_sources.forEach(s => allSources.push(s));
+
+            let chips = allSources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                return '<button type="button" class="source-chip-btn" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">🔗 ' + sName + '</button>';
+                let badge = s.is_base ? '⭐ ' : '🔗 ';
+                return '<button type="button" class="source-chip-btn' + (s.is_base ? ' is-main' : '') + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + sName + '</button>';
             }).join(' ');
 
-            let panels = a.related_sources.map((s, idx) => {
+            let panels = allSources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                let sText = s.raw_text ? s.raw_text : 'Текст цього джерела не збережено.';
-                let linkHtml = s.source_url ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
-                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box">' +
-                       '<div class="source-box-header"><span class="source-box-title">' + sName + '</span>' + linkHtml + '</div>' +
+                let sText = s.raw_text ? s.raw_text.replace(/
+/g, '<br>') : 'Текст цього джерела не збережено.';
+                let sLink = (s.source_url && s.source_url !== '#') ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
+                let timeStr = s.published_at ? '<span style="font-size:0.75rem; color:#94a3b8; background:rgba(255,255,255,0.08); padding:2px 6px; border-radius:4px; margin-left:8px;">🕒 ' + s.published_at + '</span>' : '';
+
+                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
+                       '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + (s.is_base ? '⭐ ' : '') + sName + '</span>' + timeStr + '</div>' + sLink + '</div>' +
                        '<div class="source-box-body">' + sText + '</div>' +
                        '</div>';
             }).join('');
@@ -327,8 +344,7 @@
             '<div class="card-meta"><span>' + a.source_name + ' • ' + (a.category||'Новина') + '</span><button class="bookmark-btn" onclick="toggleBookmark(\'' + a.id + '\')">' + (isFav ? '⭐' : '☆') + '</button></div>' +
             '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
             '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
-            '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text||a.summary) + '</div>' +
-            '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>' +
+            (hasRel ? '' : ('<div class=\"full-text\" id=\"full-' + a.id + '\">' + (a.raw_text||a.summary) + '</div><div class=\"card-actions\"><button class=\"toggle-full-btn\" id=\"btn-' + a.id + '\" onclick=\"toggleFullText(\\'' + a.id + '\\')\">Читати повністю ▾</button><a href=\"' + a.source_url + '\" target=\"_blank\" class=\"source-link\">Джерело ↗</a></div>')) +
             '<div class="card-tags">' + tagsHtml + '</div>' +
           '</div>';
         container.appendChild(card);
