@@ -1,0 +1,41 @@
+name: Оновлення стрічки новин
+
+on:
+  schedule:
+    # Запуск щогодини (у хвилину 0)
+    - cron: '0 * * * *'
+  # Можливість запустити вручну кнопкою "Run workflow" у вкладці Actions
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Клонування репозиторію
+        uses: actions/checkout@v4
+
+      - name: Налаштування Python
+        uses: setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Встановлення бібліотек
+        run: pip install -r requirements.txt
+
+      - name: Запуск збору та обробки новин через Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python run_feed.py
+
+      - name: Збереження оновлених даних у репозиторій
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Автоматичне оновлення новин [skip ci]" || exit 0
+          git push
