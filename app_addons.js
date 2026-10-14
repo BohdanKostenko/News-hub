@@ -1,4 +1,4 @@
-// Оновлені стилі
+// 1. Стилі оформлення
 const addonStyle = document.createElement('style');
 addonStyle.textContent = `
 .related-chain-wrap { margin-top: 10px; padding-top: 8px; border-top: 1px dashed rgba(255,255,255,0.15); }
@@ -9,7 +9,7 @@ addonStyle.textContent = `
   border-radius: 6px; padding: 4px 10px; font-size: 0.78rem; cursor: pointer; transition: all 0.2s;
 }
 .source-chip-btn.is-main {
-  border-color: #f59e0b; color: #fcd34d; background: #292010;
+  border-color: #f59e0b; color: #fcd34d; background: #292010; font-weight: 600;
 }
 .source-chip-btn:hover, .source-chip-btn.active {
   background: #0284c7; color: #ffffff; border-color: #38bdf8;
@@ -35,7 +35,7 @@ addonStyle.textContent = `
 `;
 document.head.appendChild(addonStyle);
 
-// Логіка відкриття конкретного джерела
+// 2. Глобальне перемикання акордеона
 window.toggleSourceAccordion = function(artId, idx, evt) {
   if (evt) {
     evt.preventDefault();
@@ -55,7 +55,7 @@ window.toggleSourceAccordion = function(artId, idx, evt) {
   }
 };
 
-// Оновлення інтерфейсу карток
+// 3. Функція обробки карток
 function enhanceArticlesWithChain() {
   if (!window.rawData || !window.rawData.articles) return;
 
@@ -68,30 +68,23 @@ function enhanceArticlesWithChain() {
     const hasRelated = art.related_sources && art.related_sources.length > 0;
 
     if (hasRelated) {
-      // 1. Приховуємо дублюючі елементи (червона і жовта зони)
-      fullTextEl.style.display = 'none'; // приховуємо сирий текст картки
+      // 1. Приховуємо дублюючий сирий текст під новиною
+      fullTextEl.style.display = 'none';
 
-      // Ховаємо кнопку "Читати повністю / Згорнути"
-      const toggleBtn = cardBody.querySelector('.expand-btn, button[onclick*="toggleFull"], .full-text-btn');
-      if (toggleBtn) toggleBtn.style.display = 'none';
-
-      // Ховаємо стару нижню кнопку "Джерело ↗"
-      const oldSourceLink = cardBody.querySelector('a.source-link, a[href*="t.me"], .card-source-link');
-      if (oldSourceLink && oldSourceLink.parentElement) {
-        // Якщо це окрема кнопка переходу внизу справа
-        if (oldSourceLink.innerText.includes('Джерело')) {
-          oldSourceLink.style.display = 'none';
-        }
+      // 2. Приховуємо нижній блок кнопок: "Читати повністю" та "Джерело >"
+      const actionsEl = cardBody.querySelector('.card-actions');
+      if (actionsEl) {
+        actionsEl.style.display = 'none';
       }
 
-      // Ховаємо старий стандартний блок "Про це також повідомили"
-      const oldBox = cardBody.querySelector('.related-box');
-      if (oldBox) oldBox.style.display = 'none';
+      // 3. Видаляємо старий ланцюжок, якщо він був згенерований index.html
+      const oldChain = cardBody.querySelector('.related-chain-wrap');
+      if (oldChain) oldChain.remove();
 
-      // Якщо блок уже додано — не дублюємо
-      if (cardBody.querySelector('.related-chain-wrap')) return;
+      // Перевіряємо, чи вже створено наш новий блок
+      if (cardBody.querySelector('.enhanced-chain-wrap')) return;
 
-      // 2. Збираємо джерела: першим додаємо базове першоджерело
+      // 4. Формуємо повний список каналів: базовий іде першим
       const allSources = [];
       if (art.source_name) {
         allSources.push({
@@ -121,7 +114,7 @@ function enhanceArticlesWithChain() {
           <div id="src-box-${art.id}-${idx}" class="source-expand-box">
             <div class="source-box-header">
               <div class="source-header-left">
-                <span class="source-box-title">${s.is_base ? '⭐ ' : ''}${sName}</span>
+                <span class="source-box-title">${s.is_base ? '⭐ Базове джерело: ' : ''}${sName}</span>
                 ${timeStr}
               </div>
               ${sLink}
@@ -132,9 +125,9 @@ function enhanceArticlesWithChain() {
       }).join('');
 
       const wrap = document.createElement('div');
-      wrap.className = 'related-chain-wrap';
+      wrap.className = 'enhanced-chain-wrap related-chain-wrap';
       wrap.innerHTML = `
-        <div class="related-chain-label">Джерела події (натисніть для перегляду тексту):</div>
+        <div class="related-chain-label">Джерела події (натисніть для перегляду версії джерела):</div>
         <div class="related-chips-row">${chips}</div>
         <div class="related-panels-container">${panels}</div>
       `;
@@ -144,10 +137,13 @@ function enhanceArticlesWithChain() {
   });
 }
 
+// Слухач змін DOM для миттєвої реакції на фільтри чи оновлення
 const observer = new MutationObserver(() => {
   enhanceArticlesWithChain();
 });
 observer.observe(document.body, { childList: true, subtree: true });
 
-setTimeout(enhanceArticlesWithChain, 300);
-setTimeout(enhanceArticlesWithChain, 1200);
+// Запуск при ініціалізації
+setTimeout(enhanceArticlesWithChain, 200);
+setTimeout(enhanceArticlesWithChain, 800);
+setTimeout(enhanceArticlesWithChain, 2000);
