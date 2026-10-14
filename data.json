@@ -1,13 +1,92 @@
 {
-  "updated_at": "2026-10-14 03:07",
+  "updated_at": "2026-10-14 03:31",
   "digest": [
-    "У Києві та на Харківщині фіксувалася ракетна небезпека і загроза балістики, наразі ситуація стабілізується.",
-    "США та Китай наразі перебувають у «режимі стабільності» та не зацікавлені в ескалації напруги, вважає Кевін Радд.",
-    "Американські конгресмени обговорюють кроки щодо дизельної угоди адміністрації Трампа з РФ.",
-    "Звіти Волл-стріт не вразили інвесторів: Goldman Sachs повідомляє про стабільну активність, а JPMorgan посилює кредитні умови.",
-    "Азійські ринки демонструють зростання акцій завдяки відновленню технологічного сектору."
+    "Російські війська завдали ударів по кількох енергетичних об'єктах Києва, повідомив міський голова Віталій Кличко.",
+    "Прем'єр-міністр Ефіопії Абій Ахмед розсварився зі своїми колишніми союзниками — Еритреєю та угрупованням Фано.",
+    "Saudi Aramco прийняла першу партію нафти для нового нафтопереробного комплексу в Китаї.",
+    "Федеральний суд дозволив журналістам провідних ЗМІ зберегти доступ до Білого дому на час розгляду позову проти адміністрації Трампа."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_27134",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27134",
+      "published_at": "2026-10-14T03:26:10+00:00",
+      "raw_text": "During the previous war, Eritrea and the Fano fought alongside Abiy Ahmed’s government against Tigray rebels. Since then Ethiopia’s leader has fallen out with his past allies \nhttps://t.co/L2JI7MaXRe\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "The Economist: Політичні зміни в Ефіопії",
+      "summary": "Прем'єр-міністр Ефіопії Абій Ахмед розсварився зі своїми колишніми союзниками — Еритреєю та угрупованням Фано. Раніше вони спільно воювали проти повстанців з Тіграю.",
+      "category": "Світ",
+      "tags": [
+        "Ефіопія",
+        "політика",
+        "конфлікт"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMVNVNWWD62O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-10-14/openai-staffer-arrested-over-hidden-device-pope-leo-lung-cancer",
+      "published_at": "2026-10-14T03:18:59+00:00",
+      "raw_text": "OpenAI Staffer Arrested Over Hidden Device, Pope Leo Lung Cancer\n\nSource: Bloomberg, 0:00",
+      "title": "Події у світі: арешт в OpenAI та здоров'я Папи Римського",
+      "summary": "З'явилася інформація про арешт співробітника OpenAI через прихований пристрій. Також обговорюються новини щодо стану здоров'я Папи Лева.",
+      "category": "Світ",
+      "tags": [
+        "OpenAI",
+        "Ватикан",
+        "новини"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-13/williams-no-hike-in-2027-pope-leo-found-to-have-lung-cancer",
+          "raw_text": "Williams: No Hike in 2027, Pope Leo Found to Have Lung Cancer\n\nSource: Bloomberg, 0:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_77427",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77427",
+      "published_at": "2026-10-14T03:15:32+00:00",
+      "raw_text": "РФ завдала ударів по кількох енергооб'єктах Києва, повідомив міський голова Кличко.",
+      "title": "Удари по енергооб'єктах Києва",
+      "summary": "Російські війська завдали ударів по кількох енергетичних об'єктах столиці. Про це повідомив міський голова Віталій Кличко.",
+      "category": "Надзвичайні ситуації",
+      "tags": [
+        "обстріл",
+        "Кличко",
+        "енергетика",
+        "Київ"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMVI2ARKV2UC00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/saudi-aramco-s-new-china-refinery-venture-gets-first-crude-cargo",
+      "published_at": "2026-10-14T03:13:01+00:00",
+      "raw_text": "Saudi Aramco’s New China Refinery Venture Gets First Crude Cargo\n\nSaudi Aramco and its local partners have received the first crude cargo for their new refining complex in China, bringing the billion-dollar mega plant a step closer to production.",
+      "title": "Saudi Aramco отримала першу партію нафти для нового заводу в Китаї",
+      "summary": "Saudi Aramco та партнери прийняли першу партію сирої нафти для нового нафтопереробного комплексу в Китаї. Це наближає багатомільярдний мегазавод до початку повноцінного виробництва.",
+      "category": "Економіка",
+      "tags": [
+        "Saudi Aramco",
+        "Китай",
+        "нафта",
+        "екonomika"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "TheEconomistOfficial_27133",
       "source_name": "@theeconomistofficial",
@@ -44,6 +123,25 @@
         "банки",
         "фінанси",
         "США"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMJIXZKIUPU100",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/judge-allows-cnn-ms-now-politico-to-retain-white-house-access",
+      "published_at": "2026-10-14T03:01:58+00:00",
+      "raw_text": "Judge Rules Media Outlets Can Retain White House Access for Now\n\nA federal judge said journalists with CNN, MS NOW and Politico can continue to have access to the White House while their lawsuit against the Trump administration proceeds.",
+      "title": "Суд дозволив ЗМІ зберегти доступ до Білого дому",
+      "summary": "Федеральний суд постановив, що журналісти CNN, MS NOW та Politico можуть продовжувати мати доступ до Білого дому. Це рішення діятиме на час розгляду їхнього позову проти адміністрації Трампа.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Білий дім",
+        "ЗМІ",
+        "суд"
       ],
       "importance": 2,
       "media_list": [],
@@ -131,6 +229,11 @@
         {
           "source_name": "@kremenchugtruexa",
           "source_url": "https://t.me/kremenchugtruexa/46489"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/58898",
+          "raw_text": "На Полтаву ракета"
         }
       ]
     },
@@ -150,7 +253,13 @@
       ],
       "importance": 5,
       "media_list": [],
-      "related_sources": []
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146280",
+          "raw_text": "❗️\nБалістика на \nХарків\n!\n\n\n\n\nUPD: чисто."
+        }
+      ]
     },
     {
       "id": "rss_TMVMOLUT4Z5S00",
@@ -219,6 +328,11 @@
         {
           "source_name": "@truexanewsua",
           "source_url": "https://t.me/truexanewsua/146261"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146281",
+          "raw_text": "❗️\nЛівий берег Києва — без світла після вибухів. \nПродовжують бити по енергетиці. \n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv"
         }
       ]
     },
@@ -255,6 +369,24 @@
         "загроза"
       ],
       "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27131",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27131",
+      "published_at": "2026-10-14T02:26:17+00:00",
+      "raw_text": "If the European welfare state looks like a pyramid scheme, its pharaohs are the “baby boomers”. We explain how the cohort has pulled off an intergenerational heist \nhttps://t.co/mwyBvS3FR2\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "The Economist: Проблеми європейської держави загального добробуту",
+      "summary": "Видання аналізує вплив покоління бебі-бумерів на фінансову стійкість європейської соціальної системи. На думку авторів, це створює навантаження на наступні покоління.",
+      "category": "Світ",
+      "tags": [
+        "економіка",
+        "Європа",
+        "суспільство"
+      ],
+      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
@@ -346,6 +478,11 @@
         {
           "source_name": "@sirena_kremenchuk",
           "source_url": "https://t.me/sirena_kremenchuk/13536"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13536",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)"
         }
       ]
     },
@@ -510,6 +647,21 @@
         {
           "source_name": "@sirena_kremenchuk",
           "source_url": "https://t.me/sirena_kremenchuk/13538"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13537",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77424",
+          "raw_text": "Київ — повітряна тривога через дронову небезпеку."
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13535",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)"
         }
       ]
     },
@@ -617,6 +769,21 @@
         {
           "source_name": "@sirena_kremenchuk",
           "source_url": "https://t.me/sirena_kremenchuk/13534"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13538",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102671",
+          "raw_text": "🟢\n Відбій повітряної тривоги!"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13534",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги"
         }
       ]
     },
@@ -840,29 +1007,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "rss_TMVC16O32FWG00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-13/williams-no-hike-in-2027-pope-leo-found-to-have-lung-cancer",
-      "published_at": "2026-10-13T23:03:06+00:00",
-      "raw_text": "Williams: No Hike in 2027, Pope Leo Found to Have Lung Cancer\n\nSource: Bloomberg, 0:00",
-      "title": "Прогнози щодо процентних ставок та здоров'я Папи Римського",
-      "summary": "Оприлюднено прогнози щодо відсутності підвищення ставок у 2027 році, а також інформацію про стан здоров'я Папи Лева. Повідомлення містить короткі зведення новин від Bloomberg.",
-      "category": "Світ",
-      "tags": [
-        "Bloomberg",
-        "економіка",
-        "здоров'я"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-13/brazil-economists-cut-selic-bets-as-bolsonaro-leads-runoff-polls"
-        }
-      ]
     },
     {
       "id": "truexanewsua_146260",
@@ -1237,6 +1381,25 @@
       "related_sources": []
     },
     {
+      "id": "rss_TMV6CTKGZAIY00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
+      "published_at": "2026-10-13T21:00:29+00:00",
+      "raw_text": "China's Robotic Hands Key to $5 Trillion AI Humanoid Development Race\n\nAdvanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
+      "title": "Китай лідирує у розробці робототехніки",
+      "summary": "Просунуте гуманоїдне обладнання стало одним із ключових стратегічних високотехнологічних напрямків. У цій сфері Китай наразі випереджає США.",
+      "category": "Технології",
+      "tags": [
+        "роботи",
+        "Китай",
+        "США",
+        "технології"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "hromadske_ua_89434",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/89434",
@@ -1372,8 +1535,31 @@
         {
           "source_name": "@EurointegrationComUa",
           "source_url": "https://t.me/EurointegrationComUA/23371"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23371",
+          "raw_text": "Біля берегів Болгарії – нові атаки дронів на судна, \"на килим\" кличуть посла Росії  Протягом ночі дрони атакували два судна біля берегів Болгарії, одне з яких затонуло.  Прем’єр Болгарії Румен Радев повідомив, що у зв’язку з атаками на розмову викличуть посла…"
         }
       ]
+    },
+    {
+      "id": "kremenchugtruexa_46489",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46489",
+      "published_at": "2026-10-13T19:45:38+00:00",
+      "raw_text": "БР на Кременчук.  Труха\n⚡️\nКременчук | Надіслати новину",
+      "title": "Балтична ракета на Кременчук",
+      "summary": "Зафіксовано рух балістичної ракети у напрямку Кременчука. Офіційної інформації поки немає.",
+      "category": "Безпека",
+      "tags": [
+        "Кременчук",
+        "тривога",
+        "балістика"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
     },
     {
       "id": "kremenchugtruexa_46488",
@@ -1563,6 +1749,11 @@
         {
           "source_name": "@EurointegrationComUa",
           "source_url": "https://t.me/EurointegrationComUA/23374"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23374",
+          "raw_text": "У США запевняють, що \"нічого не змінилося\" щодо поставок зброї Україні через PURL\n\n\n\n\nПосол США при НАТО Метью Вітакер повідомив, що Сполучені Штати продовжують \"продавати наше обладнання та боєприпаси нашим європейським і канадським союзникам, які потім передають їх Україні\".\n\n\n\n\nВін додав, що йому нічого не відомо про будь-які зміни в програмі PURL.\n\n\n\n\nВодночас посол визнав, що через високий попит наразі спостерігається затримка з постачанням обладнання в рамках програми PURL, особливо це стосується систем протиповітряної оборони.\n\n\n\n\nВітакер вважає, що це короткострокова проблема.\n\n\n\n\nДокладніше у новині:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/13/7247611/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу"
         }
       ]
     },
@@ -2717,6 +2908,25 @@
         "реклама"
       ],
       "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMTYUNKK3NY800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-13/prosecutors-in-philippine-vp-duterte-trial-to-drop-more-charges",
+      "published_at": "2026-10-13T05:46:13+00:00",
+      "raw_text": "Duterte Impeachment Trial to Focus on Hidden Wealth Charge\n\nPhilippine prosecutors in a surprise move on Tuesday dropped most of the impeachment charges against Vice President Sara Duterte, opting to zero in on her alleged hidden wealth as the sole ground to oust and disqualify her from public office.",
+      "title": "Суд щодо імпічменту Дутерте на Філіппінах",
+      "summary": "Прокурори на Філіппінах скоротили більшість обвинувачень проти віцепрезидента Сари Дутерте. Вони зосередилися на звинуваченнях у прихованих статках як єдиній підставі для її усунення.",
+      "category": "Світ",
+      "tags": [
+        "Філіппіни",
+        "політика",
+        "суд",
+        "імпічмент"
+      ],
+      "importance": 3,
       "media_list": [],
       "related_sources": []
     },
