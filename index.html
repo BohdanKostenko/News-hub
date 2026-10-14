@@ -381,8 +381,8 @@
 
             let panels = allSources.map((s, idx) => {
                 let sName = s.source_name || ('Джерело ' + (idx + 1));
-                let sText = s.raw_text ? s.raw_text.replace(/
-/g, '<br>') : 'Текст цього джерела не збережено.';
+                let sText = s.raw_text ? s.raw_text.replaceAll("
+", "<br>") : 'Текст цього джерела не збережено.';
                 let sLink = (s.source_url && s.source_url !== '#') ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
                 let timeStr = s.published_at ? '<span style="font-size:0.75rem; color:#94a3b8; background:rgba(255,255,255,0.08); padding:2px 6px; border-radius:4px; margin-left:8px;">🕒 ' + s.published_at + '</span>' : '';
 
