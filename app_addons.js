@@ -1,50 +1,70 @@
-// 1. Стилі
+// 1. Інжектуємо точні CSS правила приховування та стилізації
 const addonStyle = document.createElement('style');
 addonStyle.textContent = `
-.hide-redundant-actions { display: none !important; }
-
-.source-box-time {
-  font-size: 0.75rem; color: #94a3b8; background: rgba(255,255,255,0.06);
-  padding: 2px 6px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.08); margin-left: 8px;
+/* Якщо всередині картки є блок пов'язаних джерел — миттєво ховаємо старий блок дій і дублюючий текст */
+div:has(> .source-expand-box) .card-actions,
+div:has(> .source-box-header) .card-actions,
+div:has(> .related-chain-wrap) .card-actions,
+div:has(> [id^="src-box-"]) .card-actions,
+.card-body:has([id^="src-box-"]) .card-actions,
+.news-card:has([id^="src-box-"]) .card-actions {
+  display: none !important;
 }
-.source-chip-btn.is-main {
-  border-color: #f59e0b !important; color: #fcd34d !important; background: #292010 !important; font-weight: 600;
+
+/* Ховаємо старий сірий дублюючий текст прямо під акордеоном */
+div:has(> [id^="src-box-"]) > div[id^="full-"],
+.card-body:has([id^="src-box-"]) > div[id^="full-"] {
+  display: none !important;
+}
+
+/* Стиль для часу публікації джерела */
+.source-box-time {
+  font-size: 0.75rem;
+  color: #94a3b8;
+  background: rgba(255, 255, 255, 0.08);
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-weight: normal;
 }
 `;
 document.head.appendChild(addonStyle);
 
-// 2. Логіка приховування дублюючих кнопок
-function cleanupRedundantUI() {
-  // Знаходимо всі блоки з пов'язаними джерелами
-  const relBoxes = document.querySelectorAll('.related-box, .related-chain-wrap');
-  
-  relBoxes.forEach(rel => {
-    // Шукаємо батьківську картку
-    let card = rel.parentElement;
-    while (card && !card.classList.contains('news-card') && !card.classList.contains('card') && card.tagName !== 'BODY') {
-      card = card.parentElement;
+// 2. Додатковий обхід елементів для гарантованого приховування кнопок і додавання зірочки
+function applyUIImprovements() {
+  const expandBoxes = document.querySelectorAll('[id^="src-box-"]');
+
+  expandBoxes.forEach(box => {
+    // Шукаємо батьківський контейнер картки
+    const parent = box.closest('.card-body') || box.closest('.news-card') || box.parentElement;
+    if (!parent) return;
+
+    // 1. Приховуємо card-actions (кнопки Згорнути / Джерело)
+    const actions = parent.querySelector('.card-actions');
+    if (actions) {
+      actions.style.setProperty('display', 'none', 'important');
     }
-    if (!card || card.tagName === 'BODY') return;
 
-    // Ховаємо блок із кнопками "Читати повністю / Згорнути" та "Джерело ↗"
-    const actions = card.querySelector('.card-actions');
-    if (actions) actions.style.display = 'none';
+    // 2. Приховуємо дублюючий нижній текст full-
+    const fullText = parent.querySelector('[id^="full-"]');
+    if (fullText) {
+      fullText.style.setProperty('display', 'none', 'important');
+    }
 
-    // Ховаємо дублюючий нижній текст
-    const full = card.querySelector('[id^="full-"]');
-    if (full) full.style.display = 'none';
-
-    // Додаємо зірочку ⭐ до першого посилання/чіпа
-    const firstChip = rel.querySelector('button, a');
-    if (firstChip && !firstChip.textContent.includes('⭐')) {
-      firstChip.innerHTML = '⭐ ' + firstChip.innerHTML;
-      firstChip.classList.add('is-main');
+    // 3. Додаємо мітку базового джерела ⭐ до першої кнопки ланцюжка
+    const chips = parent.querySelectorAll('.source-chip-btn, .related-box a, .related-chain-wrap button');
+    if (chips.length > 0) {
+      const firstChip = chips[0];
+      if (!firstChip.textContent.includes('⭐')) {
+        firstChip.innerHTML = '⭐ ' + firstChip.innerHTML.replace('🔗', '').trim();
+      }
     }
   });
 }
 
-// Запуск відстеження
-const observer = new MutationObserver(cleanupRedundantUI);
+// Запускаємо моніторинг DOM
+const observer = new MutationObserver(applyUIImprovements);
 observer.observe(document.body, { childList: true, subtree: true });
 
-setInterval(cleanupRedundantUI, 400);
+// Періодичний виклик для динамічного оновлення
+setInterval(applyUIImprovements, 300);
