@@ -96,7 +96,7 @@ def parse_telegram(url, limit=5):
         photo_tags = post.find_all("a", class_="tgme_widget_message_photo_wrap")
         for p in photo_tags:
             style_str = p.get("style", "")
-            pm = re.search(r"url\(["']?(.*?)["']?\)", style_str)
+            pm = re.search(r"url\(([^)]+)\)", style_str)
             if pm:
                 u = pm.group(1)
                 # Якщо є відео, постер-прев'ю не додаємо як окреме фото
