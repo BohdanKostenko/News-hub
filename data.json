@@ -1,13 +1,218 @@
 {
-  "updated_at": "2026-10-14 22:13",
+  "updated_at": "2026-10-15 01:23",
   "digest": [
-    "У США зафіксовано найбільше зростання інфляції за п'ять місяців, що спричинило падіння азійських акцій через побоювання підвищення ставок ФРС.",
-    "Кількість загиблих у Кропивницькому внаслідок ворожої атаки зросла до трьох осіб, а в Кременчуцькому районі рівень загрози знижено до жовтого.",
-    "Loop Capital купує активи Lifeline Capital на $450 мільйонів для розширення управління статками.",
-    "Демократи утримують високі шанси на виборах до Палати представників Конгресу США.",
-    "На саміті CAIS експерти обговорили дефіцит інфраструктури та зростання енергетичних витрат для центрів обробки даних ШІ."
+    "У Києві та Миколаєві зафіксовано небезпеку через повітряну тривогу та вибухи.",
+    "ЄЦБ може обмежити монетарну політику у разі посилення фінансових умов.",
+    "Міністр фінансів Японії попередила про готовність вжити заходів через падіння єни.",
+    "Провідні експерти закликають Конгрес США знизити ризики неконтрольованого штучного інтелекту."
   ],
   "articles": [
+    {
+      "id": "rss_TMWLNAKK3NY800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-may-not-have-to-do-as-much-if-markets-tighten-dolenc-says",
+      "published_at": "2026-10-15T01:00:14+00:00",
+      "raw_text": "ECB May Not Have to Do as Much If Markets Tighten, Dolenc Says\n\nA tightening in financial conditions may limit the need for European Central Bank monetary policy action, according to Governing Council member Primoz Dolenc.",
+      "title": "ЄЦБ може обмежити заходи монетарної політики при посиленні ринків",
+      "summary": "Посилення фінансових умов може зменшити необхідність дій з боку Європейського центрального банку. Про це заявив член Керуючої ради Прімож Доленц.",
+      "category": "Світ",
+      "tags": [
+        "ЄЦБ",
+        "економіка",
+        "фінанси"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMX920T96OSJ00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/japan-s-katayama-renews-warnings-on-yen-after-us-cpi-heats-up",
+      "published_at": "2026-10-15T00:53:06+00:00",
+      "raw_text": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up\n\nJapanese Finance Minister Satsuki Katayama warned speculators that she was prepared to take action in the currency market again if needed, after the yen touched its weakest level against the dollar this month following hotter US inflation figures.",
+      "title": "Міністр фінансів Японії попередила ринки щодо валюти",
+      "summary": "Японський міністр фінансів Сацукі Катаяма заявила про готовність вжити заходів на валютному ринку. Це сталося після падіння єни до мінімального рівня за місяць через дані про інфляцію в США.",
+      "category": "Економіка",
+      "tags": [
+        "Японія",
+        "валюта",
+        "інфляція"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27215",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27215",
+      "published_at": "2026-10-15T00:41:36+00:00",
+      "raw_text": "Want to supercharge technological innovation? Save democracy? End war? Robert Zubrin’s answer, in one form or another, is to go to the Red Planet \nhttps://t.co/jiRrE6Rzvp\n — The Economist (\n@TheEconomist\n) \nOct 15, 2026",
+      "title": "Ідея колонізації Марса від Роберта Зубріна",
+      "summary": "Видання The Economist публікує матеріал про бачення Роберта Зубріна щодо вирішення земних проблем через колонізацію Червоної планети. Автор вважає це ключем до інновацій та порятунку демократії.",
+      "category": "Світ",
+      "tags": [
+        "космос",
+        "Марс",
+        "технології"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77488",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77488",
+      "published_at": "2026-10-15T00:36:12+00:00",
+      "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
+      "title": "Повітряна тривога в Києві",
+      "summary": "У Києві оголошено повітряну тривогу через загрозу застосування ворожих безпілотників. Мешканців закликають перебувати в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "дрони"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77483",
+          "raw_text": "Київ — повітряна тривога через загрозу дронів.",
+          "published_at": "2026-10-14T20:12:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27212",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27212",
+      "published_at": "2026-10-14T23:46:17+00:00",
+      "raw_text": "“We should not risk a self-improving intelligence that would quickly exceed our ability to control it,” write Lawrence Lessig and \n@Yoshua_Bengio\n. In a guest essay, the two professors explain what Congress must do to reduce the serious risks of AI \nhttps://t.co/MAQiUSiLGl\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Ризики штучного інтелекту",
+      "summary": "Професори Лоуренс Лессіг та Йошуа Бенжіо закликають не ризикувати зі штучним інтелектом, який може перевищити контроль людини. Вони пояснюють, що Конгресу США необхідно зробити для зниження цих ризиків.",
+      "category": "Технології",
+      "tags": [
+        "штучний інтелект",
+        "технології",
+        "безпека"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/openai-cfo-sarah-friar-on-ai-safety-alignment-spending-video",
+          "raw_text": "OpenAI CFO Sarah Friar Discusses AI Safety & Alignment Spending\n\nBloomberg's Tom MacKenzie sits down with OpenAI CFO Sarah Friar at at the International AI Summit in Dublin to discuss AI safety and alignment spending.  (Source: Bloomberg)",
+          "published_at": "2026-10-14T13:26:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27211",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27211",
+      "published_at": "2026-10-14T23:26:14+00:00",
+      "raw_text": "The financial crisis of 2007-09 whacked millennials especially hard. More recently, however, their fortunes have changed. And crucially they are well placed for what comes next \nhttps://t.co/46bXkVCswy\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
+      "title": "Фінансове становище мілленіалів",
+      "summary": "Фінансова криза 2007-2009 років вдарила по мілленіалах, проте нещодавно їхнє фінансове становище покращилося. Вони мають хороші позиції для майбутніх економічних змін.",
+      "category": "Економіка",
+      "tags": [
+        "економіка",
+        "мілленіали",
+        "фінанси"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77487",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77487",
+      "published_at": "2026-10-14T23:24:46+00:00",
+      "raw_text": "У Миколаєві було чутно звук вибуху, повідомляють кореспонденти Суспільного.",
+      "title": "Звук вибуху в Миколаєві",
+      "summary": "У Миколаєві пролунав звук вибуху, про що повідомляють кореспонденти Суспільного. Інформація про причини та наслідки з'ясовується.",
+      "category": "Безпека",
+      "tags": [
+        "Миколаїв",
+        "вибух",
+        "Суспільне"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMX08DVTTCZS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/susan-collins-wasn-t-the-check-on-trump-says-poersch-video",
+      "published_at": "2026-10-14T22:46:35+00:00",
+      "raw_text": "Democrats Have Chance to Unseat Collins in Maine, Poersch Says\n\nIn a discussion with Bloomberg Government's Jonathan Tamari, Senate Majority PAC President JB Poersch talks about the race to unseat incumbent Senator Susan Collins, a Republican, from Maine. He says Collins has failed to be a \"check\" on President Donald Trump. They speak at a Bloomberg.com subscriber-only event in Washington, DC on October 14, 2026. (Source: Bloomberg)",
+      "title": "Демократи мають шанс перемогти Коллінз у Мені",
+      "summary": "Президент Senate Majority PAC JB Poersch заявив про високі шанси демократів на виборах проти сенатора-республіканця Сьюзан Коллінз. За його словами, вона не стала належним стримуванням для Дональда Трампа.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "вибори",
+        "політика"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_102705",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102705",
+      "published_at": "2026-10-14T22:31:36+00:00",
+      "raw_text": "🟢\n Відбій повітряної тривоги!",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У регіоні оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "відбій"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13557",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-14T22:31:36+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/58956",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-14T22:31:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kremenchugtruexa_46590",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46590",
+      "published_at": "2026-10-14T22:13:07+00:00",
+      "raw_text": "Реактив у бік міста.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Рух реактивного снаряда у бік Кременчука",
+      "summary": "Зафіксовано рух реактивного засобу у напрямку міста. Влада та моніторингові канали закликають дотримуватися правил безпеки.",
+      "category": "Безпека",
+      "tags": [
+        "обстріл",
+        "Кременчук",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "TheEconomistOfficial_27206",
       "source_name": "@theeconomistofficial",
@@ -348,6 +553,12 @@
           "source_url": "https://t.me/EurointegrationComUA/23392",
           "raw_text": "У дайджесті \nсереди\n – Україні обмежили Starlink, \n3 млрд від ЄС на дрони\n, Зеленський у Британії.\n\n\n\n\nПісля нічного обстрілу Зеленський вказав на неповагу Росії до Америки, рівня якої \"ще не було\".\n\n\n\n\nУ Києві зафіксували обмеження роботи Starlink для Сил оборони. Тривають контакти.\n\n\n\n\nА в ЄС не бачать ознак припинення обміну розвідданими між Україною і США.\n\n\n\n\nУльтраправа фаворитка президентських виборів у Франції попереджає, що послабить підтримку України після приходу до влади, а польський президент, за даними медіа, готує коаліцію з антиукраїнським Брауном перед виборами до Сенату.\n\n\n\n\nДалі – скорочена версія \nдайджесту новин 13 жовтня\n.\n\n\n\n\n“ТАКОЇ НЕПОВАГИ РФ ДО США ЩЕ НЕ БУЛО”\n\n\n\n\nУ ніч проти 14 жовтня росіяни застосували 39 балістичних ракет і більше 120 ударних дронів та баражуючих боєприпасів проти української енергетики і критичної інфраструктури в Києві, в Київській області та в Харкові.\n\n\n\n\nПрезидент України Володимир Зеленський вказав на неповагу Росії до Америки, рівня якої \"ще не було\".\n\n\n\n\n“Прицільний російський балістичний удар саме по енергетиці, щодо якої президент Америки визначив припинення вогню. Удар абсолютно свідомий і показовий масштабністю –\n \nтакої демонстративної неповаги Росії до Америки ще не було\n. Росія не вважає заяви президента Америки сильними”, \n– написав він у соцмережі Х.\n\n\n\n\nМіністр закордонних справ Андрій Сибіга, коментуючи нічні російські удари по українських містах, заявив, що\n \nтаким чином господар Кремля Владімір Путін відкинув запропоноване США \"енергетичне перемир’я\"\n.\n\n\n\n\nНагадаємо, президент США Дональд Трамп заявляв, нібито оголошене ним \"енергетичне перемир’я\"\n \nміж Україною і РФ діє\n,\n а повідомлення про його порушення потребують перевірки. \n\n\n\n\nУКРАЇНІ ОБМЕЖИЛИ STARLINK\n\n\n\n\nРадник президента України Сергій \"Флеш\" Бескрестнов повідомив, що компанія американського мільярдера Ілона Маска SpaceX\n \nввела для українських військових обмеження\n швидкості роботи терміналів Starlink під час руху.\n\n\n\n\nВін допустив, що ця дія не є збігом і \"пов’язана з поточною політичною ситуацією\". \n\n\n\n\nНа тлі цих новин вранці міністр закордонних справ Польщі Радослав Сікорський з іронією звернувся до керівника компанії SpaceX Ілона Маска.\n\n\n\n\n\"Гей, Ілоне Маску, велика людино, ти\n \nзнову використовуєш свої продукти в політичних цілях\n? Як твої європейські клієнти, ми стежимо за тобою\"\n, – написав Сікорський у соцмережі Х.\n\n\n\n\nМіністерство оборони України наразі\n \nконтактує зі Сполученими Штатами, SpaceX і з партнерами в НАТО\n у зв'язку з обмеженням у роботі систем супутникового зв'язку Starlink для Сил оборони.\n\n\n\n\nЗеленському \"\nболяче, коли президент Трамп стає на інший бік – не наш\n\".\n\n\n\n\nДИВЕРСІЇ ПРОТИ STARLINK В ЄС\n\n\n\n\nДвох турків, затриманих у Німеччині за підозрою у підпалі у вересні станції Starlink у Волі-Кробовській у Мазовецькому воєводстві,\n \nзаарештували\n до екстрадиції у Польщу.\n\n\n\n\nЗа даними газети Rzeczpospolita, польська поліція\n \nспочатку помилково відпустила\n двох диверсантів на об’єкті Starlink.\n\n\n\n\nЯк описує видання, 24 вересня місцевий дільничний перевірив турків приблизно за 10 кілометрів від місця підпалу. Але, незважаючи на сумніви щодо документів, обом дозволили піти.\n\n\n\n\nВ Болгарії повідомляють про\n \nможливий підпал 11 із загалом 17 антен для зв’язку із супутниковою системою Starlink\n у районі Софії.\n\n\n\n\nРЕШТА НОВИН\n\n\n\n\nУ Німеччині\n \nстартує суд над українцем\n у справі про підрив \"Північних потоків\". \n\n\n\n\nЛитва\n \nзаморозила активи росолігархів Михаїла Фрідмана і Алішера Усманова.\n\n\n\n\nДо Литви\n \nпочали прибувати військові США з нової ротації\n, \nповідомив литовський президент.\n\n\n\n\nМолдова\n \nготується до рішення, що дозволить їй закривати переговори про вступ до ЄС\n. Єврокомісарка Кос\n \nвважає можливим завершити переговори про вступ Молдови в ЄС у 2028 році\n.\n\n\n\n\nПовна картина \nсереди\n – в дайджесті за посиланням:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/14/7247734/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
           "published_at": "2026-10-14T19:10:05+00:00"
+        },
+        {
+          "source_name": "@holosameryky",
+          "source_url": "https://t.me/holosameryky/22304",
+          "raw_text": "🔴\n \nОбмеження швидкості роботи Starlink: як це впливає на оборону України та що кажуть у США. ЧАС-TIME\n\n\n\n\nВ ефірі ЧАС-TIME:\n\n\n \n\n\n🔹\n \nПрезидент Зеленський заявив \nпро “труднощі із Старлінком та розвідданими” на початку зустрічі із британським прем’єр-міністром Енді Бернемом у Лондоні.\n\n\n🔹\n \nЯк у США реагують\n на обмеження швидкості роботи терміналів Starlink\n\n\n🔹\n Девід Креймер пояснив, \nчому призупинка обміну розвідданими\n в першу чергу нашкодило самим б США.\n\n\n🔹\n Папа Римський Лев 14-тий \nодужує після операції \nіз видалення ракової пухлини із правої легені.\n\n\n \n\n\nДивіться ЧАС-TIME з понеділка по п’ятницю \nо 21:30 за Києвом\n \n➡️\n \nyoutube.com/live/38JG9WephLM\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+          "published_at": "2026-10-14T18:21:29+00:00"
         }
       ]
     },
@@ -387,6 +598,44 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_c8wy9veedgygo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-14T20:55:24+00:00",
+      "raw_text": "Musk says US government may be behind slowdown of Ukraine drone speeds\n\nUkraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "title": "Маск заявив про можливу причетність уряду США до обмеження швидкості дронів в Україні",
+      "summary": "Українська сторона повідомила про покращення доступу до Starlink, проте залишаються обмеження швидкості, які впливають на виконання завдань. Ілон Маск припустив, що за цим може стояти уряд США.",
+      "category": "Технології",
+      "tags": [
+        "Ілон Маск",
+        "Starlink",
+        "США",
+        "Україна",
+        "дрони"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/qzxrTfkVKA7n2GOl52siVjBC9aLofhjRYI4pfLthbDHoDSe6pewKCcDI9UI1x9YVNdGdEWN8S1To-m6ISEvcG6z5KsJjdbngnsvdNysB_6Gm5RxDOkHMKgdWA7VfHz5uh-3h05BGeIViiLcLthbf0WJGyXX_5ZD9MSvXrTSuBYueIJFOqNAW9o1IEFPLJIVZZ4f_tOuTF346KeCOoD2VCiZoiJ6Zi3JdL0ALhLuCVzV90lqZii5YF3AgVNCvtAHG92QzVvb_-dbe8wEhBE4k85bENwlgH12q-PMuFapiO7Wkk8-zzadruhM0yfaYSCwTUXaLBEmQVkqyo02qTUimpQ.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@holosameryky",
+          "source_url": "https://t.me/holosameryky/22307",
+          "raw_text": "Рішення щодо обмеження швидкості та використання систем Starshield \nвизначають американські військові і, зрештою, президент США.\n\n\n\n\nПро це у мережі Х написав Ілон Маск.\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8211302.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+          "published_at": "2026-10-14T20:43:27+00:00"
+        },
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89499",
+          "raw_text": "📡\n Ілон Маск \nзаявив\n, що не вирішує питання обмежень Starshield для України.\n\n\n\n\nВін написав, що термінали належить уряду США, обмеження встановлюють американські військові, а остаточне рішення ухвалює президент.\n\n\n\n\nОкремо Маск зазначив, що Starlink є комерційним сервісом і не може застосовуватися для наступальних воєнних дій\n\n\n\n\nФото: Finn Gomez / Getty Images\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-14T20:22:08+00:00"
+        }
+      ]
     },
     {
       "id": "hromadske_ua_89501",
@@ -429,36 +678,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "holosameryky_22307",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22307",
-      "published_at": "2026-10-14T20:43:27+00:00",
-      "raw_text": "Рішення щодо обмеження швидкості та використання систем Starshield \nвизначають американські військові і, зрештою, президент США.\n\n\n\n\nПро це у мережі Х написав Ілон Маск.\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8211302.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-      "title": "Ілон Маск заявив, що рішення щодо Starshield ухвалюють у США",
-      "summary": "Рішення щодо обмеження швидкості та використання систем Starshield визначають американські військові та президент США. Про це повідомив Ілон Маск у мережі Х.",
-      "category": "Технології",
-      "tags": [
-        "Starlink",
-        "Ілон Маск",
-        "США"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/qzxrTfkVKA7n2GOl52siVjBC9aLofhjRYI4pfLthbDHoDSe6pewKCcDI9UI1x9YVNdGdEWN8S1To-m6ISEvcG6z5KsJjdbngnsvdNysB_6Gm5RxDOkHMKgdWA7VfHz5uh-3h05BGeIViiLcLthbf0WJGyXX_5ZD9MSvXrTSuBYueIJFOqNAW9o1IEFPLJIVZZ4f_tOuTF346KeCOoD2VCiZoiJ6Zi3JdL0ALhLuCVzV90lqZii5YF3AgVNCvtAHG92QzVvb_-dbe8wEhBE4k85bENwlgH12q-PMuFapiO7Wkk8-zzadruhM0yfaYSCwTUXaLBEmQVkqyo02qTUimpQ.jpg'"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/89499",
-          "raw_text": "📡\n Ілон Маск \nзаявив\n, що не вирішує питання обмежень Starshield для України.\n\n\n\n\nВін написав, що термінали належить уряду США, обмеження встановлюють американські військові, а остаточне рішення ухвалює президент.\n\n\n\n\nОкремо Маск зазначив, що Starlink є комерційним сервісом і не може застосовуватися для наступальних воєнних дій\n\n\n\n\nФото: Finn Gomez / Getty Images\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-10-14T20:22:08+00:00"
-        }
-      ]
     },
     {
       "id": "truexanewsua_146359",
@@ -566,24 +785,6 @@
         "обстріли",
         "жертви",
         "ДСНС"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77483",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77483",
-      "published_at": "2026-10-14T20:12:03+00:00",
-      "raw_text": "Київ — повітряна тривога через загрозу дронів.",
-      "title": "Повітряна тривога у Києві",
-      "summary": "У Києві оголошено повітряну тривогу через загрозу ворожих дронів. Мешканців закликають залишатися в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "Київ",
-        "тривога",
-        "дрони"
       ],
       "importance": 5,
       "media_list": [],
@@ -1439,6 +1640,24 @@
       "related_sources": []
     },
     {
+      "id": "rss_TMTMJ0KK3NY900",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/tsmc-results-face-high-bar-to-calm-global-ai-stock-trade-jitters",
+      "published_at": "2026-10-14T16:01:00+00:00",
+      "raw_text": "TSMC Results Face High Bar to Calm Global AI Stock Trade Jitters\n\nWith strong earnings from global chip majors failing to boost the AI trade, Taiwan Semiconductor Manufacturing Co. faces a high bar to impress investors.",
+      "title": "TSMC готується представити квартальні результати",
+      "summary": "На тлі сумнівів інвесторів щодо стійкості сектору штучного інтелекту, компанія TSMC має продемонструвати сильні фінансові результати. Це необхідно для заспокоєння глобального ринку чипів.",
+      "category": "Технології",
+      "tags": [
+        "TSMC",
+        "AI",
+        "фінанси"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "EurointegrationComUA_23390",
       "source_name": "@EurointegrationComUa",
       "source_url": "https://t.me/EurointegrationComUA/23390",
@@ -1520,6 +1739,24 @@
         "погода"
       ],
       "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13554",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13554",
+      "published_at": "2026-10-14T14:32:58+00:00",
+      "raw_text": "⚠️\n \nУвага, кременчужани!\n\n\n\n\nНаразі навколо Кременчука фіксується велика кількість ворожих БпЛА.\n\n\n\n\nУ найближчі години закликаємо всіх бути максимально обережними, не ігнорувати сигнали повітряної тривоги та за можливості перебувати в укриттях.\n\n\n\n\nТримайтеся подалі від промислових об’єктів та інших об’єктів, які можуть стати потенційними цілями ворога.\n\n\n\n\nБережіть себе та своїх близьких!",
+      "title": "Навколо Кременчука зафіксовано велику кількість БпЛА",
+      "summary": "Поблизу міста фіксується значна кількість ворожих безпілотників. Громадян закликають уникати промислових об'єктів та дотримуватися правил безпеки.",
+      "category": "Безпека",
+      "tags": [
+        "БПЛА",
+        "небезпека",
+        "Кременчуцький район"
+      ],
+      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
@@ -1702,25 +1939,6 @@
         "політика"
       ],
       "importance": 4,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMWFHDKGZAJ600",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/openai-cfo-sarah-friar-on-ai-safety-alignment-spending-video",
-      "published_at": "2026-10-14T13:26:00+00:00",
-      "raw_text": "OpenAI CFO Sarah Friar Discusses AI Safety & Alignment Spending\n\nBloomberg's Tom MacKenzie sits down with OpenAI CFO Sarah Friar at at the International AI Summit in Dublin to discuss AI safety and alignment spending.  (Source: Bloomberg)",
-      "title": "OpenAI обговорює витрати на безпеку штучного інтелекту",
-      "summary": "Фінансовий директор OpenAI Сара Фріар обговорила питання безпеки та вирівнювання штучного інтелекту на саміті в Дубліні. Інтерв'ю було записано для Bloomberg.",
-      "category": "Технології",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "технології",
-        "безпека"
-      ],
-      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
@@ -1976,6 +2194,24 @@
         "суд"
       ],
       "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMVEWGT96OSH00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/oasis-boosts-nidec-stake-says-it-s-now-largest-shareholder",
+      "published_at": "2026-10-14T11:59:20+00:00",
+      "raw_text": "Oasis Boosts Nidec Stake, Says It’s Now Largest Shareholder\n\nOasis Management Co. founder Seth Fischer said his activist fund has increased its stake in Nidec Corp. to become the largest shareholder, adding heft to its calls for the troubled Japanese motor maker to consider going private.",
+      "title": "Oasis збільшила частку в Nidec Corp",
+      "summary": "Фонд Oasis Management став найбільшим акціонером Nidec Corp. Інвестор закликає японського виробника двигунів розглянути можливість виходу з біржі.",
+      "category": "Економіка",
+      "tags": [
+        "Oasis Management",
+        "Nidec",
+        "інвестиції"
+      ],
+      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
