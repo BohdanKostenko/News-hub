@@ -408,7 +408,7 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
         
         let imageUrl = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
-        let mediaHtml = imageUrl ? ('<div class="card-media-wrap"><img src="' + imageUrl + '" alt="" loading="lazy" class="card-img" onerror="this.style.display=\'none\'"></div>') : '';
+                mediaHtml = imageUrl ? ('<div class="card-media-wrap"><img src="' + imageUrl + '" alt="" loading="lazy" class="card-img"></div>') : '';
 
         const card = document.createElement('div');
         card.className = 'card ' + theme;
