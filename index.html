@@ -747,5 +747,188 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
 
 
 </script>
+
+    <!-- Еруда для мобільного дебагу -->
+    <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+    <script>eruda.init();</script>
+
+    <script>
+        function getArticleMediaHtml(a) {
+            var url = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
+            if (!url && a.related_sources) {
+                for (var i = 0; i < a.related_sources.length; i++) {
+                    var s = a.related_sources[i];
+                    url = s.image_url || s.img || s.photo || '';
+                    if (url) break;
+                }
+            }
+            if (!url) return '';
+            return '<div class="card-media-wrap"><img src="' + url + '" alt="" loading="lazy" class="card-img"></div>';
+        }
+
+        function getRelatedHtml(a) {
+            if (!a.related_sources || !a.related_sources.length) return '';
+            var list = [];
+            if (a.source_name) {
+                list.push({
+                    name: a.source_name,
+                    url: a.source_url || '#',
+                    text: a.raw_text || a.summary || '',
+                    time: a.published_at || '',
+                    isBase: true
+                });
+            }
+            a.related_sources.forEach(function(s, idx) {
+                list.push({
+                    name: s.source_name || ('Джерело ' + (idx + 1)),
+                    url: s.source_url || '#',
+                    text: s.raw_text || 'Текст цього джерела не збережено.',
+                    time: s.published_at || '',
+                    isBase: false
+                });
+            });
+
+            var chips = list.map(function(s, idx) {
+                var badge = s.isBase ? '⭐ ' : '&#128279; ';
+                var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
+                return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
+            }).join(' ');
+
+            var panels = list.map(function(s, idx) {
+                var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">&#128279; Читати в першоджерелі &#8599;</a>' : '';
+                var time = s.time ? '<span class="source-box-time">&#128336; ' + s.time + '</span>' : '';
+                var star = s.isBase ? '⭐ ' : '';
+                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
+                       '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
+                       '<div class="source-box-body">' + s.text + '</div>' +
+                       '</div>';
+            }).join('');
+
+            return '<div class="related-chain-wrap"><div class="related-chain-label">Пов&#8217язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+        }
+
+        window.toggleSourceAccordion = function(articleId, idx, event) {
+            if (event) event.stopPropagation();
+            var targetId = 'src-box-' + articleId + '-' + idx;
+            var targetBox = document.getElementById(targetId);
+            if (!targetBox) return;
+
+            var isVisible = (targetBox.style.display === 'block');
+            var card = targetBox.closest('.related-chain-wrap') || document;
+
+            var allBoxes = card.querySelectorAll('.source-expand-box');
+            allBoxes.forEach(function(box) {
+                box.style.display = 'none';
+            });
+
+            var allBtns = card.querySelectorAll('.source-chip-btn');
+            allBtns.forEach(function(btn) {
+                btn.classList.remove('active');
+            });
+
+            if (!isVisible) {
+                targetBox.style.display = 'block';
+                if (event && event.currentTarget) {
+                    event.currentTarget.classList.add('active');
+                }
+            }
+        };
+
+        // Базові стани фільтрів та завантаження стрічки
+        let currentArticles = [];
+        let activeDateFilter = 'today';
+        let activeQuickFilters = new Set();
+        let activeTag = 'all';
+        let bookmarkedOnly = false;
+
+        function setDateFilter(tab) {
+            activeDateFilter = tab;
+            document.querySelectorAll('.filter-tab').forEach(el => el.classList.remove('active'));
+            document.getElementById('tab-' + tab).classList.add('active');
+            renderArticles();
+        }
+
+        function toggleQuickFilter(filterKey) {
+            if (activeQuickFilters.has(filterKey)) {
+                activeQuickFilters.delete(filterKey);
+                document.getElementById('q-' + filterKey).classList.remove('active');
+            } else {
+                activeQuickFilters.add(filterKey);
+                document.getElementById('q-' + filterKey).classList.add('active');
+            }
+            renderArticles();
+        }
+
+        function filterByTag(tag) {
+            activeTag = tag;
+            document.querySelectorAll('.tag-cloud .tag-btn').forEach(el => el.classList.remove('active'));
+            event.target.classList.add('active');
+            renderArticles();
+        }
+
+        function toggleBookmarkedOnly() {
+            bookmarkedOnly = !bookmarkedOnly;
+            document.getElementById('fav-filter').classList.toggle('active', bookmarkedOnly);
+            renderArticles();
+        }
+
+        function formatDateTime(iso) {
+            try {
+                var d = new Date(iso);
+                return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+            } catch(e) { return ''; }
+        }
+
+        function renderArticles() {
+            var container = document.getElementById('feed-container');
+            if (!container) return;
+            container.innerHTML = '';
+            
+            // Тут використовуємо збережені чи завантажені новини
+            var items = currentArticles || [];
+            items.forEach(function(a) {
+                var imageUrl = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
+                var mediaHtml = imageUrl ? ('<div class="card-media-wrap"><img src="' + imageUrl + '" alt="" loading="lazy" class="card-img"></div>') : '';
+                var relHtml = getRelatedHtml(a);
+                var isFav = false;
+                var isUrgent = a.is_urgent || false;
+                var theme = 'theme-' + (a.category || 'default');
+
+                var singleActionsHtml = '';
+                if (!relHtml) {
+                    singleActionsHtml = '<div class="card-actions"><a href="' + (a.source_url || '#') + '" target="_blank" rel="noopener noreferrer" class="source-link">Джерело &#8599;</a></div>';
+                }
+
+                var card = document.createElement('div');
+                card.className = 'card ' + theme;
+                card.innerHTML = mediaHtml +
+                    '<div class="card-body">' +
+                        '<div class="card-meta"><span>' + (a.source_name || 'Канал') + ' &bull; ' + (a.category || 'Новина') + '</span></div>' +
+                        '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">&#128680; ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>&#128336; ' + formatDateTime(a.published_at) + '</span>' : '') + '</div>' +
+                        '<div class="card-title">' + (a.title || '') + '</div>' +
+                        '<div class="card-summary">' + (a.summary || a.raw_text || '') + '</div>' +
+                        relHtml +
+                        singleActionsHtml +
+                    '</div>';
+                container.appendChild(card);
+            });
+        }
+
+        // Завантаження новин з локального JSON або API
+        async function loadFeed() {
+            try {
+                let res = await fetch('news.json?' + Date.now());
+                if (res.ok) {
+                    currentArticles = await res.json();
+                    renderArticles();
+                }
+            } catch(e) {
+                console.error("Помилка завантаження новин:", e);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', loadFeed);
+    </script>
+
 </body>
 </html>
