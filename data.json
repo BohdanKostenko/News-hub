@@ -1,13 +1,438 @@
 {
-  "updated_at": "2026-10-15 22:08",
+  "updated_at": "2026-10-16 01:10",
   "digest": [
-    "У Луцьку пролунали вибухи, в регіоні оголошено відбій тривоги.",
-    "Видання The Economist розкритикувало благодійний фонд Ілона Маска за повільний розподіл коштів.",
-    "У Франції автобус зіткнувся з потягом біля Євротунелю, постраждали 19 людей.",
-    "Китай планує масово впроваджувати штучний інтелект та роботів через старіння населення.",
-    "Сенатські перегони в Канзасі стали непередбачуваними через щільну боротьбу кандидатів."
+    "У Луцьку та Кременчуцькому районі лунала повітряна тривога через загрозу ворожих дронів, наразі ситуація стабілізувалася і тривоги скасовано.",
+    "Експерти оцінюють ризики податкової реформи в Китаї та можливий відтік капіталу з Індонезії через зниження індексів MSCI.",
+    "Аналітики підбивають підсумки першого року роботи Санае Такаїчі на посаді першої жінки-прем'єр-міністра Японії."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_27348",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27348",
+      "published_at": "2026-10-16T01:06:31+00:00",
+      "raw_text": "Fiscally, a shift to more direct taxation is right for China, promising a system that is fairer and more sustainable. We explain why, politically, it is a calculated gamble, \nhttps://t.co/aa26TXjk9xIllustration\n: Cornelia Li \nhttps://t.co/kpERFQSVBl\n — The Economist (\n@TheEconomist\n) \nOct 16, 2026",
+      "title": "Податкова реформа в Китаї",
+      "summary": "Перехід до прямих податків є правильним кроком для Китаю задля створення справедливої та стійкої системи. Водночас експерти вважають це політично прорахованим ризиком.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "податки",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77557",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77557",
+      "published_at": "2026-10-16T01:00:51+00:00",
+      "raw_text": "У Луцьку було чутно звуки вибухів, інформують кореспонденти Суспільного.",
+      "title": "Звуки вибухів у Луцьку",
+      "summary": "У Луцьку було чутно звуки вибухів. Про це інформують кореспонденти Суспільного.",
+      "category": "Брехня та війна",
+      "tags": [
+        "Луцьк",
+        "вибухи",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77553",
+          "raw_text": "В Івано-Франківську чутно звуки вибухів, повідомляють кореспонденти Суспільного.",
+          "published_at": "2026-10-16T00:13:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TMXTDRR24U8300",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-16/takaichi-s-challenges-after-one-year-in-office-video",
+      "published_at": "2026-10-16T01:00:42+00:00",
+      "raw_text": "Takaichi's Challenges After One Year in Office\n\nAs Sanae Takaichi marks one year since becoming Japan's first female prime minister, Bloomberg TV's Shery Ahn looks back at what has been achieved and what challenges lie ahead. (Source: Bloomberg)",
+      "title": "Підсумки першого року Санае Такаїчі на посаді прем'єр-міністра Японії",
+      "summary": "Минув рік з часу призначення Санае Такаїчі першою жінкою-прем'єр-міністром Японії. Експерти аналізують досягнення її уряду та виклики, які залишаються актуальними.",
+      "category": "Світ",
+      "tags": [
+        "Японія",
+        "політика",
+        "уряд"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/features/2026-10-16/japan-pm-sanae-takaichi-s-record-on-women-and-gender-equality",
+          "raw_text": "Japan PM Sanae Takaichi’s Record on Women and Gender Equality\n\nSanae Takaichi refuses to let gender define her politics, but her first year in office has made her a lightning rod for competing anxieties about women and power.",
+          "published_at": "2026-10-16T01:00:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_102738",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102738",
+      "published_at": "2026-10-16T00:57:54+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+      "title": "Оголошено повітряну тривогу через дронову загрозу",
+      "summary": "В регіоні оголошено повітряну тривогу. Зафіксовано жовтий рівень та дронову загрозу.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "дрони",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13578",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-16T00:23:18+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59005",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-16T00:23:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ok_kremen_59007",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59007",
+      "published_at": "2026-10-16T00:57:48+00:00",
+      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+      "title": "Повітряна тривога: дронова загроза у Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі введено повітряну тривогу через загрозу ворожих дронів. Встановлено жовтий рівень небезпеки.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчуцький район",
+        "БПЛА",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/HCyzBc193x7yCOqkcjiPqLtscoHxV1VMrN203pqFsu_xonoHCWx1-0GDpLv9JGdWda32gGb_OC-fvIm8OXeLZ6pUBVwO1bu_nyvtTb0ZUm37jlXwla91w_QySZ0QO-MOBSAFgMtk0cBFZWIIFw7IH6RazJzJWq-jFHBnOkfnSWmX96UJ9CPo__BnwKOSn-MYLedXD3UuugECmyYOpAmnkJQQBJK-6sx9E3eYODJLaMqS9woM6zmrimyubRsRtMW9ptZasPnsmd3TW1-aTQP-OnvDPZARdTivscfPPrpR54fKhQ6heXxlYHnufvKyTnRtpYry89JvXiW324-7v24uzQ.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13580",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-16T00:57:48+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13579",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-16T00:35:25+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59006",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-16T00:35:23+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102736",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+          "published_at": "2026-10-16T00:23:24+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59004",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-15T23:45:10+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13576",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-15T22:27:20+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77547",
+          "raw_text": "Київ — повітряна тривога через дронову загрозу.",
+          "published_at": "2026-10-15T20:03:09+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13574",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-15T19:22:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TMZ4UFT96OSH00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-outflows-to-worsen-as-msci-mulls-cut-analysts-say",
+      "published_at": "2026-10-16T00:43:17+00:00",
+      "raw_text": "Indonesia Outflows to Worsen as MSCI Mulls Cut, Analysts Say\n\nIndonesian stocks will likely see further outflows as the nation faces a potential ejection from global stock indexes following MSCI Inc.’s latest proposal to downgrade the country, according to analysts.",
+      "title": "Індонезія зіткнеться з відтоком капіталу через можливе зниження індексів MSCI",
+      "summary": "Індонезійські акції можуть зазнати додаткового відтоку коштів через можливе виключення країни з глобальних фондових індексів. Це пов'язано з останньою пропозицією MSCI Inc. щодо пониження рейтингу країни.",
+      "category": "Економіка",
+      "tags": [
+        "Індонезія",
+        "Акції",
+        "MSCI",
+        "Фінанси"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27347",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27347",
+      "published_at": "2026-10-16T00:41:17+00:00",
+      "raw_text": "Donald Trump’s repeated acts of indulgence towards Vladimir Putin, supposedly in pursuit of peace, undermine deterrence, hastening further crimes. And for what? \nhttps://t.co/AO9c7HHfRJ\n — The Economist (\n@TheEconomist\n) \nOct 16, 2026",
+      "title": "Вплив політики Дональда Трампа щодо Володимира Путіна",
+      "summary": "Дії Дональда Трампа щодо Володимира Путіна нібито заради миру підривають стримування. Це може призвести до нових злочинів.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Росія",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_102737",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102737",
+      "published_at": "2026-10-16T00:35:23+00:00",
+      "raw_text": "🟢\n Відбій повітряної тривоги!",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У місті та області офіційно скасовано повітряну тривогу. Ситуація стабілізувалася.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77554",
+          "raw_text": "Київ — відбій повітряної тривоги через дронову небезпеку.",
+          "published_at": "2026-10-16T00:20:39+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102735",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-15T23:45:16+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13577",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-15T23:45:11+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13575",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-15T21:19:41+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102733",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-15T21:19:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_cw5yn83m8gypo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-16T00:34:45+00:00",
+      "raw_text": "Same-day test helps doctors detect hidden infections in critically ill children\n\nMetagenomics offers a new way of detecting infections in intensive care patients.",
+      "title": "Новий тест допомагає виявляти приховані інфекції у важкохворих дітей",
+      "summary": "Метагеноміка пропонує новий швидкий метод виявлення інфекцій у пацієнтів відділень інтенсивної терапії. Це допомагає лікарям діагностувати хвороби за один день.",
+      "category": "Технології",
+      "tags": [
+        "медицина",
+        "наука",
+        "здоров'я"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77556",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77556",
+      "published_at": "2026-10-16T00:33:13+00:00",
+      "raw_text": "В Івано-Франківську пролунали повторні вибухи, повідомили наші кореспонденти.",
+      "title": "Повторні вибухи в Івано-Франківську",
+      "summary": "В Івано-Франківську зафіксовано повторні вибухи. Про це повідомили кореспонденти з місця подій.",
+      "category": "Брехня та війна",
+      "tags": [
+        "Івано-Франківськ",
+        "вибухи",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77555",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77555",
+      "published_at": "2026-10-16T00:29:30+00:00",
+      "raw_text": "У Рівному було чутно звук вибуху, повідомляють кореспонденти Суспільного.",
+      "title": "Вибух у Рівному",
+      "summary": "У Рівному пролунав звук вибуху. Інформацію про це підтвердили кореспонденти Суспільного.",
+      "category": "Брехня та війна",
+      "tags": [
+        "Рівне",
+        "вибухи",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27346",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27346",
+      "published_at": "2026-10-16T00:26:39+00:00",
+      "raw_text": "“There’s so much more spending to cut and so many more taxes to lower,” Argentina’s president emphasises in an interview. But with his personal net approval rating deeply negative, Javier Milei’s free-market experiment hangs in the balance \nhttps://t.co/IN5PT3AMbE\n — The Economist (\n@TheEconomist\n) \nOct 16, 2026",
+      "title": "Політичний експеримент Хав'єра Мілея в Аргентині",
+      "summary": "Президент Аргентини наголошує на подальшому скороченні витрат та зниженні податків. Проте через негативний особистий рейтинг його ринкові реформи опинилися під загрозою.",
+      "category": "Світ",
+      "tags": [
+        "Аргентина",
+        "економіка",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMZ068T96OSR00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
+      "published_at": "2026-10-15T23:51:46+00:00",
+      "raw_text": "Gold Holds Gain With Haven Demand and Lower Yields in Focus\n\nGold steadied after rising the most in more than two weeks on Thursday as a stock selloff drove investors into bonds, pushing down Treasury yields.",
+      "title": "Золото стабілізувалося після зростання на тлі попиту на безпечні активи",
+      "summary": "Золото утримало позиції після найбільшого за два тижні зростання у четвер. Падіння фондового ринку змусило інвесторів перемкнутися на облігації, що призвело до зниження прибутковості казначейських облігацій.",
+      "category": "Економіка",
+      "tags": [
+        "Золото",
+        "Фінанси",
+        "Ринки"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27344",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27344",
+      "published_at": "2026-10-15T23:46:32+00:00",
+      "raw_text": "With the help of prevailing winds, Ukraine is reportedly using balloons to carry and launch drones, leaving them almost fully charged and closer to their target \nhttps://t.co/Ft7Cy1tpGm\n — The Economist (\n@TheEconomist\n) \nOct 15, 2026",
+      "title": "Використання повітряних куль для запуску дронів",
+      "summary": "Україна нібито використовує повітряні кулі та попутний вітер для транспортування та запуску дронів ближче до цілі. Це дозволяє залишати їх майже повністю зарядженими.",
+      "category": "Технології",
+      "tags": [
+        "Україна",
+        "дрони",
+        "технології",
+        "The Economist"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146425",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146425",
+      "published_at": "2026-10-15T23:44:46+00:00",
+      "raw_text": "❗️\nрф під масованою комбінованою атакою: заявлено, що летять «Фламінго» та БпЛА (в тому числі реактивні).  Тільки на москву летить під 250 дронів, усі аеропорти столиці росії не працюють.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+      "title": "Масована атака дронів на Москву та регіони РФ",
+      "summary": "Росія зазнала масованої комбінованої атаки БпЛА та ракет. Повідомляється про рух сотень безпілотників у бік Москви, через що роботу всіх столичних аеропортів було зупинено.",
+      "category": "Світ",
+      "tags": [
+        "атака",
+        "ДПЛА",
+        "Москва",
+        "Росія"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/36d0d67041.mp4?token=rqov9MuXfMBptAhzIj2NQS0UUroTrVe_UOVg-x2210yLyZodUKMvTmSci43XFfphbogd1Bs0RGu_MT6XUj5tD0Nzm58B-Dkn0HI4f1fYKQT6zfqYo4IppdvPCGJyXJw8cLqGQBtWpltAvlj4FGIidoWTUlZzELvl2Jz107nKY67hrJvlZCvOIG2gPjhJGPCmFcyfIe7VRDCbGqE8HIb9_2w0MpfJkkIlT2Yaw5D6TNX-2tzgDdiAACs31yqeE4AbfTwBtahedaRvo07SieHjbR0l17dXTjLLCN09lEjSH85sDIJnj80un6IeTTU-6y-AKgPXUUPEDFPMw4oNdVo59Q"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/93ec6bd3c8.mp4?token=ORNHSKHD4LhYKDLWBXCAehMOoYHqRJ_FsZe3z-r4cdaVLifVJpIp7k0tV4OM9X1tuTEwFDS126KPLSP6h4vrOF-h_yJ_si7kiCHDFFMa8_u50lzN13TJknfJhR_Ak4vcqc9fO5WQVi1sh5lSPwB_puAYoxE0eA9Ttw_lDWIUdUhSl0hzmNLQeXICPY-wVLyK8F6BBuhInMs5UHWIs0ZFSxwupqgGFkoK4vKLVg7-X60IyKz3L19D1nbp_WhUn-jhNJaHv6d1pdr9WIz5rReR3B6jWIWikJtkKJRu4r1Dl2Yo7RCmBwitVmjSqI1qgH0rAEyEDaiWX2oE5jXIDRfZeA"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/239a871d34.mp4?token=TF1e1XX28Hf5RxgakFQGgoyH2gYnA5PvmhE3SOEhXxOqCKcdzC1RBFLxRkQmLE3DoCiI0GCuRDNw7Rf9sAjYp6IQWzA5j08vo08si1miQ1HG9Q6FWm6y7-L91zMaPZZBH59y85hYB0-6-UotGj-bEQ-9wnmoSYL5vGTTeTtRZ9UfQlNNqcLafknZ8r8msayckBauw4lFtew6zw3FZijbpvZf-jH7ycwJpJsm3BDZwLFdOz3Az66tlsTXL0JBgrtwVzRe9dPuzcGVWh9CHTLcdcD9RzaR18n0gFkw7P0Bx38A2hcBhv1Ffn0FdVB8l2ReT75qhUAlHpYwGSWfzXKTLw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/8078ba2ac8.mp4?token=YPQFQdMUh4ZdRVjIWRT5JNb9KiaYWpsifPdIn0eJ1Dd0MdTaE_LbHVvFlvcs7WWZQ5N54uE1gWPgrUQUc2Yv5YyTVwLb0_YlzNQ9vZiJwsS58-jEdajk0idhFFDGhmOGlCAN8fzeGlUcB8953cBJQLxZ-HHWa1Fk92i-o_phe6YWLAogsbqT6Kx100gALkVdDpSgI6gJDF2nP9k3-BFeUktdaTSWiO7YjIVWt8Yp5EGkFeOpFgcXeMnBj3L7deh8LzkrvMYboS_RFBZYU4669dUyv3AkyAshpEJHR4gEaaWwrWEDLEHPqC5eB1Qo7VhmL3Hyo72qg4hx4mBNgz2EEw"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146423",
+          "raw_text": "❗️\nрф під масованою комбінованою атакою:\n заявлено, що летять «Фламінго» та БпЛА (в тому числі реактивні).\n\n\n\n\nТільки на москву летить \nпід 250 дронів\n, усі аеропорти столиці росії не працюють.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+          "published_at": "2026-10-15T20:41:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_cq4g17j1ej95o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-15T23:01:49+00:00",
+      "raw_text": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march\n\nThe celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
+      "title": "Драматичні події на шоу The Celebrity Traitors",
+      "summary": "Учасники шоу влаштовують конфлікти за круглим столом та намагаються переграти 'марш смерті' під час місії. Епізод обіцяє бути напруженим та емоційним для глядачів.",
+      "category": "Культура",
+      "tags": [
+        "шоу",
+        "телебачення",
+        "Світ"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "TheEconomistOfficial_27339",
       "source_name": "@theeconomistofficial",
@@ -21,6 +446,43 @@
         "Ілон Маск",
         "фінанси",
         "благодійність"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMYU27KGIFQ800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
+      "published_at": "2026-10-15T22:04:06+00:00",
+      "raw_text": "Asian Stocks Rise as Chip Selloff Eases, Oil Slips: Markets Wrap\n\nAsian equities rose as dip buyers stepped in following a chip-stock selloff fueled by concerns about the artificial intelligence trade. Crude oil edged lower.",
+      "title": "Зростання азійських ринків на тлі послаблення падіння акцій чипів",
+      "summary": "Азійські фондові ринки продемонстрували зростання завдяки інвесторам, які викуповують просідання після розпродажу акцій технологічних компаній через побоювання щодо штучного інтелекту. Водночас ціни на сиру нафту дещо знизилися.",
+      "category": "Економіка",
+      "tags": [
+        "ринки",
+        "акції",
+        "нафта",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TMXJDBKK3NYB00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
+      "published_at": "2026-10-15T22:03:58+00:00",
+      "raw_text": "Latest Oil Market News and Analysis for Oct. 16\n\nOil was set for a second weekly advance as increasing Middle East supply risks weighed against a fresh release of emergency reserves.",
+      "title": "Нафта готується до другого тижневого зростання",
+      "summary": "Ціни на нафту демонструють тенденцію до другого поспіль тижневого підвищення. Зростання ризиків постачання з Близького Сходу переважає вплив від вивільнення стратегічних резервів.",
+      "category": "Економіка",
+      "tags": [
+        "Нафта",
+        "Ринки",
+        "Енергоносії"
       ],
       "importance": 2,
       "media_list": [],
@@ -87,72 +549,6 @@
       "importance": 1,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_102733",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102733",
-      "published_at": "2026-10-15T21:19:41+00:00",
-      "raw_text": "🟢\n Відбій повітряної тривоги!",
-      "title": "Відбій повітряної тривоги",
-      "summary": "Зафіксовано відбій повітряної тривоги в регіоні. Можна залишати укриття.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "відбій"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13575",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-15T21:19:41+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59002",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-15T21:19:40+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77545",
-          "raw_text": "Київ — відбій тривоги через загрозу дронів.",
-          "published_at": "2026-10-15T19:45:36+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13573",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-15T19:06:32+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/58999",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-15T19:06:31+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102731",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-10-15T19:06:31+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13570",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-15T18:28:42+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13567",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-15T14:58:07+00:00"
-        }
-      ]
     },
     {
       "id": "suspilnenews_77549",
@@ -280,30 +676,6 @@
           "published_at": "2026-10-15T19:39:58+00:00"
         }
       ]
-    },
-    {
-      "id": "truexanewsua_146423",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146423",
-      "published_at": "2026-10-15T20:41:48+00:00",
-      "raw_text": "❗️\nрф під масованою комбінованою атакою:\n заявлено, що летять «Фламінго» та БпЛА (в тому числі реактивні).\n\n\n\n\nТільки на москву летить \nпід 250 дронів\n, усі аеропорти столиці росії не працюють.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
-      "title": "Масована атака на РФ та Москву",
-      "summary": "Росія зазнала масованої комбінованої атаки безпілотниками та ракетами. Повідомляється про загрозу для Москви, де через наліт сотень дронів призупинили роботу всі аеропорти.",
-      "category": "Світ",
-      "tags": [
-        "Росія",
-        "Москва",
-        "БПЛА",
-        "атака"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/fITtGhMs9Z0EvW4m8LY-8RGRiGo2j-1H7rE5eoAFVd6Dw86C4zE6dHs4o8b0VcmJ9Uu_Gwt4W1BwvPbHMe8QagmHdUj7yk19wXZaAtDPn0g8hHQ4E5HrITLlNNNGLXGbckYofRKSrzJ_AeDAhshb27F5_8vmxPUlQdlw0BXakIN8N1noDHLrQfBfsG6LMcTTo_wOpfVRQdvq_Z5TqNGvZWXlATD2KDCwf1PI_VWfLt4fQwfebP2pnkDrJLh2YvDwPZMmYDVJjyoeQmfryrXlaaR7KNOVzOD_kUJBblr0f428KZ-Y3iyYM4C3tg4bSE9xJI-LEfRfkS2jR52GpHMXvA.jpg'"
-        }
-      ],
-      "related_sources": []
     },
     {
       "id": "hromadske_ua_89545",
@@ -442,48 +814,6 @@
       "related_sources": []
     },
     {
-      "id": "suspilnenews_77547",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77547",
-      "published_at": "2026-10-15T20:03:09+00:00",
-      "raw_text": "Київ — повітряна тривога через дронову загрозу.",
-      "title": "Повітряна тривога у Києві",
-      "summary": "У Києві оголошено повітряну тривогу через загрозу застосування ворожих ударних дронів. Мешканців закликали перебувати в укриттях.",
-      "category": "Місто",
-      "tags": [
-        "Київ",
-        "тривога",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/HCyzBc193x7yCOqkcjiPqLtscoHxV1VMrN203pqFsu_xonoHCWx1-0GDpLv9JGdWda32gGb_OC-fvIm8OXeLZ6pUBVwO1bu_nyvtTb0ZUm37jlXwla91w_QySZ0QO-MOBSAFgMtk0cBFZWIIFw7IH6RazJzJWq-jFHBnOkfnSWmX96UJ9CPo__BnwKOSn-MYLedXD3UuugECmyYOpAmnkJQQBJK-6sx9E3eYODJLaMqS9woM6zmrimyubRsRtMW9ptZasPnsmd3TW1-aTQP-OnvDPZARdTivscfPPrpR54fKhQ6heXxlYHnufvKyTnRtpYry89JvXiW324-7v24uzQ.jpg'"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102732",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-15T19:22:05+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13571",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-15T18:46:02+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77528",
-          "raw_text": "Київ — повітряна тривога через дронову загрозу.",
-          "published_at": "2026-10-15T16:24:20+00:00"
-        }
-      ]
-    },
-    {
       "id": "suspilnenews_77546",
       "source_name": "@suspilnenews",
       "source_url": "https://t.me/suspilnenews/77546",
@@ -566,6 +896,32 @@
       "related_sources": []
     },
     {
+      "id": "holosameryky_22312",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22312",
+      "published_at": "2026-10-15T19:39:58+00:00",
+      "raw_text": "Європейські лідери \nзакликають збільшити фінансову допомогу Україні \nта продовжити її військову підтримку на тлі погіршення відносин Києва з Вашингтоном.\n\n\n\n\nВодночас вони відкидають ідею п\nередати заморожені російські активи під контроль США.\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8211618.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Заклики європейських лідерів щодо підтримки України",
+      "summary": "Європейські лідери закликають збільшити фінансову та військову допомогу Україні на тлі погіршення відносин Києва з Вашингтоном. Водночас вони відкидають передачу заморожених російських активів під контроль США.",
+      "category": "Світ",
+      "tags": [
+        "Україна",
+        "Європа",
+        "США",
+        "допомога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89524",
+          "raw_text": "🇱🇻\n Прем’єр-міністр Латвії \nвважає\n, що для кожного європейця витрати, пов’язані з підтримкою України, становлять ціну «одного пива». \n\n\n\n\nВін закликав продовжити допомагати Україні фінансово, навіть якщо це означатиме втрату комфорту\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-15T12:43:20+00:00"
+        }
+      ]
+    },
+    {
       "id": "hromadske_ua_89543",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/89543",
@@ -620,49 +976,6 @@
           "source_url": "https://t.me/holosameryky/22311",
           "raw_text": "🔴\n \nЩо сталося зі Starlink та розвідданими – пояснюють у США. ЧАС-TIME\n \n➡️\n \nhttps://youtube.com/live/uPhlaxF4ynA\n\n\n\n\n🔹\n Росія відповідає на зусилля США щодо деескалації\n новими атаками\n, а НАТО та ЄС \nнаголошують на підтримці\n України.\n\n\n🔹\n \n«З нас досить».\n Президент України Зеленський заявив \nпро відновлення ударів по НПЗ у Росії.\n\n\n🔹\n \nСША переймають досвід України\n у сфері дронових технологій, заявив очільник Пентагону Піт Геґсет. Українські учасники найбільшої оборонної виставки США кажуть: їхній продукт сильний тим, що \nпройшов перевірку в реальних боях.\n\n\n\n\nДивіться ЧАС-TIME з понеділка по п’ятницю \nо 21:30 за Києвом!\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
           "published_at": "2026-10-15T18:23:44+00:00"
-        }
-      ]
-    },
-    {
-      "id": "sirena_kremenchuk_13574",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13574",
-      "published_at": "2026-10-15T19:22:06+00:00",
-      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-      "title": "Дронова загроза у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу через загрозу ворожих безпілотників. Працює система оповіщення.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "дронова загроза",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59000",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-15T19:22:05+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102730",
-          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
-          "published_at": "2026-10-15T19:01:33+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13572",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-15T18:59:43+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/58997",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-15T18:45:59+00:00"
         }
       ]
     },
@@ -1734,37 +2047,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_89524",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/89524",
-      "published_at": "2026-10-15T12:43:20+00:00",
-      "raw_text": "🇱🇻\n Прем’єр-міністр Латвії \nвважає\n, що для кожного європейця витрати, пов’язані з підтримкою України, становлять ціну «одного пива». \n\n\n\n\nВін закликав продовжити допомагати Україні фінансово, навіть якщо це означатиме втрату комфорту\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Заклик прем'єра Латвії щодо підтримки України",
-      "summary": "Прем'єр-міністр Латвії порівняв витрати європейців на підтримку України з вартістю одного пива. Він закликав продовжувати фінансову допомогу попри можливу втрату комфорту.",
-      "category": "Світ",
-      "tags": [
-        "Латвія",
-        "допомога Україні",
-        "Європа"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77519",
-          "raw_text": "🇱🇻\n Прем’єр Латвії Кулбергс \nзакликав\n ЄС заборонити транзит російського зерна через країни Балтії. За його словами, РФ заробляє на цих перевезеннях, тоді як Україна через блокування морського експорту втрачає доходи напередодні зими.\n\n\n\n\nКулбергс також наголосив, що фінансова підтримка України посильна для Європи. \n\n\n\n\n«Це на одне пиво менше для одного європейця на рік. Ми можемо собі це дозволити. Для України це потрібно зараз. Це одне пиво — просто вартість. Там — це вартість життя», — сказав латвійський премʼєр.",
-          "published_at": "2026-10-15T12:17:38+00:00"
-        },
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22310",
-          "raw_text": "Збільшити підтримку ППО України\n закликав союзників генсекретар НАТО Марк Рютте.\n\n\n\n\nБританія цього ж дня анонсувала прискорення поставок засобів ППО для України.\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8211268.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-10-15T03:01:10+00:00"
-        }
-      ]
     },
     {
       "id": "kremenchugtruexa_46616",
