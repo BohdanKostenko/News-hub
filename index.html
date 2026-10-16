@@ -1,383 +1,278 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-  <script src="https://cdn.jsdelivr.net/npm/eruda">
-
-
-
-function getArticleMediaHtml(a) {
-    var url = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
-    if (!url && a.related_sources) {
-        for (var i = 0; i < a.related_sources.length; i++) {
-            var s = a.related_sources[i];
-            url = s.image_url || s.img || s.photo || '';
-            if (url) break;
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Хаб Новин</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#121214">
+    <style>
+        :root {
+            --bg: #121214; --card: #1c1c21; --card-border: #27272a;
+            --text: #e4e4e7; --muted: #a1a1aa; --accent: #3b82f6;
+            --urgent: #ef4444; --energy: #eab308; --world: #22c55e;
+            --ua: #3b82f6; --kremen: #f97316; --digest-bg: #1e293b;
         }
-    }
-    if (!url) return '';
-    return '<div class="card-media-wrap"><img src="' + url + '" alt="" loading="lazy" class="card-img"></div>';
-}
-
-function getRelatedHtml(a) {
-    if (!a.related_sources || !a.related_sources.length) return '';
-    var list = [];
-    if (a.source_name) {
-        list.push({
-            name: a.source_name,
-            url: a.source_url || '#',
-            text: a.raw_text || a.summary || '',
-            time: a.published_at || '',
-            isBase: true
-        });
-    }
-    a.related_sources.forEach(function(s, idx) {
-        list.push({
-            name: s.source_name || ('Джерело ' + (idx + 1)),
-            url: s.source_url || '#',
-            text: s.raw_text || 'Текст цього джерела не збережено.',
-            time: s.published_at || '',
-            isBase: false
-        });
-    });
-
-    var chips = list.map(function(s, idx) {
-        var badge = s.isBase ? '⭐ ' : '&#128279; ';
-        var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
-        return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
-    }).join(' ');
-
-    var panels = list.map(function(s, idx) {
-        var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">&#128279; Читати в першоджерелі &#8599;</a>' : '';
-        var time = s.time ? '<span class="source-box-time">&#128336; ' + s.time + '</span>' : '';
-        var star = s.isBase ? '⭐ ' : '';
-        return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
-               '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
-               '<div class="source-box-body">' + s.text + '</div>' +
-               '</div>';
-    }).join('');
-
-    return '<div class="related-chain-wrap"><div class="related-chain-label">Пов&#8217язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
-}
-
-window.toggleSourceAccordion = function(articleId, idx, event) {
-    if (event) event.stopPropagation();
-    var targetId = 'src-box-' + articleId + '-' + idx;
-    var targetBox = document.getElementById(targetId);
-    if (!targetBox) return;
-
-    var isVisible = (targetBox.style.display === 'block');
-    var card = targetBox.closest('.related-chain-wrap') || document;
-
-    var allBoxes = card.querySelectorAll('.source-expand-box');
-    allBoxes.forEach(function(box) {
-        box.style.display = 'none';
-    });
-
-    var allBtns = card.querySelectorAll('.source-chip-btn');
-    allBtns.forEach(function(btn) {
-        btn.classList.remove('active');
-    });
-
-    if (!isVisible) {
-        targetBox.style.display = 'block';
-        if (event && event.currentTarget) {
-            event.currentTarget.classList.add('active');
-        }
-    }
-};
-
-</script><script>eruda.init();
-function getArticleMediaHtml(a) {
-    var url = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
-    if (!url && a.related_sources) {
-        for (var i = 0; i < a.related_sources.length; i++) {
-            var s = a.related_sources[i];
-            url = s.image_url || s.img || s.photo || '';
-            if (url) break;
-        }
-    }
-    if (!url) return '';
-    return '<div class="card-media-wrap"><img src="' + url + '" alt="" loading="lazy" class="card-img"></div>';
-}
-
-function getRelatedHtml(a) {
-    if (!a.related_sources || !a.related_sources.length) return '';
-    var list = [];
-    if (a.source_name) {
-        list.push({
-            name: a.source_name,
-            url: a.source_url || '#',
-            text: a.raw_text || a.summary || '',
-            time: a.published_at || '',
-            isBase: true
-        });
-    }
-    a.related_sources.forEach(function(s, idx) {
-        list.push({
-            name: s.source_name || ('Джерело ' + (idx + 1)),
-            url: s.source_url || '#',
-            text: s.raw_text || 'Текст цього джерела не збережено.',
-            time: s.published_at || '',
-            isBase: false
-        });
-    });
-
-    var chips = list.map(function(s, idx) {
-        var badge = s.isBase ? '⭐ ' : '&#128279; ';
-        var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
-        return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
-    }).join(' ');
-
-    var panels = list.map(function(s, idx) {
-        var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">&#128279; Читати в першоджерелі &#8599;</a>' : '';
-        var time = s.time ? '<span class="source-box-time">&#128336; ' + s.time + '</span>' : '';
-        var star = s.isBase ? '⭐ ' : '';
-        return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
-               '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
-               '<div class="source-box-body">' + s.text + '</div>' +
-               '</div>';
-    }).join('');
-
-    return '<div class="related-chain-wrap"><div class="related-chain-label">Пов&#8217язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
-}
-
-window.toggleSourceAccordion = function(articleId, idx, event) {
-    if (event) event.stopPropagation();
-    var targetId = 'src-box-' + articleId + '-' + idx;
-    var targetBox = document.getElementById(targetId);
-    if (!targetBox) return;
-
-    var isVisible = (targetBox.style.display === 'block');
-    var card = targetBox.closest('.related-chain-wrap') || document;
-
-    var allBoxes = card.querySelectorAll('.source-expand-box');
-    allBoxes.forEach(function(box) {
-        box.style.display = 'none';
-    });
-
-    var allBtns = card.querySelectorAll('.source-chip-btn');
-    allBtns.forEach(function(btn) {
-        btn.classList.remove('active');
-    });
-
-    if (!isVisible) {
-        targetBox.style.display = 'block';
-        if (event && event.currentTarget) {
-            event.currentTarget.classList.add('active');
-        }
-    }
-};
-
-</script>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Хаб Новин</title>
-  <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#121214">
-  <style>
-    :root {
-      --bg: #121214; --card: #1c1c21; --card-border: #27272a;
-      --text: #e4e4e7; --muted: #a1a1aa; --accent: #3b82f6;
-      --urgent: #ef4444; --energy: #eab308; --world: #22c55e;
-      --ua: #3b82f6; --kremen: #f97316; --digest-bg: #1e293b;
-    }
-    body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 16px; }
-    .container { max-width: 600px; margin: 0 auto; }
-    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-    .header-btns { display: flex; gap: 6px; }
-    .search-box { width: 100%; box-sizing: border-box; background: var(--card); border: 1px solid var(--card-border); color: var(--text); padding: 10px 14px; border-radius: 12px; font-size: 14px; margin-bottom: 12px; outline: none; }
-    .status-badge { display: none; background: #3b82f620; border: 1px solid var(--accent); color: var(--accent); padding: 8px 12px; border-radius: 10px; font-size: 13px; margin-bottom: 12px; text-align: center; }
-    .filter-bar { display: flex; gap: 6px; margin-bottom: 10px; background: #18181b; padding: 4px; border-radius: 12px; border: 1px solid var(--card-border); }
-    .filter-tab { flex: 1; background: none; border: none; color: var(--muted); padding: 7px 0; border-radius: 8px; font-size: 13px; font-weight: 500; cursor: pointer; text-align: center; }
-    .filter-tab.active { background: var(--card); color: #fff; }
-    .quick-filters { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 12px; }
-    .quick-btn { background: #18181b; border: 1px solid var(--card-border); color: var(--text); border-radius: 10px; padding: 6px 10px; font-size: 12px; cursor: pointer; white-space: nowrap; transition: all 0.2s; }
-    .quick-btn.active#q-alert { background: #ef444425; border-color: var(--urgent); color: var(--urgent); }
-    .quick-btn.active#q-power { background: #eab30825; border-color: var(--energy); color: var(--energy); }
-    .quick-btn.active#q-world { background: #22c55e25; border-color: var(--world); color: var(--world); }
-    .quick-btn.active#q-ua { background: #3b82f625; border-color: var(--ua); color: var(--ua); }
-    .quick-btn.active#q-kremen { background: #f9731625; border-color: var(--kremen); color: var(--kremen); }
-    .digest-card { background: var(--digest-bg); border: 1px solid #334155; border-radius: 14px; padding: 14px; margin-bottom: 16px; }
-    .digest-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
-    .digest-title { font-size: 15px; font-weight: 600; margin: 0; }
-    .audio-btn { background: #334155; border: none; color: #38bdf8; border-radius: 8px; padding: 4px 10px; font-size: 12px; cursor: pointer; font-weight: 500; }
-    .digest-card ul { margin: 0; padding-left: 20px; font-size: 13.5px; color: #cbd5e1; line-height: 1.45; }
-    .tag-cloud { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 10px; margin-bottom: 14px; }
-    .tag-btn { background: var(--card); color: var(--text); border: 1px solid var(--card-border); border-radius: 16px; padding: 6px 12px; font-size: 13px; cursor: pointer; white-space: nowrap; }
-    .tag-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
-    .feed { display: flex; flex-direction: column; gap: 16px; }
-    .card { background: var(--card); border-radius: 14px; overflow: hidden; border: 1px solid var(--card-border); transition: border-color 0.2s, box-shadow 0.2s; }
-    .card.urgent { border: 1px solid var(--urgent); box-shadow: 0 0 10px rgba(239, 68, 68, 0.2); }
-    .card.theme-energy { border: 1px solid var(--energy); box-shadow: 0 0 10px rgba(234, 179, 8, 0.25); }
-    .card.theme-world { border: 1px solid var(--world); box-shadow: 0 0 10px rgba(34, 197, 94, 0.2); }
-    .card.theme-ua { border: 1px solid var(--ua); box-shadow: 0 0 10px rgba(59, 130, 246, 0.25); }
-    .card.theme-kremen { border: 1px solid var(--kremen); box-shadow: 0 0 10px rgba(249, 115, 22, 0.25); }
-    .media-gallery { display: grid; gap: 4px; background: #09090b; }
-    .gallery-1 { grid-template-columns: 1fr; }
-    .gallery-2 { grid-template-columns: 1fr 1fr; }
-    .gallery-3 { grid-template-columns: 1fr 1fr; }
-    .gallery-3 img:first-child { grid-column: span 2; }
-    .gallery-4 { grid-template-columns: 1fr 1fr; }
-    .media-gallery img { width: 100%; height: 220px; object-fit: cover; cursor: pointer; display: block; }
-    .gallery-1 img { height: auto; max-height: 380px; }
-    .media-gallery video { width: 100%; max-height: 300px; display: block; }
-    .card-body { padding: 14px; }
-    .card-meta { font-size: 12px; color: var(--muted); margin-bottom: 4px; display: flex; justify-content: space-between; align-items: center; }
-    .card-time-row { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #94a3b8; margin-bottom: 8px; }
-    .reading-time { font-size: 11px; color: #71717a; }
-    .urgent-badge { background: var(--urgent); color: #fff; font-size: 11px; font-weight: bold; padding: 2px 6px; border-radius: 4px; }
-    .card-title { font-size: 16.5px; font-weight: 600; margin: 0 0 8px; line-height: 1.35; }
-    .card-summary { font-size: 14px; color: #d4d4d8; line-height: 1.45; margin: 0 0 10px; }
-    .full-text { display: none; margin-top: 10px; padding: 10px 12px; background: #18181b; border-radius: 10px; border: 1px solid var(--card-border); font-size: 13.5px; line-height: 1.5; color: #e4e4e7; white-space: pre-wrap; }
-    .related-box { margin-top: 10px; padding: 8px 10px; background: #18181b; border-radius: 8px; font-size: 12px; color: var(--muted); }
-    .related-box a { color: var(--accent); text-decoration: none; margin-left: 4px; }
-    .card-actions { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--card-border); }
-    .toggle-full-btn { background: none; border: none; color: var(--accent); font-size: 13px; cursor: pointer; padding: 0; font-weight: 500; }
-    .source-link { font-size: 12px; color: var(--muted); text-decoration: none; }
-    .card-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
-    .badge { font-size: 11px; background: #27272a; color: var(--muted); padding: 2px 8px; border-radius: 6px; }
-    .bookmark-btn { background: none; border: none; font-size: 18px; cursor: pointer; }
-    .modal { display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.7); justify-content: center; align-items: center; padding: 16px; z-index: 100; }
-    .modal-content { background: var(--card); border: 1px solid var(--card-border); border-radius: 16px; padding: 18px; max-width: 480px; width: 100%; box-sizing: border-box; }
-    .sources-list { margin: 14px 0; display: flex; flex-direction: column; gap: 8px; max-height: 240px; overflow-y: auto; }
-    .source-item { display: flex; justify-content: space-between; align-items: center; background: #18181b; padding: 8px 12px; border-radius: 8px; font-size: 13px; }
-    .del-btn { background: none; border: none; color: #ef4444; cursor: pointer; font-size: 18px; }
-    .lightbox { display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.92); z-index: 200; justify-content: center; align-items: center; padding: 12px; }
-    .lightbox img { max-width: 100%; max-height: 95vh; border-radius: 8px; object-fit: contain; }
-    .lightbox-close { position: absolute; top: 16px; right: 20px; font-size: 32px; color: #fff; cursor: pointer; background: none; border: none; }
-  
-    /* Стилі для пов'язаних джерел */
-    .related-chain-wrap { margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); }
-    .related-chain-label { font-size: 0.8rem; color: #94a3b8; margin-bottom: 8px; font-weight: 500; }
-    .related-chips-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
-    .source-chip-btn {
-      background: #1e293b; color: #38bdf8; border: 1px solid #334155;
-      border-radius: 8px; padding: 6px 12px; font-size: 0.82rem; cursor: pointer; transition: all 0.2s;
-    }
-    .source-chip-btn.is-main {
-      border-color: #f59e0b; color: #fcd34d; background: #292010; font-weight: 600;
-    }
-    .source-chip-btn:hover, .source-chip-btn.active {
-      background: #0284c7; color: #ffffff; border-color: #38bdf8;
-    }
-    .source-expand-box {
-      background: #0f172a; border: 1px solid #1e293b; border-left: 3px solid #0284c7;
-      border-radius: 8px; padding: 12px; margin-top: 10px; font-size: 0.88rem; color: #f1f5f9;
-    }
-    .source-box-header {
-      display: flex; justify-content: space-between; align-items: center;
-      margin-bottom: 8px; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;
-      flex-wrap: wrap; gap: 6px;
-    }
-    .source-box-title { font-weight: 600; color: #38bdf8; }
-    .source-direct-link { color: #f59e0b; text-decoration: none; font-size: 0.82rem; font-weight: 500; }
-    .source-direct-link:hover { text-decoration: underline; }
-    .source-box-body { line-height: 1.5; color: #cbd5e1; font-size: 0.84rem; white-space: pre-wrap; margin: 0; }
-
-  </style>
-
-<style>
-.sources-chain-wrapper { margin-top: 14px; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 10px; }
-.sources-chain-title { font-size: 0.8rem; color: #9ca3af; margin-bottom: 6px; }
-.sources-chips-container { display: flex; flex-wrap: wrap; gap: 6px; }
-.source-chip {
-  background: #1f2937; color: #60a5fa; border: 1px solid #374151;
-  border-radius: 6px; padding: 4px 8px; font-size: 0.8rem; cursor: pointer; transition: 0.2s;
-}
-.source-chip:hover { background: #374151; color: #93c5fd; }
-.source-accordion-panel {
-  background: #111827; border: 1px solid #374151; border-radius: 8px;
-  padding: 10px; margin-top: 8px; font-size: 0.85rem; color: #e5e7eb;
-}
-.source-panel-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
-.source-ext-link { color: #f59e0b; text-decoration: none; font-size: 0.8rem; }
-.source-ext-link:hover { text-decoration: underline; }
-.source-panel-body { margin: 0; line-height: 1.4; color: #d1d5db; white-space: pre-wrap; }
-
-    /* Стилі для пов'язаних джерел */
-    .related-chain-wrap { margin-top: 12px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08); }
-    .related-chain-label { font-size: 0.8rem; color: #94a3b8; margin-bottom: 8px; font-weight: 500; }
-    .related-chips-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
-    .source-chip-btn {
-      background: #1e293b; color: #38bdf8; border: 1px solid #334155;
-      border-radius: 8px; padding: 6px 12px; font-size: 0.82rem; cursor: pointer; transition: all 0.2s;
-    }
-    .source-chip-btn.is-main {
-      border-color: #f59e0b; color: #fcd34d; background: #292010; font-weight: 600;
-    }
-    .source-chip-btn:hover, .source-chip-btn.active {
-      background: #0284c7; color: #ffffff; border-color: #38bdf8;
-    }
-    .source-expand-box {
-      background: #0f172a; border: 1px solid #1e293b; border-left: 3px solid #0284c7;
-      border-radius: 8px; padding: 12px; margin-top: 10px; font-size: 0.88rem; color: #f1f5f9;
-    }
-    .source-box-header {
-      display: flex; justify-content: space-between; align-items: center;
-      margin-bottom: 8px; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;
-      flex-wrap: wrap; gap: 6px;
-    }
-    .source-box-title { font-weight: 600; color: #38bdf8; }
-    .source-direct-link { color: #f59e0b; text-decoration: none; font-size: 0.82rem; font-weight: 500; }
-    .source-direct-link:hover { text-decoration: underline; }
-    .source-box-body { line-height: 1.5; color: #cbd5e1; font-size: 0.84rem; white-space: pre-wrap; margin: 0; }
-
-  </style>
-
-
-<style>
-.card-media-wrap { width: 100%; max-height: 240px; overflow: hidden; background: #121212; border-top-left-radius: 12px; border-top-right-radius: 12px; }
-.card-img { width: 100%; height: auto; object-fit: cover; display: block; max-height: 240px; }
-</style>
-
+        body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 16px; }
+        .container { max-width: 600px; margin: 0 auto; }
+        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+        .header-btns { display: flex; gap: 6px; }
+        .search-box { width: 100%; box-sizing: border-box; background: var(--card); border: 1px solid var(--card-border); color: var(--text); padding: 10px 14px; border-radius: 12px; font-size: 14px; margin-bottom: 12px; outline: none; }
+        .status-badge { display: none; background: #3b82f620; border: 1px solid var(--accent); color: var(--accent); padding: 8px 12px; border-radius: 10px; font-size: 13px; margin-bottom: 12px; text-align: center; }
+        .filter-bar { display: flex; gap: 6px; margin-bottom: 10px; background: #18181b; padding: 4px; border-radius: 12px; border: 1px solid var(--card-border); }
+        .filter-tab { flex: 1; background: none; border: none; color: var(--muted); padding: 7px 0; border-radius: 8px; font-size: 13px; font-weight: 500; cursor: pointer; text-align: center; }
+        .filter-tab.active { background: var(--card); color: #fff; }
+        .quick-filters { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 12px; }
+        .quick-btn { background: #18181b; border: 1px solid var(--card-border); color: var(--text); border-radius: 10px; padding: 6px 10px; font-size: 12px; cursor: pointer; white-space: nowrap; transition: all 0.2s; }
+        .quick-btn.active#q-alert { background: #ef444425; border-color: var(--urgent); color: var(--urgent); }
+        .quick-btn.active#q-power { background: #eab30825; border-color: var(--energy); color: var(--energy); }
+        .quick-btn.active#q-world { background: #22c55e25; border-color: var(--world); color: var(--world); }
+        .quick-btn.active#q-ua { background: #3b82f625; border-color: var(--ua); color: var(--ua); }
+        .quick-btn.active#q-kremen { background: #f9731625; border-color: var(--kremen); color: var(--kremen); }
+        .digest-card { background: var(--digest-bg); border: 1px solid #334155; border-radius: 14px; padding: 14px; margin-bottom: 16px; }
+        .digest-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+        .digest-title { font-size: 15px; font-weight: 600; margin: 0; }
+        .audio-btn { background: #334155; border: none; color: #38bdf8; border-radius: 8px; padding: 4px 10px; font-size: 12px; cursor: pointer; font-weight: 500; }
+        .digest-card ul { margin: 0; padding-left: 20px; font-size: 13.5px; color: #cbd5e1; line-height: 1.45; }
+        .tag-cloud { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 10px; margin-bottom: 14px; }
+        .tag-btn { background: var(--card); color: var(--text); border: 1px solid var(--card-border); border-radius: 16px; padding: 6px 12px; font-size: 13px; cursor: pointer; white-space: nowrap; }
+        .tag-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+        .feed { display: flex; flex-direction: column; gap: 16px; }
+        .card { background: var(--card); border-radius: 14px; overflow: hidden; border: 1px solid var(--card-border); transition: border-color 0.2s, box-shadow 0.2s; }
+        .card.urgent { border: 1px solid var(--urgent); box-shadow: 0 0 10px rgba(239, 68, 68, 0.2); }
+        .card.theme-energy { border: 1px solid var(--energy); box-shadow: 0 0 10px rgba(234, 179, 8, 0.25); }
+        .card.theme-world { border: 1px solid var(--world); box-shadow: 0 0 10px rgba(34, 197, 94, 0.2); }
+        .card.theme-ua { border: 1px solid var(--ua); box-shadow: 0 0 10px rgba(59, 130, 246, 0.25); }
+        .card.theme-kremen { border: 1px solid var(--kremen); box-shadow: 0 0 10px rgba(249, 115, 22, 0.25); }
+        .media-gallery { display: grid; gap: 4px; background: #09090b; }
+        .gallery-1 { grid-template-columns: 1fr; }
+        .gallery-2 { grid-template-columns: 1fr 1fr; }
+        .gallery-3 { grid-template-columns: 1fr 1fr; }
+        .gallery-3 img:first-child { grid-column: span 2; }
+        .gallery-4 { grid-template-columns: 1fr 1fr; }
+        .card-media-wrap { width: 100%; max-height: 240px; overflow: hidden; background: #121214; border-top-left-radius: 12px; border-top-right-radius: 12px; }
+        .card-img { width: 100%; height: auto; object-fit: cover; display: block; max-height: 240px; }
+        .related-chain-wrap { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--card-border); }
+        .related-chain-label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+        .related-chips-row { display: flex; flex-wrap: wrap; gap: 6px; }
+        .source-chip-btn { background: #27272a; border: 1px solid var(--card-border); color: var(--text); padding: 4px 10px; border-radius: 8px; font-size: 12px; cursor: pointer; transition: all 0.2s; }
+        .source-chip-btn.active, .source-chip-btn:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+        .source-expand-box { margin-top: 8px; padding: 10px; background: #18181b; border: 1px solid var(--card-border); border-radius: 10px; font-size: 13px; }
+        .source-box-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; border-bottom: 1px solid var(--card-border); padding-bottom: 6px; }
+        .source-box-title { font-weight: 600; color: #fff; }
+        .source-box-time { font-size: 11px; color: var(--muted); margin-left: 8px; }
+        .source-direct-link { color: var(--accent); text-decoration: none; font-size: 12px; }
+        .source-direct-link:hover { text-decoration: underline; }
+        .source-box-body { color: #d4d4d8; line-height: 1.4; }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <div class="header">
-      <h2 style="margin:0;">⚡ Новини</h2>
-      <div class="header-btns">
-        <button class="tag-btn" onclick="triggerRefresh()">🔄 Оновити</button>
-        <button class="tag-btn" onclick="openSourcesModal()">⚙️ Джерела</button>
-        <button class="tag-btn" onclick="toggleBookmarkedOnly()" id="fav-filter">⭐ Збережені</button>
-      </div>
+    <div class="container">
+        <div class="header">
+            <h2 style="margin:0;display:flex;align-items:center;gap:8px;">⚡ Новини</h2>
+            <div class="header-btns">
+                <button class="tag-btn" onclick="location.reload()">🔄 Оновити</button>
+                <button class="tag-btn" onclick="openSourcesModal()">⚙️ Джерела</button>
+                <button class="tag-btn" onclick="toggleBookmarkedOnly()" id="fav-filter">⭐ Збережені</button>
+            </div>
+        </div>
+        <div class="status-badge" id="status-bar">⏳ Збираємо та сортуємо новини...</div>
+        <div class="filter-bar">
+            <button class="filter-tab active" id="tab-today" onclick="setDateFilter('today')">Сьогодні</button>
+            <button class="filter-tab" id="tab-yesterday" onclick="setDateFilter('yesterday')">Вчора</button>
+            <button class="filter-tab" id="tab-week" onclick="setDateFilter('week')">За 7 днів</button>
+        </div>
+        <div class="quick-filters">
+            <button class="quick-btn" id="q-alert" onclick="toggleQuickFilter('alert')">🚨 Термінові</button>
+            <button class="quick-btn" id="q-power" onclick="toggleQuickFilter('power')">⚡ Енергетика</button>
+            <button class="quick-btn" id="q-kremen" onclick="toggleQuickFilter('kremen')">⚠️Kremen🔞</button>
+            <button class="quick-btn" id="q-ua" onclick="toggleQuickFilter('ua')">UA🇺🇦</button>
+            <button class="quick-btn" id="q-world" onclick="toggleQuickFilter('world')">🌍 World🌎</button>
+        </div>
+        <input type="text" id="search-input" class="search-box" placeholder="Швидкий пошук у подіях..." oninput="handleSearch()">
+        <div class="digest-card" id="digest-box" style="display:none;">
+            <div class="digest-header">
+                <span class="digest-title">📌 Головне коротко</span>
+                <button class="audio-btn" id="tts-btn" onclick="toggleTTS()">🔊 Слухати</button>
+            </div>
+            <ul id="digest-list"></ul>
+        </div>
+        <div class="tag-cloud" id="tag-bar"><button class="tag-btn active" onclick="filterByTag('all')">Всі</button></div>
+        <div class="feed" id="feed-container"></div>
     </div>
-    <div class="status-badge" id="status-bar">⏳ Збираємо та сортуємо новини...</div>
-    <div class="filter-bar">
-      <button class="filter-tab active" id="tab-today" onclick="setDateFilter('today')">Сьогодні</button>
-      <button class="filter-tab" id="tab-yesterday" onclick="setDateFilter('yesterday')">Вчора</button>
-      <button class="filter-tab" id="tab-week" onclick="setDateFilter('week')">За 7 днів</button>
-    </div>
-    <div class="quick-filters">
-      <button class="quick-btn" id="q-alert" onclick="toggleQuickFilter('alert')">🚨 Термінові</button>
-      <button class="quick-btn" id="q-power" onclick="toggleQuickFilter('power')">⚡ Енергетика</button>
-      <button class="quick-btn" id="q-kremen" onclick="toggleQuickFilter('kremen')">⚠️Kremen🔞</button>
-      <button class="quick-btn" id="q-ua" onclick="toggleQuickFilter('ua')">UA🇺🇦</button>
-      <button class="quick-btn" id="q-world" onclick="toggleQuickFilter('world')">🌍 World🌎</button>
-    </div>
-    <input type="text" id="search-input" class="search-box" placeholder="Швидкий пошук у подіях..." oninput="handleSearch()">
-    <div class="digest-card" id="digest-box" style="display:none;">
-      <div class="digest-header">
-        <span class="digest-title">📌 Головне коротко</span>
-        <button class="audio-btn" id="tts-btn" onclick="toggleTTS()">🔊 Слухати</button>
-      </div>
-      <ul id="digest-list"></ul>
-    </div>
-    <div class="tag-cloud" id="tag-bar"><button class="tag-btn active" onclick="filterByTag('all')">Всі</button></div>
-    <div class="feed" id="feed-container"></div>
-  </div>
-  <div class="lightbox" id="lightbox-modal" onclick="closeLightbox()"><button class="lightbox-close" onclick="closeLightbox()">&times;</button><img id="lightbox-img" src="" alt="Full view" onclick="event.stopPropagation()"></div>
-  <div class="modal" id="sources-modal">
-    <div class="modal-content">
-      <h3 style="margin-top:0;">Керування джерелами</h3>
-      <div class="sources-list" id="modal-sources-list"></div>
-      <div style="display:flex;gap:8px;margin-top:12px;">
-        <input type="text" id="new-channel-input" class="search-box" style="margin:0;" placeholder="Вставте посилання">
-        <button class="tag-btn active" onclick="addNewSource()">Додати</button>
-      </div>
-      <div style="text-align:right;margin-top:16px;"><button class="tag-btn" onclick="closeSourcesModal()">Закрити</button></div>
-    </div>
-  </div>
-  <script>
+
+    <script>
+    eruda.init();
+
+
+
+
+function getArticleMediaHtml(a) {
+    var url = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
+    if (!url && a.related_sources) {
+        for (var i = 0; i < a.related_sources.length; i++) {
+            var s = a.related_sources[i];
+            url = s.image_url || s.img || s.photo || '';
+            if (url) break;
+        }
+    }
+    if (!url) return '';
+    return '<div class="card-media-wrap"><img src="' + url + '" alt="" loading="lazy" class="card-img"></div>';
+}
+
+function getRelatedHtml(a) {
+    if (!a.related_sources || !a.related_sources.length) return '';
+    var list = [];
+    if (a.source_name) {
+        list.push({
+            name: a.source_name,
+            url: a.source_url || '#',
+            text: a.raw_text || a.summary || '',
+            time: a.published_at || '',
+            isBase: true
+        });
+    }
+    a.related_sources.forEach(function(s, idx) {
+        list.push({
+            name: s.source_name || ('Джерело ' + (idx + 1)),
+            url: s.source_url || '#',
+            text: s.raw_text || 'Текст цього джерела не збережено.',
+            time: s.published_at || '',
+            isBase: false
+        });
+    });
+
+    var chips = list.map(function(s, idx) {
+        var badge = s.isBase ? '⭐ ' : '&#128279; ';
+        var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
+        return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
+    }).join(' ');
+
+    var panels = list.map(function(s, idx) {
+        var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">&#128279; Читати в першоджерелі &#8599;</a>' : '';
+        var time = s.time ? '<span class="source-box-time">&#128336; ' + s.time + '</span>' : '';
+        var star = s.isBase ? '⭐ ' : '';
+        return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
+               '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
+               '<div class="source-box-body">' + s.text + '</div>' +
+               '</div>';
+    }).join('');
+
+    return '<div class="related-chain-wrap"><div class="related-chain-label">Пов&#8217язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+}
+
+window.toggleSourceAccordion = function(articleId, idx, event) {
+    if (event) event.stopPropagation();
+    var targetId = 'src-box-' + articleId + '-' + idx;
+    var targetBox = document.getElementById(targetId);
+    if (!targetBox) return;
+
+    var isVisible = (targetBox.style.display === 'block');
+    var card = targetBox.closest('.related-chain-wrap') || document;
+
+    var allBoxes = card.querySelectorAll('.source-expand-box');
+    allBoxes.forEach(function(box) {
+        box.style.display = 'none';
+    });
+
+    var allBtns = card.querySelectorAll('.source-chip-btn');
+    allBtns.forEach(function(btn) {
+        btn.classList.remove('active');
+    });
+
+    if (!isVisible) {
+        targetBox.style.display = 'block';
+        if (event && event.currentTarget) {
+            event.currentTarget.classList.add('active');
+        }
+    }
+};
+
+
+eruda.init();
+function getArticleMediaHtml(a) {
+    var url = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
+    if (!url && a.related_sources) {
+        for (var i = 0; i < a.related_sources.length; i++) {
+            var s = a.related_sources[i];
+            url = s.image_url || s.img || s.photo || '';
+            if (url) break;
+        }
+    }
+    if (!url) return '';
+    return '<div class="card-media-wrap"><img src="' + url + '" alt="" loading="lazy" class="card-img"></div>';
+}
+
+function getRelatedHtml(a) {
+    if (!a.related_sources || !a.related_sources.length) return '';
+    var list = [];
+    if (a.source_name) {
+        list.push({
+            name: a.source_name,
+            url: a.source_url || '#',
+            text: a.raw_text || a.summary || '',
+            time: a.published_at || '',
+            isBase: true
+        });
+    }
+    a.related_sources.forEach(function(s, idx) {
+        list.push({
+            name: s.source_name || ('Джерело ' + (idx + 1)),
+            url: s.source_url || '#',
+            text: s.raw_text || 'Текст цього джерела не збережено.',
+            time: s.published_at || '',
+            isBase: false
+        });
+    });
+
+    var chips = list.map(function(s, idx) {
+        var badge = s.isBase ? '⭐ ' : '&#128279; ';
+        var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
+        return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
+    }).join(' ');
+
+    var panels = list.map(function(s, idx) {
+        var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">&#128279; Читати в першоджерелі &#8599;</a>' : '';
+        var time = s.time ? '<span class="source-box-time">&#128336; ' + s.time + '</span>' : '';
+        var star = s.isBase ? '⭐ ' : '';
+        return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
+               '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
+               '<div class="source-box-body">' + s.text + '</div>' +
+               '</div>';
+    }).join('');
+
+    return '<div class="related-chain-wrap"><div class="related-chain-label">Пов&#8217язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+}
+
+window.toggleSourceAccordion = function(articleId, idx, event) {
+    if (event) event.stopPropagation();
+    var targetId = 'src-box-' + articleId + '-' + idx;
+    var targetBox = document.getElementById(targetId);
+    if (!targetBox) return;
+
+    var isVisible = (targetBox.style.display === 'block');
+    var card = targetBox.closest('.related-chain-wrap') || document;
+
+    var allBoxes = card.querySelectorAll('.source-expand-box');
+    allBoxes.forEach(function(box) {
+        box.style.display = 'none';
+    });
+
+    var allBtns = card.querySelectorAll('.source-chip-btn');
+    allBtns.forEach(function(btn) {
+        btn.classList.remove('active');
+    });
+
+    if (!isVisible) {
+        targetBox.style.display = 'block';
+        if (event && event.currentTarget) {
+            event.currentTarget.classList.add('active');
+        }
+    }
+};
+
+
+
     if ('serviceWorker' in navigator) { navigator.serviceWorker.register('sw.js'); }
     let rawData = { digest: [], articles: [] };
     let currentSources = [];
@@ -644,8 +539,8 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
     }
 };
 
-</script>
-<script>
+
+
 function renderSourcesChain(articleId, sources) {
   if (!sources || !sources.length) return '';
   
@@ -767,8 +662,8 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
     }
 };
 
-</script>
-<script src="app_addons.js">
+
+
 function getArticleMediaHtml(a) {
     var url = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
     if (!url && a.related_sources) {
@@ -849,6 +744,7 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
         }
     }
 };
+
 
 </script>
 </body>
