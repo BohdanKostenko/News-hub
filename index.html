@@ -1,7 +1,35 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-  <script src="https://cdn.jsdelivr.net/npm/eruda"></script><script>eruda.init();</script>
+  <script src="https://cdn.jsdelivr.net/npm/eruda">
+window.toggleSourceAccordion = function(articleId, idx, event) {
+    if (event) event.stopPropagation();
+    var targetId = 'src-box-' + articleId + '-' + idx;
+    var targetBox = document.getElementById(targetId);
+    if (!targetBox) return;
+
+    var isVisible = (targetBox.style.display === 'block');
+    var card = targetBox.closest('.related-chain-wrap') || document;
+
+    var allBoxes = card.querySelectorAll('.source-expand-box');
+    allBoxes.forEach(function(box) {
+        box.style.display = 'none';
+    });
+
+    var allBtns = card.querySelectorAll('.source-chip-btn');
+    allBtns.forEach(function(btn) {
+        btn.classList.remove('active');
+    });
+
+    if (!isVisible) {
+        targetBox.style.display = 'block';
+        if (event && event.currentTarget) {
+            event.currentTarget.classList.add('active');
+        }
+    }
+};
+
+</script><script>eruda.init();</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Хаб Новин</title>
