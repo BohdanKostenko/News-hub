@@ -358,44 +358,12 @@
           });
           mediaHtml = '<div class="media-gallery gallery-' + count + '">' + items + '</div>';
         }
-                                let hasRel = (a.related_sources && a.related_sources.length > 0);
-        let relHtml = "";
-        if (hasRel) {
-            let allSources = [];
-            if (a.source_name) {
-                allSources.push({
-                    source_name: a.source_name,
-                    source_url: a.source_url || "#",
-                    raw_text: a.raw_text || a.summary || "",
-                    published_at: a.published_at || "",
-                    is_base: true
-                });
-            }
-            if (Array.isArray(a.related_sources)) {
-                a.related_sources.forEach(function(s) { allSources.push(s); });
-            }
-
-            let chips = allSources.map(function(s, idx) {
-                let sName = s.source_name || ("Джерело " + (idx + 1));
-                let badge = s.is_base ? "⭐ " : "🔗 ";
-                let cls = s.is_base ? "source-chip-btn is-main" : "source-chip-btn";
-                return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion('' + a.id + '', ' + idx + ', event)">' + badge + sName + '</button>';
-            }).join(" ");
-
-            let panels = allSources.map(function(s, idx) {
-                let sName = s.source_name || ("Джерело " + (idx + 1));
-                let sText = s.raw_text ? s.raw_text : "Текст цього джерела не збережено.";
-                let sLink = (s.source_url && s.source_url !== "#") ? '<a href="' + s.source_url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
-                let timeStr = s.published_at ? '<span class="source-box-time">🕒 ' + s.published_at + '</span>' : '';
-                let star = s.is_base ? "⭐ " : "";
-
-                return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
-                       '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + sName + '</span>' + timeStr + '</div>' + sLink + '</div>' +
-                       '<div class="source-box-body">' + sText + '</div>' +
-                       '</div>';
-            }).join("");
-
-            relHtml = '<div class="related-chain-wrap"><div class="related-chain-label">Пов'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+                                        let hasRel = Boolean(a.related_sources && a.related_sources.length > 0);
+        let relHtml = getRelatedHtml(a);
+        let singleActionsHtml = '';
+        if (!hasRel) {
+            singleActionsHtml = '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text || a.summary) + '</div>' +
+                                '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>';
         }
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
         const card = document.createElement('div');
@@ -405,13 +373,54 @@
             '<div class="card-meta"><span>' + a.source_name + ' • ' + (a.category||'Новина') + '</span><button class="bookmark-btn" onclick="toggleBookmark(\'' + a.id + '\')">' + (isFav ? '⭐' : '☆') + '</button></div>' +
             '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
             '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
-            (hasRel ? '' : ('<div class=\"full-text\" id=\"full-' + a.id + '\">' + (a.raw_text||a.summary) + '</div><div class=\"card-actions\"><button class=\"toggle-full-btn\" id=\"btn-' + a.id + '\" onclick=\"toggleFullText(\\'' + a.id + '\\')\">Читати повністю ▾</button><a href=\"' + a.source_url + '\" target=\"_blank\" class=\"source-link\">Джерело ↗</a></div>')) +
+                    singleActionsHtml +
             '<div class="card-tags">' + tagsHtml + '</div>' +
           '</div>';
         container.appendChild(card);
       });
     }
-    function startPolling() {
+    function getRelatedHtml(a) {
+    if (!a.related_sources || !a.related_sources.length) return '';
+    var list = [];
+    if (a.source_name) {
+        list.push({
+            name: a.source_name,
+            url: a.source_url || '#',
+            text: a.raw_text || a.summary || '',
+            time: a.published_at || '',
+            isBase: true
+        });
+    }
+    a.related_sources.forEach(function(s, idx) {
+        list.push({
+            name: s.source_name || ('Джерело ' + (idx + 1)),
+            url: s.source_url || '#',
+            text: s.raw_text || 'Текст цього джерела не збережено.',
+            time: s.published_at || '',
+            isBase: false
+        });
+    });
+
+    var chips = list.map(function(s, idx) {
+        var badge = s.isBase ? '⭐ ' : '🔗 ';
+        var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
+        return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
+    }).join(' ');
+
+    var panels = list.map(function(s, idx) {
+        var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
+        var time = s.time ? '<span class="source-box-time">🕒 ' + s.time + '</span>' : '';
+        var star = s.isBase ? '⭐ ' : '';
+        return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
+               '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
+               '<div class="source-box-body">' + s.text + '</div>' +
+               '</div>';
+    }).join('');
+
+    return '<div class="related-chain-wrap"><div class="related-chain-label">Пов\'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
+}
+
+function startPolling() {
       const sb = document.getElementById('status-bar'); sb.style.display = 'block'; sb.innerText = '⏳ Збираємо та сортуємо новини...';
       if (pollInterval) clearInterval(pollInterval);
       pollInterval = setInterval(async () => {
