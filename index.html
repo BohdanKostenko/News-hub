@@ -390,10 +390,7 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
                 if (imageUrl) break;
             }
         }
-        let mediaHtml = imageUrl ? ('<div class="card-media-wrap"><img src="' + imageUrl + '" alt="" loading="lazy" class="card-img" onerror="this.parentElement.style.display='none'"></div>') : '';
-
-        if (mediaItems.length > 0) {
-          const count = Math.min(mediaItems.length, 4);
+        
           let items = '';
           mediaItems.forEach(m => {
             if (m.type === 'image') items += '<img src="' + m.url + '" loading="lazy" onclick="openLightbox(\'' + m.url + '\')">';
@@ -409,123 +406,15 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
                                 '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>';
         }
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
-        const card = document.createElement('div');
-        card.className = 'card ' + theme;
         
         let imageUrl = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
         let mediaHtml = imageUrl ? ('<div class="card-media-wrap"><img src="' + imageUrl + '" alt="" loading="lazy" class="card-img" onerror="this.style.display=\'none\'"></div>') : '';
 
-        card.innerHTML = mediaHtml +
-          '<div class="card-body">' +
-            '<div class="card-meta"><span>' + a.source_name + ' • ' + (a.category||'Новина') + '</span><button class="bookmark-btn" onclick="toggleBookmark(\'' + a.id + '\')">' + (isFav ? '⭐' : '☆') + '</button></div>' +
-            '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
-            '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
-                    singleActionsHtml +
-            '<div class="card-tags">' + tagsHtml + '</div>' +
-          '</div>';
-        container.appendChild(card);
-      });
-    }
-    function toggleSourceAccordion(articleId, idx, event) {
-    if (event) event.stopPropagation();
-    var targetId = 'src-box-' + articleId + '-' + idx;
-    var targetBox = document.getElementById(targetId);
-    if (!targetBox) return;
-
-    var isVisible = (targetBox.style.display === 'block');
-    var card = targetBox.closest('.related-chain-wrap') || document;
-
-    // Ховаємо всі відкриті панелі в межах цієї картки
-    var allBoxes = card.querySelectorAll('.source-expand-box');
-    allBoxes.forEach(function(box) {
-        box.style.display = 'none';
-    });
-
-    // Знімаємо активний стан з усіх кнопок-чіпів у цій картці
-    var allBtns = card.querySelectorAll('.source-chip-btn');
-    allBtns.forEach(function(btn) {
-        btn.classList.remove('active');
-    });
-
-    // Якщо панель була закрита — відкриваємо її та підсвічуємо кнопку
-    if (!isVisible) {
-        targetBox.style.display = 'block';
-        if (event && event.currentTarget) {
-            event.currentTarget.classList.add('active');
-        }
-    }
-}
-
-function getRelatedHtml(a) {
-    if (!a.related_sources || !a.related_sources.length) return '';
-    var list = [];
-    if (a.source_name) {
-        list.push({
-            name: a.source_name,
-            url: a.source_url || '#',
-            text: a.raw_text || a.summary || '',
-            time: a.published_at || '',
-            isBase: true
-        });
-    }
-    a.related_sources.forEach(function(s, idx) {
-        list.push({
-            name: s.source_name || ('Джерело ' + (idx + 1)),
-            url: s.source_url || '#',
-            text: s.raw_text || 'Текст цього джерела не збережено.',
-            time: s.published_at || '',
-            isBase: false
-        });
-    });
-
-    var chips = list.map(function(s, idx) {
-        var badge = s.isBase ? '⭐ ' : '🔗 ';
-        var cls = s.isBase ? 'source-chip-btn is-main' : 'source-chip-btn';
-        return '<button type="button" class="' + cls + '" onclick="toggleSourceAccordion(\'' + a.id + '\', ' + idx + ', event)">' + badge + s.name + '</button>';
-    }).join(' ');
-
-    var panels = list.map(function(s, idx) {
-        var link = (s.url && s.url !== '#') ? '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="source-direct-link">Читати в першоджерелі ↗</a>' : '';
-        var time = s.time ? '<span class="source-box-time">🕒 ' + s.time + '</span>' : '';
-        var star = s.isBase ? '⭐ ' : '';
-        return '<div id="src-box-' + a.id + '-' + idx + '" class="source-expand-box" style="display:none;">' +
-               '<div class="source-box-header"><div style="display:flex;align-items:center;"><span class="source-box-title">' + star + s.name + '</span>' + time + '</div>' + link + '</div>' +
-               '<div class="source-box-body">' + s.text + '</div>' +
-               '</div>';
-    }).join('');
-
-    return '<div class="related-chain-wrap"><div class="related-chain-label">Пов\'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
-}
-
-function startPolling() {
-      const sb = document.getElementById('status-bar'); sb.style.display = 'block'; sb.innerText = '⏳ Збираємо та сортуємо новини...';
-      if (pollInterval) clearInterval(pollInterval);
-      pollInterval = setInterval(async () => {
-        try {
-          const res = await fetch('/api/status'); const d = await res.json();
-          if (!d.updating) { clearInterval(pollInterval); sb.innerText = '✅ Оновлено!'; await init(); setTimeout(() => sb.style.display = 'none', 2000); }
-        } catch (e) { clearInterval(pollInterval); }
-      }, 3000);
-    }
-    async function triggerRefresh() { await fetch('/api/refresh', { method: 'POST' }); startPolling(); }
-    async function openSourcesModal() { document.getElementById('sources-modal').style.display = 'flex'; await loadSourcesList(); }
-    function closeSourcesModal() { document.getElementById('sources-modal').style.display = 'none'; }
-    async function loadSourcesList() {
-      const el = document.getElementById('modal-sources-list');
-      try {
-        const res = await fetch('sources.json?t=' + Date.now()); const d = await res.json();
-        currentSources = d.map(i => typeof i === 'string' ? { url: i } : i);
-        el.innerHTML = currentSources.map((s, idx) => '<div class="source-item"><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:340px;">' + s.url + '</span><button class="del-btn" onclick="deleteSource(' + idx + ')">✕</button></div>').join('');
-      } catch (e) { el.innerHTML = '<p style="color:gray;">Помилка sources.json</p>'; }
-    }
-    async function saveSources(s) {
-      try {
-        const res = await fetch('/api/sources', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(s) });
-        if (res.ok) { await loadSourcesList(); startPolling(); }
-      } catch (e) { alert('Помилка збереження'); }
-    }
-    async function addNewSource() {
-      const input = document.getElementById('new-channel-input'); let val = input.value.trim(); if (!val) return;
+        const card = document.createElement('div');
+        card.className = 'card ' + theme;
+        
+        let imageUrl = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
+         let val = input.value.trim(); if (!val) return;
       if (val.includes('t.me/')) {
         const parts = val.split('t.me/'); let tail = parts[1].replace('s/', '').split('/')[0]; val = 'https://t.me/s/' + tail;
       } else if (!val.startsWith('http://') && !val.startsWith('https://')) { val = 'https://t.me/s/' + val.replace('@', ''); }
