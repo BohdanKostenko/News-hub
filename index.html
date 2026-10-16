@@ -379,7 +379,37 @@
         container.appendChild(card);
       });
     }
-    function getRelatedHtml(a) {
+    function toggleSourceAccordion(articleId, idx, event) {
+    if (event) event.stopPropagation();
+    var targetId = 'src-box-' + articleId + '-' + idx;
+    var targetBox = document.getElementById(targetId);
+    if (!targetBox) return;
+
+    var isVisible = (targetBox.style.display === 'block');
+    var card = targetBox.closest('.related-chain-wrap') || document;
+
+    // Ховаємо всі відкриті панелі в межах цієї картки
+    var allBoxes = card.querySelectorAll('.source-expand-box');
+    allBoxes.forEach(function(box) {
+        box.style.display = 'none';
+    });
+
+    // Знімаємо активний стан з усіх кнопок-чіпів у цій картці
+    var allBtns = card.querySelectorAll('.source-chip-btn');
+    allBtns.forEach(function(btn) {
+        btn.classList.remove('active');
+    });
+
+    // Якщо панель була закрита — відкриваємо її та підсвічуємо кнопку
+    if (!isVisible) {
+        targetBox.style.display = 'block';
+        if (event && event.currentTarget) {
+            event.currentTarget.classList.add('active');
+        }
+    }
+}
+
+function getRelatedHtml(a) {
     if (!a.related_sources || !a.related_sources.length) return '';
     var list = [];
     if (a.source_name) {
