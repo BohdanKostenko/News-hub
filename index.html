@@ -411,6 +411,10 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
         const card = document.createElement('div');
         card.className = 'card ' + theme;
+        
+        let imageUrl = a.image_url || a.img || a.photo || a.media || a.thumbnail || '';
+        let mediaHtml = imageUrl ? ('<div class="card-media-wrap"><img src="' + imageUrl + '" alt="" loading="lazy" class="card-img" onerror="this.style.display=\'none\'"></div>') : '';
+
         card.innerHTML = mediaHtml +
           '<div class="card-body">' +
             '<div class="card-meta"><span>' + a.source_name + ' • ' + (a.category||'Новина') + '</span><button class="bookmark-btn" onclick="toggleBookmark(\'' + a.id + '\')">' + (isFav ? '⭐' : '☆') + '</button></div>' +
