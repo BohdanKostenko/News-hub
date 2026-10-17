@@ -1,12 +1,545 @@
 {
-  "updated_at": "2026-10-17 19:17",
+  "updated_at": "2026-10-17 22:44",
   "digest": [
-    "На фронті та в тилу зберігається напруга: Зеленський попередив про плани РФ розмістити балістику в Білорусі, а на Запоріжжі окупанти розстріляли полонених.",
-    "Унаслідок ворожих обстрілів за добу в Україні загинули щонайменше 6 людей, понад 75 отримали поранення.",
-    "Дональд Трамп відмовився від закону про «пекельні санкції» проти Росії, а Bloomberg повідомив про обмеження на використання Starlink в Україні.",
-    "У Києві та Полтаві фіксувалися повітряні тривоги та вибухи через загрозу ворожих безпілотників."
+    "У Полтаві внаслідок ворожого обстрілу загинула людина та двоє поранені, пошкоджено житлові будинки.",
+    "У Кременчуцькому районі та області діяла загроза БпЛА, наразі оголошено відбій тривоги.",
+    "ЗМІ повідомляють про нові обмеження на використання терміналів Starlink в Україні та рішення щодо санкцій проти РФ.",
+    "Нігер зупинив експорт дизелю та бензину задля захисту внутрішнього ринку від дефіциту."
   ],
   "articles": [
+    {
+      "id": "sirena_kremenchuk_13615",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13615",
+      "published_at": "2026-10-17T22:42:14+00:00",
+      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+      "title": "Відбій повітряної тривоги в Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі офіційно оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчуцький район",
+        "відбій"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59120",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-17T22:42:13+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102810",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-17T22:42:13+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59118",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-17T21:19:41+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13614",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-17T21:19:41+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13613",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-17T20:46:06+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59117",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-17T20:46:05+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102808",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-17T20:45:52+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102807",
+          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
+          "published_at": "2026-10-17T20:02:07+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13611",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-17T19:24:25+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102803",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-17T18:58:32+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13610",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-17T18:58:28+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102802",
+          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
+          "published_at": "2026-10-17T18:15:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27515",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27515",
+      "published_at": "2026-10-17T22:26:10+00:00",
+      "raw_text": "As the midterms approach, the nagging question is what schemes, if any, Donald Trump might attempt to subvert the election’s legitimate results \nhttps://t.co/gYsIlzQSOV\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
+      "title": "Питання можливого втручання Дональда Трампа у вибори",
+      "summary": "Напередодні проміжних виборів обговорюється питання можливих спроб Дональда Трампа вплинути на їхні результати. Експерти аналізують потенційні ризики.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "політика",
+        "вибори"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/e422da9009.mp4?token=Rk6WzPrb33xviJBN7__IuRUTvSZZTsgPtKVdyDbVQYwvEuwNN0dC7L2ZNptg5zkvTimR5oeODDaDuLoi3oUQVTrAgrH_2CqaHIbS1536YAO43c7MA05jdb2FBGKaMlGQ-SaKh5qvv5NwFTXk-IYy59NiS-XbFEgNF4xTgzqoZ8Whz9RYhuT_aQ8sQNby84MxoJeyHSQFcUDQIMNPF9SuzMSVGKS3t6KENl6l0MQWPK6qZuusPoULPN49XixkvBERuqdkcn98g0xh52Ym-aUx2zwZfDD_K6gPxkEY3LB-G5qzkETT5D_fwtZ-mbBO8imtGIyMa7nS7NVTNtH3iJzXJw"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146563",
+          "raw_text": "🤯\n«Я вивчав його дупу. Ніколи раніше такого не робив із чоловіком. Я розглядав його дупу, а потім подивився на плечі, ноги та руки»\n.\n\n\n\n\nЦе Трамп про американського сенатора Хастеда. Він підіймає цю тему вже \nвдруге\n за тиждень \n💪\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-10-17T19:41:01+00:00"
+        },
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/republicans-brace-for-backlash-as-trump-gas-prices-near-biden-s",
+          "raw_text": "Republicans Brace For Backlash as Trump Gas Prices Near Biden’s\n\nIn the run-up to his 2024 presidential election, Donald Trump couldn’t keep quiet about the cost of energy.",
+          "published_at": "2026-10-17T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ok_kremen_59119",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59119",
+      "published_at": "2026-10-17T22:16:03+00:00",
+      "raw_text": "❗️\nСтаном на зараз, відомо про одну загиблу людину в Полтаві. Ще двоє отримали травми.   Пошкоджено 4 приватні будинки. Ліквідація наслідків триває. Інформація уточнюється.",
+      "title": "Наслідки обстрілу в Полтаві: є жертви та пошкодження",
+      "summary": "У Полтаві внаслідок атаки загинула одна людина, ще двоє травмовані. Пошкоджено чотири приватні будинки, триває ліквідація наслідків.",
+      "category": "Надзвичайні події",
+      "tags": [
+        "Полтава",
+        "обстріл",
+        "загиблі",
+        "постраждалі",
+        "руйнування"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_46750",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46750",
+      "published_at": "2026-10-17T22:06:33+00:00",
+      "raw_text": "БпЛА на Кременчук.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Загроза БпЛА для Кременчука",
+      "summary": "Зафіксовано рух безпілотного літального апарата у напрямку Кременчука. У місті та області оголошено потенційну небезпеку.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "Кременчук",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102798",
+          "raw_text": "БпЛА у напрямку Кременчука  Підписатися • Надіслати новину • TT • IG • X • FB",
+          "published_at": "2026-10-17T16:57:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27514",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27514",
+      "published_at": "2026-10-17T22:06:29+00:00",
+      "raw_text": "Across America, data centres are popping up at startling speed. Our analysis shows how that might affect the midterms in November \nhttps://t.co/zld5RHQzLK\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
+      "title": "Зростання кількості дата-центрів у США",
+      "summary": "У США стрімко з'являються нові дата-центри. Аналітики досліджують їхній можливий вплив на проміжні вибори у листопаді.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "технології",
+        "вибори"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN2NZ5WWD62O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk",
+      "published_at": "2026-10-17T22:04:17+00:00",
+      "raw_text": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More\n\nSource: Bloomberg, 5:20",
+      "title": "Нові обмеження Starlink для України та скасування санкцій проти РФ",
+      "summary": "Bloomberg повідомляє про нові обмеження на використання терміналів Starlink в Україні та рішення Трампа щодо скасування санкцій проти Росії. Деталі обговорюються на тлі міжнародної реакції.",
+      "category": "Світ",
+      "tags": [
+        "Starlink",
+        "США",
+        "Росія",
+        "Україна",
+        "санкції"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/PedpQmhlnXrBKE3IsnvEyaOxq73xxdQ9ut-iM0snkNWjqkMdgSa4jhUgWUjaZSSiCD-Ka7NjwXSWni1z1CTdf-HW2FBG4Rp9xhKZHc-F3_VskzPryq971ClhbsC_5VNyDbt1c7TZD3Y4W2nbwbmdVQGq8AEMQAbERMBgKhjJiVUjqNeizbJ4z411dL7oQUGZfct-lue-80PdHS1xU4uWHOCNrv4Rz3AJ-Oo8Rr7lGn8hcKCeqjv5D1mQX3lPaQnv6aMhMELthA_xKi-HBhYb-wXriEq9M4R3N3k_vVkl0pVLjLnh3xY1yeiwU5CbqTmZRevwWuTsfy_m_TQWXnRnrA.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvcupozh",
+          "raw_text": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions\n\nSource: Bloomberg, 5:23",
+          "published_at": "2026-10-17T20:30:43+00:00"
+        },
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/trump-s-russia-sanctions-waiver-called-mistake-by-key-gop-allies",
+          "raw_text": "Trump’s Russia Sanctions Waiver Called Mistake by GOP Allies\n\nRepublican members of Congress blasted President Donald Trump’s decision to waive a tariff law passed last month to restrict Russian energy exports, arguing that the move will help Moscow wage its war on Ukraine.",
+          "published_at": "2026-10-17T19:31:49+00:00"
+        },
+        {
+          "source_name": "@theeconomistofficial",
+          "source_url": "https://t.me/TheEconomistOfficial/27503",
+          "raw_text": "Britain’s sanctions against Israel, when they materialise, may be little more than a gesture. But they may also be designed to cause serious damage. What does that mean for the countries’ once-special relationship? \nhttps://t.co/ksv9SzsWGF\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
+          "published_at": "2026-10-17T18:46:22+00:00"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23437",
+          "raw_text": "🇺🇸\nAxios: Маск запропонував обмежити Starlink, Трамп не заперечував\n\n\n\n\nАмериканське видання Axios підтверджує версію британського The Telegraph про те, що керівник компанії SpaceX Ілон Маск запропонував ідею зі сповільненням Starlink для України.\n\n\n\n\nДжерело, обізнане з ходом обговорення, повідомило Axios, що Трамп не заперечував проти ідеї Маска.\n\n\n\n\nЗа даними порталу, українські посадовці чули різні версії того, що сталося з роботою Starlink, причому адміністрація Трампа та керівництво SpaceX звинувачують одне одного.\n\n\n\n\n\"Компанія SpaceX стверджує, що це технічна проблема. Але наші контакти в компанії кажуть, що це йде від Білого дому. Коли ми запитуємо в Білому домі, там кажуть, що це Ілон\", – повідомив виданню один із українських посадовців.\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247962/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-17T16:28:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kremenchugtruexa_46749",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46749",
+      "published_at": "2026-10-17T21:44:51+00:00",
+      "raw_text": "БпЛА на Петрове.  Труха\n⚡️\nКременчук | Надіслати новину",
+      "title": "Рух БпЛА у напрямку Петрове",
+      "summary": "Зафіксовано рух безпілотного літального апарата в бік Петрового. Інформація потребує уваги через потенційну загрозу.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "Петрове"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/46747",
+          "raw_text": "БпЛА на Петрове.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+          "published_at": "2026-10-17T21:34:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN2ML5T9NJLT00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
+      "published_at": "2026-10-17T21:44:20+00:00",
+      "raw_text": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply\n\nNiger banned exports of diesel and premium petrol in a bid to address fuel supply challenges that the country has been facing in recent days, the ministry of trade and industry said in a statement on its Facebook page.",
+      "title": "Нігер зупинив експорт дизелю та бензину задля захисту внутрішнього ринку",
+      "summary": "Міністерство торгівлі та промисловості Нігеру оголосило про заборону на експорт дизельного пального та бензину. Це рішення покликане вирішити проблеми з дефіцитом палива всередині країни.",
+      "category": "Світ",
+      "tags": [
+        "Нігер",
+        "пальне",
+        "економіка",
+        "експорт"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_uk_news_videos_cwz0vy770gpzo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T21:33:17+00:00",
+      "raw_text": "How day of protests unfolded as disorder breaks out across France\n\nDemonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "title": "Хроніка масових протестів у Франції",
+      "summary": "Демонстрації у французьких містах переросли у насильство: учасники палили автомобілі та будівлі, а також грабували магазини. Поліція проводить масові затримання.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "поліція"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_102809",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102809",
+      "published_at": "2026-10-17T21:19:40+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+      "title": "Повітряна тривога та дронова загроза",
+      "summary": "В області оголошено повітряну тривогу через загрозу ударних дронів. Встановлено жовтий рівень небезпеки.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "дрони",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/UQgBSAyf-c2yMieILYGGm6i_QiEtefXzgI0P4C-TV61hYKdF8_xvAZfFwjCMLr5nobZZOsT0Vzz_uWvvaLlCSBHvTFPYzwu3Y_bGuLqLciO75QDZac1bMT4EamJJXwRi431m5RvHEfPHGCOZKWJ-zZYVU27J0pbCA3dHFf96ZN2V8SLgYxb2JXOvIB8JqBt5oHLGpdcKQK8jhiyNk7ZcD7AK6dMWBXa49DmzIX5XAAxvLAYNtkwazxxZSuEjiKh78wO06dVaP6Q_3aQmCXEzlFCWIa8SjVzExDGP4dXNNC0NEQ3bh0nhqxmrGgWsp-FwmwWU_InPOWXUhDp_bGCtzQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77695",
+          "raw_text": "Київ — повітряна тривога через ракетну небезпеку.",
+          "published_at": "2026-10-17T20:28:18+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13612",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-17T19:58:29+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77692",
+          "raw_text": "Київ — повітряна тривога через ракетну небезпеку.",
+          "published_at": "2026-10-17T19:24:22+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77689",
+          "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
+          "published_at": "2026-10-17T19:03:02+00:00"
+        },
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89640",
+          "raw_text": "🗺️\n У застосунку «Повітряна тривога» \nз'явилася\n карта руху російських дронів і ракет\n — Корецький.\n\n\n\n\nТаке оновлення — спільний проєкт Мінцифри, Міноборони, Повітряних сил ЗСУ та українських IT-компаній.\n\n\n\n\nВодночас карта не відображає точне місцеперебування цілей у режимі реального часу, а лише показує орієнтовний напрямок їхнього руху\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-17T17:41:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN2J1IKIJH8G00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/ex-south-african-president-jacob-zuma-discharged-from-hospital",
+      "published_at": "2026-10-17T21:01:35+00:00",
+      "raw_text": "Ex-South African President Jacob Zuma Discharged from Hospital\n\nFormer South African President Jacob Zuma has been discharged from the hospital after undergoing “a routine medical checkup,” his party said.",
+      "title": "Експрезидента ПАР Якоба Зуму виписали з лікарні",
+      "summary": "Колишнього президента Південно-Африканської Республіки Якоба Зуму виписали з медичного закладу після проходження планового медичного огляду. Про це повідомила його політична партія.",
+      "category": "Світ",
+      "tags": [
+        "ПАР",
+        "Якоб Зума",
+        "медицина"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77701",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77701",
+      "published_at": "2026-10-17T20:55:04+00:00",
+      "raw_text": "Відомо про одну загиблу людину та ще двох травмованих через атаку дронів РФ у Полтаві, повідомив керівник ОВА Дяківнич.",
+      "title": "Атака дронів на Полтаву",
+      "summary": "Унаслідок атаки російських дронів на Полтаву загинула одна людина, ще двоє отримали поранення. Про це повідомив керівник ОВА Дяківнич.",
+      "category": "Війна",
+      "tags": [
+        "Полтава",
+        "обстріл",
+        "жертви"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89644",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89644",
+      "published_at": "2026-10-17T20:54:26+00:00",
+      "raw_text": "😭\n \nБлизько 1700 людей \nзалишаються\n заблокованими в Олешках. росіяни перетворили місто на «смертельну пастку»\n — МЗС.\n\n\n\n\nЄдина дорога, якою можна виїхати з міста, та річка неподалік — щільно заміновані. Будь-яка спроба врятуватися несе смертельний ризик. Люди сумніваються, що взагалі зможуть пережити цю зиму. \n\n\n\n\nУ місцевій лікарні повністю закінчилися ліки, а російські військові погрожують цивільним зброєю, відбираючи в них останні харчі.\n\n\n\n\nБільше про ситуацію в Олешках — на \nсайті\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Ситуація в Олешках",
+      "summary": "Близько 1700 людей залишаються заблокованими в окупованих Олешках через заміновані дороги та річки. У місцевій лікарні закінчилися ліки, а російські військові відбирають у цивільних харчі.",
+      "category": "Війна",
+      "tags": [
+        "Олешки",
+        "окупація",
+        "гуманітарна криза"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_crwydey50xeno_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T20:53:00+00:00",
+      "raw_text": "Anti-government protesters battle with police in Albania\n\nThere were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "title": "Сутички антиурядових протестувальників з поліцією в Албанії",
+      "summary": "У суботу в столиці Албанії Тирані відбулися жорсткі сутички між демонстрантами та поліцією спецпризначення. Акція мала антиурядовий характер.",
+      "category": "Світ",
+      "tags": [
+        "Албанія",
+        "протести",
+        "поліція"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_c6d937wedj7jo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-17T20:52:17+00:00",
+      "raw_text": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests\n\nDisorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "title": "Протести у Франції переросли у заворушення",
+      "summary": "Понад пів мільйона людей вийшли на акції протесту проти вартості життя у Франції. У низці міст спалахнули сутички, понад 1000 осіб заарештовано.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "заворушення"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/qUnV2An39USCvLc6psXYMKHgPKMx3rTU-oX9vNc1rp2FRK9Yb4J_dLR35eLIyMdqx0rMf5vfWWaNwV0Fh7FIYnzQ_4G0shbeaPbNjecUCs2-vbnOniqer2NsfdmJkHLUN9rqT7JyjbGOM_8G0es2GzR4BB3EVd360t8jIvzfdXDzpCIpX-6rvt0Cf2TqxEF1gijxtAESr_uCCOFA-Ze64xl5fKDZlEqAtdX-mBVA1zKfkZBOsSvgxbtndcoBbAnMzIfPfKcxcNm36ehfhBzgT4U2KxW1aeKE-y_znl3dybmF8mJ9fJLcbTkaGZlbNrfn_pLo6bPvgjp6rmeosk8Reg.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/guwRTNHlECS46Ysm6rHCAbZlVV2-OLnKOmcSgf_PZAei6f7sZ7p5DkZ9AkTbrmnZ3NHeZHUfG3mOkYBBi4aLo_1wbVzEhsmPf97YrDXbLqDba7SsCTfFgbM6Qj_xVph8EIifsUcoACxkXiJf2NmGqzBhbBpUtMUV6bP4YfASk03-DOHl5LLA0J_8XKoSs2gNE2G-UZSuA8YAOB6lmiR3_NxoaJa6mVXePVQbYK6oUcFImi6Q7eaqGtZO_iRpFxuV_9BsxTsb4LUBFxf0LpJ_O_KsOOGCIKFvsfcg6QQ7Ctdo3_gI9cv8FquhAax8UAsGxw1T4bKq5BuoYVsj8uz--Q.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/RETYuV_6JCNbdlgWkDSCTvy-S7c94lghJJaTR8A7_tKAWkn-ApPKYcMNnzccofZym3fgPuQQoCxojCz-xT3t5YB4DOd2ZeEfez-A39roF7Gwtga-l7GH1oQCORLySotj3-Z5XJuiCzgPxrYMK57c_Urh2Oel0TihHrqnOa821BZ0160YRGslEaq9_Pnn1gomjB_Nf4D--EsAPyPESkfFYmatNBTMqAsX5PTINE0lfj48poiYAbrsJZ8HQAiITQlhHW_wJQotgHZ0E3Lr4YGFQfZhJA4JNJO8X7VS2AdEXk0qsTmXiLmb69vluYeoTpEB89wLyDKqRT8L_wncykQfOQ.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/JuhFJmUTXmL8zld-UNbJPlt9iBWhO2ioC41qF3jDThO_ub_7stGb4_dEHaMX5V5yJN-YLpqxYYrDcMwuhweKcqJ_Kgqpp-DUXDNY2WYf7jkEI5wTRfLe7tJgY1K-cqV0Spjf3IyYQKgzB_LaQDUrPxrft5o71OjlX64e55exJ1PxmnDz8_jVaPNYQxe7GCnAyr2to0r-YHUEF7P97oRr-DPgxYBCjFlo_0h3Ljq-jCpdq4iegsPLFLtAKCxsOI-UbytUu_OriSU0qWjr1waWkmORkugVCosaHCqSAVDHMq5jSqpIk4PFcM9necmPmmFz5p30faQ3ko3Y32PlC-y3Kw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/dFrhePkQUv5D3hKI1g2n2azs6uN7Ry31QTLTdI9yCxzyzERB_NRk3wFwu3BG-g1jyk7sX68uLYZG5EizgptZM6gACw8SGvZLTuxsE54pZocm5iI-0JRI3W5cr1Wuhp9cdUjuu10k32O2dsvJnZfCJ2BZNyHAvWdz4VrlKjfwor7bSr97gF0RPqg_bWEP6VWdJ_KLW_zbwMWufSFFmPBoHn3ykp0P9AxFFLe40H2XwNO7cagGLth4hqDfLxcM3peUn-hbDPJhYLTfAvYqF1UyXzsCqFqKKhu6-Nn6E9HJwwiAMNnYiLVEUVH9Shk5aXelTJtSyaYcuJ_oeCysSCYSAw.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77696",
+          "raw_text": "У різних містах Франції, зокрема в Парижі, відбулися масовані протиурядові протести через високі ціни, низькі соцвиплати та проблеми в освіті й сільському господарстві, повідомляє Le Monde.  Між протестувальниками та поліцією сталися сутички, правоохоронці…",
+          "published_at": "2026-10-17T20:29:21+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77674",
+          "raw_text": "У різних містах Франції, зокрема в Парижі, \nвідбулися\n масовані протиурядові протести через високі ціни, низькі соцвиплати та проблеми в освіті й сільському господарстві, повідомляє Le Monde.\n\n\n\n\nМіж протестувальниками та поліцією сталися сутички, правоохоронці застосовували водомети, світлошумові гранати та сльозогінний газ.\n\n\n\n\nМітингувальники палили сміттєві баки, били вітрини й намагалися проникнути до мерій у Марселі, Ліллі та Бордо. У Парижі пошкодили площу Республіки й розбили вікна в офісах CNews та Europe 1. Станом на 16:00 поліція затримала 272 людей.",
+          "published_at": "2026-10-17T16:08:04+00:00"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23433",
+          "raw_text": "🇫🇷\nСутички, водомети й штурм мерії: у Франції проходять загальнонаціональні протести\n\n\n \n\n\nУ суботу в Парижі та інших містах Франції відбулися сутички між протестувальниками та поліцією під час загальнонаціональних протестів проти високих цін на тлі наближення президентських виборів.\n\n\n \n\n\nЗокрема, протестувальники увірвалися до мерії другого за величиною міста Франції, Марселя. У Парижі поліція застосувала водомети та сльозогінний газ після того, як сотні протестувальників, більшість із яких були в масках, вступили з нею в сутичку в кількох місцях.\n\n\n \n\n\nУ офісах французьких телерадіокомпаній CNews та Europe 1 у західній частині Парижа були розбиті вікна, оскільки протестувальники кидали в них різні предмети.\n\n\n \n\n\nБільше у новині\n: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247955/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-17T14:19:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_146564",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146564",
+      "published_at": "2026-10-17T20:13:55+00:00",
+      "raw_text": "🤯\nПротестуючі спалили історичну будівлю у Франції\n.\n\n\n\n\nДзвіниця мерії Ліможа була зведена у 1883 році, їй було понад 140 років. Протестувальники проникли всередину і підпалили будівлю.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "У Франції протестувальники спалили історичну дзвіницю",
+      "summary": "У місті Лімож протестувальники проникли до мерії та підпалили дзвіницю, зведену у 1883 році. Будівля, якій було понад 140 років, повністю згоріла.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "пожежа"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/0c33fe12af.mp4?token=Y4pMd5xqsuacd98-YmG2EgvQ3kPMpqTqRj41eMa9mqu4cr9YIuzt7A9H2cOeLfH7SEpseMIeNhBfbAOH1kg6mc7cOSzOcrNYaNWgp9g2AH5-8MeM4RjubqJtsX4rR7JleEa0uKPacwjfSmzNasbwEJAwnIre-KLJqyhXSwAL_ueoU5Y8kMoXVmu9tJFohpyuKrDQvYL74yFqpKol6FN1EB3OZ6DVxTbr5P3l31zaL-2GIIHg3W6ekF7zVU0nsq0P_zATTNHH-6Nk0sVZMH3hwh7-bnyhNlwCl0JDJwyuU_vABOPpAGMI5KNV143UOmvV9UPBqSNVtn09-ZvfEQC3Bg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89643",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89643",
+      "published_at": "2026-10-17T20:10:25+00:00",
+      "raw_text": "🇷🇴\n Румунські винищувачі F-16 \nзбили\n над Чорним морем два російські реактивні дрони «Герань».\n\n\n\n\nПерший безпілотник збили після двох хвилин перебування в румунському повітряному просторі. \n\n\n\n\nДругий дрон знищили після п’яти хвилин польоту в повітряному просторі Румунії\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Румунські винищувачі збили російські дрони",
+      "summary": "Румунські винищувачі F-16 збили над Чорним морем два російські реактивні дрони «Герань», які порушили повітряний простір Румунії. Безпілотники були знищені після кількох хвилин польоту.",
+      "category": "Світ",
+      "tags": [
+        "Румунія",
+        "ППО",
+        "Чорне море"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77693",
+          "raw_text": "Два румунські F-16 \nзбили\n два безпілотники, які без дозволу увійшли в повітряний простір країни над Чорним морем, повідомляють у Міноборони Румунії.\n\n\n\n\nРумунія повідомила про інцидент союзників і партнерів у ЄС. У вівторок відбудеться засідання Північноатлантичної ради щодо безпеки Чорного моря. Румунія та Болгарія також координують кроки для створення морського безпекового центру ЄС.",
+          "published_at": "2026-10-17T19:30:01+00:00"
+        }
+      ]
+    },
     {
       "id": "hromadske_ua_89642",
       "source_name": "@hromadske_ua",
@@ -62,90 +595,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77689",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77689",
-      "published_at": "2026-10-17T19:03:02+00:00",
-      "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
-      "title": "Повітряна тривога у Києві",
-      "summary": "У Києві оголошено повітряну тривогу через загрозу ворожих безпілотників. Мешканців закликають залишатися в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "Київ",
-        "тривога",
-        "дрони"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/UQgBSAyf-c2yMieILYGGm6i_QiEtefXzgI0P4C-TV61hYKdF8_xvAZfFwjCMLr5nobZZOsT0Vzz_uWvvaLlCSBHvTFPYzwu3Y_bGuLqLciO75QDZac1bMT4EamJJXwRi431m5RvHEfPHGCOZKWJ-zZYVU27J0pbCA3dHFf96ZN2V8SLgYxb2JXOvIB8JqBt5oHLGpdcKQK8jhiyNk7ZcD7AK6dMWBXa49DmzIX5XAAxvLAYNtkwazxxZSuEjiKh78wO06dVaP6Q_3aQmCXEzlFCWIa8SjVzExDGP4dXNNC0NEQ3bh0nhqxmrGgWsp-FwmwWU_InPOWXUhDp_bGCtzQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/46737",
-          "raw_text": "Ще один «Бандероль» на Полтаву!\n\n\n\n\nUPD 21:58: \nвідбій тривоги.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-10-17T18:38:56+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77686",
-          "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
-          "published_at": "2026-10-17T18:20:34+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77685",
-          "raw_text": "Київ — повітряна тривога через ракетну загрозу. UPD // О 21:14 у столиці також оголосили дронову небезпеку.",
-          "published_at": "2026-10-17T18:17:40+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146556",
-          "raw_text": "Ось так виглядає оновлена мапа в застосунку.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
-          "published_at": "2026-10-17T17:59:22+00:00"
-        },
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/89640",
-          "raw_text": "🗺️\n У застосунку «Повітряна тривога» \nз'явилася\n карта руху російських дронів і ракет\n — Корецький.\n\n\n\n\nТаке оновлення — спільний проєкт Мінцифри, Міноборони, Повітряних сил ЗСУ та українських IT-компаній.\n\n\n\n\nВодночас карта не відображає точне місцеперебування цілей у режимі реального часу, а лише показує орієнтовний напрямок їхнього руху\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-10-17T17:41:30+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146553",
-          "raw_text": "❗️\nКарта руху ворожих повітряних цілей тепер доступна всім! Нову функцію запускають в додатку «Повітряна тривога», – міністр цифрової трансформації України Оксана Ферчук ексклюзивно для Труха\n⚡️\nУкраїна.  Там можна бачити тип загрози – зокрема ударні дрони та…",
-          "published_at": "2026-10-17T17:30:57+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146552",
-          "raw_text": "❗️\nКарта руху ворожих повітряних цілей тепер доступна всім! Нову функцію запускають в додатку «Повітряна тривога»,\n – міністр цифрової трансформації України Оксана Ферчук ексклюзивно для Труха\n⚡️\nУкраїна.\n\n\n\n\nТам можна бачити тип загрози – зокрема ударні дрони та крилаті ракети, а також орієнтовний напрямок їхнього руху. \nДані йдуть напряму від ПС і Міноборони \nчерез захищені канали зв’язку.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-          "published_at": "2026-10-17T17:16:37+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13608",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-17T16:58:53+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102795",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-17T16:31:16+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13606",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-17T16:31:12+00:00"
-        }
-      ]
     },
     {
       "id": "kremenchugtruexa_46739",
@@ -208,54 +657,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_102803",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102803",
-      "published_at": "2026-10-17T18:58:32+00:00",
-      "raw_text": "🟢\n Відбій повітряної тривоги!",
-      "title": "Відбій повітряної тривоги",
-      "summary": "В області оголошено відбій повітряної тривоги. Ситуація стабілізувалася.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "відбій"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13610",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-17T18:58:28+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59106",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-17T18:58:27+00:00"
-        },
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/46726",
-          "raw_text": "✅\n Відбій!",
-          "published_at": "2026-10-17T16:56:13+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13607",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-17T16:55:45+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13605",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-17T15:52:10+00:00"
-        }
-      ]
-    },
-    {
       "id": "truexanewsua_146560",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/146560",
@@ -274,37 +675,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27503",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27503",
-      "published_at": "2026-10-17T18:46:22+00:00",
-      "raw_text": "Britain’s sanctions against Israel, when they materialise, may be little more than a gesture. But they may also be designed to cause serious damage. What does that mean for the countries’ once-special relationship? \nhttps://t.co/ksv9SzsWGF\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
-      "title": "Вплив майбутніх британських санкцій проти Ізраїлю на двосторонні відносини",
-      "summary": "Санкції Великої Британії проти Ізраїлю можуть бути символічними, проте здатні завдати серйозної шкоди. Це стає викликом для колись особливих відносин між двома країнами.",
-      "category": "Світ",
-      "tags": [
-        "Велика Британія",
-        "Ізраїль",
-        "санкції",
-        "міжнародна політика"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/PedpQmhlnXrBKE3IsnvEyaOxq73xxdQ9ut-iM0snkNWjqkMdgSa4jhUgWUjaZSSiCD-Ka7NjwXSWni1z1CTdf-HW2FBG4Rp9xhKZHc-F3_VskzPryq971ClhbsC_5VNyDbt1c7TZD3Y4W2nbwbmdVQGq8AEMQAbERMBgKhjJiVUjqNeizbJ4z411dL7oQUGZfct-lue-80PdHS1xU4uWHOCNrv4Rz3AJ-Oo8Rr7lGn8hcKCeqjv5D1mQX3lPaQnv6aMhMELthA_xKi-HBhYb-wXriEq9M4R3N3k_vVkl0pVLjLnh3xY1yeiwU5CbqTmZRevwWuTsfy_m_TQWXnRnrA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvckw3xd",
-          "raw_text": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions\n\nSource: Bloomberg, 0:00",
-          "published_at": "2026-10-17T15:55:46+00:00"
-        }
-      ]
     },
     {
       "id": "rss__news_articles_c962ydpmjm3zo_1",
@@ -437,37 +807,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_102802",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102802",
-      "published_at": "2026-10-17T18:15:48+00:00",
-      "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
-      "title": "Зниження рівня небезпеки у Кременчуцькому районі",
-      "summary": "Рівень небезпеки у Кременчуцькому районі знижено до жовтого через загрозу застосування дронів.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "дрони",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13609",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-17T17:49:24+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102801",
-          "raw_text": "🔴\n \nКременчуцький р-н\n\n\nРівень підвищено до червоного\n\n\nРакетна загроза",
-          "published_at": "2026-10-17T17:49:02+00:00"
-        }
-      ]
     },
     {
       "id": "rss__news_articles_cx5yn9n7v5zeo_1",
@@ -616,36 +955,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_102798",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102798",
-      "published_at": "2026-10-17T16:57:43+00:00",
-      "raw_text": "БпЛА у напрямку Кременчука  Підписатися • Надіслати новину • TT • IG • X • FB",
-      "title": "БпЛА у напрямку Кременчука",
-      "summary": "Зафіксовано рух безпілотних літальних апаратів у бік Кременчука. Триває повітряна тривога.",
-      "category": "Безпека",
-      "tags": [
-        "БпЛА",
-        "Кременчук"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/46725",
-          "raw_text": "БпЛА у напрямку Кременчука.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-10-17T16:55:44+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102796",
-          "raw_text": "БпЛА у напрямку Кременчука\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-          "published_at": "2026-10-17T16:52:35+00:00"
-        }
-      ]
-    },
-    {
       "id": "hromadske_ua_89637",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/89637",
@@ -788,37 +1097,6 @@
       "related_sources": []
     },
     {
-      "id": "EurointegrationComUA_23437",
-      "source_name": "@EurointegrationComUa",
-      "source_url": "https://t.me/EurointegrationComUA/23437",
-      "published_at": "2026-10-17T16:28:55+00:00",
-      "raw_text": "🇺🇸\nAxios: Маск запропонував обмежити Starlink, Трамп не заперечував\n\n\n\n\nАмериканське видання Axios підтверджує версію британського The Telegraph про те, що керівник компанії SpaceX Ілон Маск запропонував ідею зі сповільненням Starlink для України.\n\n\n\n\nДжерело, обізнане з ходом обговорення, повідомило Axios, що Трамп не заперечував проти ідеї Маска.\n\n\n\n\nЗа даними порталу, українські посадовці чули різні версії того, що сталося з роботою Starlink, причому адміністрація Трампа та керівництво SpaceX звинувачують одне одного.\n\n\n\n\n\"Компанія SpaceX стверджує, що це технічна проблема. Але наші контакти в компанії кажуть, що це йде від Білого дому. Коли ми запитуємо в Білому домі, там кажуть, що це Ілон\", – повідомив виданню один із українських посадовців.\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247962/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-      "title": "Axios: Маск пропонував обмежити роботу Starlink для України, а Трамп не заперечував",
-      "summary": "За даними медіа, Ілон Маск виступив з ідеєю сповільнення Starlink, і Дональд Трамп не був проти цього. Українські посадовці зазначають, що Білий дім та SpaceX перекладають відповідальність одне на одного щодо перебоїв у зв'язку.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "Україна",
-        "Starlink",
-        "Ілон Маск"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/Yx7AxtQxmSsLIOhem6LDAcQCwwm5k1NzsnndahaKNYLzmuKk32aHTOtGI5t708i63SnkWKWcBTqS_6HEfr7RCECo3JQd1Un-JixMSa8SqNEKzaEVH4Qj_LEOcoGURd4A7RdZ7r_YNWfaLu9u0J9rUjsSPHfB_ow7y0yuMP20eI7onLF-Z6YvZUm5J2XlK1mWSBYRzW43UtpbckxkLOZ5StdoZuHazqgxQdBrBsdR5jh-MrRVpBi_0UD7OMBWn8yu1SgPCDHkxTmTIq1QlbflSV-wXX56lW6WbUyGdrbaFV_LE-ktb5P2Sf5Q_039UuO2d898PmEPgBmmVYidrQuj-g.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22325",
-          "raw_text": "Президент США Дональд Трамп заявив, що \nне давав наказу обмежувати Україні \nдоступ до системи Starshield \n➡️\n \nyoutu.be/xxU4e84dmoQ\n\n\n \n\n\nНапередодні сенатори від обох партій звернулися до генерального інспектора Пентагону \nз вимогою розслідувати повідомлення \nпро перебої в роботі Starshield та обміні розвідувальною інформацією між США та Україною.\n\n\n \n\n\nЩо відомо про можливі обмеження, чому сенатори вимагають розслідування та \nяк на ситуацію реагують у Вашингтоні?\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-10-17T06:34:30+00:00"
-        }
-      ]
-    },
-    {
       "id": "suspilnenews_77679",
       "source_name": "@suspilnenews",
       "source_url": "https://t.me/suspilnenews/77679",
@@ -894,53 +1172,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77674",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77674",
-      "published_at": "2026-10-17T16:08:04+00:00",
-      "raw_text": "У різних містах Франції, зокрема в Парижі, \nвідбулися\n масовані протиурядові протести через високі ціни, низькі соцвиплати та проблеми в освіті й сільському господарстві, повідомляє Le Monde.\n\n\n\n\nМіж протестувальниками та поліцією сталися сутички, правоохоронці застосовували водомети, світлошумові гранати та сльозогінний газ.\n\n\n\n\nМітингувальники палили сміттєві баки, били вітрини й намагалися проникнути до мерій у Марселі, Ліллі та Бордо. У Парижі пошкодили площу Республіки й розбили вікна в офісах CNews та Europe 1. Станом на 16:00 поліція затримала 272 людей.",
-      "title": "Протести у Франції через соціально-економічні проблеми",
-      "summary": "У Парижі та інших містах Франції пройшли масові протиурядові протести, що супроводжувалися сутичками з поліцією. Правоохоронці затримали 272 учасників акцій.",
-      "category": "Світ",
-      "tags": [
-        "Франція",
-        "протести",
-        "поліція",
-        "Париж"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/qmsFTeyHT7T7owH_CdEJ7Q6AKlE3GkSM7TiTK93sGXsEKj_AB5uZAiICxV3JK8HKwXbh6sttzKNCGklqLEfqfbLOtQmHaHDQi_Hl4YgiVuScozr7-VMJeWP8DgUsUXkkjp03PpVesZ2rxafGtQPyN7ho9SG74zRtptgK8y0ZWcjfvWLB__1vnaoCrxOvqjNfQ1_AaOrrnf5g2ninnxbd01DLtXtlsW_5NMR2FA5g3ey8VSBV4A2im6ZwDSELYgGujIMQDcYKmEVl9sK03LeX-yuCQAQlzJ0g-WQZMnjnmqdaVi1j262IQ59_l4IbvY9LaXliJ3e8VOfU3S3W0PsEsg.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/OGACqJaQNZyCdXjoO_qpCrQV2uBKvWQ3eytqNI0r0lJYbuIFzHYLrEc-s8u3VPMkwDy-qZlBVX0bruMacyf6JKphoCs1RZN2QkpmJDISBMM9EeEwcHeXO8jwAmihHBuhMfel_dVMrcBN6v4-ZfCfzDn3vjlCsUrLsAmstLNGr-CzsD7pAMtiqK6N6gnTswh6bDxi_q7XtFtqHyGgx9XQfX_LkBoSTUjDlDtZhKMZvpwub850FHFnpk0L0g2J53N2Hdu8KwzqhayLZ5SSXHkOQ8TS9lp-mwJ5AR56EyTK90qaB_s4QwLOuenrDFl9iGbPdOIVooZns_8rj50H6kq3YQ.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/amx9O_KOxniu9-z1IynjBMlhYBIGZrDTFIT4e8_9Q6gYpu5kWR3nPSHQkdCH9Vh9m6IKGBYEV9KS_xwrNDk_YgKTGZMAL8vBtnMnP2J65jiKhhDuYeCnkfVJ4dIUarIPftFFDPMrp-XdFMxaT4nWixghtNrTRd8fAJwazx1Vj2rM-YAix3lnEuSQwtnBd-ETolzpVykzFraap5plIWEXSJE-0a8BtegmtfU6j8EFat4_PRylhUw5wN9iDlq-9eGrWJEyKajBDJHb1beILKomamAHpI4FoYDE2-aidmkNmD4aaWQNrIznseyVQNhk8YhD9HsgweDUkcdNs6LwplV1xA.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/iUEdcgFxf-YU8_G4LuBkamrwWFHhKw_kyyuU2TANlBcYp5g2l5L-HJovDJRKeMSo-adNXKVSVa-A3Qj0PfUGoZ_3DW5-zCXt6jNOx1xd4ZFFhh9vPdVP5DtHHm0tkPGa5MUTJQm3wCCgM_iaaV-mq81VDMioeDymNsWgwiHfSwcClDFVtb5BJHXpGoOgBcgtMFCIrUa-cC9DNE1yAWHwQi3bhTnaLqBSmUPsREnXEkc8A7nRCiHUEjhGnCkvcNoez53ORXUIhjHk5ZGNUXE-wzEh33_OuHTMM7MA7vAyUV4uAeVI5lyuc-tCklSygizfc1UBcb3mhqpcy_9Fb18uxg.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/IodNS8L_-3GnBTQGSX3P5cB__moMwlT30bDFjOtvWPafFxtw3nbigrh3XE4nFKI96IeOYJm_SAHkeSY0N52NNllFefbSkI_U6TAp8HQhYjOnywfHOhFRce-ICDfBagUpYtMUZPJx5MIKVWqiGuL2NE1WJolxhLliUAlFFkHDSs1bW8LrqmzS1VEY88VTTtQXoArwiQJFRzBraZxgYsg-1DGEYBHoSLS_ZlDiAa93lj8BwaXZdkaJBMUdp_cZUGiKnbAquRFu9HFwZsJxBuH7aKVHbrrPeJkHRNOW6PKwcpmxrU_-vBEU4xvPrZXS030d1WHOOJbAxn8XMVqL7309hg.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23433",
-          "raw_text": "🇫🇷\nСутички, водомети й штурм мерії: у Франції проходять загальнонаціональні протести\n\n\n \n\n\nУ суботу в Парижі та інших містах Франції відбулися сутички між протестувальниками та поліцією під час загальнонаціональних протестів проти високих цін на тлі наближення президентських виборів.\n\n\n \n\n\nЗокрема, протестувальники увірвалися до мерії другого за величиною міста Франції, Марселя. У Парижі поліція застосувала водомети та сльозогінний газ після того, як сотні протестувальників, більшість із яких були в масках, вступили з нею в сутичку в кількох місцях.\n\n\n \n\n\nУ офісах французьких телерадіокомпаній CNews та Europe 1 у західній частині Парижа були розбиті вікна, оскільки протестувальники кидали в них різні предмети.\n\n\n \n\n\nБільше у новині\n: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247955/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-10-17T14:19:40+00:00"
-        }
-      ]
     },
     {
       "id": "TheEconomistOfficial_27495",
@@ -1426,25 +1657,6 @@
         "технології"
       ],
       "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMLRHJT9NJLU00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/republicans-brace-for-backlash-as-trump-gas-prices-near-biden-s",
-      "published_at": "2026-10-17T13:00:00+00:00",
-      "raw_text": "Republicans Brace For Backlash as Trump Gas Prices Near Biden’s\n\nIn the run-up to his 2024 presidential election, Donald Trump couldn’t keep quiet about the cost of energy.",
-      "title": "Зростання цін на бензин за адміністрації Дональда Трампа",
-      "summary": "Напередодні виборів 2024 року Дональд Трамп активно критикував вартість енергоносіїв. Зараз республіканці готуються до можливої критики через те, що ціни на бензин наблизилися до показників періоду Джо Байдена.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "Трамп",
-        "економіка",
-        "пальне"
-      ],
-      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
