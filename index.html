@@ -388,9 +388,19 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
         }
                                         let hasRel = Boolean(a.related_sources && a.related_sources.length > 0);
         let relHtml = getRelatedHtml(a);
-        let singleActionsHtml = '';
+        let 
+        // Перевіряємо, чи текст схожий на англійську (містить багато латинських символів)
+        let isEnglish = /[a-zA-Z]{5,}/.test(a.title || '') || /[a-zA-Z]{10,}/.test(a.summary || '');
+        let translateBtnHtml = isEnglish ? '<button class="source-link" style="background:none;border:none;color:var(--accent);cursor:pointer;padding:0;margin-right:12px;" onclick="translateArticle(\'' + a.id + '\', \'' + (a.title || '').replace(/'/g, "\\'") + '\', \'' + (a.summary || '').replace(/'/g, "\\'") + '\', this)">🌐 Перекласти українською</button>' : '';
+
+        singleActionsHtml = '';
         if (!hasRel) {
-            singleActionsHtml = '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text || a.summary) + '</div>' +
+            
+        // Перевіряємо, чи текст схожий на англійську (містить багато латинських символів)
+        let isEnglish = /[a-zA-Z]{5,}/.test(a.title || '') || /[a-zA-Z]{10,}/.test(a.summary || '');
+        let translateBtnHtml = isEnglish ? '<button class="source-link" style="background:none;border:none;color:var(--accent);cursor:pointer;padding:0;margin-right:12px;" onclick="translateArticle(\'' + a.id + '\', \'' + (a.title || '').replace(/'/g, "\\'") + '\', \'' + (a.summary || '').replace(/'/g, "\\'") + '\', this)">🌐 Перекласти українською</button>' : '';
+
+        singleActionsHtml = '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text || a.summary) + '</div>' +
                                 '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>';
         }
         const tagsHtml = (a.tags || []).map(t => '<span class="badge">#' + t + '</span>').join('');
@@ -558,5 +568,43 @@ function toggleSourceText(articleId, index, event) {
 }
 </script>
 <script src="app_addons.js"></script>
+
+    <script>
+        async function translateArticle(articleId, titleText, summaryText, btnElement) {
+            btnElement.disabled = true;
+            btnElement.textContent = '⏳ Перекладаємо...';
+            try {
+                // Переклад заголовка
+                let resTitle = await fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(titleText) + '&langpair=en|uk');
+                let dataTitle = await resTitle.json();
+                let translatedTitle = dataTitle.responseData ? dataTitle.responseData.translatedText : titleText;
+
+                // Переклад основного тексту/сумірі
+                let translatedSummary = summaryText;
+                if (summaryText && summaryText.trim().length > 0) {
+                    let resSum = await fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(summaryText) + '&langpair=en|uk');
+                    let dataSum = await resSum.json();
+                    if (dataSum.responseData && dataSum.responseData.translatedText) {
+                        translatedSummary = dataSum.responseData.translatedText;
+                    }
+                }
+
+                // Знаходимо картку та оновлюємо текст
+                const card = btnElement.closest('.card');
+                if (card) {
+                    const titleEl = card.querySelector('.card-title');
+                    const summaryEl = card.querySelector('.card-summary');
+                    if (titleEl) titleEl.textContent = translatedTitle;
+                    if (summaryEl) summaryEl.textContent = translatedSummary;
+                }
+                btnElement.remove(); // Прибираємо кнопку після успішного перекладу
+            } catch (e) {
+                console.error("Помилка перекладу:", e);
+                btnElement.disabled = false;
+                btnElement.textContent = '🌐 Помилка перекладу';
+            }
+        }
+    </script>
+
 </body>
 </html>
