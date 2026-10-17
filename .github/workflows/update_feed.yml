@@ -2,7 +2,7 @@ name: Оновлення стрічки новин
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '55 * * * *'
   workflow_dispatch:
 
 jobs:
