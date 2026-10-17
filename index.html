@@ -389,17 +389,9 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
                                         let hasRel = Boolean(a.related_sources && a.related_sources.length > 0);
         let relHtml = getRelatedHtml(a);
         let 
-        // Перевіряємо, чи текст схожий на англійську (містить багато латинських символів)
-        let isEnglish = /[a-zA-Z]{5,}/.test(a.title || '') || /[a-zA-Z]{10,}/.test(a.summary || '');
-        let translateBtnHtml = isEnglish ? '<button class="source-link" style="background:none;border:none;color:var(--accent);cursor:pointer;padding:0;margin-right:12px;" onclick="translateArticle(\'' + a.id + '\', \'' + (a.title || '').replace(/'/g, "\\'") + '\', \'' + (a.summary || '').replace(/'/g, "\\'") + '\', this)">🌐 Перекласти українською</button>' : '';
-
         singleActionsHtml = '';
         if (!hasRel) {
             
-        // Перевіряємо, чи текст схожий на англійську (містить багато латинських символів)
-        let isEnglish = /[a-zA-Z]{5,}/.test(a.title || '') || /[a-zA-Z]{10,}/.test(a.summary || '');
-        let translateBtnHtml = isEnglish ? '<button class="source-link" style="background:none;border:none;color:var(--accent);cursor:pointer;padding:0;margin-right:12px;" onclick="translateArticle(\'' + a.id + '\', \'' + (a.title || '').replace(/'/g, "\\'") + '\', \'' + (a.summary || '').replace(/'/g, "\\'") + '\', this)">🌐 Перекласти українською</button>' : '';
-
         singleActionsHtml = '<div class="full-text" id="full-' + a.id + '">' + (a.raw_text || a.summary) + '</div>' +
                                 '<div class="card-actions"><button class="toggle-full-btn" id="btn-' + a.id + '" onclick="toggleFullText(\'' + a.id + '\')">Читати повністю ▾</button><a href="' + a.source_url + '" target="_blank" class="source-link">Джерело ↗</a></div>';
         }
