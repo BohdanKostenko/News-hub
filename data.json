@@ -1,28 +1,826 @@
 {
-  "updated_at": "2026-10-18 09:57",
+  "updated_at": "2026-10-18 14:11",
   "digest": [
-    "У Дніпрі та Одесі пролунали вибухи, зокрема зафіксовано ворожий удар по житловому комплексу.",
-    "У восьми країнах Європи, зокрема у Франції, проходять масові антиурядові протести через вартість життя та зростання цін.",
-    "У Литві впав невідомий безпілотник, який не вдалося збити через погодні умови.",
-    "У Великій Британії планують скасувати практику розміщення дітей у лікарняних коридорах та виділять 140 мільйонів фунтів на невідкладну допомогу."
+    "Тиснява на релігійному святі в Індії через зливу забрала життя 19 людей.",
+    "У Парижі та інших містах Франції пройшли масові протести й сутички через високі ціни та соціальні проблеми.",
+    "У Кременчуці сталася ДТП на перетині вулиць Свободи та В. Пугачова, а також змінився графік руху тролейбусів маршруту № 3А+.",
+    "Експерти обговорюють ризики залежності глобалізації від країн, які використовують торгівлю як зброю, та проблеми надмірної уваги до інновацій.",
+    "В США дата-центри починають впливати на політичні вподобання виборців, а в Україні зберігаються обмеження на роботу Starlink."
   ],
   "articles": [
     {
-      "id": "TheEconomistOfficial_27549",
+      "id": "TheEconomistOfficial_27564",
       "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27549",
-      "published_at": "2026-10-18T09:46:34+00:00",
-      "raw_text": "In Britain, precedent piles on precedent and keeping up appearances is paramount. Hence the world’s most elaborate rent payment \nhttps://t.co/vCcR8oJGEw\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Особливості оренди житла у Великій Британії",
-      "summary": "Британська традиційність та дотримання прецедентів призводять до надзвичайно складної системи орендних платежів. Це відображає унікальні правила та збереження зовнішності у суспільстві.",
+      "source_url": "https://t.me/TheEconomistOfficial/27564",
+      "published_at": "2026-10-18T14:06:05+00:00",
+      "raw_text": "Our analysis of polling data suggests that, as anxiety over data centres grows, the projects seem to be pushing voters towards Democrats \nhttps://t.co/Dftd9GqiX7\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Вплив дата-центрів на політичні вподобання виборців у США",
+      "summary": "Аналіз опитувань показує, що зі зростанням занепокоєння громадян щодо дата-центрів ці інфраструктурні проєкти починають схиляти виборців на бік Демократичної партії. Суспільна тривога стає важливим фактором у політичних настроях.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "вибори",
+        "демократи",
+        "технології"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN3WEBN3N08Y00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-18/can-america-rebuild-trust-with-its-allies",
+      "published_at": "2026-10-18T14:03:47+00:00",
+      "raw_text": "Can America Rebuild Trust With Its Allies?\n\nFormer Canadian deputy prime minister and “Wall Street Week” contributor Chrystia Freeland and former US Treasury secretary Janet Yellen say that globalization became dangerously dependent on countries willing to weaponize trade and supply chains. Freeland recounts her shared sentiment with Yellen in her new book, “Unreliable Boyfriend.” \n (Source: Bloomberg)",
+      "title": "Відновлення довіри союзників та глобалізація",
+      "summary": "Експерти обговорюють ризики залежності глобалізації від країн, які використовують торгівлю та ланцюжки постачання як зброю. Тема порушена у новій книзі Христі Фріланд.",
+      "category": "Світ",
+      "tags": [
+        "економіка",
+        "політика",
+        "глобалізація"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "ok_kremen_59140",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59140",
+      "published_at": "2026-10-18T14:02:01+00:00",
+      "raw_text": "ДТП на Свободи/В.Пугачова",
+      "title": "Дорожньо-транспортна пригода на вулиці Свободи та В. Пугачова",
+      "summary": "У Кременчуці сталася дорожньо-транспортна пригода на перетині вулиць Свободи та В. Пугачова. Інформація про постраждалих уточнюється.",
+      "category": "Події",
+      "tags": [
+        "ДТП",
+        "аварія",
+        "Кременчук",
+        "дорога"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/14935a9429.mov?token=VIvukpOssAUR_5Ol3BHLSIpWClbfqXAiFKuetrqcHpOEbY1VDje7x6py0Fv4MLf-NeilacbIJRQz7zCtpaso2x5hRIQQaAVN-aP2_jTEsDvaIhDLH4Y9w_FU4RiCer-DKtXs7SqmYw1jbSw6eg3GOnQMK_JgOOSKrfbCFzW9gaC_ARc_P1Jnmtg4YbRbSJKvnw76Gvr2Q9SA0qgbbFyugysffiwoXyj0NX34oplTKVzICR_g8qSxsoK5MqTrlnIZ6Wwhj-P3tiaKqJZ6u61xWTkvLMTo5HWb9rYkAhGPneh5E8BWBMb0s7LlDVmpNDCsi6RlDxJx1K9NBOeRWTUmCA"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/46767",
+          "raw_text": "ДТП сталася на перехресті Свободи/В.Пугачова.\n\n\n\n\nПопередньо, без постраждалих.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
+          "published_at": "2026-10-18T12:38:33+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102817",
+          "raw_text": "ДТП на Свободи/В.Пугачова\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
+          "published_at": "2026-10-18T12:25:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ok_kremen_59139",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59139",
+      "published_at": "2026-10-18T14:00:14+00:00",
+      "raw_text": "🚎\n \n До уваги жителів Кременчука: з понеділка,19 жовтня, змінюється графік руху тролейбуса маршруту № 3А+.\n\n\n\n\n👆\nЗ оновленим графіком можна ознайомитись на картинці.",
+      "title": "Зміна графіка руху тролейбуса № 3А+",
+      "summary": "З понеділка, 19 жовтня, у Кременчуці змінюється розклад руху тролейбусів маршруту № 3А+. Оновлений графік доступний для ознайомлення пасажирів.",
+      "category": "Транспорт",
+      "tags": [
+        "тролейбус",
+        "розклад",
+        "Кременчук",
+        "транспорт"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/f_qSpIFU2q0uLYz9FXSGkEksJzKp9F_tZx5ffURxNE3YwdFbngHzZsiHCBpaFy3_YZr30G7Xu_6YM8Qv06-IBUEol1jFsopFGFyT5rh7E3uWOU9ncWvnV6x6KVGVGUN_1cUGgNuq3KrNJ_QKlsUUb3VpGHF1jahAwbKA-2K0ODjuq7C2fWan05ZjOkHAisoKClI_pjDuOJeu2Xmciv8kMvDkTI2htD1-vnph-PtP7q1NY6NB-wZBayx9j-oLf5xbeyI5VY9Pdysn6kdiBO7wHzt9O_n_umyyRGTD2GTT71r38lBeXEANMK0l0nY0PjwfUwhGnBGzwhMuiW_Sa3-CCA.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN3W3CKIP3I900",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-18/rethinking-america-s-faith-in-innovation-video",
+      "published_at": "2026-10-18T13:57:12+00:00",
+      "raw_text": "Rethinking America’s Faith in Innovation\n\nAuthor Thomas Frank tells Bloomberg This Weekend that America’s celebration of creativity and innovation has helped justify policies that elevated white-collar knowledge work while contributing to inequality and the decline of manufacturing. Speaking with hosts David Gura and Christina Ruffini about his new book, The Creativity Con, Frank argues that innovation is neither uniquely American nor a guarantee of broadly shared prosperity. (Source: Bloomberg)",
+      "title": "Переосмислення інновацій в Америці",
+      "summary": "Автор Томас Франк заявляє, що надмірна увага до інновацій сприяла зростанню нерівності та занепаду виробництва. На його думку, інновації не є гарантією загального процвітання.",
+      "category": "Світ",
+      "tags": [
+        "економіка",
+        "США",
+        "суспільство"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89672",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89672",
+      "published_at": "2026-10-18T13:56:54+00:00",
+      "raw_text": "🤯\n \nВ Індії через тисняву на релігійному святі \nзагинули\n 19 людей.\n\n\n\n\nТиснява у столиці штату Колката сталася увечері 17 жовтня під час Дурга-пуджі — щорічного індуїстського фестивалю, що вшановує богиню Дургу. \n\n\n\n\nЗагалом до свята встановили близько 3500 павільйонів, які місцеві жителі називають «пандалами». Після початку дощу натовп біля одного з таких павільйонів побіг ховатися. За даними поліції, деякі люди впали на дорогу, що й спричинило тисняву  \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Тиснява на релігійному святі в Індії: загинули 19 людей",
+      "summary": "Під час індуїстського фестивалю у штаті Колката сталася тиснява через те, що натовп кинувся ховатися від дощу. За даними поліції, люди впали на дорогу, що призвело до загибелі 19 осіб.",
+      "category": "Світ",
+      "tags": [
+        "Індія",
+        "трагедія",
+        "натовп"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/hMMPHZQ0N1-_ZzS-bHpUbiYEVnrAwi1ennktemiiEeQliGPx3nP53ecH4RoTcg56FvqttPhbcgT3D7c5k38tKIbcLH9WhR7qkTKFSgh-qNRFfz4eV6bGrH1TsI_i0ZmWaKuS38Pu53FinTHsiETXw15oSSRd1Rv0YvctHc95BfKmaQWTKWBeMhe1BtLFU95f6BNnFYJDYpwBDb8LVq8sMalvjcVljT9ylcwNY74Ht57rcMHAON3rEfr1O3ST7FYcIM5ZxuMDPQeDpAG1b-GFdDKdPX93elC6OxQo7HYO63AA0pQZFaa0b0R9-u7mYsMqSfsMCDLjMb9hnYh_L8qOMw.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN3VXCXVHD6O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-10-18/starlink-still-restricted-in-ukraine-trump-russia-backlash",
+      "published_at": "2026-10-18T13:53:36+00:00",
+      "raw_text": "Starlink Still Restricted in Ukraine, Trump-Russia Backlash\n\nSource: Bloomberg, 0:00",
+      "title": "Обмеження Starlink в Україні та реакція на Трампа-Росію",
+      "summary": "Зберігаються обмеження на роботу системи Starlink в Україні на тлі політичних обговорень ситуації навколо відносин США та Росії.",
+      "category": "Технології",
+      "tags": [
+        "Starlink",
+        "Україна",
+        "технології",
+        "політика"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77723",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77723",
+      "published_at": "2026-10-18T13:51:40+00:00",
+      "raw_text": "У різних містах Франції, зокрема в Парижі, відбулися масовані протиурядові протести через високі ціни, низькі соцвиплати та проблеми в освіті й сільському господарстві, повідомляє Le Monde.  Між протестувальниками та поліцією сталися сутички, правоохоронці…",
+      "title": "У Франції пройшли масові протести та сутички з поліцією",
+      "summary": "У Парижі та інших містах Франції відбулися протиурядові протести через високі ціни та соціальні проблеми. Під час акцій виникли сутички між протестувальниками і правоохоронцями.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "Париж"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/o7099t4Jh8m7k_F6JAz8IlCmztPE1vLy6fOVtPKA8tdR9oWjpi6RrnKXKc1OngHrWi4Z9zm2dMVeAvnYe0AM4ggkomKTeOs_qeyz5QRBUI0t6HAtuyUmoGStFtaoZaHKhvW2MUZTBSctR8llRKNGwn5TX8iNpTF1eh-aBJ9_Goxfb4Ctn6S3204KIbDmoyPT6ekZ6Q9jLBUIROb8Hj-vYE7-AcWbECukC2RxJjnqSmPGG9rERenVBQjASH44ftM4KRlxa946U5xgb7FVJDXy5KszYzBcmQQpwbvx8EOc-q3obwlK4cfu0h2kKc8NHdYnM4dUQ1oB_ptcoDmEgi_ehw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/u26sfUANn2ARgsyVzwlpOZ0qyPqWITZ4s0WgFskyWdgPe8wjElZzZfbAH4a6J6qSTTX-NyKPkq1fCg3aPHfxG-8t8PefJyQjmGDEYgV-fgSkitRYwa86SR8KLUdrcN2rFRA_iwumqp9DfHiZoZL0eaXHqhr-bEl6seKqGeg6GzNYUxPqCs6XcHxIKmZvtOB4OUaDGMC7aPZAhiJSa1Gtkvr7qpvqiLE0AqheaKxHzxlLGYV8cBDwZi7TDXlqgiaItDY-6GvxZYFfrRVpCWLEiSq-AYPbiNmZVN9H3r223ALSGVhezcl4W80auwFEmIjpLqnAvLQ1gRMVKd3ANlb3uw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/XlHzHq1g_OMFzMCj7x8IfCwxdJ8kR78xk7sFND7J3EXMiKSvswTBZOgSxkTN-Jy83F2GjPOtnOVpbCbzbxTWwrvb3Bgae2-chjBX2DSyvlfCmRa-zLXI-vZrhE5uW_feRwstJZ8AHxJfS5chlm88CXDLdh_S_HiH9cT4KVT9FuKyEk1ml0OigQSeOHKuDCLLhE7VdxbM5nU68vxA5OD6bPoMaA1v0dlS6KzKmwVr9iaSlwsTUz-QtMnLkPe8s_Uezw5qwVaPVpAc1LuM3pioydZoWOWwR61zuNhCBHWcn81lMRw5r7_2h5gNVOf_MfjKsaBrXNK6Tg2AqwCHIh8Gew.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/SQe1nwXANLGAefj5wBQKYFYPBLQriAjuRYVQp5TS59rl3jMYA7VHRH0RvbZtxgrFGHtk0JTnAb5BtR8E6E2o1H2dB_CzRNmb74KzwVDPjsr6vWTTi48fKlbqVPwlIktADyn-FwQo9dqsHOTkxbWvMB7P4GTSOjIyr8w_BT0rfLLauMsvtPij9RpO6uBjrQaQbIJPf5ItS6hU9T69Y_fqUK0n5iSJi_w29NkA_1FmALcwFFBsR6VYXsy-803JV9aqqbPS1LZXCfkFDx7qdDVEB740YBjo5pjppMJ25QNlERQ5rS2AyFNvqScehgSwRQfOQF_Di5FlTGUUSbTDNOj8yg.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/cY5c6KslEhVmqicd0an3suuhP5mVhOaWjlghCPOfjNkBSZ8ihX1qV7Za84InaTtTdvcQXdAmD26o1OQhL6EiHAyOxmqopZS5CihV9R7B2Qojiur7NrOVwgqhi2wfFsDufe9iJaHjMLpQdMAO_BTaUlUbq7Pn26YSrUf5ovhEtjDVvf38Al5iQw7oPsZb_ozG2UxN7W4b12IlbLAY9wOhfCgq8SJxxBh7n5GKAFM2w_GwFoLRao9xGYdT3kjS2043hC6NYXPcoCzru_YK9gzF8b7u-AQuqDLyDo25v0usIIwYfWK-Jl2hwrQ9Voxn7vz7VFqIhS1_rzJHrVqK37dXdQ.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/CdquJarg1VmINxxBEZ9GBD_0KOO9CK-51u1KhppmpbUAZx1yXeVQ0REEYQW6Rar7BrZFVGmqkImDUSoFTC14jNN62QjaYIXsOnyaUBReJnfywozw1lCluYsegnk9LRi4Is5Gry4Na0kP4GFiXpqA6s6BVVQ5Hbn90CActsW8lR-eYCpOMBXSpV5-5vvkIKo_Nja-3XWBWFpznNVHVNAajpwQCYU9LZeeOd3pTK-2fpqWzH-t9JDA-k5aVrCbaTD-rMwl4VWu87_zVFSaQHnmvNlOGM125kTImBkt3-ilr6Kg1xWOyBwU6UDnMpOafi2fowlSB7JSUELAcL6MzLLp3g.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146600",
+          "raw_text": "😳\n Протестувальники розносять елітні бутики і популярні магазини у Франції. Зокрема, під ударом – Louis Vuitton, Hermès, Celine та Sephora.   Загалом у країні провели близько 140 акцій, у яких взяли участь понад 32 тисячі людей. Серед причин невдоволення –…",
+          "published_at": "2026-10-18T12:26:22+00:00"
+        },
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/france-struggles-to-contain-fallout-from-nationwide-protests",
+          "raw_text": "France Struggles to Contain Fallout From Nationwide Protests\n\nNationwide protests in France against the high cost of living and scenes of looting and burning on the sidelines deepened a schism between extremes in the country’s political spectrum and drew a reaction from US Vice President JD Vance.",
+          "published_at": "2026-10-18T09:17:44+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146592",
+          "raw_text": "❗️\nЄвропа потерпає від масових антиурядових мітингів: у 8 країнах (!) спалахнули акції та протести. \nРозбираємо причини та хронологію. \n\n\n\n\nДетально по країнах:\n\n\n▪️\n \nФранція.\n На початку жовтня школярі \nпротестували\n через умови навчання — 500 шкіл призупинили роботу. 17 жовтня на вулиці \nвийшли\n до 800 тисяч людей. \nВимагають доступної освіти, якісних держпослуг і підвищення купівельної спроможності.\n Частина акцій переросла в сутички.\n\n\n\n\n▪️\n \nПортугалія.\n 17 жовтня тисячі людей протестували \nпроти дорожнечі та недоступного житла\n. У Лісабоні розгорнули наметове містечко. Вимагають зниження вартості оренди та підвищення зарплат і пенсій.\n\n\n\n\n▪️\n \nІспанія.\n Протягом осені тривають протести \nпроти зростання оренди, виселень і спекуляцій із нерухомістю\n. Люди вимагають доступного житла й захисту орендарів.\n\n\n\n\n▪️\n \nІталія.\n 17 жовтня молодь \nпротестувала\n \nпроти дорожнечі\n, у кількох містах сталися сутички. Окремо в Римі профспілки вимагали \nвищих зарплат, доступної медицини, освіти та житла\n.\n\n\n\n\n▪️\n \nБельгія.\n 17 жовтня студенти \nвийшли\n \nпроти подорожчання навчання та освітніх реформ\n, які вони вважають загрозою доступу до вищої освіти. У Брюсселі та Льєжі відбулися сутички з поліцією.\n\n\n\n\n▪️\nАвстрія\n. У жовтні школярі та представники лівих молодіжних організацій вийшли на вулиці з акцією\n проти запланованої або обговорюваної заборони на носіння мусульманських хусток\n (хіджабів) дівчатами віком до 14 років.\n\n\n\n\n▪️\n \nАлбанія.\n Протести почалися \nчерез будівництво курорту біля заповідної території\n, але переросли у виступи проти корупції та уряду. Після акцій 13 жовтня сталися сутички. \nВимагають відставки прем'єра Еді Рами.\n\n\n\n\n▪️\n \nСербія.\n Протести тривають із листопада 2024 року після загибелі 16 людей через обвалення навісу вокзалу. \nЛюди звинувачують владу в корупції та вимагають покарання винних.\n У жовтні 2026 року рух активізувався напередодні виборів.\n\n\n\n\nВ основному на протестах – молодь. Причини різні – від умов навчання та проблем з житлом до корупції у владі. Опитування 2026 року показує, що лише \nтрохи більше 50% молоді віком 16-26 років у Європі оптимістично дивляться у своє майбутнє\n – порівняно з 70% у 2017. Вони відчувають, що європейська політика не здатна працювати на благо наступного покоління.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-10-18T09:05:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN3VT0KIP3I900",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-18/ai-debt-boom-faces-bond-market-reality-check-video",
+      "published_at": "2026-10-18T13:51:00+00:00",
+      "raw_text": "AI Debt Boom Faces Bond Market Reality Check\n\nPIMCO Market Strategist and Portfolio Manager Tony Crescenzi tells Bloomberg This Weekend that rising US interest costs and the selloff in CoreWeave debt show how bond investors are imposing greater discipline on borrowers, particularly companies with less certain cash flows. Speaking with hosts David Gura and Christina Ruffini, Crescenzi says divided government could be supportive for markets after the midterm elections and argues the AI investment cycle still has a long way to run. (Source: Bloomberg)",
+      "title": "Ріст боргів у сфері штучного інтелекту зіштовхнувся з реальністю ринку облігацій",
+      "summary": "PIMCO зазначає, що зростання витрат за американськими відсотками та розпродаж боргів CoreWeave демонструють посилення дисципліни інвесторів. Експерти вважають, що інвестиційний цикл у сфері ШІ ще триватиме.",
+      "category": "Економіка",
+      "tags": [
+        "ШІ",
+        "економіка",
+        "облігації",
+        "США"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@theeconomistofficial",
+          "source_url": "https://t.me/TheEconomistOfficial/27563",
+          "raw_text": "No field of research has ever experienced an event like it. AI’s mathematical breakthroughs offer a preview of the uproar that could soon break out in many scientific fields \nhttps://t.co/VH1EpFaJxA\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+          "published_at": "2026-10-18T13:41:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN3TSVKIUPS100",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/zelenskyy-says-speaking-to-witkoff-kushner-about-peace-meeting",
+      "published_at": "2026-10-18T13:48:30+00:00",
+      "raw_text": "Zelenskyy Says Speaking to Witkoff, Kushner About Peace Meeting\n\nUkrainian President Volodymyr Zelenskyy said he’s holding talks Sunday with US President Donald Trump’s envoys with a view to arranging a new peace meeting as early as this week.",
+      "title": "Зеленський обговорює з еміссарами Трампа організацію мирної зустрічі",
+      "summary": "Президент України Володимир Зеленський проводить переговори з посланцями Дональда Трампа щодо організації нової мирної зустрічі вже цього тижня.",
+      "category": "Політика",
+      "tags": [
+        "Зеленський",
+        "США",
+        "дипломатія",
+        "мирні переговори"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146601",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146601",
+      "published_at": "2026-10-18T13:31:32+00:00",
+      "raw_text": "😳\n«Веслом топили ухилянта»: українські прикордонники на човні намагалися зупинити чоловіка, який плив до Молдови.   В ДПСУ нам повідомили, що на молдавському березі група осіб, погрожуючи прикордонникам, затягла човен на берег. На місце прибули молдовські прикордонники…",
+      "title": "Інцидент на кордоні з Молдовою під час спроби переплисти річку",
+      "summary": "Українські прикордонники намагалися зупинити чоловіка, який плив до Молдови. На молдовському березі група осіб затягла човен та погрожувала прикордонникам.",
+      "category": "Події",
+      "tags": [
+        "ДПСУ",
+        "кордон",
+        "Молдова"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27562",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27562",
+      "published_at": "2026-10-18T13:26:20+00:00",
+      "raw_text": "The Joint Civil Aid Corps were founded to help Britain’s emergency services during a national crisis. Whether the state is in better shape for a crisis than they are remains unclear \nhttps://t.co/sqztmjqFBs\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Діяльність Об'єднаного корпусу цивільної допомоги у Великій Британії",
+      "summary": "Об'єднаний корпус цивільної допомоги було створено для підтримки британських екстрених служб під час національних криз. Проте залишається незрозумілим, чи готова сама держава до кризових ситуацій краще, ніж ця організація.",
       "category": "Світ",
       "tags": [
         "Велика Британія",
-        "нерухомість",
-        "суспільство"
+        "безпека",
+        "криза"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@theeconomistofficial",
+          "source_url": "https://t.me/TheEconomistOfficial/27549",
+          "raw_text": "In Britain, precedent piles on precedent and keeping up appearances is paramount. Hence the world’s most elaborate rent payment \nhttps://t.co/vCcR8oJGEw\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+          "published_at": "2026-10-18T09:46:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "EurointegrationComUA_23448",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23448",
+      "published_at": "2026-10-18T13:24:59+00:00",
+      "raw_text": "У МЗС припустили, що дрон залетів у Литву через російську РЕБ, та перепросили за інцидент\n\n\n\n\nРечник Міністерства закордонних справ Георгій Тихий заявив, що інцидент із дроном, який стався вранці 18 жовтня у Литві, ймовірно, є наслідком \"російських заходів радіоелектронної боротьби, спрямованих на зміну курсу безпілотників під час операції проти законних військових цілей на території Росії\".\n\n\n\n\n\"Ми перепрошуємо за будь-які незручності, ризики та занепокоєння, які це могло спричинити\", – заявив Тихий.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247988/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "У МЗС припустили причину зальоту дрона у Литву",
+      "summary": "Речник МЗС Георгій Тихий заявив, що інцидент із дроном у Литві міг статися через російську РЕБ. Він також вибачився за можливі незручності.",
+      "category": "Політика",
+      "tags": [
+        "МЗС",
+        "Литва",
+        "дрон",
+        "РЕБ",
+        "Росія"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/szNdKQT_owTAIggus9TG1A-PAduGimcUdOQf_p5ulmB5AwJZF5dz4ORTsCRF4ksdpiw5brsSQuT5cl3dnmnFxFQPeYVZbR3CxxHZz34Qi9pNBLBh-_0-qJHcV19HGT7gK9ejQsYIjRRQyYL2n0GYQny7BVhDzrooENTXFtjzKIRIHLfcZyJ5j2a9EA0qcLx39LZUOBvPMnLiGjnaChMYtlghYNeRM54_HE2B5PZchWpP_qQ21k_9Bp3_ayNp5d16NmEH37Qbb8BjHPdyVTJvYv3v4BxNuliR3vW7C1uHkDXy15sb6fqntvGH3bWZ1fqVOFVlnsPrPfTJUzkFbAFyFw.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89671",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89671",
+      "published_at": "2026-10-18T13:20:50+00:00",
+      "raw_text": "🥇\n Жіноча збірна України вперше \nвиграла\n командний залік молодіжного чемпіонату світу 2026 року з боротьби. Українські спортсменки здобули шість нагород, з яких три — золоті\n\n\n\n\nФото: United World Wrestling\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Жіноча збірна України виграла чемпіонат світу з боротьби",
+      "summary": "Украинські спортсменки вперше перемогли в командному заліку молодіжного чемпіонату світу 2026 року з боротьби. Вони здобули шість нагород, зокрема три золоті.",
+      "category": "Спорт",
+      "tags": [
+        "спорт",
+        "боротьба",
+        "перемога",
+        "збірна України"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/IptTiWXIeggzX1BUTgAcyMSLDfbIR-4IQmXPMkEIaV2e5M0SdmS3f6abDJfFILUOpPJ8H1sZmwNkiHq4uei__VUZeA6vOuaO71BHC5zp_yn7bkf7UaAX4SNsy-jybeYw9HPcTlCsxa1qeorlwHCXBYd1wwfBPimiN_e0VU7sqIGpEXJi9YTdB2Vb90gpBGub80SXdkX259tqp81T6M4U6UyghAMCVfz88cTPX2D_3hiIVjYiMBysh0sQ6_KvztGZDHeFPzZVtclXCo1A40pIE3M4L8WzjYFW9dm4_UTp5eeLS7mXURtoE2eNWZY959Xfvtl7qO7_hN2L3luKYP_GTg.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77722",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77722",
+      "published_at": "2026-10-18T13:19:40+00:00",
+      "raw_text": "Через інтенсивні атаки РФ на Київ Оксана Зінковська-Боярська разом із донькою тимчасово переїхала до села на Черкащині. Наприкінці серпня вона придбала будинок за шість тисяч доларів, куди також евакуювала батьків із Донеччини.\n\n\n\n\nУ столиці донька жінки почала боятися вибухів, а тепер родина може спокійно спати. Будинок ще потребує ремонту, але головне для Оксани зараз, щоб дитина була в теплі й безпеці. \n\n\n\n\nДивіться історію Оксани \nна YouTube-каналі Суспільного\n.",
+      "title": "Історія переселенців: евакуація з Києва та Донеччини на Черкащину",
+      "summary": "Киянка Оксана Зінковська-Боярська через російські обстріли придбала будинок на Черкащині та евакуювала туди родину. Там родина знайшла безпеку від вибухів у столиці.",
+      "category": "Суспільство",
+      "tags": [
+        "переселенці",
+        "Черкащина",
+        "війна"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/ixLx1sXqnNUChQC1NvzDvpoPNp-C8njysBr06a3y2tkFHvj_pMyYvZnmQwaTy96SHRgCbpijDjspgN2FTa1bxT17rIFm97ftVYFynsmQhNYCCbovsUmqdB7CZ6nhu3kEVbs2CrZhwMOzTLlNjNNfNMGn-YTw964FlK6sE_fpfT2SlPXWlIkDj72hEvgJUve1hYZRHrLpqoKkJe2ecYhqYhSyiwhjJhg8xrxIVNth22SyFHmRUey0KLqCYTbRmNQjJ-UNaHlDgrhBlyU__nXzi5WCCWcU7Vmq3Qqd7CieSvniiaz8jK1jxTgD9JCrmqoPGlZ8FcTzoKGPmPbk_LV03A.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27561",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27561",
+      "published_at": "2026-10-18T13:06:09+00:00",
+      "raw_text": "Since a rallying speech by Canada’s prime minister at Davos earlier this year there have been a few occasions when smaller countries have stood up to large aggressors. But there have been far more examples of feebleness \nhttps://t.co/QGr14v5nBfIllustration\n: Chloe Cushman \nhttps://t.co/3LOm99lVkh\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Реакція менших країн на дії великих агресорів",
+      "summary": "Аналіз світових подій показує, що лише в поодиноких випадках менші країни наважуються протистояти великим агресорам. Більшість прикладів демонструють слабкість та нерішучість на міжнародній арені.",
+      "category": "Світ",
+      "tags": [
+        "міжнародні відносини",
+        "геополітика",
+        "The Economist"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "EurointegrationComUA_23446",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23446",
+      "published_at": "2026-10-18T13:02:44+00:00",
+      "raw_text": "Трамп пов'язав масштабні протести у Франції з міграцією та закликав країну закрити кордони\n\n\n\n\nАмериканський президент Дональд Трамп пов’язав масштабні вуличні протести у Франції з міграцією та закликав Париж \"закрити кордони\".\n\n\n\n\n\"Франція палає! Імміграція людей із зовсім іншого світу, людей, у серцях яких панує ненависть, зруйнувала цю колись велику країну\", – написав він.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247987/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "Трамп закликав Францію закрити кордони через протести",
+      "summary": "Дональд Трамп пов'язав масштабні протести у Франції з міграцією та закликав Париж закрити кордони. На його думку, імміграція зруйнувала країну.",
+      "category": "Світ",
+      "tags": [
+        "Трамп",
+        "Франція",
+        "протести",
+        "міграція"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/pwPwPRpCW5npSUIQ4PEeQv9acbtIOB5ti1N-vAlshW5mN_Ch47FaQfxScG-aHPIoDOP4ZLwolifrxUfIXKRIIA2W9ChzzysZSwrzyv-Gnfs7gW-XGvq6mgpDBU-X9c4vP2BqQuiFVjRx-v1pdHTf5hdhl5UkOdvhTKoq8lprr6E7myE0s94iHeSbYIyByHErC805cPo7cSJUrqUNo3GyQumfyBTY6YFcOaDivrTriMmR6JsspyZoxCP9upRQ-EhiVwMDG2CXa9cedEd2pbCGkLVMrS4uyZobjAcePt1_1Dax5sTH7iGlPsWbpwKL7Qmv1Sh7y2uPJLih5fMevIor_A.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77721",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77721",
+      "published_at": "2026-10-18T12:55:57+00:00",
+      "raw_text": "Кабмін \nстворив\n комісію для продажу держпакетів акцій Сенс Банку та Укргазбанку. Про це повідомив премʼєр Корецький. \n\n\n\n\nКомісія визначатиме порядок проведення конкурсів, ухвалюватиме рішення про допуск учасників, погоджуватиме стартову ціну торгів і продажу та переможців. До її роботи можуть долучитися представники міжнародних фінансових організацій та інституцій ЄС.",
+      "title": "Кабмін створив комісію для продажу Сенс Банку та Укргазбанку",
+      "summary": "Уряд сформував комісію для продажу державних пакетів акцій Сенс Банку та Укргазбанку. Вона визначатиме порядок конкурсів, стартову ціну та обиратиме переможців.",
+      "category": "Економіка",
+      "tags": [
+        "Кабмін",
+        "Сенс Банк",
+        "Укргазбанк",
+        "приватизація"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89669",
+          "raw_text": "🎧\n Кабмін \nстворив\n комісію, яка займатиметься створенням належних умов для продажу державних пакетів акцій «Сенс Банку» і «Укргазбанку».\n\n\n\n\nЗа словами Корецького, до роботи комісії можуть долучатися представники міжнародних фінансових організацій та інституцій ЄС.\n\n\n\n\nРадників для обох банків уже обрали\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-18T11:53:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27560",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27560",
+      "published_at": "2026-10-18T12:46:13+00:00",
+      "raw_text": "AI will require scholars to reinvent their disciplines. Scientists will have to learn to love guiding models—and studying, verifying and teaching their results \nhttps://t.co/ymvVusVlh8\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Штучний інтелект вимагає переосмислення наукових дисциплін",
+      "summary": "Розвиток штучного інтелекту змушує науковців змінювати підходи до роботи. Вченим доведеться керувати моделями та перевіряти їхні результати.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "наука",
+        "дослідження",
+        "технології"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77720",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77720",
+      "published_at": "2026-10-18T12:38:05+00:00",
+      "raw_text": "У Литві \nнамагалися підпалити\n компанію, яка зберігає термінали Starlink, повідомив прем’єр країни Сінкявічюс. За його словами, спецслужби заздалегідь попередили підприємство про можливий напад і там посилили охорону, тому спроба виявилася невдалою.",
+      "title": "У Литві намагалися підпалити компанію зі зберігання терміналів Starlink",
+      "summary": "У Литві сталася невдала спроба підпалу компанії, що зберігає термінали Starlink. Завдяки попередженню спецслужб підприємство завчасно посилило охорону.",
+      "category": "Світ",
+      "tags": [
+        "Литва",
+        "Starlink",
+        "безпека"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/rlupNN2ui1IK71n1i6ts6ctmt_mnpw1YWyABxDzqkZ3IMT-0A2VrJA0cA3oc7jSlA7YCaHgxrZvW-l_PiPJhPG7nuaEBsa2P8HA_NQVOc2-kJ_n6UTqb7zNHW99zrNO6XAiIvN8waZP0hKzrvYwkIExt2MuvdtdLHGuwksH0Y5_9aai_--dOJYWdGHYVnZRIBdPO8O3htlUstFnaaWcP1uolV50EbhZ9awLLLqRFw9RWi10K-IcVQy3AMhEamCcwcf2Yd1naJh1Y2V_qs1oq0U9X-CHx0Ely_-HCqRlEdFcel5y8C7On3udWVA_RU63A6xIIRCdOajyHuTv-FKT3dg.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23443",
+          "raw_text": "У Литві намагалися підпалити компанію, яка зберігає обладнання Starlink\n\n\n\n\nПрем’єр-міністр Литви Міндаугас Сінкявічюс повідомив про невдалу спробу підпалу литовської компанії, яка зберігає обладнання для зв’язку Starlink.\n\n\n\n\nГлава литовського уряду заявив, що скликає засідання Комісії з питань національної безпеки у понеділок, 19 жовтня. Він пояснив, що ухвалив таке рішення через вторгнення невідомого безпілотника у повітряний простір Литви та спробу підпалу компанії, яка зберігає обладнання Starlink.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247974/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-18T08:50:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27559",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27559",
+      "published_at": "2026-10-18T12:26:10+00:00",
+      "raw_text": "Israelis abroad are flocking home for the election. No one knows how they will vote, but it is reasonable to assume they will lean heavily towards opposition parties \nhttps://t.co/dFK9fucofE\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Ізраїльтяни масово повертаються додому на вибори",
+      "summary": "Громадяни Ізраїлю з-за кордону масово їдуть додому для участі у виборах. Очікується, що вони можуть підтримати опозиційні партії.",
+      "category": "Світ",
+      "tags": [
+        "Ізраїль",
+        "вибори",
+        "опозиція"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89670",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89670",
+      "published_at": "2026-10-18T12:21:43+00:00",
+      "raw_text": "🇺🇦\n США \nвідновили\n обмін розвідданими з Україною\n — Зеленський.\n\n\n\n\nПрезидент також сподівається, що переговори зі США можуть відбутися уже цього тижня \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "США відновили обмін розвідданими з Україною",
+      "summary": "Президент Володимир Зеленський повідомив про відновлення обміну розвідданими зі США. Також він висловив сподівання щодо переговорів із американською стороною цього тижня.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "Україна",
+        "Зеленський",
+        "розвідка"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77719",
+          "raw_text": "Президент Зеленський \nзаявив\n, що США відновили обмін розвідданими з Україною після того, як його призупинили на «певний період часу». Про це він сказав в інтерв'ю каналу NBC, передає Bloomberg.",
+          "published_at": "2026-10-18T12:18:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_102816",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102816",
+      "published_at": "2026-10-18T12:14:13+00:00",
+      "raw_text": "🟢\n Відбій повітряної тривоги!",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У регіоні оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "відбій"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59137",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-18T12:14:11+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13619",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-18T12:14:11+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13617",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-18T08:31:32+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102814",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-18T08:31:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_c574pdzl0k4no_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-18T12:07:31+00:00",
+      "raw_text": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting\n\nAround 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "title": "Протести у Парижі переросли в заворушення та мародерство",
+      "summary": "На вулицях Парижа зафіксували згорілі автомобілі та розбите скло після спалаху насильства та мародерства. Загалом по країні внаслідок протестів затримали близько 1800 осіб.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "Париж"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_102815",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102815",
+      "published_at": "2026-10-18T11:43:31+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+      "title": "Повітряна тривога та дронова загроза",
+      "summary": "В регіоні оголошено повітряну тривогу через загрозу ворожих безпілотників. Встановлено жовтий рівень небезпеки.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "БПЛА",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/UQgBSAyf-c2yMieILYGGm6i_QiEtefXzgI0P4C-TV61hYKdF8_xvAZfFwjCMLr5nobZZOsT0Vzz_uWvvaLlCSBHvTFPYzwu3Y_bGuLqLciO75QDZac1bMT4EamJJXwRi431m5RvHEfPHGCOZKWJ-zZYVU27J0pbCA3dHFf96ZN2V8SLgYxb2JXOvIB8JqBt5oHLGpdcKQK8jhiyNk7ZcD7AK6dMWBXa49DmzIX5XAAxvLAYNtkwazxxZSuEjiKh78wO06dVaP6Q_3aQmCXEzlFCWIa8SjVzExDGP4dXNNC0NEQ3bh0nhqxmrGgWsp-FwmwWU_InPOWXUhDp_bGCtzQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13618",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-18T11:43:30+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13616",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-18T08:04:32+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102813",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+          "published_at": "2026-10-18T08:04:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_89668",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89668",
+      "published_at": "2026-10-18T11:21:47+00:00",
+      "raw_text": "🛰️\n Японія вперше в історії \nзапустить\n космічний апарат на супутник Марса, щоб дістати зразки ґрунту.\n\n\n\n\nАгентство аерокосмічних досліджень Японії готується розпочати місію вже 20 жовтня. Очікується, що вона триватиме п’ять років.\n\n\n\n\nЗа результатами місії вченим вдасться дослідити, як формувалися супутники Марса — Фобос і Деймос, а також дізнатися більше про зародження життя\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Японія вперше запустить космічний апарат на супутник Марса",
+      "summary": "Японське агентство аерокосмічних досліджень готується 20 жовтня розпочати місію з доставки зразків ґрунту з супутника Марса. П'ятирічна місія допоможе дослідити формування Фобоса і Деймоса та зародження життя.",
+      "category": "Світ",
+      "tags": [
+        "Японія",
+        "Марс",
+        "космос",
+        "наука"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/Y9ExUMMay5bjIFejS5OYm63RzyQPVqgQ0VXS0g5W_dnn9DimTbWBdoJdgQQpfEnNfYk-cmYeS3tUEKj9opx5519UOGywfcm2bKdnkFIgpx5v5aluqzkAna-cz5bVDrHHytwoCuPIhh9baKSBkaK_XZ9Zxdf-mzw4JMXXe_cWe30HKqgX3yBVRhKSRMEnOFNLqNa51e34WjGnof3WPdONO6lJJt4H20btzWcTHp1V4tGwT3XcqDxlf8GkEC0do2AIRt9RZqPcy74Sn8CrFc0HeHQvs7_B5zRxx36LBrg5aoMpUGFyu-GX3y0-m_Yt_Z6puHwqStELw6v4Fe2BAq9y_Q.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cmn8w5v8yne4o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-18T11:14:33+00:00",
+      "raw_text": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion\n\nThe Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+      "title": "Поланскі заявив, що не скасовуватиме резолюцію Партії зелених про сіонізм",
+      "summary": "Лідер Партії зелених повідомив, що попри бажання внести правки, резолюція із формулюванням про «сіонізм — це расизм» залишатиметься чинною до 2028 року.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "Партія зелених"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146599",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146599",
+      "published_at": "2026-10-18T11:03:10+00:00",
+      "raw_text": "Сьогодні – Міжнародний день жіночого щастя.\n\n\n\n\nТи знаєш, кого привітати\n😉\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Міжнародний день жіночого щастя",
+      "summary": "Сьогодні відзначається Міжнародний день жіночого щастя. Це привід привітати знайомих жінок та висловити їм свою підтримку.",
+      "category": "Суспільство",
+      "tags": [
+        "свято",
+        "жінки"
       ],
       "importance": 1,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/2f0f8000ce.mov?token=NzGdKcywr2T-FiLRNJfxjnVrTgthZYsCjyjpadB5uZZ1VOLqHVL9mJZtpU1BUigLiQ7Bj4YpiMRzdCatDAXtAy1W4l3Xl2BXCpCLAbqvKv3aId7-G7zGJ7BSHU67e5nlP0Httkd7qXLyu0RwpgyOlFwBq5uA3pSQVjWlak2Goe6gw5T86ugvnQht-GOtA7ZHx7quA_dXgA4HwZPxVtFdXVX8bBtTbSboVnJzPRswk82OaySiGrYrqAjW-skTnYh5dHupdaFNQsPLzCYhESshoC-tTpk93gyTzBdCm9FlapC8vMVXlPy6lq9Y93l83PQoCgFjgzJXmUG9dOw3Y12ROQ"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "rss_uk_news_videos_cmn5vey19q3go_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-18T10:58:39+00:00",
+      "raw_text": "Watch: Parisians wake up to protest damage and looted shops\n\nViolence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "title": "Наслідки масових протестів у Франції: пошкоджені магазини",
+      "summary": "Мешканці Парижа прокинулися після чергового дня демонстрацій проти умов у школах та вартості життя. Насильство та мародерство охопили багато регіонів країни у суботу.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "демонстрації"
+      ],
+      "importance": 3,
       "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
+          "raw_text": "Watch: Moment historic French town hall spire collapses in flames amid protests\n\nAn historic town hall in the southern French city of Limoges was set ablaze during national protests.",
+          "published_at": "2026-10-18T00:49:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": "EurointegrationComUA_23444",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23444",
+      "published_at": "2026-10-18T10:31:49+00:00",
+      "raw_text": "В Литві розкрили деталі про падіння невідомого дрона\n\n\n\n\nДрон, який у неділю порушив повітряний простір Литви, пошкодив цивільний автомобіль; повідомлень про постраждалих поки не надходило.\n\n\n\n\nНаразі триває огляд території, де, ймовірно, впав дрон. Деякі уламки та деталі вже знайдено, але ще не всі; територія огороджена. Огляд проводиться як з повітря, так і на землі. Після знаходження всіх частин об’єкта експерти сподіваються встановити його походження.\n\n\n\n\nНаразі точної інформації про те, чи містив дрон вибухівку, немає, заявив прем’єр-міністр Литви Міндаугас Сінкявічюс.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247980/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "У Литві розкрили деталі падіння невідомого дрона",
+      "summary": "Безпілотник порушив повітряний простір Литви та пошкодив цивільний автомобіль, обійшлося без постраждалих. Наразі триває огляд території та пошук уламків для встановлення походження апарата.",
+      "category": "Світ",
+      "tags": [
+        "Литва",
+        "дрон",
+        "надзвичайна подія",
+        "безпека"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/eK5qAyMpbrOnGOoKRvxwgkiPTZ-V8A_j0RfNF0fG9cFd-sqW1TxnofPGwddGHd5NH6k5UEPTGKNeWlK64bcpsSeTKWapCDJU2ow1syw95S8rUFZaJkEyRvjWROfkvyhxCkUyEqV-nCANxBEE0PTn87uLos2KqkHu7S_gzMN1LtVOVQFFM_JhC8T8vCsVESFYBKO9ASwiV4kppAdlPKalvwovvNOBBK92sj9ka7yVGdIokViXFjL3NorAU_7TNRwxxKPeishGBwZnqla4L1-cqJLI90pcFKYLg1pQjQGrZdVGWdRCUNyg5choJeobQ9IfCDmkG_3O-DTbd5UP8gO5AQ.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89661",
+          "raw_text": "🇱🇹\n У Литві впав невідомий безпілотник — винищувачі \nне збили\n його через погоду.\n\n\n\n\nВійськові припускали, що дрон залетів з території Польщі — з польською стороною вже зв’язалися щодо подальшого перебігу розслідування\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-18T09:38:43+00:00"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23442",
+          "raw_text": "У Литві знайшли уламки дрона, він міг залетіти з Польщі\n\n\n\n\nУ селі Юоджоніс, що в Пасваліському районі Литви, за попередніми оцінками, було знайдено уламки дрона. Згідно з останніми даними від збройних сил Литви, ймовірно, дрон вторгся в повітряний простір країни з території Польщі.\n\n\n\n\nЗа попередніми даними, дрон не було збито. Уламки знайшли в незаселеній місцевості.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247970/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-18T07:41:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_146598",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146598",
+      "published_at": "2026-10-18T10:20:12+00:00",
+      "raw_text": "🔞\n😱\nЖесть. Священника вбив хрест, який впав йому на голову просто під час служби. \nСталося це в Еквадорі.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "В Еквадорі священник загинув під час служби через падіння хреста",
+      "summary": "У Еквадорі сталася трагічна подія: під час богослужіння на голову священника впав важкий хрест. Чоловік загинув на місці.",
+      "category": "Світ",
+      "tags": [
+        "надзвичайна подія",
+        "Еквадор",
+        "священник"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/c3ce87cd23.mp4?token=sS1J527oR7ZuFNLpgCr_u1eNT3xCbEH9T9Z8MDGCca3xH5pgAldwR62-GJH57QKZlDEtMPI6IUZVPZv8npcJintPQWPyzkswoXDfkMJQ58iAe5y_FMR3BLHhkcPp6JNtT3vngVK2hiSO8PyXwSqspv7woBUvXjmA55bVHCNEdwrjXOfBizUCYGwFjlhYQtus8-w6XZO21q17_YJw2RkNnE4hS7wq3ktuUyLf69iPkgutgIZ2FknfIquAzJbTwtAnA4Dsiq9tFKeh3qm4lyCj-5YZl71p7AYE5xuTvH_nHprSt7GJQspsk5CD_lENmQrgkZ5Kh52B0LVSB7Ot-aDx4Q"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_46764",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46764",
+      "published_at": "2026-10-18T10:01:44+00:00",
+      "raw_text": "Відбулася акція «Не мовчи! Полон вбиває!» у Кременчуці, \n– Телеграф.\n\n\n\n\nНа вулиці вийшли родини військовополонених і зниклих безвісти захисників. \n\n\n\n\nУчасники закликали не забувати про військових, доля яких досі невідома, та підтримувати їхні родини.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
+      "title": "У Кременчуці пройшла акція «Не мовчи! Полон вбиває!»",
+      "summary": "Родини військовополонених та зниклих безвісти захисників вийшли на вулиці Кременчука. Учасники закликали суспільство не забувати про зниклих безвісти військових та підтримувати їхні сім'ї.",
+      "category": "Суспільство",
+      "tags": [
+        "акція",
+        "полонені",
+        "Кременчук",
+        "суспільство"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/9750caced7.mp4?token=m4McuTeTZsVluWo0rSi7UTJ1igFSmw_zDOfr77YJxF8rRw19m6pvcENUiftzGohi-vnxt9p5PoiOxSLcnvZAYNYuLlFC6u15bcWOicb3a9lqz8TG7IA_Yf5LXgV1uVdtpNjRzJMVuhyqf7VMMOTopnNg0YoYuFhmnSj41tog4bqY2jbEBIUWShei69QRAiM3oin8AzLRDsnXOn5juCwLU3eWhW22cTL8b9_T6N-uhQ0c_cjB0dEAly3OQ-zKHa8Qos_awydk8_mFDfn8I2yfwhk-TcjPI92L_AatOgym3EEP90SsuwIhqtA6_BTOwDOEIzK_O-HcthXhwOAJUY0P0ULCMAaU-hC9vVwegevo6Z5v4mtZ_XwHPtAzpjSialGD3TQpovNObnXOYawyLUcVQlLQxvpuglvZnykgGK3j1f5XWadgYHH3_AkOkX8M5Tiv8PmsTPf6mT6J09zfC7WxVIyFBx-o13BhAlVbh_DZBbH3HUupWRulHP4uzvYRpxHze1-2358nz9F4keqz9ZBF814Zo0QXTmsV5Yyshi4cpENHDRkFqRAVBENXmjRTkbp2PgES_gEia6nXcXssbUsfR72-Z7AnWIbUtaSsjZh5plMixrUQOONrJNnleg4SXniEbHnNLh4MkZ0nWny4_VhrCooC0vCTCDTnScDgbEywoa8"
+        }
+      ],
       "related_sources": []
     },
     {
@@ -42,36 +840,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_89661",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/89661",
-      "published_at": "2026-10-18T09:38:43+00:00",
-      "raw_text": "🇱🇹\n У Литві впав невідомий безпілотник — винищувачі \nне збили\n його через погоду.\n\n\n\n\nВійськові припускали, що дрон залетів з території Польщі — з польською стороною вже зв’язалися щодо подальшого перебігу розслідування\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Падіння безпілотника у Литві",
-      "summary": "У Литві впав невідомий безпілотник, який винищувачі не змогли збити через погодні умови. Військові перевіряють припущення про його приліт із території Польщі.",
-      "category": "Світ",
-      "tags": [
-        "Литва",
-        "дрон",
-        "безпека"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/qDqUH2wSiCS95LiyR1pOxN18BuOChvMS3eCIZHeX7gTx0eO8AD0YSGI_qQwqaQ-MGzbvmu0JP6O0-_EpAM-d2s56iTz5U9E6YLGxaX623F2GKdArrpFPrtZLGA6-PpC_-XqTBntpP49dEVShWAW0nyBbaYkMhwd8XVJZemDDLPnrGDFJdEyYw3H0AKnwZ9G7WKoDIJeSTwGUgehYeYAN4n7kgsWZQMrNRrFwZnb2fHHpSUOqFDPQnn4L2ansF-3GZWD66f-caV20f5Gx658XNV9Q9hWmVsUQflOvG5VUpoN0wAIGins1STYaPG_iiDcaiboHiEFRz-q1Yh5xS-Ay5Q.jpg'"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77715",
-          "raw_text": "У Литві вранці \nоголошували\n повітряну тривогу через дрон невідомого походження. Згодом він впав на території Пасваліського району поблизу села Юоджйоніс, повідомив литовський мовник LRT.\n\n\n\n\nЗазначається, що близько 6:15 ранку за місцевим часом для патрулювання повітряного простору з авіабази у Шяуляї підіймалися винищувачі місії протиповітряної оборони НАТО.",
-          "published_at": "2026-10-18T09:12:30+00:00"
-        }
-      ]
     },
     {
       "id": "suspilnenews_77716",
@@ -109,46 +877,6 @@
       "related_sources": []
     },
     {
-      "id": "rss_TN3E6HT9NJM400",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/france-struggles-to-contain-fallout-from-nationwide-protests",
-      "published_at": "2026-10-18T09:17:44+00:00",
-      "raw_text": "France Struggles to Contain Fallout From Nationwide Protests\n\nNationwide protests in France against the high cost of living and scenes of looting and burning on the sidelines deepened a schism between extremes in the country’s political spectrum and drew a reaction from US Vice President JD Vance.",
-      "title": "Протести у Франції",
-      "summary": "Загальнонаціональні протести у Франції через вартість життя супроводжуються заворушеннями та мародерством. Ситуація поглиблює політичний розкол у країні та викликала реакцію за кордоном.",
-      "category": "Світ",
-      "tags": [
-        "Франція",
-        "протести",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/f01c9827b8.mp4?token=X3nLKpN9AHsaHkgO4T3l72BmnHOE9vXs5zMQK7SBOb6bK5ZKl7_y5ZAlbALaEcvRhL2aYvva3vu88kXc8aGSOtwI-EIvIMlGz-ZFOa72Pj9q1W3Bgx1gVBxGWOxKinFx8hZ3VHVgGTm5IhiwUzJUsLwEiuhAFdhZ7wRlHtUUr2oXsfHvnpJmH56LAF-qTaApIddaVw2AKDks4W8W8meMKFvdgKkelrygrkisn8Wnedt5Z7YZSqRzP-2A7zTFOkpx-gw-PA1Xc6BKJRg1vl7SCODUsaysdKj4R_UB13m8Oxz-iafuNNX5u2PSbT3k3ERzvtZ59gbKhzr3khrMpFnf3A"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aa9c1dad6b.mp4?token=qtThsIEnsWkalwE41Q81hGIy5bMn0f9Y50f90JQ6LEzlP0w_DLcrejkkJEjh7FiUeWXYSLd1Ywjb5CNcoPG0ePE9xXf7YNVHlCAFMD_SPjq3eeLpNuKR97fBtcKpV-Lc0I8st1xxVE4DqSw5773ejO0alNwbnAG6IAMmG9uyXZd6SuOxFc9lsP-mZJTckqGxPgPEnol53SRc9quke9mP3Dsnn98p1NnkYc8B7AoHitixUC0wMWKKUHKBNgK6DVLgYCi134-AvNgiu677BsnzNl3h_080jZTw-ZGcM2rBjH9Sc4iqo7EK15trtQTanEsT4zPBqvPHBkQiSyI0tMyN6Q"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/89657",
-          "raw_text": "🇫🇷\nУ Франції \nпродовжуються\n масштабні протести, які розпочалися з акцій старшокласників проти умов навчання.\n\n\n\n\nЛише в суботу поліція затримала понад 1200 людей по всій країні, правоохоронці застосовують проти мітингувальників сльозогінний газ. Крім того, щонайменше 150 поліціянтів зазнали поранень.\n\n\n\n\nУ МВС Франції заявляють, що протестувальники «атакують правоохоронців, кидають у них предметами й лаються», а також намагаються вчинити підпали.\n\n\n\n\nБільше про це — розповідаємо на \nсайті\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-10-18T08:01:25+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146585",
-          "raw_text": "😳\n Протестувальники розносять елітні бутики і популярні магазини у Франції. Зокрема, під ударом – Louis Vuitton, Hermès, Celine та Sephora.   Загалом у країні провели близько 140 акцій, у яких взяли участь понад 32 тисячі людей. Серед причин невдоволення –…",
-          "published_at": "2026-10-18T07:39:23+00:00"
-        }
-      ]
-    },
-    {
       "id": "truexanewsua_146595",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/146595",
@@ -165,37 +893,6 @@
       ],
       "importance": 5,
       "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_146592",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146592",
-      "published_at": "2026-10-18T09:05:22+00:00",
-      "raw_text": "❗️\nЄвропа потерпає від масових антиурядових мітингів: у 8 країнах (!) спалахнули акції та протести. \nРозбираємо причини та хронологію. \n\n\n\n\nДетально по країнах:\n\n\n▪️\n \nФранція.\n На початку жовтня школярі \nпротестували\n через умови навчання — 500 шкіл призупинили роботу. 17 жовтня на вулиці \nвийшли\n до 800 тисяч людей. \nВимагають доступної освіти, якісних держпослуг і підвищення купівельної спроможності.\n Частина акцій переросла в сутички.\n\n\n\n\n▪️\n \nПортугалія.\n 17 жовтня тисячі людей протестували \nпроти дорожнечі та недоступного житла\n. У Лісабоні розгорнули наметове містечко. Вимагають зниження вартості оренди та підвищення зарплат і пенсій.\n\n\n\n\n▪️\n \nІспанія.\n Протягом осені тривають протести \nпроти зростання оренди, виселень і спекуляцій із нерухомістю\n. Люди вимагають доступного житла й захисту орендарів.\n\n\n\n\n▪️\n \nІталія.\n 17 жовтня молодь \nпротестувала\n \nпроти дорожнечі\n, у кількох містах сталися сутички. Окремо в Римі профспілки вимагали \nвищих зарплат, доступної медицини, освіти та житла\n.\n\n\n\n\n▪️\n \nБельгія.\n 17 жовтня студенти \nвийшли\n \nпроти подорожчання навчання та освітніх реформ\n, які вони вважають загрозою доступу до вищої освіти. У Брюсселі та Льєжі відбулися сутички з поліцією.\n\n\n\n\n▪️\nАвстрія\n. У жовтні школярі та представники лівих молодіжних організацій вийшли на вулиці з акцією\n проти запланованої або обговорюваної заборони на носіння мусульманських хусток\n (хіджабів) дівчатами віком до 14 років.\n\n\n\n\n▪️\n \nАлбанія.\n Протести почалися \nчерез будівництво курорту біля заповідної території\n, але переросли у виступи проти корупції та уряду. Після акцій 13 жовтня сталися сутички. \nВимагають відставки прем'єра Еді Рами.\n\n\n\n\n▪️\n \nСербія.\n Протести тривають із листопада 2024 року після загибелі 16 людей через обвалення навісу вокзалу. \nЛюди звинувачують владу в корупції та вимагають покарання винних.\n У жовтні 2026 року рух активізувався напередодні виборів.\n\n\n\n\nВ основному на протестах – молодь. Причини різні – від умов навчання та проблем з житлом до корупції у владі. Опитування 2026 року показує, що лише \nтрохи більше 50% молоді віком 16-26 років у Європі оптимістично дивляться у своє майбутнє\n – порівняно з 70% у 2017. Вони відчувають, що європейська політика не здатна працювати на благо наступного покоління.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-      "title": "Масові протести у Європі",
-      "summary": "У восьми країнах Європи спалахнули антиурядові акції та протести. Громадяни вимагають доступного житла, якісної освіти, підвищення зарплат та виступають проти зростання цін.",
-      "category": "Світ",
-      "tags": [
-        "протести",
-        "Європа",
-        "мітинги"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/2a2c1ba398.mp4?token=pCpHiXUtK3sMwr-GJZ_-Myn1KrXwD5LSB9t2iU7cWMhUUIkRecWHng3aTUDkPlr2NoBDAFMY9CLxTU6Fpyl9ahHIn6gcU5m0KvkUpdM2G0XnPDLYlC0KioJfwfN0Pgc1RXcZCohYSXXYzMNOEeXdcNHHGIBdqowYB8xcqdP3m2TqTei5nyeD-xiyr01sIVYhtxxWLXHstXfIvWuSAUsaqWfGZiJgg2dwDvqTTjoEtn__ikTmKAj1I8g6oLuAHFjpse9pumDd_FYVzXGO_gb11-1vkJRSuMWmzSNEA_0Lzx1rwNJG_RWxEv72a-JB5p4WuFroroU6xEOH_vMIw4taa7MT4TPdg1QyOIqzD-o41MfKJBBQ-PO1HPfcW5a1uDsuKEQbLVJU8dB4150XQGB7x2jM1-SVbIYK4zXNXh6NHpNcegQHYZU-_mY8joNDtjzQe9N7pypyt-nRVrQYLe-ekSb30bBSxkQpYbfJI0TjYNNnkzRZBWOx0s_TK82DY0Bbhb2Xz0TRzlA45BruJt-Df3fapBkNNDc_wyNfTjZdn7PVOidbdheTkOmAJN_f7su42ILrJ_eDOk-91vx1kCnSIX4vcsV2CzmS6iPbhL5mq3l7Yuwnrba8SnfbBn66Yr2SaY6qg7M9KGX2KbcXkLXK3cgcyuBSEyY_CsiWH8Aty8M"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/12d79c96c7.mp4?token=febon7GBi-IJOQzjObiGvtnVRGy9yhL1oUaWUwcwaOeAFhaJ_GskSxjn0CUaOyp03_rjl9jkG1yHISjV59vnKRFlQczpcbAsZnANtH0VH6z64IoiWnLAG8c1Ez0_2Ak74QpEe6o8AsIcIyJinq4j4YAJCo1ZG4LsPEyCMZxlTXaxPO5uPIPmbN45K0McCuCEsqG3MoPBitC8s56MeweE8_DZHOgaJ02Sm7aIDW0rvVB1tdEJS7vmeUiadOONiLpai3tDLvPlCi244uZ-WxKIliqQDHDcFm_tOq9iYs9rVdkbHyvLdUREHQ4tJuy6YrXMsIJjhYfT9NdMwV9mFraPSQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/323c449dcd.mp4?token=vIH9_kWPDGWnTQJJc3QtQTgPuJEJ0Is0aoykbWzXOAtvzSNFpnFMvs_UHt_AJC5qXbfuPF9146oWcdttxRIx60LVIJg8gXw12TZyvE9ALgAEV8xCiqzE-FmXrbogWqLVEXrlXdqr0y6cT7_16m3DPhi6Qei52J1Cj-s3zST9FuY7QM6zEeQfdvSpEAOLs4JnU9DhhAZmAlL9HXX-UlSoof7SHl6oZiLE7mFjADlXnd8w4mHF94ukizp1NnSpHz8W77Agkurqn2L5s7f5z3AFmhYNEY4lFB42d_tu5r43F0s6O0HrQ_v1pAQmZ5jWV5Kxa0tPI75E_BsbwthF2oaFEg"
-        }
-      ],
       "related_sources": []
     },
     {
@@ -269,29 +966,6 @@
       ],
       "importance": 5,
       "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "EurointegrationComUA_23443",
-      "source_name": "@EurointegrationComUa",
-      "source_url": "https://t.me/EurointegrationComUA/23443",
-      "published_at": "2026-10-18T08:50:19+00:00",
-      "raw_text": "У Литві намагалися підпалити компанію, яка зберігає обладнання Starlink\n\n\n\n\nПрем’єр-міністр Литви Міндаугас Сінкявічюс повідомив про невдалу спробу підпалу литовської компанії, яка зберігає обладнання для зв’язку Starlink.\n\n\n\n\nГлава литовського уряду заявив, що скликає засідання Комісії з питань національної безпеки у понеділок, 19 жовтня. Він пояснив, що ухвалив таке рішення через вторгнення невідомого безпілотника у повітряний простір Литви та спробу підпалу компанії, яка зберігає обладнання Starlink.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247974/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-      "title": "Спроба підпалу компанії Starlink у Литві",
-      "summary": "У Литві зафіксували невдалу спробу підпалу підприємства, яке зберігає обладнання Starlink. Через це, а також через вторгнення невідомого безпілотника, прем'єр-міністр скликає засідання Комісії з нацбезпеки.",
-      "category": "Світ",
-      "tags": [
-        "Литва",
-        "Starlink",
-        "безпека"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/rlupNN2ui1IK71n1i6ts6ctmt_mnpw1YWyABxDzqkZ3IMT-0A2VrJA0cA3oc7jSlA7YCaHgxrZvW-l_PiPJhPG7nuaEBsa2P8HA_NQVOc2-kJ_n6UTqb7zNHW99zrNO6XAiIvN8waZP0hKzrvYwkIExt2MuvdtdLHGuwksH0Y5_9aai_--dOJYWdGHYVnZRIBdPO8O3htlUstFnaaWcP1uolV50EbhZ9awLLLqRFw9RWi10K-IcVQy3AMhEamCcwcf2Yd1naJh1Y2V_qs1oq0U9X-CHx0Ely_-HCqRlEdFcel5y8C7On3udWVA_RU63A6xIIRCdOajyHuTv-FKT3dg.jpg'"
-        }
-      ],
       "related_sources": []
     },
     {
@@ -382,66 +1056,6 @@
       ]
     },
     {
-      "id": "sirena_kremenchuk_13617",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13617",
-      "published_at": "2026-10-18T08:31:32+00:00",
-      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-      "title": "Відбій повітряної тривоги у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі офіційно оголошено відбій повітряної тривоги. Небезпека минула.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "Кременчук"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59132",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-18T08:31:31+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102814",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-10-18T08:31:30+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77712",
-          "raw_text": "Київ — відбій повітряної тривоги через дронову загрозу.",
-          "published_at": "2026-10-18T08:12:21+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59130",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-18T08:04:32+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13615",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-17T22:42:14+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13614",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-17T21:19:41+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13613",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-17T20:46:06+00:00"
-        }
-      ]
-    },
-    {
       "id": "rss_TN3BK2KJH6V400",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says",
@@ -499,73 +1113,6 @@
         }
       ],
       "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_102813",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102813",
-      "published_at": "2026-10-18T08:04:32+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-      "title": "Повітряна тривога через дронову загрозу",
-      "summary": "Введено повітряну тривогу через загрозу застосування ворожих безпілотників. Встановлено жовтий рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "БПЛА",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/UQgBSAyf-c2yMieILYGGm6i_QiEtefXzgI0P4C-TV61hYKdF8_xvAZfFwjCMLr5nobZZOsT0Vzz_uWvvaLlCSBHvTFPYzwu3Y_bGuLqLciO75QDZac1bMT4EamJJXwRi431m5RvHEfPHGCOZKWJ-zZYVU27J0pbCA3dHFf96ZN2V8SLgYxb2JXOvIB8JqBt5oHLGpdcKQK8jhiyNk7ZcD7AK6dMWBXa49DmzIX5XAAxvLAYNtkwazxxZSuEjiKh78wO06dVaP6Q_3aQmCXEzlFCWIa8SjVzExDGP4dXNNC0NEQ3bh0nhqxmrGgWsp-FwmwWU_InPOWXUhDp_bGCtzQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13616",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-18T08:04:32+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102809",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-17T21:19:40+00:00"
-        }
-      ]
-    },
-    {
-      "id": "EurointegrationComUA_23442",
-      "source_name": "@EurointegrationComUa",
-      "source_url": "https://t.me/EurointegrationComUA/23442",
-      "published_at": "2026-10-18T07:41:47+00:00",
-      "raw_text": "У Литві знайшли уламки дрона, він міг залетіти з Польщі\n\n\n\n\nУ селі Юоджоніс, що в Пасваліському районі Литви, за попередніми оцінками, було знайдено уламки дрона. Згідно з останніми даними від збройних сил Литви, ймовірно, дрон вторгся в повітряний простір країни з території Польщі.\n\n\n\n\nЗа попередніми даними, дрон не було збито. Уламки знайшли в незаселеній місцевості.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247970/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-      "title": "У Литві знайшли уламки дрона, який міг залетіти з Польщі",
-      "summary": "У Пасваліському районі Литви виявили уламки дрона в незаселеній місцевості. За оцінками збройних сил, безпілотник міг потрапити до країни з території Польщі.",
-      "category": "Світ",
-      "tags": [
-        "Литва",
-        "Польща",
-        "дрон",
-        "безпека"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/g2PEMBMZ5RdmKZe9rIX9_VoCpyEn8HkVkbXnu5kKdoZBCUdY7-_E34kud9ga1zuIo4T-tb5F-BqVC4Wjm8jVSqIGIlzm_v4ipk_t6dV8GdnbbA8AaPSnrMBMfie_DFIsF-AxmdEIGFEkf988q_msvGrBiBgeyrgacjQZnU1lsSZszx5Ns48FxVbz1NshRi7v5f-dPGXOeVYSnHJyWQxZ66C-V0ak44jBR4VOwf9W6mQrpE4QtB1Jo5ZvGdTwLxcYZw9vgZKGu2X3JAp5E6DUa6KTT5q5K_cvFoCNSHS1RRt-JDhAXzaFVf9nsryPHoMGh5HrjU7S6SQlj0ZaBxVtFw.jpg'"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23439",
-          "raw_text": "Біля Любліна шукають об’єкт, який міг порушити повітряний простір Польщі\n\n\n\n\nНевідомий об’єкт міг порушити повітряний простір Польщі в ніч проти неділі.\n\n\n\n\nНа південь від Любліна проводять пошукову операцію у зв’язку з підозрою щодо порушення повітряного простору Польщі невідомим об’єктом. \n\n\n\n\nНа місце ймовірного інциденту було направлено наземну пошуково-рятувальну групу з Сил територіальної оборони, яка проводить пошуки можливого місця падіння об’єкта. У заходах також беруть участь поліція та військова жандармерія.\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247966/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-10-18T06:19:48+00:00"
-        }
-      ]
     },
     {
       "id": "hromadske_ua_89656",
@@ -1159,31 +1706,6 @@
       "related_sources": []
     },
     {
-      "id": "rss_uk_news_videos_c6e3xjw37wn7o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-18T00:49:42+00:00",
-      "raw_text": "Watch: Moment historic French town hall spire collapses in flames amid protests\n\nAn historic town hall in the southern French city of Limoges was set ablaze during national protests.",
-      "title": "У Франції під час протестів згорів шпиль ратуші",
-      "summary": "Під час національних протестів у південному французькому місті Лімож загорілася історична будівля ратуші. Внаслідок пожежі впав її історичний шпиль.",
-      "category": "Світ",
-      "tags": [
-        "Франція",
-        "протести",
-        "пожежа"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-          "raw_text": "How day of protests unfolded as disorder breaks out across France\n\nDemonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-          "published_at": "2026-10-17T21:33:17+00:00"
-        }
-      ]
-    },
-    {
       "id": "TheEconomistOfficial_27521",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/27521",
@@ -1348,6 +1870,37 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13615",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13615",
+      "published_at": "2026-10-17T22:42:14+00:00",
+      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+      "title": "Відбій повітряної тривоги у Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі офіційно скасовано повітряну тривогу. Ситуація стабілізувалася.",
+      "category": "Безпека",
+      "tags": [
+        "Кременчук",
+        "відбій",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13614",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-17T21:19:41+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13612",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-17T19:58:29+00:00"
+        }
+      ]
     },
     {
       "id": "TheEconomistOfficial_27515",
@@ -1718,24 +2271,6 @@
         "ППО"
       ],
       "importance": 4,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "sirena_kremenchuk_13612",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13612",
-      "published_at": "2026-10-17T19:58:29+00:00",
-      "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-      "title": "Ракетна загроза у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу через ракетну загрозу. Жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "Кременчук",
-        "ракетна загроза"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
