@@ -1,12 +1,178 @@
 {
-  "updated_at": "2026-10-17 22:44",
+  "updated_at": "2026-10-18 00:27",
   "digest": [
-    "У Полтаві внаслідок ворожого обстрілу загинула людина та двоє поранені, пошкоджено житлові будинки.",
-    "У Кременчуцькому районі та області діяла загроза БпЛА, наразі оголошено відбій тривоги.",
-    "ЗМІ повідомляють про нові обмеження на використання терміналів Starlink в Україні та рішення щодо санкцій проти РФ.",
-    "Нігер зупинив експорт дизелю та бензину задля захисту внутрішнього ринку від дефіциту."
+    "Унаслідок ворожого удару РФ по житловому будинку у Запоріжжі загинула 27-річна жінка.",
+    "Bloomberg повідомив про обмеження роботи терміналів Starlink в Україні на тлі політичної критики у США.",
+    "The Economist інформує, що війна в Ірані та блокування Ормузької протоки стали головними драйверами зростання цін на дизель.",
+    "Молоді китайці все частіше обирають навчання вдома замість закордонних вишів на тлі зміни глобальних тенденцій."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_27521",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27521",
+      "published_at": "2026-10-18T00:26:01+00:00",
+      "raw_text": "The number of students a country has abroad in part reflects its engagement with the world. We explain why young Chinese increasingly prefer to study at home \nhttps://t.co/NZi9nzn2HY\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Зміна тенденцій щодо навчання китайських студентів за кордоном",
+      "summary": "Кількість студентів певниї країни за кордоном відображає її рівень глобальної інтеграції. Водночас спостерігається тенденція до того, що молоді китайці все частіше обирають навчання вдома.",
+      "category": "Освіта",
+      "tags": [
+        "Китай",
+        "освіта",
+        "студенти"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27520",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27520",
+      "published_at": "2026-10-18T00:01:39+00:00",
+      "raw_text": "The risks of vaping may be worth the benefits \nhttps://t.co/Hmi3ZSaxvo\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+      "title": "Дослідження ризиків та користі вепінгу",
+      "summary": "Науковці аналізують співвідношення можливих ризиків для здоров'я від вепінгу порівняно з потенційною користю. Питання залишається предметом дискусій серед дослідників.",
+      "category": "Здоров'я",
+      "tags": [
+        "вепінг",
+        "здоров'я",
+        "дослідження"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27518",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27518",
+      "published_at": "2026-10-17T23:26:29+00:00",
+      "raw_text": "The new millennial moment may be the most powerful wave of nostalgia yet, reaching more people than ever before. But don’t throw away those baggy jeans just yet \nhttps://t.co/0qSE1PCBe9\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
+      "title": "Хвиля ностальгії за міленіалами",
+      "summary": "Нова хвиля ностальгії за епохою міленіалів охоплює все більше людей по всьому світу. Водночас тренди у моді продовжують еволюціонувати.",
+      "category": "Культура",
+      "tags": [
+        "міленіали",
+        "культура",
+        "тренди"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77702",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77702",
+      "published_at": "2026-10-17T23:20:59+00:00",
+      "raw_text": "27-річна жінка загинула внаслідок удару РФ по житловому будинку у Запоріжжі, повідомив т.в.о. очільника ОВА Михайло Семікін. \n\n\n\n\nІнформацію щодо поранених уточнюють.\n\n\n\n\nФото: Telegram\n/ \nЗОВА",
+      "title": "Удар РФ по Запоріжжю: загинула жінка",
+      "summary": "Унаслідок ворожого удару по житловому будинку у Запоріжжі загинула 27-річна жінка. Інформація щодо поранених наразі уточнюється.",
+      "category": "Війна",
+      "tags": [
+        "Запоріжжя",
+        "обстріл",
+        "загиблі"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/QudquPo2yGUE1mfbK2JymRMt1VnSOwyGnypehTC3wXBAWr6BwIwZ5pbRJlNKeh88oMtuPA_LlnYB-2IzvhotzqDmcBeGajbyBvHtqrplt3ef98vERbUligXkKeW5Nn68ZOvUpN1zNecC8hr3U3wP4HAUj0OdMTPa_8wRmx4kRx1xPNXDycPCib8hjDepr9LHOqaMWWem-C1iMWcQv_NiEhsY5AAR9KXIgfVYbVNiYIOwhfSGbsrXSY9FS4lg3OnRD3by8pDRdPX5Lacr8BYWNlJcrum6xIFSzGqybWtx8FFrPebTMaZSc76X3bMxvixOqoTmFkcdcELSnbCxGgIfPw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/CpYgbZOpkDQ0r2RUmP3nZWw4-sxqmQVc7UhxJdZVtl6L8X3JXZm_7k_s6DkN93mDPqKk3-u2Bo4N9hRnCdjT16TQg_hdpHS7l_oQ3PJnSmd2YdFzg1QmpdiuOM_TP94cRdLUuteFUtNBamdSlDVaWF_u2Bt5HnZ2vZ17q-s02mk_5XJSFFOH1XoBR4CHQg56lNgXz36YFyHw-hb5bvmaG8uFzBX2HnqPIydAy92cgEuuv_8bghYXAN9u9mbg1w1QKqyZmHkLVmd7g0nj-WcgeXRr4LIzUab06tCBbXIgUcC0_X02YurHNv_RpcLERCvj4UX_aUfNSscqIB3GhaJpSQ.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN2RH3XVHD6O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-gop-allies-call-waiver-a-mistake",
+      "published_at": "2026-10-17T23:19:51+00:00",
+      "raw_text": "Ukraine Starlink Restrictions, GOP Allies Call Waiver a Mistake\n\nSource: Bloomberg, 5:22",
+      "title": "Обмеження Starlink в Україні та реакція союзників",
+      "summary": "З'явилися повідомлення про обмеження роботи Starlink в Україні на тлі критики з боку республіканців щодо санкційної політики. Джерелом інформації є Bloomberg.",
+      "category": "Світ",
+      "tags": [
+        "Starlink",
+        "Україна",
+        "Bloomberg"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/PedpQmhlnXrBKE3IsnvEyaOxq73xxdQ9ut-iM0snkNWjqkMdgSa4jhUgWUjaZSSiCD-Ka7NjwXSWni1z1CTdf-HW2FBG4Rp9xhKZHc-F3_VskzPryq971ClhbsC_5VNyDbt1c7TZD3Y4W2nbwbmdVQGq8AEMQAbERMBgKhjJiVUjqNeizbJ4z411dL7oQUGZfct-lue-80PdHS1xU4uWHOCNrv4Rz3AJ-Oo8Rr7lGn8hcKCeqjv5D1mQX3lPaQnv6aMhMELthA_xKi-HBhYb-wXriEq9M4R3N3k_vVkl0pVLjLnh3xY1yeiwU5CbqTmZRevwWuTsfy_m_TQWXnRnrA.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk",
+          "raw_text": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More\n\nSource: Bloomberg, 5:20",
+          "published_at": "2026-10-17T22:04:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN2MX5KJH6V800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/israel-must-probe-west-bank-attack-on-journalist-us-envoy-says",
+      "published_at": "2026-10-17T23:17:26+00:00",
+      "raw_text": "Israel Must Probe West Bank Attack on Journalist, US Envoy Says\n\nUS Ambassador to Israel Mike Huckabee condemned the beating of a Washington Post journalist while working in the West Bank and demanded a “full investigation, arrest and prosecution” of the attackers.",
+      "title": "Закликання до розслідування нападу на журналіста",
+      "summary": "Посол США в Ізраїлі Майк Гакабі засудив побиття журналіста Washington Post на Західному березі річки Йордан. Він вимагає повного розслідування, арешту та судового переслідування нападників.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Ізраїль",
+        "журналіст"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27517",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27517",
+      "published_at": "2026-10-17T23:06:20+00:00",
+      "raw_text": "Ukraine’s strikes on Russian refineries have made matters worse. But the main cause of high diesel prices is the war in Iran and the disruption of tanker traffic through the Strait of Hormuz \nhttps://t.co/ZRkC8MsXZy\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
+      "title": "The Economist: War in Iran and Strait of Hormuz disruption drive up diesel prices",
+      "summary": "According to The Economist, while Ukrainian strikes on Russian refineries worsened the situation, the main driver of high diesel prices is the war in Iran and disrupted tanker traffic through the Strait of Hormuz.",
+      "category": "Економіка",
+      "tags": [
+        "Економіка",
+        "Іран",
+        "нафта",
+        "війна"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27516",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27516",
+      "published_at": "2026-10-17T22:46:46+00:00",
+      "raw_text": "Donald Trump has warned that places opposed to data centres risk becoming “backwards and poor”. But the message isn’t landing with his own supporters \nhttps://t.co/dLnad1oq4O\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
+      "title": "Donald Trump warns regions opposing data centres risk falling behind",
+      "summary": "Donald Trump stated that regions opposing data centres risk becoming backwards and poor. However, this message is reportedly failing to resonate with his own supporters.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Дональд Трамп",
+        "технології"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "sirena_kremenchuk_13615",
       "source_name": "@sirena_kremenchuk",
@@ -95,6 +261,12 @@
           "source_url": "https://t.me/h_kremenchug/102802",
           "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
           "published_at": "2026-10-17T18:15:48+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13612",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-17T19:58:29+00:00"
         }
       ]
     },
@@ -152,6 +324,49 @@
       ],
       "importance": 5,
       "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/46745",
+          "raw_text": "❗️\nСтаном на зараз, відомо про одну загиблу людину, – ПОВА.  Ще двоє людей травмовані. Внаслідок атаки пошкоджено чотири приватні будинки. На місці триває ліквідація наслідків, інформація уточнюється.  До відбою повітряної тривоги залишайтеся в безпечних місцях!…",
+          "published_at": "2026-10-17T20:52:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN2HYPKJH6V400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/guatemalan-former-anti-corruption-prosecutor-killed-in-capital",
+      "published_at": "2026-10-17T22:14:19+00:00",
+      "raw_text": "Guatemalan Former Anti-Corruption Prosecutor Killed in Capital\n\nFormer Guatemalan anti-corruption prosecutor Juan Francisco Solórzano Foppa was shot dead in Guatemala City, reviving concern over the safety of the justice officials who take on powerful political and criminal interests in the country.",
+      "title": "Вбивство експрокурора у Гватемалі",
+      "summary": "У Гватемала-Сіті застрелили колишнього антикорупційного прокурора Хуана Франсіско Солорзано Фоппу. Це вбивство посилило занепокоєння щодо безпеки працівників системи правосуддя.",
+      "category": "Світ",
+      "tags": [
+        "Гватемала",
+        "криміналітет",
+        "вбивство"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN2KRST9NJLS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/avalanche-in-chile-kills-three-climbers-amid-rare-snowy-spring",
+      "published_at": "2026-10-17T22:09:20+00:00",
+      "raw_text": "Avalanche in Chile Kills Three Climbers Amid Rare Snowy Spring\n\nAn avalanche killed three climbers and injured four others Saturday afternoon near the Portillo ski resort in the Chilean Andes, northeast of the capital Santiago.",
+      "title": "Смертельна лавина в Чилі",
+      "summary": "Внаслідок сходження лавини в чилійських Андах загинули троє альпіністів, ще четверо отримали поранення. Трагедія сталася поблизу гірськолижного курорту Портільйо.",
+      "category": "Світ",
+      "tags": [
+        "Чилі",
+        "лавина",
+        "надзвичайна подія"
+      ],
+      "importance": 4,
+      "media_list": [],
       "related_sources": []
     },
     {
@@ -196,56 +411,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "rss_TN2NZ5WWD62O00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk",
-      "published_at": "2026-10-17T22:04:17+00:00",
-      "raw_text": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More\n\nSource: Bloomberg, 5:20",
-      "title": "Нові обмеження Starlink для України та скасування санкцій проти РФ",
-      "summary": "Bloomberg повідомляє про нові обмеження на використання терміналів Starlink в Україні та рішення Трампа щодо скасування санкцій проти Росії. Деталі обговорюються на тлі міжнародної реакції.",
-      "category": "Світ",
-      "tags": [
-        "Starlink",
-        "США",
-        "Росія",
-        "Україна",
-        "санкції"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/PedpQmhlnXrBKE3IsnvEyaOxq73xxdQ9ut-iM0snkNWjqkMdgSa4jhUgWUjaZSSiCD-Ka7NjwXSWni1z1CTdf-HW2FBG4Rp9xhKZHc-F3_VskzPryq971ClhbsC_5VNyDbt1c7TZD3Y4W2nbwbmdVQGq8AEMQAbERMBgKhjJiVUjqNeizbJ4z411dL7oQUGZfct-lue-80PdHS1xU4uWHOCNrv4Rz3AJ-Oo8Rr7lGn8hcKCeqjv5D1mQX3lPaQnv6aMhMELthA_xKi-HBhYb-wXriEq9M4R3N3k_vVkl0pVLjLnh3xY1yeiwU5CbqTmZRevwWuTsfy_m_TQWXnRnrA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvcupozh",
-          "raw_text": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions\n\nSource: Bloomberg, 5:23",
-          "published_at": "2026-10-17T20:30:43+00:00"
-        },
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/trump-s-russia-sanctions-waiver-called-mistake-by-key-gop-allies",
-          "raw_text": "Trump’s Russia Sanctions Waiver Called Mistake by GOP Allies\n\nRepublican members of Congress blasted President Donald Trump’s decision to waive a tariff law passed last month to restrict Russian energy exports, arguing that the move will help Moscow wage its war on Ukraine.",
-          "published_at": "2026-10-17T19:31:49+00:00"
-        },
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/27503",
-          "raw_text": "Britain’s sanctions against Israel, when they materialise, may be little more than a gesture. But they may also be designed to cause serious damage. What does that mean for the countries’ once-special relationship? \nhttps://t.co/ksv9SzsWGF\n — The Economist (\n@TheEconomist\n) \nOct 17, 2026",
-          "published_at": "2026-10-17T18:46:22+00:00"
-        },
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23437",
-          "raw_text": "🇺🇸\nAxios: Маск запропонував обмежити Starlink, Трамп не заперечував\n\n\n\n\nАмериканське видання Axios підтверджує версію британського The Telegraph про те, що керівник компанії SpaceX Ілон Маск запропонував ідею зі сповільненням Starlink для України.\n\n\n\n\nДжерело, обізнане з ходом обговорення, повідомило Axios, що Трамп не заперечував проти ідеї Маска.\n\n\n\n\nЗа даними порталу, українські посадовці чули різні версії того, що сталося з роботою Starlink, причому адміністрація Трампа та керівництво SpaceX звинувачують одне одного.\n\n\n\n\n\"Компанія SpaceX стверджує, що це технічна проблема. Але наші контакти в компанії кажуть, що це йде від Білого дому. Коли ми запитуємо в Білому домі, там кажуть, що це Ілон\", – повідомив виданню один із українських посадовців.\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247962/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-10-17T16:28:55+00:00"
-        }
-      ]
     },
     {
       "id": "kremenchugtruexa_46749",
@@ -431,8 +596,42 @@
         "поліція"
       ],
       "importance": 3,
-      "media_list": [],
-      "related_sources": []
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/qUnV2An39USCvLc6psXYMKHgPKMx3rTU-oX9vNc1rp2FRK9Yb4J_dLR35eLIyMdqx0rMf5vfWWaNwV0Fh7FIYnzQ_4G0shbeaPbNjecUCs2-vbnOniqer2NsfdmJkHLUN9rqT7JyjbGOM_8G0es2GzR4BB3EVd360t8jIvzfdXDzpCIpX-6rvt0Cf2TqxEF1gijxtAESr_uCCOFA-Ze64xl5fKDZlEqAtdX-mBVA1zKfkZBOsSvgxbtndcoBbAnMzIfPfKcxcNm36ehfhBzgT4U2KxW1aeKE-y_znl3dybmF8mJ9fJLcbTkaGZlbNrfn_pLo6bPvgjp6rmeosk8Reg.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/guwRTNHlECS46Ysm6rHCAbZlVV2-OLnKOmcSgf_PZAei6f7sZ7p5DkZ9AkTbrmnZ3NHeZHUfG3mOkYBBi4aLo_1wbVzEhsmPf97YrDXbLqDba7SsCTfFgbM6Qj_xVph8EIifsUcoACxkXiJf2NmGqzBhbBpUtMUV6bP4YfASk03-DOHl5LLA0J_8XKoSs2gNE2G-UZSuA8YAOB6lmiR3_NxoaJa6mVXePVQbYK6oUcFImi6Q7eaqGtZO_iRpFxuV_9BsxTsb4LUBFxf0LpJ_O_KsOOGCIKFvsfcg6QQ7Ctdo3_gI9cv8FquhAax8UAsGxw1T4bKq5BuoYVsj8uz--Q.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/RETYuV_6JCNbdlgWkDSCTvy-S7c94lghJJaTR8A7_tKAWkn-ApPKYcMNnzccofZym3fgPuQQoCxojCz-xT3t5YB4DOd2ZeEfez-A39roF7Gwtga-l7GH1oQCORLySotj3-Z5XJuiCzgPxrYMK57c_Urh2Oel0TihHrqnOa821BZ0160YRGslEaq9_Pnn1gomjB_Nf4D--EsAPyPESkfFYmatNBTMqAsX5PTINE0lfj48poiYAbrsJZ8HQAiITQlhHW_wJQotgHZ0E3Lr4YGFQfZhJA4JNJO8X7VS2AdEXk0qsTmXiLmb69vluYeoTpEB89wLyDKqRT8L_wncykQfOQ.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/JuhFJmUTXmL8zld-UNbJPlt9iBWhO2ioC41qF3jDThO_ub_7stGb4_dEHaMX5V5yJN-YLpqxYYrDcMwuhweKcqJ_Kgqpp-DUXDNY2WYf7jkEI5wTRfLe7tJgY1K-cqV0Spjf3IyYQKgzB_LaQDUrPxrft5o71OjlX64e55exJ1PxmnDz8_jVaPNYQxe7GCnAyr2to0r-YHUEF7P97oRr-DPgxYBCjFlo_0h3Ljq-jCpdq4iegsPLFLtAKCxsOI-UbytUu_OriSU0qWjr1waWkmORkugVCosaHCqSAVDHMq5jSqpIk4PFcM9necmPmmFz5p30faQ3ko3Y32PlC-y3Kw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/dFrhePkQUv5D3hKI1g2n2azs6uN7Ry31QTLTdI9yCxzyzERB_NRk3wFwu3BG-g1jyk7sX68uLYZG5EizgptZM6gACw8SGvZLTuxsE54pZocm5iI-0JRI3W5cr1Wuhp9cdUjuu10k32O2dsvJnZfCJ2BZNyHAvWdz4VrlKjfwor7bSr97gF0RPqg_bWEP6VWdJ_KLW_zbwMWufSFFmPBoHn3ykp0P9AxFFLe40H2XwNO7cagGLth4hqDfLxcM3peUn-hbDPJhYLTfAvYqF1UyXzsCqFqKKhu6-Nn6E9HJwwiAMNnYiLVEUVH9Shk5aXelTJtSyaYcuJ_oeCysSCYSAw.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77696",
+          "raw_text": "У різних містах Франції, зокрема в Парижі, відбулися масовані протиурядові протести через високі ціни, низькі соцвиплати та проблеми в освіті й сільському господарстві, повідомляє Le Monde.  Між протестувальниками та поліцією сталися сутички, правоохоронці…",
+          "published_at": "2026-10-17T20:29:21+00:00"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23433",
+          "raw_text": "🇫🇷\nСутички, водомети й штурм мерії: у Франції проходять загальнонаціональні протести\n\n\n \n\n\nУ суботу в Парижі та інших містах Франції відбулися сутички між протестувальниками та поліцією під час загальнонаціональних протестів проти високих цін на тлі наближення президентських виборів.\n\n\n \n\n\nЗокрема, протестувальники увірвалися до мерії другого за величиною міста Франції, Марселя. У Парижі поліція застосувала водомети та сльозогінний газ після того, як сотні протестувальників, більшість із яких були в масках, вступили з нею в сутичку в кількох місцях.\n\n\n \n\n\nУ офісах французьких телерадіокомпаній CNews та Europe 1 у західній частині Парижа були розбиті вікна, оскільки протестувальники кидали в них різні предмети.\n\n\n \n\n\nБільше у новині\n: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247955/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-17T14:19:40+00:00"
+        }
+      ]
     },
     {
       "id": "rss__news_articles_c6d937wedj7jo_1",
@@ -541,20 +740,60 @@
       ]
     },
     {
-      "id": "hromadske_ua_89642",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/89642",
-      "published_at": "2026-10-17T19:10:53+00:00",
-      "raw_text": "Трамп \nвідмовився\n від «пекельних санкцій» проти росії, а в Києві відбувся мітинг проти Кличка — \n#важливезадень\n\n\n\n\n🔸\n Крім ретрансляторів, росія хоче \nрозмістити\n на території Білорусі інші види озброєння, зокрема й балістичне — Зеленський. Це, за його словами, насамперед загрожуватиме західним українським областям\n\n\n\n\n🔸\n Трамп \nвідмовився\n від застосування закону Ліндсі Грема про «пекельні санкції» проти росії, який надає право запроваджувати мита проти країн, які купують російські енергоносії\n\n\n\n\n🔸\n У Києві \nвідбувся\n мітинг проти міського голови Віталія Кличка. Під КМДА зібралися сотні людей. Серед них було кілька тих, хто вийшов на підтримку Кличка\n\n\n\n\n🔸\n У застосунку «Повітряна тривога» \nз’явилася\n карта руху російських дронів і ракет. Вона відображає, зокрема, крилаті ракети, «бандеролі», «шахеди»\n\n\n\n\n🔸\n На Гуляйпільському напрямку Запорізької області російські війська \nзахопили\n в полон українських військовослужбовців, після чого розстріляли їх\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Головні події дня: ситуація на фронті, відмова Трампа від санкцій та мітинг у Києві",
-      "summary": "Президент Зеленський повідомив про плани РФ розмістити балістику в Білорусі. Трамп відмовився від закону про «пекельні санкції» проти Росії, у Києві пройшов мітинг під КМДА, а на Запоріжжі окупанти розстріляли полонених.",
-      "category": "Головне",
+      "id": "h_kremenchug_102807",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102807",
+      "published_at": "2026-10-17T20:02:07+00:00",
+      "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
+      "title": "Зниження рівня дронової загрози на Кременчуччині",
+      "summary": "У Кременчуцькому районі рівень небезпеки було знижено до жовтого. Дронова загроза все ще зберігається, але ситуація контролюється.",
+      "category": "Безпека",
       "tags": [
-        "Зеленський",
+        "Кременчуцький район",
+        "дронова загроза",
+        "ППО"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146563",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146563",
+      "published_at": "2026-10-17T19:41:01+00:00",
+      "raw_text": "🤯\n«Я вивчав його дупу. Ніколи раніше такого не робив із чоловіком. Я розглядав його дупу, а потім подивився на плечі, ноги та руки»\n.\n\n\n\n\nЦе Трамп про американського сенатора Хастеда. Він підіймає цю тему вже \nвдруге\n за тиждень \n💪\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "Дональд Трамп знову висловився про американського сенатора",
+      "summary": "Колишній президент США Дональд Трамп вдруге за тиждень публічно обговорив фізичні дані американського сенатора Хастеда. Подібні заяви політика привертають увагу медіа.",
+      "category": "Світ",
+      "tags": [
+        "США",
         "Трамп",
+        "політика"
+      ],
+      "importance": 1,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/e422da9009.mp4?token=Rk6WzPrb33xviJBN7__IuRUTvSZZTsgPtKVdyDbVQYwvEuwNN0dC7L2ZNptg5zkvTimR5oeODDaDuLoi3oUQVTrAgrH_2CqaHIbS1536YAO43c7MA05jdb2FBGKaMlGQ-SaKh5qvv5NwFTXk-IYy59NiS-XbFEgNF4xTgzqoZ8Whz9RYhuT_aQ8sQNby84MxoJeyHSQFcUDQIMNPF9SuzMSVGKS3t6KENl6l0MQWPK6qZuusPoULPN49XixkvBERuqdkcn98g0xh52Ym-aUx2zwZfDD_K6gPxkEY3LB-G5qzkETT5D_fwtZ-mbBO8imtGIyMa7nS7NVTNtH3iJzXJw"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN2DT5KJH6V400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/trump-s-russia-sanctions-waiver-called-mistake-by-key-gop-allies",
+      "published_at": "2026-10-17T19:31:49+00:00",
+      "raw_text": "Trump’s Russia Sanctions Waiver Called Mistake by GOP Allies\n\nRepublican lawmakers blasted Donald Trump for waiving new tariffs and sanctions on Russia, prompting the president to defend himself against members of his own party.",
+      "title": "Республіканці критикують рішення Трампа щодо скасування санкцій проти Росії",
+      "summary": "Американські законодавці від Республіканської партії розкритикували скасування нових тарифів та санкцій проти Росії. Президент змушений був захищатися від критики однопартійців.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Росія",
         "санкції",
-        "обстріли",
-        "Кличко"
+        "Трамп"
       ],
       "importance": 5,
       "media_list": [
@@ -565,16 +804,10 @@
       ],
       "related_sources": [
         {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
-          "raw_text": "By The Way: Headlines You May Have Missed\n\nTesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-          "published_at": "2026-10-17T12:51:57+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77657",
-          "raw_text": "Показуємо, як проходив мітинг з вимогою відставки Кличка у центрі Києва. \n\n\n\n\nНа акцію \nзібралися\n кілька сотень людей, передає кореспондентка Суспільного. Вони тримали таблички з написами «Мер чи мародер», «Кличка у відставку» та скандували гасло «Київ без Кличка». Серед протестувальників — представники ГО, активісти та волонтери.\n\n\n\n\nМітингувальники нарікали на дефіцит сховищ, недостатню підготовку до зими та неефективне використання бюджетних грошей.\n\n\n\n\nНа акцію прийшли й кілька людей, які підтримали міського голову Києва. Вони назвали його ефективним керівником і заявили, що облаштування укриттів — не у повноваженнях Кличка.\n\n\n\n\nФото: Суспільне Новини/Іван Антипенко",
-          "published_at": "2026-10-17T11:13:11+00:00"
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89642",
+          "raw_text": "Трамп \nвідмовився\n від «пекельних санкцій» проти росії, а в Києві відбувся мітинг проти Кличка — \n#важливезадень\n\n\n\n\n🔸\n Крім ретрансляторів, росія хоче \nрозмістити\n на території Білорусі інші види озброєння, зокрема й балістичне — Зеленський. Це, за його словами, насамперед загрожуватиме західним українським областям\n\n\n\n\n🔸\n Трамп \nвідмовився\n від застосування закону Ліндсі Грема про «пекельні санкції» проти росії, який надає право запроваджувати мита проти країн, які купують російські енергоносії\n\n\n\n\n🔸\n У Києві \nвідбувся\n мітинг проти міського голови Віталія Кличка. Під КМДА зібралися сотні людей. Серед них було кілька тих, хто вийшов на підтримку Кличка\n\n\n\n\n🔸\n У застосунку «Повітряна тривога» \nз’явилася\n карта руху російських дронів і ракет. Вона відображає, зокрема, крилаті ракети, «бандеролі», «шахеди»\n\n\n\n\n🔸\n На Гуляйпільському напрямку Запорізької області російські війська \nзахопили\n в полон українських військовослужбовців, після чого розстріляли їх\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-17T19:10:53+00:00"
         }
       ]
     },
@@ -1092,6 +1325,30 @@
         {
           "type": "image",
           "url": "https://cdn4.telesco.pe/file/rqdgQXYJn2VeXIVr7DZvPccw9FgqMONCVn0_GJ4LUYuLXXZjnjruvX8LNlMcW93WhE-mqZSDBhClIos4TpaDJu7vUZ-Ka9HnYt0HhwdlhgYyMrzifs5x7syKyi7oP4AtqKZmKzMj3LYHsYxbR1GfIAi25gG8_QQiMDCFrNg26o0qKjP19p9s-1IW_YLoHQbk9fUP7lPY6sRkxn6Nm923Vl6zdG1gbBaBzxkwA17_I_z_pyIqpVTobN14oR-O6WVYJ6LbSJiVHkBMjK-HvL3u8JeCGwVPADJqamS82ngrTYsw7xtULhgJBSioR8GSUsTIK8Yau8n6tuZkBXbD1QEyWA.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "EurointegrationComUA_23437",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23437",
+      "published_at": "2026-10-17T16:28:55+00:00",
+      "raw_text": "🇺🇸\nAxios: Маск запропонував обмежити Starlink, Трамп не заперечував\n\n\n\n\nАмериканське видання Axios підтверджує версію британського The Telegraph про те, що керівник компанії SpaceX Ілон Маск запропонував ідею зі сповільненням Starlink для України.\n\n\n\n\nДжерело, обізнане з ходом обговорення, повідомило Axios, що Трамп не заперечував проти ідеї Маска.\n\n\n\n\nЗа даними порталу, українські посадовці чули різні версії того, що сталося з роботою Starlink, причому адміністрація Трампа та керівництво SpaceX звинувачують одне одного.\n\n\n\n\n\"Компанія SpaceX стверджує, що це технічна проблема. Але наші контакти в компанії кажуть, що це йде від Білого дому. Коли ми запитуємо в Білому домі, там кажуть, що це Ілон\", – повідомив виданню один із українських посадовців.\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/10/17/7247962/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "Axios: Маск пропонував обмежити роботу Starlink для України, а Трамп не заперечував",
+      "summary": "Видання Axios підтвердило інформацію про те, що Ілон Маск пропонував сповільнити роботу Starlink в Україні, а Дональд Трамп не заперечував проти цієї ідеї. Українські посадовці зазначають, що адміністрація США та SpaceX перекладають відповідальність одне на одного щодо перебоїв у зв'язку.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "Ілон Маск",
+        "Starlink",
+        "Дональд Трамп"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/Yx7AxtQxmSsLIOhem6LDAcQCwwm5k1NzsnndahaKNYLzmuKk32aHTOtGI5t708i63SnkWKWcBTqS_6HEfr7RCECo3JQd1Un-JixMSa8SqNEKzaEVH4Qj_LEOcoGURd4A7RdZ7r_YNWfaLu9u0J9rUjsSPHfB_ow7y0yuMP20eI7onLF-Z6YvZUm5J2XlK1mWSBYRzW43UtpbckxkLOZ5StdoZuHazqgxQdBrBsdR5jh-MrRVpBi_0UD7OMBWn8yu1SgPCDHkxTmTIq1QlbflSV-wXX56lW6WbUyGdrbaFV_LE-ktb5P2Sf5Q_039UuO2d898PmEPgBmmVYidrQuj-g.jpg'"
         }
       ],
       "related_sources": []
