@@ -1,37 +1,623 @@
 {
-  "updated_at": "2026-10-19 00:35",
+  "updated_at": "2026-10-19 05:27",
   "digest": [
-    "У Києві зафіксовано влучання уламків у житловий будинок і нежитлову будівлю, а також пошкоджено станцію метро на лівому березі.",
-    "У Рівному пролунав звук вибуху, причини та наслідки з'ясовуються.",
-    "Південнокорейські акції падають через побоювання щодо попиту на чіпи після появи моделі DeepSeek.",
-    "В Англії планують запровадити штрафи до 100 фунтів за гучну музику та антисоціальну поведінку в автобусах.",
-    "BlackRock розглядає можливість впровадження блокчейн-технологій та токенізованих фондів для трансформації Волл-стріт."
+    "Нічна атака на Київ: одна людина загинула, щонайменше 8 постраждали, пошкоджено житлові будинки та станцію метро на лівому березі.",
+    "У Дніпрі пролунав вибух, деталі події наразі з'ясовуються.",
+    "Володимир путін запропонував тристоронню зустріч РФ, Китаю та США за участі Трампа і Сі Цзіньпіна, але США ще не дали згоди.",
+    "Президент Франції Еммануель Макрон закликав до спокою через масові заворушення та мародерство в країні.",
+    "У Кременчуці через сильну зливу підтопило вулиці та під'їзди будинків."
   ],
   "articles": [
     {
-      "id": "suspilnenews_77758",
+      "id": "rss_TN52SSVTTD0000",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/mullman-houthi-attacks-impose-near-term-costs-on-saudi-video",
+      "published_at": "2026-10-19T05:20:42+00:00",
+      "raw_text": "Mullman: Houthi Attacks Impose Near-Term Costs on Saudi (Video)\n\nMullman: Houthi Attacks Impose Near-Term Costs on Saudi (Video)",
+      "title": "Атаки хуситів створюють короткострокові витрати для Саудівської Аравії",
+      "summary": "Експерти обговорюють наслідки ударів хуситів для саудівської економіки. Атаки завдають ближньострокових фінансових збитків королівству.",
+      "category": "Світ",
+      "tags": [
+        "Саудівська Аравія",
+        "хусити",
+        "безпека",
+        "економіка"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77777",
       "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77758",
-      "published_at": "2026-10-19T00:32:46+00:00",
-      "raw_text": "У Рівному чути звук вибуху, повідомляють журналісти Суспільного.",
-      "title": "Звук вибуху у Рівному",
-      "summary": "У Рівному пролунав звук вибуху, про що повідомили журналісти Суспільного. Інформація щодо наслідків та причин з'ясовується.",
+      "source_url": "https://t.me/suspilnenews/77777",
+      "published_at": "2026-10-19T05:18:45+00:00",
+      "raw_text": "У Дніпрі пролунав вибух, повідомляють наші кореспонденти.",
+      "title": "У Дніпрі пролунав вибух",
+      "summary": "У Дніпрі пролунав вибух, повідомляють кореспонденти з місця подій. Деталі з'ясовуються.",
+      "category": "Регіони",
+      "tags": [
+        "Дніпро",
+        "вибух"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_89685",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89685",
+      "published_at": "2026-10-19T05:09:06+00:00",
+      "raw_text": "🗣\n \nпутін запропонував \nпровести\n тристоронню зустріч рф, Китаю та США за участю Трампа і Сі Цзіньпіна, щоб обговорити закінчення війни з Україною, але на умовах росії\n — WSJ.\n\n\n\n\nТак, путін хоче зустрітися з лідерами під час саміту Азіатсько-Тихоокеанського економічного співробітництва (АТЕС), який відбудеться 18 та 19 листопада у Шеньчжені.\n\n\n\n\nНа тлі цього речник кремля Дмитро Пєсков підтвердив, що зустріч обговорюють. А джерело із США сказало, що Трамп поки не погодився на таку зустріч, хоча потенційно може це зробити \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "путін запропонував тристоронню зустріч щодо війни в Україні",
+      "summary": "Володимир путін запропонував провести зустріч рф, Китаю та США за участю Трампа і Сі Цзіньпіна на умовах росії. США поки не дали згоди на цей формат.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "США",
+        "росія",
+        "Китай"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77772",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77772",
+      "published_at": "2026-10-19T05:08:53+00:00",
+      "raw_text": "Внаслідок нічної атаки армії РФ по Києву загинула одна людина, ще щонайменше 8 — травмовані, уточнили в ДСНС Києва. Наслідки зафіксовані у трьох районах міста. \n\n\n\n\n🔹\n У Деснянському районі рятувальники ліквідували пожежу в триповерховій нежитловій будівлі. Частково зруйновано фасад, пошкоджені припарковані поруч авто. Пошкоджень зазнала одна зі станцій київського метрополітену. \n\n\n\n\n🔹\n У Солом’янському районі сталось загоряння у приміщені медичного закладу на третьому поверсі 25-поверхового житлового будинку. Пошкоджено фасад, скління будинку. \n\n\n\n\n🔹\n У Дніпровському районі внаслідок обстрілу пошкоджено будівлю закладу освіти.\n\n\n\n\nФото: ДСНС Києва",
+      "title": "Наслідки нічної атаки на Київ: загиблий та постраждалі",
+      "summary": "Внаслідок нічного обстрілу Києва армією РФ загинула одна людина, ще щонайменше 8 отримали травми. Пошкодження зафіксовані у трьох районах міста, зокрема у житлових будинках та на станції метро.",
+      "category": "Київ",
+      "tags": [
+        "Київ",
+        "обстріл",
+        "ДСНС",
+        "жертви"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/llFdyHVe8aq2_fjglWYiQngrCA3-Z5l1J3x-hw0CM6Ga1r0xdyBUrwGuz-2u2V3ThV1A4ItJzcqDwAgqtfr6RrYIgMJLFNYdes1_ZRlxfjIDuRNWHjC3nnBiOGs7-5xiSWWo1RTv8V45rc_LByhR7JkKALBxZzG4ooPE7b_fjgUrsTeWT6HPAyBA2DHvTZ2d2bdz-5zIDePVsG0LALpqfEm-Sq41L8kYyh2Ov-mbkACsRGYH65aU-LWfwgLkote213I_ZE71uUuq36vhWl_Dplqxy7Sh6WJJF-epIhvdDjLIjdkAMCmERnzoOr1HKAyNimTmUwQ7j8D667bMZVZVag.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/VLbXh8mTXex0jECyqakmb_s2v6pnLxwIYpAPZBMP8NkpJGks7LbdkZ_RHHOJS6yxCxTKLaKmsYQlcRM0byVZ--ZPT8-e4q4_tiLcUjX0bQ64pjh-d_1U78kW6UJEmqqV-f3Hmm3vEmS2g_w98Qt6P91Zso_FujvkiCg74LUzEaCBpOR4ITePbzW8XN_lVS-FpOo8KhQBRLDHl1Zp4vK8mcsuNA2NIEUbWwlJIqnJsakCs4lhY5By1Xb11iRXbtbYlZ1l2V81mQjgM7aihElY35AWGchru8XMY1fl7Sfbug_6CU8ivBRdAAzSZD_O2_SvSmixc2w-YJEEgkyNsNKQdw.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/Pxve2xA6FyxtA3ebYjbWXjJEA4W7FFFvydeluT7BRglRolC2xIU0g4x3kBQFj1sbweLxmNjT1gZ8rAvcs8ryPaIuahbBTQAOqZsMB5l-eXtQocbxTdVE-eLlmkstEfzJx6xlfAMd29fxUQ-qxg4nlxcbTjkgKotLOHCGrOVjkKD_CD78iFxbLUgz4rgPEyzBZoqZ1WTanxrHo7YYgs32wcso7ygEkIUC8Ic7_lLflggkZ-M3ITKu1OgnMPRjKrpssqHadPntl43kMeWmBxia7WcB4-7VdbVZOMAZnpehBYUnl5jcy_pgHxh5VedCBVybEqTRiY96S2f2MXh4PWkmCA.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/oufR0_wRFHiMCJJZxpQrVlpwDclpuLtcpsGPcZlGTfYYfhVd_HJIkEYZVpwwHDslgPXeZKOV0p21eyqTbdpx_iNZACinI8L5xc2nenesqEmH_7V6EVtI1Kj0Q96gwjKewCCsNV51KWoZZv_YFOXOZmT2OPvCG5vEU1CTvqkyX-2eHMhfY8XVI8O9K_7g6BywvK0scAT4jo-I2ytGMKx4eOkrA2Cukiv-XEyHY-FuHsvMOY30kAKoLAQgJ6DoHdxk0bvrVtFTu386ZbK51Jxlopb_D53kWfpMLe6rVCG4OQWIyWXhR7WBTP9yDuKg4UTePJKIXZcp-iVpLxB76IjD5g.jpg'"
+        },
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/WNCm7hJcTcwy4idH6Rktvj2vTfoB-StkkcpA6NTgCF6255gN3oSxA_uafYKo6Raic_hcns8MjHonUPbcYQlSnQ0oOYRLBzw-lA9lT4v2BD4WlJ7V_CqeH5nDTBjI0yK5suz-DeY_fljBEKcBEQfFyHUzNRgcP4RgZBLHT_TLGihb4JyJDyDN6Z_4_YpZuidUagZ5_k1UCo4u5IdA6jVWeorLua8fPG0tdh46-cateSorHPnUchQkRcW_4ejjyk__6b7cHM0hCeasoxyvnN9CSm1RLocBX9GbXsfEZR5Y3B-wtKNA1H1_RaJCnjI7wL2K6SCVjvobUyxFcoVdU4_2Mw.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146644",
+          "raw_text": "🤯\n Київ. Сильно пошкоджено ТЦ Cosmo Multimall після атаки рф вночі, – місцеві ЗМІ.  Загалом у столиці уже 3 постраждалих. Загинула 21-річна дівчина.   Подробиці атаки – https://t.me/+EWmw0Cq-Os03ZGQy",
+          "published_at": "2026-10-19T05:06:45+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146640",
+          "raw_text": "🤯\n Київ. Сильно пошкоджено ТЦ Cosmo Multimall після атаки рф вночі\n, – місцеві ЗМІ.\n\n\n\n\nЗагалом у столиці уже 3 постраждалих. Загинула 21-річна дівчина. \n\n\n\n\nПодробиці атаки – \nhttps://t.me/+EWmw0Cq-Os03ZGQy",
+          "published_at": "2026-10-19T04:38:00+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77750",
+          "raw_text": "Внаслідок російської атаки на Київ загинула людина, \nповідомив\n міський голова Кличко. Двоє людей постраждали, один з поранених госпіталізований.",
+          "published_at": "2026-10-18T21:16:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_cw240zl08dm5o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T05:07:21+00:00",
+      "raw_text": "Macron calls for 'calm and order' after riots across France\n\nFrench President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "title": "Макрон закликав до спокою на тлі заворушень у Франції",
+      "summary": "Президент Франції Еммануель Макрон звернувся до нації з закликом забезпечити «спокій і порядок» після масових заворушень та мародерства в Парижі та інших містах.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "Макрон",
+        "протести"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/jNme2j3C80ME09LDEI5dUAzRQQeRGwL_3BGwIlJxdyJE1RI_d_b-EPo3T6rv4tT3j7wAmAJyXGNVdTCWLzM86NB0s7hNyNTs6ypJsJZMb658bGJcE-lGHqq7PqOWWezxLbgMu_9ajNZ_4VznoPI--T_sABoiTgdhjeu6WBR-f34FQhFl56jci0Ykt94e5EW3yVYj8TJ6T6h7e5tymkL9h_MD0YVDF3xpBDnRPo4ETgjjffC1uFuRI1o8h5bdw07zaE9AA6H0zqdBZKkcxTIjakejyceq0V33ObCYV2q1SSXqgjkxBd-SYj3k-5etuhJWtfIeeoZgPclAyt-Jdkhe-Q.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89682",
+          "raw_text": "🇫🇷\n \nМакрон \nзакликав\n громадян до спокою на тлі масових протестів та погромів у країні. За погроми, підпали та сутички із поліцією вже затримали понад 2400 людей. \n\n\n\n\nПрезидент Франції заявив, що «сьогодні ввечері ми всі відчуваємо гнів і сором» через масштаб насильства, проте відмовився оголошувати надзвичайний стан у країні, як того вимагали деякі праві політики.\n\n\n\n\n«Дивлячись на ці кадри, ми всі запитуємо себе: про що вони думали? Як французи можуть робити таке з Францією? Ніщо цього не виправдовує, не пояснює і не прощає. Скарги тих, хто протестував мирно, є легітимними, але їхні дії не слід плутати з намірами тих, хто сіє хаос», \n— зазначив президент\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-18T20:42:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27617",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27617",
+      "published_at": "2026-10-19T05:06:06+00:00",
+      "raw_text": "What’s behind the trend of older women dating younger men, both in entertainment and real life? We explore a few reasons \nhttps://t.co/efdEQ8QQkf\n — The Economist (\n@TheEconomist\n) \nOct 19, 2026",
+      "title": "Тренд на стосунки старших жінок з молодшими чоловіками",
+      "summary": "Досліджується зростаюча популярність тренду, коли старші жінки зустрічаються з молодшими чоловіками в реальному житті та розважальній індустрії. Автори аналізують ключові причини цього явища.",
+      "category": "Суспільство",
+      "tags": [
+        "суспільство",
+        "відносини",
+        "тренди"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "ok_kremen_59169",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59169",
+      "published_at": "2026-10-19T05:05:09+00:00",
+      "raw_text": "🌧\n У Кременчуці після нічної грози затопило вул. Вадима Пугачова, а на Коцюбинського 9/6 залило під'їзд. \n\n\n\n\nНаслідки сильної зливи є й на інших вулицях.",
+      "title": "Наслідки зливи: підтоплено вулиці та під'їзди",
+      "summary": "У Кременчуці після нічної грози та сильної зливи затопило вулицю Вадима Пугачова та під'їзд у будинку на Коцюбинського. Проблеми зафіксовані й на інших вулицях міста.",
+      "category": "Місто",
+      "tags": [
+        "негода",
+        "злива",
+        "підтоплення",
+        "Кременчук"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/0ac8d458ff.mp4?token=UzBEPUCd9BG5KMymvCEZ3ywt7rhg1-lvQD1E5oClzLSPZD9OWz2_FW3tQ0XNn0r46WrLJgTGlkQ_5JeqnGwg48Jrpx8aD-eicIPt4ldJGEJd9sd-GmckBPsbKBYixfzi_t-DIuxTT0vlAvRrpTOlz1VmbofWQ4ME6h4Ke6OGKGn9VPS09QdROBDCz7-tCMUysmrPxEcBUDcT60LU_RvQwi9OKhniBbF2DLVRo-SYHBaL4L6gWb_SnC8RdVS4RcjLdXt8H1MriszVK5yEAhNYbDI-IrlnsyINZEhuBJ7tiftmYGekSjaE5KOLq2PI3NSk_V1aG_UWs_WYuKRAH7eMeg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/9bb8f82897.mp4?token=hkolxT_uHnLukSAREdwP0PIzKs4PXPTMfPMJcktJag0uDlJBZieWI2vU2M629FFCnqPUeYXm4fE7Jc3TUtN5ElBMzxjv1aGKfTXJNi9wSbN6K-SzACfgZk8dWQalKQwOUj5xW-Ho3jcEPpIJ1s4x9LqBGcvv3X3pyxTdUO1lGYfndAeC6SQzmzA-6_hVbQANVxt4-CDRmuQKDS_nvelLd-lfnlQ0tBUyosPWjvkJE1EIvVq355hiwU3H7vIHNY3XUV2Be8NVIzFraDvePoLIOrtXP-_6Vi6A_Cl01GyR9O-kk2u8Lq5_PB1UhTcIfrnXYDNJnYSwIrUGgkavfbC5iw"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146643",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146643",
+      "published_at": "2026-10-19T05:03:33+00:00",
+      "raw_text": "❗️\nПошкоджена одна зі станцій метро на лівому березі столиці. Поруч стався розрив ходового та контактного рельсів, – Кличко.   Ситуація в столиці в реальному часі: https://t.me/kyiv  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+      "title": "У Києві пошкоджено станцію метро на лівому березі",
+      "summary": "Мер Києва Віталій Кличко повідомив про пошкодження однієї зі станцій метро на лівому березі. Поруч зі станцією стався розрив ходового та контактного рельсів.",
+      "category": "Місто",
+      "tags": [
+        "Київ",
+        "метро",
+        "транспорт",
+        "пошкодження"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/0168149bcf.mp4?token=nmUy_nEnshnGEL85DLuONqN3K4FPcZcy3vXj6dH5BRniWanIHIAqAD06-2hjyais9DJomedgdBGr3wH719MJwAkTjKRShVKTU8AnncjdmvvjmF-6CHN-Fwv2qrCrZplIcQdVDsYXH5yOE7pqKD997JW4zA-hFEZ2dcISRjuRZIzgfM3u_A2dq-o2ynyDyYCjyw3qa2X5VRSs43ihAesgmugbC49gGlrjYzRak1czBORMk8AAjolk6yiZ1lk8jxiB18PLi4Q4Qp9UMHa6hZaSfH1PJcro0HdOI8mFo6ZWygovrT-4aOCvSf9cpcJVpz4TJTWOENImpuYo5r66h1H6Pw"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146629",
+          "raw_text": "❗️\nПошкоджена одна зі станцій метро на лівому березі столиці. \nПоруч стався розрив ходового та контактного рельсів, – Кличко. \n\n\n\n\nСитуація в столиці в реальному часі: \nhttps://t.me/kyiv\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-10-19T00:14:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_cm62y80yxw9vo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T04:59:47+00:00",
+      "raw_text": "Companies exploiting welfare system by using residents as 'cash cows,' BBC finds\n\nAgents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+      "title": "Компанії звинувачують у зловживанні системою соціального забезпечення",
+      "summary": "BBC з'ясувало, що деякі агентства використовують отримувачів житлових субсидій як джерело доходу. Вони залучають клієнтів у соцмережах обіцянками безкоштовних кімнат та відпочинку.",
+      "category": "Суспільство",
+      "tags": [
+        "розслідування",
+        "соцдопомога",
+        "BBC"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "ok_kremen_59168",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59168",
+      "published_at": "2026-10-19T04:50:04+00:00",
+      "raw_text": "🌧\n Сьогодні у Кременчуці хмарно, часом дощ, \n\n\nВітер східний, 7-12 м/с.\n\n\nТемпература  вдень 16-18º.",
+      "title": "Погода у Кременчуці: хмарно та дощ",
+      "summary": "Сьогодні у Кременчуці очікується хмарна погода з часом дощем. Вітер східний, температура повітря вдень становитиме 16-18º тепла.",
+      "category": "Погода",
+      "tags": [
+        "погода",
+        "Кременчук",
+        "дощ"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146641",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146641",
+      "published_at": "2026-10-19T04:49:34+00:00",
+      "raw_text": "😱\n рф нанесла масований ракетний удар по підприємству «Екософт» в Ірпені.\n Кадри поширюють у мережі. \n\n\n\n\nЦе провідна українська компанія, що спеціалізується на виробництві систем і обладнання для очищення води.\n\n\n\n\nБільше про ситуацію в місті та області – \nhttps://t.me/+EWmw0Cq-Os03ZGQy",
+      "title": "Окупанти завдали масованого удару по підприємству «Екософт» в Ірпені",
+      "summary": "Внаслідок російського масованого ракетного удару постраждало підприємство «Екософт» в Ірпені. Це провідна українська компанія з виробництва систем очищення води.",
+      "category": "Регіони",
+      "tags": [
+        "Ірпінь",
+        "Екософт",
+        "обстріл",
+        "економіка"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/a092869401.mp4?token=rPmtEetLKZVqTsDVlhkM-b1XhUsE3SG5DwcoS6Qp7Inyuc90yzBGodvKlFZvvQHk496Y1oaUYkL_JbQVFHpDO4L5Rkjn5PlWm73-g13mJKJgFhlPlGUg79ifUruH-JmVCkp6_aUwkSDZVKPwCvfZEpfifEKaVgYfkKRt74_dwvpeAvv93r4dtI_rYlO9aehE9zGO3inNINSl5CaLHRCn8f6xrJDj1I28i_b3V6889gHvQBtzAjSfNcMh5iZvvOJlrTQCQNaVJCvKyuLGIK_8BSbxggN1EcH-tTWYmVypoxcSTdm2fUgdp6dIV0a9PzoFMmtWDL8DVq9FT9WmhHfJQQ"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/6ddcc3c8f0.mp4?token=Y-sqe9s4JiVfSk4EbEkMA19prFqlWU8FHVHBb7GTlsktWrOve1iNUkSWGd15XqSKDSirttukkC9EtaJS3W2nSRTYVpmsDF7hsruVr62NwAA-MRMp-a9--1GMsbUS__2UMRBTzblVar7igOMnsF4bTtOokMAGai1t3XeLlAwBYdfO5ZWA2TAurHlQ_hDKElrd_ICWRVagm8RqTVfY6QkZ3Ig0FvYO3i2kX_sjyfSXpK17F-N0A3S3pTWnsyOALXqjjZkDsPf4GriCLfJOVD38L3u6jdBjHKBNG_3vfKIKCJotH1OHJPdPpJr62AA4BQcH2I0JxrttDtrfkLHk6ZbYHQ"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77771",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77771",
+      "published_at": "2026-10-19T04:48:45+00:00",
+      "raw_text": "У Рівному пролунав звук вибуху, інформують кореспонденти Суспільного.",
+      "title": "У Рівному пролунав звук вибуху",
+      "summary": "У Рівному місцеві жителі почули звук вибуху. Інформація уточнюється відповідними службами.",
       "category": "Регіони",
       "tags": [
         "Рівне",
-        "вибухи",
-        "безпека"
+        "вибух"
       ],
       "importance": 5,
       "media_list": [],
       "related_sources": [
         {
           "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77755",
+          "source_url": "https://t.me/suspilnenews/77758",
           "raw_text": "У Рівному чути звук вибуху, повідомляють журналісти Суспільного.",
-          "published_at": "2026-10-19T00:03:40+00:00"
+          "published_at": "2026-10-19T00:32:46+00:00"
         }
       ]
+    },
+    {
+      "id": "TheEconomistOfficial_27616",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27616",
+      "published_at": "2026-10-19T04:46:24+00:00",
+      "raw_text": "How liberal is the new generation of Chinese leaders? Listen to our latest “Drum Tower” podcast to find out how these rising stars could shape the country \nhttps://t.co/C1IVKmBa5c\n — The Economist (\n@TheEconomist\n) \nOct 19, 2026",
+      "title": "Подкаст Drum Tower про лідерів нового покоління в Китаї",
+      "summary": "The Economist випустив новий епізод подкасту Drum Tower, присвячений ліберальності та поглядам молодого покоління лідерів Китаю. Обговорюється їхній можливий вплив на майбутнє країни.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "подкаст",
+        "політика"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77770",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77770",
+      "published_at": "2026-10-19T04:44:11+00:00",
+      "raw_text": "Міністерство охорони здоров'я Кенії \nпідтвердило\n ще чотири випадки хвороби, спричиненої вірусом Ебола. Заразилися троє медичних працівників і член родини першого пацієнта, повідомляє Bloomberg.\n\n\n\n\nВідтак кількість хворих під час спалаху Еболи зросла до семи, один із них помер. Усі четверо хворих вже перебували на карантині, оскільки контактували з першим хворим.",
+      "title": "Спалах Еболи в Кенії: зафіксовано нові випадки",
+      "summary": "Міністерство охорони здоров'я Кенії підтвердило ще чотири випадки хвороби, спричиненої вірусом Ебола. Загальна кількість хворих зросла до семи, один із пацієнтів помер.",
+      "category": "Світ",
+      "tags": [
+        "Ебола",
+        "Кенія",
+        "медицина"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/qfDKun6b83N7yFQhUX34_1ibMnnTgpG7R4PydZAeqlQyMu6y_izCxu4xD6QVjrikiF0O8KPrlEv0WxtnrA3btSsAXwXfqW9zEzrNnhmk6QoerQHj_fdZdCllEyLhuSf2nTf2spe8_lHAkaUL3WoFYbv3m4NsrkbFA76tvvoElwH-Ni8SJBCQXYz7GoZsYJGavGUGHIQl4ipfb-hnsvK5FlEjFvQOS1YYHoZb4-wpSZHUsYsxMr4qjdqVaalQDFxKOSBPJVZxu_XXa_fUDWNSkqsZmkC3g9w7UK4oiIvjl7shX36ekFTz3tSjuZ7tmGPzJZe5rv_dYUIYB7hmjOgvBw.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/89679",
+          "raw_text": "😷\n У Кенії \nпідтвердили\n чотири нові випадки зараження лихоманкою Ебола, серед інфікованих — троє медичних працівників. Загальна кількість хворих у країні зросла до семи — Bloomberg. \n\n\n\n\nПершим захворів місцевий житель, який повернувся з Демократичної Республіки Конго транзитом через Уганду та прилетів до Найробі 3 жовтня \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-18T19:05:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_89684",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/89684",
+      "published_at": "2026-10-19T04:32:22+00:00",
+      "raw_text": "❗️\nВнаслідок російського балістичного удару по Києву \nзагинула\n 21-річна дівчина.\n\n\n\n\nОбстріл пошкодив одну зі станцій метро на лівому березі — наземні станції метро «Чернігівська» і «Лісова» тимчасово будуть закриті на вхід і вихід. \n\n\n\n\nЗа даними журналіста «Радіо Свобода» Алекса Рауфоглу, балістична атака на Київ знову сталася «без будь-якого попередження»\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Наслідки ракетного удару по Києву",
+      "summary": "Внаслідок російського балістичного удару по Києву загинула 21-річна дівчина та пошкоджено інфраструктуру метрополітену. Станції «Чернігівська» та «Лісова» тимчасово закриті на вхід і вихід.",
+      "category": "Війна",
+      "tags": [
+        "Київ",
+        "обстріл",
+        "жертви",
+        "метро"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/sjQgHCFB4dXM5fwrMPCJwU3xucuycwzXuxYfeMkPhyr8PLuROIqTN-MbH0xhrxGUoY6SOGnzPiR6eJoSylXp8FV6KWhILHOw3G2vEpwiyDeofXKxAiSlFMI7il0RixMemdJCOka3imJwWXlzmV_K1w4d8aBwwznIN3ok_QyHkOMqGawI7DVl24U5hMm5VAcMRSlKkAGP-j5RSCnOb7oGOCpcXsOI6aCohcttcG5BhAg5ruoMz7mmTArFKWn-kC3694diC39-tT75ahHgi3G1J4TrT2wDOGcXNjL6W7DenTa_58cWglXJzJDjmkfBx2G4SY0Wv4AaJPlz1D98c6X-5g.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146627",
+          "raw_text": "❗️\nЩе цілі на Київ.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+          "published_at": "2026-10-18T23:59:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27615",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27615",
+      "published_at": "2026-10-19T04:26:28+00:00",
+      "raw_text": "By accident or design, Donald Trump has gained leverage over a country that depends on America for food and remittances. The president now has a chance to get business moving in Cuba \nhttps://t.co/AKjvoYALnx\n — The Economist (\n@TheEconomist\n) \nOct 19, 2026",
+      "title": "Трамп отримав важелі впливу на Кубу",
+      "summary": "Дональд Трамп здобув важелі впливу на Кубу, яка залежить від США у постачанні продовольства та грошових переказах. Це дає можливість активізувати бізнес-процеси в країні.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Куба",
+        "політика",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_crwyd02yz22vo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-19T04:16:46+00:00",
+      "raw_text": "France's government under pressure after weekend of widespread violence\n\nPolitical tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "title": "Протести у Франції та політичний тиск на уряд",
+      "summary": "Французький уряд опинився під тиском після масових заворушень на вихідних. Протести були спричинені невдоволенням вартістю життя та станом державних послуг.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@theeconomistofficial",
+          "source_url": "https://t.me/TheEconomistOfficial/27593",
+          "raw_text": "Even for a country hardened by street insurrection, the events at the weekend were shocking. The context for the riots is the underlying tension linked to France’s election next year \nhttps://t.co/HuEDOHRlND\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
+          "published_at": "2026-10-18T21:36:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_146639",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146639",
+      "published_at": "2026-10-19T04:13:54+00:00",
+      "raw_text": "❗️\nІнформації про пуски балістики знову НЕ БУЛО: США не попередили Україну про удар по Києву\n, – \nРадіо Свобода\n.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "США не попереджали Україну про пуски балістики перед ударом по Києву",
+      "summary": "Радіо Свобода повідомляє, що інформації про пуски балістики перед ударом по Києву не було. США також не попереджали Україну про цю атаку.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "США",
+        "балістика",
+        "обстріл"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77769",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/77769",
+      "published_at": "2026-10-19T04:10:01+00:00",
+      "raw_text": "Київ — відбій повітряної тривоги.",
+      "title": "Відбій тривоги у Києві",
+      "summary": "У Києві офіційно оголошено відбій повітряної тривоги. Містяни можуть залишати укриття.",
+      "category": "Київ",
+      "tags": [
+        "Київ",
+        "тривога",
+        "відбій"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102832",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-19T00:47:29+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102830",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-18T23:14:30+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13622",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-18T17:51:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27614",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27614",
+      "published_at": "2026-10-19T04:06:39+00:00",
+      "raw_text": "So long as Indians believe they have the power to punish their rulers come election day, they will put up with a lot. This is the essence of the country’s social contract. But now there is a sense that it is being violated \nhttps://t.co/uIE1MEg1wI\n — The Economist (\n@TheEconomist\n) \nOct 19, 2026",
+      "title": "Суспільний договір в Індії під загрозою",
+      "summary": "Видання The Economist аналізує суспільний договір в Індії та відчуття його порушення громадянами. Віра у можливість покарати правиляторів на виборах довгий час тримала ситуацію під контролем.",
+      "category": "Світ",
+      "tags": [
+        "Індія",
+        "політика",
+        "вибори"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146638",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146638",
+      "published_at": "2026-10-19T03:55:27+00:00",
+      "raw_text": "❗️\nросіяни вдарили по Дніпру КАБами.\n Під завалами будинків можуть бути люди, – ОВА.\n\n\n\n\nСеред постраждалих – 84-річна жінка, якій надали допомогу та доправили до лікарні. \n\n\n\n\nСтежити за ситуацією в місті: \nhttps://t.me/+NWxo689pxScyYmFi",
+      "title": "Удар КАБами по Дніпру",
+      "summary": "Російські війська вдарили керованими авіабомбами по Дніпру, під завалами можуть бути люди. Постраждала 84-річна жінка.",
+      "category": "Події",
+      "tags": [
+        "Дніпро",
+        "обстріл",
+        "КАБ",
+        "постраждалі"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/fGZZQlit0nXhkaKD4X5jL_BR_nT0neF3HMp36dZtF-qHgpMNUq2dE5X2tyOvCK960qyUxjcEBp74Bpkp0EWShkRiCW8THZ76VTAzZD42YLngID1sJt_LZoOIsgX5pDCLfW4yKIlI_yNWFmpqBIJQ8zldgdqGUlw9fKlvaG-HuITBowQUcX7lbWc7-0Au5BJrufi2R8YKio2-htpF4N8KUEq_CJCv0CyyQioQtawzyG40LI3tzwGxkYrP-_ZlbJqa9Id_-uQm0Xk7dkNd193iWK5tXVBA2sSql86NTeX_bqe-2GbiOigeeB21DcYvcKUo1Mc54SM4j9SobAZZqXoivQ.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27612",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27612",
+      "published_at": "2026-10-19T03:26:36+00:00",
+      "raw_text": "Europe cannot replicate the missile production or military technology that America provides Ukraine. To keep Donald Trump on side, Volodymyr Zelensky has been forced to change his tactics \nhttps://t.co/DiB0W9cmKK\n — The Economist (\n@TheEconomist\n) \nOct 19, 2026",
+      "title": "Зеленський змінив тактику щодо Трампа через залежність від військової допомоги США",
+      "summary": "Видання The Economist зазначає, що Європа не може замінити американські військові технології. Через це Володимир Зеленський був змушений змінити свої тактичні підходи у відносинах із Дональдом Трампом.",
+      "category": "Світ",
+      "tags": [
+        "The Economist",
+        "Зеленський",
+        "Трамп",
+        "ЗСУ"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/rGcpsIb0vg-vSjs25N8eyIJriM4VEYOdeQqrEUMiW352OyokjejhvgsrfXc04smQYfJUuhauUpq4PJIP5n4QSrpPFWXnCQvw_GKcq87wlByrhmDb73XBkkF1Yuj13lEYMxXcbDbuObIVFzB3cOB6weBFRpkXNEj0ztQl9R5Vk5oNgq3Ii-gspelGGG9IPmPj2qXOA1BLVqxSLiFjrMUWqjr2aOnVqpXxXbhWFznhPui72_n75faCDZfWgHvndcbZCRzoj8nQlxKfPNOykqm9mueRRr6ct6ItwJtWXPSeoxACcvHKxk7T3J60nA00p5MUdlYmrNqjHkI0qtUEAuoLaA.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-19/zelenskyy-says-trump-pushing-ukraine-to-yield-france-unrest",
+          "raw_text": "Zelenskyy Says Trump Pushing Ukraine to Yield, France Unrest\n\nSource: Bloomberg, 0:00",
+          "published_at": "2026-10-19T00:02:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN4ONSKIJH9300",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning",
+      "published_at": "2026-10-19T02:07:39+00:00",
+      "raw_text": "Indonesia’s Selloff Deepens With Officials Set for MSCI Meeting\n\nIndonesian markets extended their selloff, with stocks deepening their worst rout in almost 30 years and losses spreading to bonds and the rupiah after MSCI Inc. warned the country may face a two-step downgrade.",
+      "title": "Падіння ринків Індонезії посилюється через загрозу зниження рейтингу MSCI",
+      "summary": "Індонезійські ринки продовжили масштабне падіння, зафіксувавши найгірший обвал акцій майже за 30 років. Втрати також поширилися на облігації та рупію після попередження MSCI Inc.",
+      "category": "Економіка",
+      "tags": [
+        "Індонезія",
+        "ринки",
+        "MSCI",
+        "економіка"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips",
+          "raw_text": "Korean Stocks Fall as DeepSeek Model, Funding Worry Rattle Chips\n\nSouth Korean stocks resumed declines Monday, as DeepSeek’s latest model sparked concerns over demand for memory chips, compounding market worries over AI financing.",
+          "published_at": "2026-10-19T00:17:50+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102831",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
+          "published_at": "2026-10-18T23:58:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kremenchugtruexa_46788",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/46788",
+      "published_at": "2026-10-19T00:43:55+00:00",
+      "raw_text": "Відбій по балістиці.\n\n\n\n\nUPD 03:45: \nвідбій. \n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Відбій балістичної загрози",
+      "summary": "У Кременчуці та області оголошено відбій загрози застосування балістичного озброєння. Ситуація стабілізувалася.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "балістика",
+        "Кременчук"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
     },
     {
       "id": "suspilnenews_77757",
@@ -96,24 +682,6 @@
       "related_sources": []
     },
     {
-      "id": "rss_TN4LRRKJH6V400",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips",
-      "published_at": "2026-10-19T00:17:50+00:00",
-      "raw_text": "Korean Stocks Fall as DeepSeek Model, Funding Worry Rattle Chips\n\nSouth Korean stocks resumed declines Monday, as DeepSeek’s latest model sparked concerns over demand for memory chips, compounding market worries over AI financing.",
-      "title": "Падіння акцій у Південній Кореї через модель DeepSeek",
-      "summary": "Південнокорейські акції знову почали падати через побоювання щодо попиту на чіпи після появи нової моделі DeepSeek. Ситуація також посилюється занепокоєнням ринку щодо фінансування AI.",
-      "category": "Економіка",
-      "tags": [
-        "теплотехнології",
-        "фондовий ринок",
-        "південна корея"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "rss_TMSS1TT96OSG00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/blackrock-sees-tokenized-funds-moving-into-wall-street-plumbing",
@@ -131,37 +699,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "truexanewsua_146629",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146629",
-      "published_at": "2026-10-19T00:14:44+00:00",
-      "raw_text": "❗️\nПошкоджена одна зі станцій метро на лівому березі столиці. \nПоруч стався розрив ходового та контактного рельсів, – Кличко. \n\n\n\n\nСитуація в столиці в реальному часі: \nhttps://t.me/kyiv\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-      "title": "Пошкодження станції метро на лівому березі Києва",
-      "summary": "У Києві через розрив ходового та контактного рельсів пошкоджено одну зі станцій метро на лівому березі. Про це повідомив міський голова Віталій Кличко.",
-      "category": "Місто",
-      "tags": [
-        "метро",
-        "Кличко",
-        "транспорт",
-        "Київ"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/9ea477f295.mov?token=ZRNxf13U89bloGp20PQiC3QmC-E5m4coi4xIt55TlcigyhZGhopqJlkQIE0NsyOfh6um90uszjNrp8ZpUrjdAgweQFpDzW4wv3-iVJFaCGyF3vORHdmclPmiPGY-5Zl0hv3MOKx_wQG_fQFQxg6U0KHVdllomRB5ZoOe1M8xj-eBfaw9M3XZJnBfY8arV-hQHn_VgTSr_aVlVwqOshPdUnF960Jc5N2ut_S9o8D_ZeZ02JcfZEwwuKWbrOzf7fQThDhqi_m0BDtDh2Z4WzBH3iM_FjQ8rSydcYbHnjr9Oq53PcvPlkBhOdagIcELAGmatlIZMtkTcqfIZpzmjJoLVw"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77756",
-          "raw_text": "Внаслідок російської атаки на Київ пошкоджена одна зі станцій метро на лівому березі, \nповідомив\n Кличко. Також через влучання уламків стався розрив ходового та контактного рельсів.",
-          "published_at": "2026-10-19T00:12:24+00:00"
-        }
-      ]
     },
     {
       "id": "rss__news_articles_c6pwgzkj8zzgo_1",
@@ -207,49 +744,6 @@
       "related_sources": []
     },
     {
-      "id": "rss_TN4O4EV84D8G00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-19/zelenskyy-says-trump-pushing-ukraine-to-yield-france-unrest",
-      "published_at": "2026-10-19T00:02:38+00:00",
-      "raw_text": "Zelenskyy Says Trump Pushing Ukraine to Yield, France Unrest\n\nSource: Bloomberg, 0:00",
-      "title": "Зеленський заявив про тиск Трампа щодо поступок України",
-      "summary": "Президент України повідомив про спроби Дональда Трампа підштовхнути Україну до територіальних чи інших поступок. Подробиці події наводяться у звітах ЗМІ.",
-      "category": "Політика",
-      "tags": [
-        "Зеленський",
-        "Трамп",
-        "Україна",
-        "політика"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/rGcpsIb0vg-vSjs25N8eyIJriM4VEYOdeQqrEUMiW352OyokjejhvgsrfXc04smQYfJUuhauUpq4PJIP5n4QSrpPFWXnCQvw_GKcq87wlByrhmDb73XBkkF1Yuj13lEYMxXcbDbuObIVFzB3cOB6weBFRpkXNEj0ztQl9R5Vk5oNgq3Ii-gspelGGG9IPmPj2qXOA1BLVqxSLiFjrMUWqjr2aOnVqpXxXbhWFznhPui72_n75faCDZfWgHvndcbZCRzoj8nQlxKfPNOykqm9mueRRr6ct6ItwJtWXPSeoxACcvHKxk7T3J60nA00p5MUdlYmrNqjHkI0qtUEAuoLaA.jpg'"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-18/zelenskyy-says-trump-forcing-capitulation-to-russia",
-          "raw_text": "Zelenskyy Says Trump Forcing Capitulation to Russia\n\nGet caught up.",
-          "published_at": "2026-10-18T21:36:19+00:00"
-        },
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/uk-signals-different-view-from-trump-on-russia-sanctions",
-          "raw_text": "UK Signals ‘Different View’ From Trump on Russia Sanctions\n\nPrime Minister Andy Burnham’s government disagrees with US President Donald Trump’s approach to sanctions on Russia, a key UK minister said, signaling a growing divergence between the allies over the Ukraine war.",
-          "published_at": "2026-10-18T18:44:13+00:00"
-        },
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23452",
-          "raw_text": "Зеленський поспілкувався з представниками Трампа щодо зустрічі команд у Флориді\n\n\n\n\nПрезидент Володимир Зеленський заявив, що провів розмову з представниками його американського візаві Дональда Трампа – Стівом Віткоффом та Джаредом Кушнером.\n\n\n\n\n\"Саме від позиції Америки тут багато чого залежить. Україна і надалі готова працювати конструктивно, чесно і на реальний результат\", – сказав Зеленський.\n\n\n\n\nДеталі: \n\n\nhttps://www.eurointegration.com.ua/news/2026/10/18/7247992/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-10-18T15:06:27+00:00"
-        }
-      ]
-    },
-    {
       "id": "truexanewsua_146628",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/146628",
@@ -293,61 +787,6 @@
       ]
     },
     {
-      "id": "truexanewsua_146627",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146627",
-      "published_at": "2026-10-18T23:59:37+00:00",
-      "raw_text": "❗️\nЩе цілі на Київ.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-      "title": "Загроза ракетного удару по Києву",
-      "summary": "Зафіксовано нові повітряні цілі, що рухаються у напрямку Києва. Мешканців закликали перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "Київ",
-        "ракети",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146617",
-          "raw_text": "❗️\nПротягом наступних 24х годин підвищена загроза застосування балістики по Києву та області,\n — монітори.\n\n\n\n\nСитуація в Києві: \nhttps://t.me/kyiv",
-          "published_at": "2026-10-18T19:38:40+00:00"
-        }
-      ]
-    },
-    {
-      "id": "h_kremenchug_102831",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102831",
-      "published_at": "2026-10-18T23:58:29+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
-      "title": "Оголошено повітряну тривогу через ракетну загрозу",
-      "summary": "В області введено червоний рівень небезпеки через загрозу застосування ракетного озброєння. Громадян просять пройти до укриттів.",
-      "category": "Безпека",
-      "tags": [
-        "ракетна загроза",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102823",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-18T18:09:50+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13620",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-18T16:24:05+00:00"
-        }
-      ]
-    },
-    {
       "id": "truexanewsua_146626",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/146626",
@@ -380,6 +819,12 @@
           "source_url": "https://t.me/sirena_kremenchuk/13623",
           "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
           "published_at": "2026-10-18T18:09:51+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13620",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-18T16:24:05+00:00"
         }
       ]
     },
@@ -469,40 +914,24 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_102830",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102830",
-      "published_at": "2026-10-18T23:14:30+00:00",
-      "raw_text": "🟢\n Відбій повітряної тривоги!",
-      "title": "Відбій повітряної тривоги",
-      "summary": "У регіоні оголошено відбій повітряної тривоги. Небезпека минула.",
-      "category": "Безпека",
+      "id": "rss_TN4JH0T9NJLS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment",
+      "published_at": "2026-10-18T23:17:52+00:00",
+      "raw_text": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment\n\nThe euro fell against most of its Group-of-10 peers as tensions in Ukraine escalated, and widespread protests in France deepened worries about the country’s fiscal health.",
+      "title": "Євро знизився на тлі ризиків щодо РФ та протестів у Франції",
+      "summary": "Євро впав відносно більшості валют G10 через ескалацію напруженості в Україні. Додатковий тиск на настрої трейдерів справили масштабні протести у Франції.",
+      "category": "Економіка",
       "tags": [
-        "відбій",
-        "тривога"
+        "євро",
+        "валюта",
+        "Франція",
+        "Росія",
+        "економіка"
       ],
-      "importance": 5,
+      "importance": 3,
       "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102827",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-10-18T20:43:32+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13622",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-18T17:51:09+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13619",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-18T12:14:11+00:00"
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "TheEconomistOfficial_27599",
@@ -673,24 +1102,6 @@
       "related_sources": []
     },
     {
-      "id": "TheEconomistOfficial_27593",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27593",
-      "published_at": "2026-10-18T21:36:29+00:00",
-      "raw_text": "Even for a country hardened by street insurrection, the events at the weekend were shocking. The context for the riots is the underlying tension linked to France’s election next year \nhttps://t.co/HuEDOHRlND\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Заворушення на вихідних та політичний контекст у Франції",
-      "summary": "Нещодавні події у Франції шокували суспільство своєю жорстокістю на тлі вуличної нестабільності. Контекст заворушень пов'язаний із напругою напередодні майбутніх виборів у країні.",
-      "category": "Світ",
-      "tags": [
-        "Франція",
-        "вибори",
-        "протести"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "TheEconomistOfficial_27592",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/27592",
@@ -751,26 +1162,6 @@
           "published_at": "2026-10-18T20:49:34+00:00"
         }
       ]
-    },
-    {
-      "id": "suspilnenews_77750",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77750",
-      "published_at": "2026-10-18T21:16:55+00:00",
-      "raw_text": "Внаслідок російської атаки на Київ загинула людина, \nповідомив\n міський голова Кличко. Двоє людей постраждали, один з поранених госпіталізований.",
-      "title": "Наслідки атаки на Київ: загиблий та постраждалі",
-      "summary": "Внаслідок російської атаки на Київ загинула одна людина. Ще двоє постраждали, одного з них госпіталізовано.",
-      "category": "Події",
-      "tags": [
-        "Київ",
-        "обстріл",
-        "Кличко",
-        "загиблі",
-        "постраждалі"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
     },
     {
       "id": "hromadske_ua_89683",
@@ -913,55 +1304,6 @@
       "related_sources": []
     },
     {
-      "id": "hromadske_ua_89682",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/89682",
-      "published_at": "2026-10-18T20:42:52+00:00",
-      "raw_text": "🇫🇷\n \nМакрон \nзакликав\n громадян до спокою на тлі масових протестів та погромів у країні. За погроми, підпали та сутички із поліцією вже затримали понад 2400 людей. \n\n\n\n\nПрезидент Франції заявив, що «сьогодні ввечері ми всі відчуваємо гнів і сором» через масштаб насильства, проте відмовився оголошувати надзвичайний стан у країні, як того вимагали деякі праві політики.\n\n\n\n\n«Дивлячись на ці кадри, ми всі запитуємо себе: про що вони думали? Як французи можуть робити таке з Францією? Ніщо цього не виправдовує, не пояснює і не прощає. Скарги тих, хто протестував мирно, є легітимними, але їхні дії не слід плутати з намірами тих, хто сіє хаос», \n— зазначив президент\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Макрон закликав до спокою через масові протести у Франції",
-      "summary": "Президент Франції Емманюель Макрон закликав громадян до спокою на тлі масових протестів і погромів. Понад 2400 осіб вже затримано, проте надзвичайний стан вводити відмовилися.",
-      "category": "Світ",
-      "tags": [
-        "Франція",
-        "Макрон",
-        "протести",
-        "затримання"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/jNme2j3C80ME09LDEI5dUAzRQQeRGwL_3BGwIlJxdyJE1RI_d_b-EPo3T6rv4tT3j7wAmAJyXGNVdTCWLzM86NB0s7hNyNTs6ypJsJZMb658bGJcE-lGHqq7PqOWWezxLbgMu_9ajNZ_4VznoPI--T_sABoiTgdhjeu6WBR-f34FQhFl56jci0Ykt94e5EW3yVYj8TJ6T6h7e5tymkL9h_MD0YVDF3xpBDnRPo4ETgjjffC1uFuRI1o8h5bdw07zaE9AA6H0zqdBZKkcxTIjakejyceq0V33ObCYV2q1SSXqgjkxBd-SYj3k-5etuhJWtfIeeoZgPclAyt-Jdkhe-Q.jpg'"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-          "raw_text": "Macron calls for 'calm and order' after riots across France\n\nFrench President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-          "published_at": "2026-10-18T20:33:21+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146614",
-          "raw_text": "Макрон пообіцяв жорстку відповідь на погроми у Франції\n.\n\n\n\n\nПрезидент заявив, що учасників заворушень притягнуть до відповідальності, а право на мирний протест має бути захищене.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-          "published_at": "2026-10-18T18:23:46+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77723",
-          "raw_text": "У різних містах Франції, зокрема в Парижі, відбулися масовані протиурядові протести через високі ціни, низькі соцвиплати та проблеми в освіті й сільському господарстві, повідомляє Le Monde.  Між протестувальниками та поліцією сталися сутички, правоохоронці…",
-          "published_at": "2026-10-18T13:51:40+00:00"
-        },
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23453",
-          "raw_text": "Глава Мінфіну США закликав Зеленського бути \"дуже обережним\" із заявами про Starlink\n\n\n\n\nМіністр фінансів Скотт Бессент вважає \"вкрай безвідповідальними\" заяви українського президента Володимира Зеленського щодо обмеження США роботи Starlink і Starshield.\n\n\n\n\n\"Президент Трамп і держсекретар Рубіо категорично заявили, що ніхто в адміністрації Трампа цього не робив. І я вважаю вкрай безвідповідальним з боку президента Зеленського висувати такі звинувачення\", – відповів міністр фінансів США.\n\n\n\n\nНа уточнювальне питання, чому робота мережі знизилася, Бессент сказав, що йому \"нічого про це не відомо\".\n\n\n\n\n\"Розумієте, знову ж таки, мені нічого про це не відомо. Але ми висловилися дуже чітко. І, знаєте, президенту Зеленському варто бути дуже обережним із такими заявами, які не відповідають дійсності\", – додав глава Мінфіну США.\n\n\n\n\nДеталі: \n\n\nhttps://www.eurointegration.com.ua/news/2026/10/18/7247994/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-10-18T15:13:21+00:00"
-        }
-      ]
-    },
-    {
       "id": "truexanewsua_146622",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/146622",
@@ -1013,6 +1355,12 @@
           "source_url": "https://t.me/truexanewsua/146613",
           "raw_text": "Якщо ви думаєте, що я не хочу проведення виборів, це неправда і це несправедливо, – Зеленський.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
           "published_at": "2026-10-18T17:15:34+00:00"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23451",
+          "raw_text": "Зеленський про обмеження роботи Starlink для України: \"Повідомлення надійшло від уряду\"\n\n\n\n\nУкраїнський президент заявив, що не знає, хто саме в американській адміністрації ухвалив таке рішення.\n\n\n\n\n\"Повідомлення надійшло від уряду. Я не знаю, від кого саме (...). Це було повідомлення від американського уряду про обмеження цієї швидкості, і технічно це зробила компанія SpaceX\", – сказав Зеленський.\n\n\n\n\nДеталі: \nhttps://www.eurointegration.com.ua/news/2026/10/18/7247991/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-10-18T14:32:27+00:00"
         }
       ]
     },
@@ -1104,6 +1452,18 @@
           "source_url": "https://t.me/sirena_kremenchuk/13618",
           "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
           "published_at": "2026-10-18T11:43:30+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13623",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-18T18:09:51+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13619",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-18T12:14:11+00:00"
         }
       ]
     },
@@ -1268,30 +1628,6 @@
       ],
       "importance": 3,
       "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_89679",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/89679",
-      "published_at": "2026-10-18T19:05:43+00:00",
-      "raw_text": "😷\n У Кенії \nпідтвердили\n чотири нові випадки зараження лихоманкою Ебола, серед інфікованих — троє медичних працівників. Загальна кількість хворих у країні зросла до семи — Bloomberg. \n\n\n\n\nПершим захворів місцевий житель, який повернувся з Демократичної Республіки Конго транзитом через Уганду та прилетів до Найробі 3 жовтня \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "У Кенії зафіксували нові випадки лихоманки Ебола",
-      "summary": "У Кенії підтверджено чотири нові випадки зараження лихоманкою Ебола, серед інфікованих є троє медиків. Загальна кількість хворих у країні зросла до семи.",
-      "category": "Світ",
-      "tags": [
-        "Ебола",
-        "Кенія",
-        "медицина",
-        "надзвичайна ситуація"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "'https://cdn4.telesco.pe/file/qfDKun6b83N7yFQhUX34_1ibMnnTgpG7R4PydZAeqlQyMu6y_izCxu4xD6QVjrikiF0O8KPrlEv0WxtnrA3btSsAXwXfqW9zEzrNnhmk6QoerQHj_fdZdCllEyLhuSf2nTf2spe8_lHAkaUL3WoFYbv3m4NsrkbFA76tvvoElwH-Ni8SJBCQXYz7GoZsYJGavGUGHIQl4ipfb-hnsvK5FlEjFvQOS1YYHoZb4-wpSZHUsYsxMr4qjdqVaalQDFxKOSBPJVZxu_XXa_fUDWNSkqsZmkC3g9w7UK4oiIvjl7shX36ekFTz3tSjuZ7tmGPzJZe5rv_dYUIYB7hmjOgvBw.jpg'"
-        }
-      ],
       "related_sources": []
     },
     {
@@ -1482,6 +1818,33 @@
         }
       ],
       "related_sources": []
+    },
+    {
+      "id": "rss_TN3WVLT3BZLS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/zelenskyy-says-trump-is-pushing-ukraine-to-capitulate-to-russia",
+      "published_at": "2026-10-18T18:21:08+00:00",
+      "raw_text": "Zelenskyy Says Trump Is Pushing Ukraine to Yield to Russia\n\nUkrainian President Volodymyr Zelenskyy accused Donald Trump of trying to pressure Kyiv into surrendering to Russia, escalating a week-long row with the US president.",
+      "title": "Зеленський заявив, що Трамп підштовхує Україну до поступок Росії",
+      "summary": "Президент України Володимир Зеленський звинуватив Дональда Трампа у спробах тиснути на Київ щодо поступок Росії. Це загострило тижневий конфлікту між українською стороною та президентом США.",
+      "category": "Політика",
+      "tags": [
+        "Зеленський",
+        "Трамп",
+        "США",
+        "Росія",
+        "політика"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77714",
+          "raw_text": "Зеленський \nзаявив\n, що від моменту так званого «енергетичного перемир'я», оголошеного Трампом, армія РФ вже 76 разів цілеспрямовано атакувала українській енергетичний та нафтогазовий сектор. Про це він повідомив у Telegram. \n\n\n\n\nЗагалом за минулий тиждень російські військові випустили по Україні майже 2700 ударних дронів, 1700 авіабомб та 66 ракет, більша частина з них — балістичні.",
+          "published_at": "2026-10-18T08:47:31+00:00"
+        }
+      ]
     },
     {
       "id": "hromadske_ua_89678",
@@ -1964,6 +2327,29 @@
       "related_sources": []
     },
     {
+      "id": "EurointegrationComUA_23452",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23452",
+      "published_at": "2026-10-18T15:06:27+00:00",
+      "raw_text": "Зеленський поспілкувався з представниками Трампа щодо зустрічі команд у Флориді\n\n\n\n\nПрезидент Володимир Зеленський заявив, що провів розмову з представниками його американського візаві Дональда Трампа – Стівом Віткоффом та Джаредом Кушнером.\n\n\n\n\n\"Саме від позиції Америки тут багато чого залежить. Україна і надалі готова працювати конструктивно, чесно і на реальний результат\", – сказав Зеленський.\n\n\n\n\nДеталі: \n\n\nhttps://www.eurointegration.com.ua/news/2026/10/18/7247992/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "Зеленський обговорив із представниками Трампа організацію зустрічі команд",
+      "summary": "Президент Володимир Зеленський повідомив про розмову з представниками Дональда Трампа – Стівом Віткоффом та Джаредом Кушнером. Сторони обговорили подальшу співпрацю та можливу зустріч команд.",
+      "category": "Політика",
+      "tags": [
+        "Зеленський",
+        "Трамп",
+        "США"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/rGcpsIb0vg-vSjs25N8eyIJriM4VEYOdeQqrEUMiW352OyokjejhvgsrfXc04smQYfJUuhauUpq4PJIP5n4QSrpPFWXnCQvw_GKcq87wlByrhmDb73XBkkF1Yuj13lEYMxXcbDbuObIVFzB3cOB6weBFRpkXNEj0ztQl9R5Vk5oNgq3Ii-gspelGGG9IPmPj2qXOA1BLVqxSLiFjrMUWqjr2aOnVqpXxXbhWFznhPui72_n75faCDZfWgHvndcbZCRzoj8nQlxKfPNOykqm9mueRRr6ct6ItwJtWXPSeoxACcvHKxk7T3J60nA00p5MUdlYmrNqjHkI0qtUEAuoLaA.jpg'"
+        }
+      ],
+      "related_sources": []
+    },
+    {
       "id": "hromadske_ua_89674",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/89674",
@@ -1978,6 +2364,25 @@
         "кордон"
       ],
       "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN3WCFKIUPS000",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/banque-du-caire-seeks-to-raise-up-to-454-million-in-egypt-ipo",
+      "published_at": "2026-10-18T14:40:23+00:00",
+      "raw_text": "Banque du Caire Seeks Up to $454 Million in Egypt IPO\n\nBanque du Caire is looking to raise as much as 24.25 billion Egyptian pounds ($454 million) via the sale of a 30% stake, in what would be the North African country’s largest initial public offering in years.",
+      "title": "Banque du Caire планує залучити до $454 млн через IPO",
+      "summary": "Єгипетський державний банк готується до продажу 30% акцій на суму до 24,25 мільярда єгипетських фунтів. Це має стати найбільшим первинним розміщенням акцій у країні за останні роки.",
+      "category": "Економіка",
+      "tags": [
+        "Єгипет",
+        "банк",
+        "IPO",
+        "фінанси"
+      ],
+      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
@@ -2707,25 +3112,6 @@
         "США",
         "Зеленський",
         "Росія"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77714",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77714",
-      "published_at": "2026-10-18T08:47:31+00:00",
-      "raw_text": "Зеленський \nзаявив\n, що від моменту так званого «енергетичного перемир'я», оголошеного Трампом, армія РФ вже 76 разів цілеспрямовано атакувала українській енергетичний та нафтогазовий сектор. Про це він повідомив у Telegram. \n\n\n\n\nЗагалом за минулий тиждень російські військові випустили по Україні майже 2700 ударних дронів, 1700 авіабомб та 66 ракет, більша частина з них — балістичні.",
-      "title": "Зеленський заявив про атаки РФ на енергетику",
-      "summary": "Президент повідомив, що після оголошеного Трампом «енергетичного перемир'я» армія РФ 76 разів атакувала український енергосектор. За минулий тиждень ворог випустив по Україні близько 2700 дронів, 1700 авіабомб та 66 ракет.",
-      "category": "Політика",
-      "tags": [
-        "Зеленський",
-        "обстріли",
-        "енергетика",
-        "РФ"
       ],
       "importance": 5,
       "media_list": [],
