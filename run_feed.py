@@ -69,7 +69,7 @@ def parse_telegram(url, limit=5):
 
         for br in text_wrap.find_all("br"):
             br.replace_with("\n")
-        raw_text = text_wrap.get_text(separator="\n").strip()
+        raw_text = text_wrap.get_text(separator="\n").strip('"\'')
 
         time_tag = post.find("time")
         published_at = ""
@@ -98,7 +98,7 @@ def parse_telegram(url, limit=5):
             style_str = p.get("style", "")
             pm = re.search(r"url\(([^)]+)\)", style_str)
             if pm:
-                u = pm.group(1).strip(\"'\\"\")
+                u = pm.group(1).strip('"\'')
                 # Якщо є відео, постер-прев'ю не додаємо як окреме фото
                 if u not in seen_urls and not video_tags:
                     seen_urls.add(u)
@@ -127,6 +127,7 @@ def parse_website_or_rss(url, limit=5):
     if not feed.entries and not url.endswith(('.xml', '.rss')):
         for extra in ["/rss", "/feed", "/rss.xml", "/feeds/news.rss"]:
             alt_url = url.rstrip('/') + extra
+.strip('"\'')
             test_feed = feedparser.parse(alt_url)
             if test_feed.entries:
                 feed = test_feed
@@ -141,7 +142,7 @@ def parse_website_or_rss(url, limit=5):
             
             raw_text = entry.get("summary") or entry.get("description") or entry.get("title", "")
             soup = BeautifulSoup(raw_text, "html.parser")
-            clean_text = soup.get_text(separator=" ").strip()
+            clean_text = soup.get_text(separator=" ").strip('"\'')
 
             media_list = []
             if "media_content" in entry:
