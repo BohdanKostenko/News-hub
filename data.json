@@ -1,49 +1,155 @@
 {
-  "updated_at": "2026-10-20 22:46",
+  "updated_at": "2026-10-21 01:04",
   "digest": [
-    "У регіоні та Кременчуцькому районі оголошено повітряні тривоги через загрозу ворожих безпілотників, у Києві тривогу скасовано.",
-    "У передмісті Харкова пролунали чотири вибухи, наслідки обстрілу наразі уточнюються.",
-    "Компанія SpaceX сповільнила роботу системи Starlink в Україні за особистим розпорядженням Ілона Маска.",
-    "Мільярдер Кен Гріффін заявив про наявність штучної бульбашки на ринку технологій штучного інтелекту."
+    "Фінансові ринки обговорюють плани Ілона Маска щодо злиття SpaceX і Tesla та звіти Netflix.",
+    "У Citi прогнозують подальше зростання інвестицій в інфраструктуру штучного інтелекту попри перевірки.",
+    "Китай акцентує увагу на безпеці ШІ та стикається з економічними викликами через спад у нерухомості.",
+    "CATL зафіксувала уповільнення прибутку на тлі податкових змін і завершення фіскальних пільг у Китаї.",
+    "У Кременчуцькому районі та низці регіонів оголошено повітряну тривогу через дронову загрозу."
   ],
   "articles": [
     {
-      "id": "h_kremenchug_102914",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102914",
-      "published_at": "2026-10-20T22:42:28+00:00",
-      "raw_text": "🔴\nПовітряна тривога!",
-      "title": "Оголошено повітряну тривогу",
-      "summary": "У регіоні оголошено повітряну тривогу через загрозу атаки. Жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
+      "id": "rss_TN8G2EO2LL3500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-10-21/musk-s-push-for-spacex-tesla-merger-netflix-results-more",
+      "published_at": "2026-10-21T00:59:02+00:00",
+      "raw_text": "Musk's Push For SpaceX-Tesla Merger, Netflix Results, More\n\nSource: Bloomberg, 0:00",
+      "title": "Огляд ринків: ініціатива Маска щодо злиття SpaceX і Tesla та звіти Netflix",
+      "summary": "Bloomberg оприлюднив огляд ключових тем фінансових ринків. Серед головних питань — плани Ілона Маска та фінансові результати Netflix.",
+      "category": "Економіка",
       "tags": [
-        "тривога",
-        "небезпека"
+        "Бизнес",
+        "Tesla",
+        "SpaceX",
+        "Netflix"
       ],
-      "importance": 5,
+      "importance": 2,
       "media_list": [],
       "related_sources": [
         {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102896",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-20T18:24:51+00:00"
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
+          "raw_text": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap\n\nAsian shares rose along with US equity-index futures as strong earnings from some of the biggest beneficiaries of the artificial intelligence boom revived optimism over the tech trade.",
+          "published_at": "2026-10-20T22:05:51+00:00"
         }
       ]
     },
     {
-      "id": "sirena_kremenchuk_13662",
+      "id": "rss_TN8G20KIP3IF00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-luet-sees-ai-infrastructure-theme-continuing-video",
+      "published_at": "2026-10-21T00:58:48+00:00",
+      "raw_text": "Citi's Luet Sees AI Infrastructure Theme Continuing\n\nCiti's Japan, Asia North and Australia Cluster and Banking Head Marc Luet expects AI infrastructure investment to remain a dominant theme, despite growing scrutiny. He speaks after data center firm Nextdc shares plunged following a public backlash. (Source: Bloomberg)",
+      "title": "У Citi прогнозують продовження інвестицій в інфраструктуру ШІ",
+      "summary": "Голова підрозділу Citi у Японії та країнах Азії Марк Лует очікує, що інвестиції в інфраструктуру штучного інтелекту залишатимуться домінуючою темою попри зростаючу перевірку. Заяву зроблено на тлі падіння акцій дата-центру Nextdc через суспільний резонанс.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "інвестиції",
+        "Citi",
+        "технології"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27782",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27782",
+      "published_at": "2026-10-21T00:46:10+00:00",
+      "raw_text": "Many observers believe China does not care much about the dangers of AI. In fact, the superpower spends an awful lot of time thinking it \nhttps://t.co/HC0z1Q3m4O\n — The Economist (\n@TheEconomist\n) \nOct 21, 2026",
+      "title": "Позиція Китаю щодо штучного інтелекту",
+      "summary": "Аналітичне видання The Economist зазначає, що Китай приділяє значну увагу безпеці та потенційним загрозам від штучного інтелекту. Експерти аналізують підходи супердержави до регулювання цієї сфери.",
+      "category": "Світ",
+      "tags": [
+        "ШІ",
+        "Китай",
+        "технології"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
+          "raw_text": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now\n\nBillionaire Ken Griffin said investors are “almost certainly” in the midst of an artificial intelligence bubble as many companies are still grappling with just how much they’ll spend on the technology and how it will transform the economy.",
+          "published_at": "2026-10-20T21:52:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN6HJ0KJH6V400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/china-s-economy-in-six-charts-growth-exports-and-the-property-slump",
+      "published_at": "2026-10-21T00:41:24+00:00",
+      "raw_text": "China’s Economy in Six Charts: Growth, Exports and the Property Slump\n\nChina’s breakneck economic growth – which lifted incomes at home and reshaped markets abroad – once seemed as inevitable as a law of nature.",
+      "title": "Економіка Китаю у шести графіках: зростання, експорт та спад на ринку нерухомості",
+      "summary": "Аналіз стану китайської економіки демонструє перехід від колишнього стрімкого зростання до поточних викликів. Зокрема, розглядаються показники експорту та ситуація у сфері нерухомості.",
+      "category": "Економіка",
+      "tags": [
+        "Китай",
+        "економіка",
+        "експорт",
+        "нерухомість",
+        "аналітика"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN89MMN3N09D00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
+      "published_at": "2026-10-21T00:41:04+00:00",
+      "raw_text": "CATL’s Slower Profit Growth Fans Fears for China Battery Rivals\n\nBattery giant Contemporary Amperex Technology Co. Ltd.’s slower-than-expected quarterly profit growth has prompted analysts to warn that the company and its peers may struggle to manage pressure from a revived domestic consumption tax and the end of other fiscal benefits.",
+      "title": "Уповільнення прибутку CATL викликає занепокоєння щодо конкурентів у Китаї",
+      "summary": "Китайський виробник акумуляторів CATL показав нижче очікуваного зростання квартального прибутку. Аналітики попереджають про тиск через податкові зміни та закінчення фіскальних пільг.",
+      "category": "Бізнес",
+      "tags": [
+        "CATL",
+        "Китай",
+        "акумулятори",
+        "прибуток",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27781",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27781",
+      "published_at": "2026-10-21T00:26:15+00:00",
+      "raw_text": "The risks of vaping may be worth the benefits \nhttps://t.co/tpmgXLKYAt\n — The Economist (\n@TheEconomist\n) \nOct 21, 2026",
+      "title": "Аналіз ризиків та потенційної користі вейпінгу",
+      "summary": "The Economist розглядає сучасні дослідження щодо електронних сигарет. Автори аналізують співвідношення можливих ризиків для здоров'я та ймовірних переваг від використання вейпів.",
+      "category": "Наука і здоров'я",
+      "tags": [
+        "здоров'я",
+        "вейпінг",
+        "дослідження"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13664",
       "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13662",
-      "published_at": "2026-10-20T22:42:28+00:00",
+      "source_url": "https://t.me/sirena_kremenchuk/13664",
+      "published_at": "2026-10-21T00:09:33+00:00",
       "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-      "title": "Повітряна тривога та дронова загроза у Кременчуцькому районі",
+      "title": "Повітряна тривога через дронову загрозу в Кременчуцькому районі",
       "summary": "У Кременчуцькому районі оголошено повітряну тривогу через загрозу ворожих безпілотників. Встановлено жовтий рівень небезпеки.",
       "category": "Безпека",
       "tags": [
+        "Кременчуцький район",
         "тривога",
-        "БПЛА",
-        "Кременчук"
+        "д。рони",
+        "небезпека"
       ],
       "importance": 5,
       "media_list": [
@@ -55,63 +161,233 @@
       "related_sources": [
         {
           "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59275",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-21T00:09:32+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77916",
+          "raw_text": "Київ — повітряна тривога через загрозу дронів.",
+          "published_at": "2026-10-20T23:40:10+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13663",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-20T23:04:52+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59274",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-20T23:04:51+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13662",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-20T22:42:28+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
           "source_url": "https://t.me/ok_kremen/59272",
           "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
           "published_at": "2026-10-20T22:42:27+00:00"
         },
         {
           "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13660",
-          "raw_text": "Чутно вибухи!",
-          "published_at": "2026-10-20T20:04:13+00:00"
+          "source_url": "https://t.me/sirena_kremenchuk/13661",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-20T20:14:47+00:00"
         },
         {
           "source_name": "@sirena_kremenchuk",
           "source_url": "https://t.me/sirena_kremenchuk/13659",
           "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
           "published_at": "2026-10-20T19:58:34+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/102899",
-          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого\n\n\nДронова загроза",
-          "published_at": "2026-10-20T19:29:26+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13658",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-20T19:04:15+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146752",
-          "raw_text": "🔴\n«Червона» тривога в столиці та низці областей!\n Загроза балістики.\n\n\n\n\n22:29 відбій по балістиці. У Києві «жовта» тривога через загрозу БпЛА.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-          "published_at": "2026-10-20T19:03:47+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13657",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
-          "published_at": "2026-10-20T18:24:50+00:00"
         }
       ]
     },
     {
-      "id": "suspilnenews_77914",
+      "id": "h_kremenchug_102916",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102916",
+      "published_at": "2026-10-21T00:09:26+00:00",
+      "raw_text": "🔴\nПовітряна тривога!",
+      "title": "Оголошено повітряну тривогу",
+      "summary": "У країні оголошено повітряну тривогу. Зберігайте спокій та перебувайте в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/102914",
+          "raw_text": "🔴\nПовітряна тривога!",
+          "published_at": "2026-10-20T22:42:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_27780",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27780",
+      "published_at": "2026-10-21T00:01:44+00:00",
+      "raw_text": "“Man is by nature a social animal,” wrote Aristotle. For the most eloquent, conversation is an art. Yet many feel artless—these five books will help change that \nhttps://t.co/9RasVQIEQl\n — The Economist (\n@TheEconomist\n) \nOct 21, 2026",
+      "title": "П'ять книжок для покращення навичок спілкування",
+      "summary": "Розмова вважається мистецтвом, проте багато хто відчуває труднощі у комунікації. Добірка з п'яти книг покликана допомогти розвинути навички ефективного спілкування.",
+      "category": "Культура",
+      "tags": [
+        "книги",
+        "саморозвиток",
+        "психологія"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27779",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27779",
+      "published_at": "2026-10-20T23:46:22+00:00",
+      "raw_text": "The leader of a Kenyan cult has been found guilty of nearly 200 murders, most of whom were of children. 1843’s investigation from 2024 explained how Paul Mackenzie persuaded worshippers to starve themselves—and their children \nhttps://t.co/ma0LK7gEHk\n — The Economist (\n@TheEconomist\n) \nOct 20, 2026",
+      "title": "У Кенії лідера культу визнано винним у масових вбивствах",
+      "summary": "Суд визнав лідера кенійського культу Пола Маккензі винним у вбивстві майже 200 людей, переважно дітей. Розслідування виявило, що він переконував послідовників заморити себе та дітей голодом.",
+      "category": "Світ",
+      "tags": [
+        "суд",
+        "злочин",
+        "Кенія"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_146761",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146761",
+      "published_at": "2026-10-20T23:39:41+00:00",
+      "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+      "title": "Дронова загроза у Києві та низці областей",
+      "summary": "У Києві та кількох областях оголошено дронову загрозу («жовту» тривогу). Мешканців закликають слідкувати за оновленням ситуації в офіційних джерелах.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "дрони",
+        "Київ",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_27778",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/27778",
+      "published_at": "2026-10-20T23:26:09+00:00",
+      "raw_text": "The performance-enhancing drug is legal, safe—and may have benefits beyond sport \nhttps://t.co/PmkqNHFKJp\n — The Economist (\n@TheEconomist\n) \nOct 20, 2026",
+      "title": "Дослідження легальних препаратів для підвищення продуктивності",
+      "summary": "Видання The Economist аналізує легальні та безпечні препарати для покращення результатів. Вони можуть мати позитивний вплив не лише у спорті, а й у повсякденному житті.",
+      "category": "Наука і здоров'я",
+      "tags": [
+        "медицина",
+        "спорт",
+        "дослідження"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_102915",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/102915",
+      "published_at": "2026-10-20T23:04:52+00:00",
+      "raw_text": "🟢\n Відбій повітряної тривоги!",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У місті та області офіційно оголошено відбій повітряної тривоги.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77913",
+          "raw_text": "Київ — відбій повітряної тривоги через дронову загрозу.",
+          "published_at": "2026-10-20T21:49:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ok_kremen_59273",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59273",
+      "published_at": "2026-10-20T22:47:58+00:00",
+      "raw_text": "Вибухи в Полтаві.",
+      "title": "Вибухи у Полтаві",
+      "summary": "У Полтаві пролунали вибухи на тлі повітряної тривоги. Деталі та наслідки події уточнюються.",
+      "category": "Безпека",
+      "tags": [
+        "Полтава",
+        "вибухи",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_77915",
       "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77914",
-      "published_at": "2026-10-20T22:37:11+00:00",
-      "raw_text": "Чотири вибухи пролунали в передмісті Харкова, повідомляють наші кореспонденти.",
+      "source_url": "https://t.me/suspilnenews/77915",
+      "published_at": "2026-10-20T22:46:49+00:00",
+      "raw_text": "Ще низка вибухів пролунала у передмісті Харкова, повідомляють кореспонденти Суспільного.",
       "title": "Вибухи у передмісті Харкова",
-      "summary": "У передмісті Харкова пролунали чотири вибухи. Деталі та наслідки обстрілу наразі уточнюються.",
-      "category": "Місто",
+      "summary": "У передмісті Харкова пролунала низка вибухів. Інформація уточнюється профільними службами.",
+      "category": "Війна",
       "tags": [
         "Харків",
         "вибухи",
         "обстріл"
       ],
       "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/77914",
+          "raw_text": "Чотири вибухи пролунали в передмісті Харкова, повідомляють наші кореспонденти.",
+          "published_at": "2026-10-20T22:37:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_cke8r0me3y9vo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T22:29:24+00:00",
+      "raw_text": "Tory MP questions government advisor's position after wife's Palestine Action post\n\nA Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\"",
+      "title": "Британський депутат поставив під сумнів посаду радника через допис дружини",
+      "summary": "Депутат-консерватор висловив сумніви щодо позиції урядового радника після того, як його дружина опублікувала допис на підтримку Palestine Action. Прес-секретарка Даунінг-стріт заявила, що ці погляди є особистою позицією окремої людини.",
+      "category": "Політика",
+      "tags": [
+        "Велика Британія",
+        "політика",
+        "скандал"
+      ],
+      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
@@ -151,61 +427,6 @@
       "importance": 4,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "rss_TN86JUKJH6VB00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
-      "published_at": "2026-10-20T21:52:12+00:00",
-      "raw_text": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now\n\nBillionaire Ken Griffin said investors are “almost certainly” in the midst of an artificial intelligence bubble as many companies are still grappling with just how much they’ll spend on the technology and how it will transform the economy.",
-      "title": "Кен Гріффін заявив про штучну бульбашку на ринку штучного інтелекту",
-      "summary": "Мільярдер Кен Гріффін вважає, що інвестори наразі перебувають у стані бульбашки штучного інтелекту. Компанії досі оцінюють обсяги майбутніх витрат на технологію та її реальний вплив на економіку.",
-      "category": "Технології",
-      "tags": [
-        "ШІ",
-        "економіка",
-        "інвестиції"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/27759",
-          "raw_text": "The bigger the tower of AI debt grows, the more vulnerable it will become—and the graver the consequences should it come crashing, \nhttps://t.co/xRkWe457El\n Illustration: Fortunate Joaquin \nhttps://t.co/nUrTs1iVbG\n — The Economist (\n@TheEconomist\n) \nOct 20, 2026",
-          "published_at": "2026-10-20T19:06:26+00:00"
-        }
-      ]
-    },
-    {
-      "id": "suspilnenews_77913",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77913",
-      "published_at": "2026-10-20T21:49:45+00:00",
-      "raw_text": "Київ — відбій повітряної тривоги через дронову загрозу.",
-      "title": "Відбій повітряної тривоги у Києві",
-      "summary": "У Києві оголошено відбій повітряної тривоги, яка була пов'язана з дроновою загрозою. Небезпека для столиці минула.",
-      "category": "Місто",
-      "tags": [
-        "Київ",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13661",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-20T20:14:47+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13656",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-20T17:34:42+00:00"
-        }
-      ]
     },
     {
       "id": "TheEconomistOfficial_27773",
@@ -558,6 +779,37 @@
       "related_sources": []
     },
     {
+      "id": "truexanewsua_146760",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146760",
+      "published_at": "2026-10-20T20:24:17+00:00",
+      "raw_text": "❗️\nВійна в Україні мала б тривати 3,5 або 4 години, – Трамп знову згадує історію про «російського генерала», але з новими деталями.  «росіяни мали тисячу танків, які рухалися бетонною трасою. Ніщо б їх не зупинило. Війна б закінчилася за один день. І цей дуже…",
+      "title": "Дональд Трамп зробив нову заяву про тривалість війни в Україні",
+      "summary": "Дональд Трамп знову висловився про війну в Україні, згадавши історію про «російського генерала» та тисячу танків. За його словами, конфлікт міг завершитися дуже швидко за певних умов.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "Трамп",
+        "війна в Україні",
+        "політика"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "'https://cdn4.telesco.pe/file/vBjUzPhoWXgr9Umk52kSGUV5NeOZAF4gZzMI1wOcuHEpwM7ZDJbp7KliDm2UWU--MGNXnXsP8gUl3tgnRyBiWK0aYeTSNEJZCTDYacnfSaO7r4dFIEECOvLEHBqDxoWWOJzGHD7s-cSq1ROuT2pN7rIt6Q2bw6kRu8PnE6YgrParAaz8hEglwwN_ogZd53gB2AiRgH-l2m-dRvULPqA75oKqWE2iqm0S5YNTbYo1NlFQOFg41gfU8FJMmOocHBeP8uCYc927_urhWIEh8bW-bpLtRm60oRXyLNArnX3nWpPbUCiazdnGP1jAkWgiGHGSTDFwQwWYzGtrOKaMUcAdxg.jpg'"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146753",
+          "raw_text": "❗️\nВійна в Україні мала б тривати 3,5 або 4 години,\n – Трамп знову згадує історію про «російського генерала», але з новими деталями.\n\n\n\n\n«росіяни мали тисячу танків, які рухалися бетонною трасою. \nНіщо б їх не зупинило. Війна б закінчилася за один день.\n І цей дуже нерозумний генерал – я не знаю, хто це. Я сумніваюся, що він ще з нами. Я сумніваюся, що він ще живий. Він\n вирішив повернути праворуч на сільськогосподарські угіддя,\n а потім\n повернути ліворуч і рухатися до Києва,\n замість того, щоб залишатися на трасі – на цій чудовій бетонній трасі, де вони б чудово просувалися. Це зайняло б три з половиною, або чотири години, і вся війна б закінчилася.\n В результаті він застряг у багнюці».\n\n\n\n\nТа сама «багнюка» в перші дні на Київщині\n👆\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+          "published_at": "2026-10-20T19:07:44+00:00"
+        }
+      ]
+    },
+    {
       "id": "hromadske_ua_89802",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/89802",
@@ -661,6 +913,23 @@
           "url": "'https://cdn4.telesco.pe/file/AO7LUoWRE7TC6FGYShHOZiasif1HDXyvcEx9DUzKL4hEpz5qm2I7KDqsS2RH-EFTIVf8P9Lr7rV7xFnTLTFJtyQCFB1AtC7KI4RrR-YQ2SUn7ujA7amt_YZkL_ekJAF-3Y69yxZpAlzVfEWzSWl_2hRkiJ0TAwG-U3ptNLbJjlRO5CPbW44cpieUOw4ens6zFIYMXwx2BUFObfWLnJr_Y6iua8qLOBZh74HQELjDtFHe2QCeKs7bPmU6pqVu77g68A5qcTF3NVovzGUWGDVvnlqhj3ZOstVJ95bV1GmZ0R1MFpwtjA-BcHXZjbEwMHB6Mrems9Y0udr3O7jWsO2Wag.jpg'"
         }
       ],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13660",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13660",
+      "published_at": "2026-10-20T20:04:13+00:00",
+      "raw_text": "Чутно вибухи!",
+      "title": "Вибухи в регіоні",
+      "summary": "У місті чи області пролунали звуки вибухів. Офіційна інформація щодо наслідків та причин уточнюється.",
+      "category": "Безпека",
+      "tags": [
+        "вибухи",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
       "related_sources": []
     },
     {
@@ -966,30 +1235,6 @@
       "related_sources": []
     },
     {
-      "id": "truexanewsua_146753",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146753",
-      "published_at": "2026-10-20T19:07:44+00:00",
-      "raw_text": "❗️\nВійна в Україні мала б тривати 3,5 або 4 години,\n – Трамп знову згадує історію про «російського генерала», але з новими деталями.\n\n\n\n\n«росіяни мали тисячу танків, які рухалися бетонною трасою. \nНіщо б їх не зупинило. Війна б закінчилася за один день.\n І цей дуже нерозумний генерал – я не знаю, хто це. Я сумніваюся, що він ще з нами. Я сумніваюся, що він ще живий. Він\n вирішив повернути праворуч на сільськогосподарські угіддя,\n а потім\n повернути ліворуч і рухатися до Києва,\n замість того, щоб залишатися на трасі – на цій чудовій бетонній трасі, де вони б чудово просувалися. Це зайняло б три з половиною, або чотири години, і вся війна б закінчилася.\n В результаті він застряг у багнюці».\n\n\n\n\nТа сама «багнюка» в перші дні на Київщині\n👆\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
-      "title": "Трамп зробив чергову заяву про плани РФ на початку війни",
-      "summary": "Дональд Трамп заявив, що війна в Україні нібито мала тривати кілька годин. За його словами, російські війська застрягли в багнюці через помилку генерала, який звернув із траси на Київ.",
-      "category": "Світ",
-      "tags": [
-        "Трамп",
-        "США",
-        "війна",
-        "Росія"
-      ],
-      "importance": 2,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/f19cce6de9.mp4?token=LH8HvOZeqCxZXkTHKdmXJWWtO8M1u1sRSUBL-sEceSghs8NX0NWCWCA5U70PL3n8BDW0OPgW1PkS-MhW3B6QHZO7viDPEg9sBT07Bf8KpE0p9FGUqcWK9K60HKJXjG30uqbaRDwDDkUQyKjvElqllo_RA7HlLaG_PIroOT1x6rXSd9Oe-xoAHADEhGRZUS2tpCpWCilaY8aIHhO_PAYoskQw-Q5fo4PG2YWHCk7sye2idER8c8ejCvYFdhfGgu4wfTGRDQAuZI-zVFE9xNVd3s_ADEm-CXcE15jWMaJqi_BjQ4GoOQChvwtOchYzW_40PfDYFjEB4uyojA3tc5PYpzmOc_AUJIbomdEaiJ-LeU3o9Dk5hZsb5urMx1wX3kUZMzVt92XpO2PBPU7JMc0P7ly6mY12ZoX1DJKJTEU7xO1wV7Q0bAufYtyHYG88XM7FccLljpWKk8wYJAIyWjGoa13uwJMpLZ3LxxVPFlayL6Nbihk0cNlentXT-xDwoMHnbYPxBsl7xpyQ3_AId4U9V0YgWyzERG4rOwCH2szzGyjXNU_M4NtiJY1m28U-pcF3BUVuw5HlBBsBzp062-Qds2-dm4GBudrF-ksfEFcBlxWusSgPuRvUkCEaTAX8SF6qNPXh9aMAl-eJGy-T0yzWO6KWgBgCC4MF4t_7UpSCNYs"
-        }
-      ],
-      "related_sources": []
-    },
-    {
       "id": "kremenchugtruexa_46871",
       "source_name": "@kremenchugtruexa",
       "source_url": "https://t.me/kremenchugtruexa/46871",
@@ -1013,6 +1258,25 @@
           "published_at": "2026-10-20T19:04:01+00:00"
         }
       ]
+    },
+    {
+      "id": "EurointegrationComUA_23484",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23484",
+      "published_at": "2026-10-20T19:04:56+00:00",
+      "raw_text": "У дайджесті \nвівторка\n – переговори про мир у Норвегії, \nнова блокада від Угорщини\n, Румунія \nвийшла з кризи\n.\n\n\n\n\nСьогодні у Норвегії представники України, деяких країн Європи, а також Сполучених Штатів провели переговори, \"пов’язані з безпекою України\". Віткофф після цього вирушає до Санкт-Петербурга. \n\n\n\n\nУ Литві \nзібрали понад 1 млн євро на дрони-перехоплювачі \nдля України, а Болгарія \nвиключає можливість участі\n в новій програмі допомоги ЄС для України.\n\n\n\n\nБілорусь \nзаборонила деякі товари\n з Латвії, а Макрон на тлі протестів домовився про \nпоставки дизпалива з країн Перської затоки\n.\n\n\n\n\nRyanair \nпрогнозує найбільше в історії зростання цін\n на авіаквитки в Європі.\n\n\n\n\nПопередні результати референдуму у Канаді засвідчили, що більшість жителів провінція Альберта – \nза те, щоб залишитися у складі Канади\n.\n\n\n\n\nДалі – скорочена версія \nдайджесту новин 20 жовтня\n.\n\n\n\n\nПЕРЕГОВОРИ ПРО МИР У НОРВЕГІЇ\n\n\n\n\nСьогодні президент України Володимир\n \nЗеленський провів зустріч зі спецпредставником президента США\n Стівом Віткоффом в Осло, а також з представниками країн Європи.\n\n\n\n\nПрем’єр Норвегії Йонас Гар Стьоре повідомив, що обговорили питання, \"\nпов’язані з безпекою України\n, планом процвітання після війни, територіальні питання, питання санкцій, а також питання європейського безпекового порядку після завершення цієї війни\".\n\n\n\n\nПрезидент Фінляндії Александр Стубб зазначив, що переговори відбувались на двох рівнях: короткострокова перспектива і загальна картина.\n\n\n\n\n\"У загальній картині ми \nзнайшли деякі елементи для миру\n, які завтра будуть передані до Санкт-Петербурга. Ми обговорили та визначили ключові елементи щодо безпеки, а також щодо економіки. Всі ці пропозиції були ретельно опрацьовані представниками США, України і ключових країн Європи\"\n, – розповів фінський президент.\n\n\n\n\nСтубб вважає, що\n \nна технічному рівні переговори просуваються дуже добре\n.\n\n\n\n\nЗеленський заявив, що під час переговорів американська сторона наголосила, що\n \nУкраїна матиме \"надійні\" гарантії безпеки\n.\n\n\n\n\n\"Ми говорили про НАТО, п’яту статтю Альянсу та гарантії безпеки, подібні до тих, які передбачає стаття 5. У документі прописані різні варіанти таких гарантій. Стів передасть цей документ росіянам, і за день ми почуємо його відгук. Це надзвичайно важливо, адже \nпісля завершення цієї війни нам потрібні сильні гарантії безпеки\n\"\n, – акцентував Зеленський.\n\n\n\n\nВвечері прем’єр-міністр Норвегії оголосив про майбутню\n \nпоїздку Віткоффа до Росії\n.\n\n\n\n\n\"Він зустрінеться з російським керівництвом і обміняється думками щодо цієї зустрічі та пропозиціями, над якими працювали європейські й американські колеги, і, можливо, підготує ґрунт для зустрічі на рівні лідерів\"\n, – сказав він.\n\n\n\n\nЩОДО ТРИСТОРОННЬОЇ ЗУСТРІЧІ\n\n\n\n\nТопдипломатка ЄС Кая Каллас заявила, що\n \nамериканські переговорники вже півтора року намагаються підштовхнути Україну до капітуляції\n на умовах російського правителя Владіміра Путіна, однак \nУкраїна не здалася завдяки підтримці Європи\n.\n\n\n\n\nПрезидент США Дональд Трамп заявив, що він\n \nготовий зустрітися з лідерами\n Росії та Китаю, щоб обговорити шляхи припинення війни в Україні.\n\n\n\n\nПрезидент України зазначив, що\n \nхотів би розуміти, про що йтиметься на можливій зустрічі\n Трампа, Сі та Путіна, щоб \"уникнути нових несподіванок\". \n\n\n\n\n\"На жаль, \nпоступовий вихід Путіна з ізоляції вже почався\n. Це не був би перший крок\"\n, – сказав він.  \n\n\n\n\nСпікер польського Сейму Влодзімеж\n \nЧажастий розкритикував плани проведення зустрічі\n між лідерами США, Китаю та Росії щодо завершення війни в Україні та \nзакликав президента Польщі Кароля Навроцького висловитися з цього приводу\n.\n\n\n\n\n\"Пропонується так звана \n\"друга Ялта\" \nза участю глави Китаю, президента Сполучених Штатів та Путіна. Сі, Трамп і Путін мали б зустрітися й вирішувати долю України. Проведення зустрічі в такому складі, на мою думку, є скандалом. Незапрошення на цю зустріч України та Європейського Союзу є скандалом\n\", – заявив спікер Сейму. \n\n\n\n\nТим часом рейтинг Трампа в США\n \nвпав до рекордного 31% напередодні проміжних виборів\n. Він лякає, що\n \nСША горітимуть, як Франція, якщо демократи виграють вибори\n.\n\n\n\n\nБільше важливого і цікавого\n \n– в огляді новин \nвівторка \nза лінком:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/20/7248195/",
+      "title": "Переговори про мир у Норвегії та інші події дня: дайджест новин",
+      "summary": "В Осло пройшли переговори щодо безпеки України за участю Володимира Зеленського та спецпредставника США Стіва Віткоффа. Крім того, у Литві зібрали кошти на дрони, а Угорщина запровадила нову блокаду.",
+      "category": "Світ",
+      "tags": [
+        "Норвегія",
+        "Зеленський",
+        "Віткофф",
+        "дайджест"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
     },
     {
       "id": "suspilnenews_77905",
@@ -1216,6 +1480,52 @@
       "related_sources": []
     },
     {
+      "id": "rss__news_articles_cvze4wx3elj1o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-20T17:33:42+00:00",
+      "raw_text": "UK government to make Jackdaw gas field announcement\n\nThe long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "title": "Уряд Великої Британії оголосить рішення щодо газового родовища Jackdaw",
+      "summary": "Довгоочікуване рішення щодо суперечливого родовища в Північному морі очікується в середу вранці. Уряд готує офіційну заяву з цього приводу.",
+      "category": "Політика",
+      "tags": [
+        "Велика Британія",
+        "газ",
+        "енергетика",
+        "економіка"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+          "raw_text": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds\n\nThe sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+          "published_at": "2026-10-20T15:32:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TN6DZYKJH6V500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/abra-cfo-says-market-uncertainty-makes-2026-ipo-very-difficult",
+      "published_at": "2026-10-20T17:19:46+00:00",
+      "raw_text": "Abra Says Market Uncertainty Makes 2026 IPO ‘Very Difficult’\n\nAbra Group Ltd. is prepared to wait on plans to go public this year as volatile fuel prices rattle markets, making it difficult for airlines to pursue a US IPO.",
+      "title": "Abra Group відкладає плани щодо IPO через невизначеність на ринку",
+      "summary": "Авіаційний холдинг Abra Group Ltd. відкладає вихід на біржу через волатильність цін на паливо та ринкову невизначеність. Це робить проведення IPO у США наразі дуже складним.",
+      "category": "Економіка",
+      "tags": [
+        "IPO",
+        "Abra Group",
+        "авіакомпанії",
+        "ринок",
+        "фінанси"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "holosameryky_22346",
       "source_name": "@holosameryky",
       "source_url": "https://t.me/holosameryky/22346",
@@ -1278,25 +1588,6 @@
         "Росія",
         "Санкции",
         "Трамп"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_ck1l38z0v3v6o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-20T15:32:36+00:00",
-      "raw_text": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds\n\nThe sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
-      "title": "Звіт щодо COVID-19 критикує дії уряду Великої Британії",
-      "summary": "Шостий звіт розслідування пандемії коронавірусу вказує на нестачу засобів захисту та проблеми з випискою пацієнтів із лікарень. Це дозволило вірусу швидко поширитися в будинках для літніх людей.",
-      "category": "Світ",
-      "tags": [
-        "ковід",
-        "велика британія",
-        "медицина",
-        "політика"
       ],
       "importance": 3,
       "media_list": [],
@@ -20855,216 +21146,6 @@
         "видобуток"
       ],
       "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMVF2UKK3NYA00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/ossoff-pledges-he-won-t-run-for-president-despite-strong-polling",
-      "published_at": "2026-10-14T01:00:37+00:00",
-      "raw_text": "Ossoff Pledges He Won’t Run for President Despite Strong Polling\n\nDemocratic Senator Jon Ossoff pledged to serve out a full six-year term if he wins in November, a commitment that — if he holds to it — would rule out a potential presidential bid in 2028.",
-      "title": "Ософф виключив участь у президентських виборах",
-      "summary": "Сенатор-демократ Джон Ософф пообіцяв відпрацювати повний шестирічний термін у разі перемоги на виборах у листопаді. Це виключає його можливу участь у президентських перегонах 2028 року.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "вибори",
-        "політика"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMVFKGKK3NY900",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/olympus-shares-plunge-after-fda-warning-letter-on-six-facilities",
-      "published_at": "2026-10-14T01:00:17+00:00",
-      "raw_text": "Olympus Shares Plunge After FDA Warning Letter on Six Facilities\n\nOlympus Corp. shares tumbled the most since April 2025 after the US Food and Drug Administration issued a warning letter to the Japanese medical device maker following inspections the agency previously conducted at six facilities.",
-      "title": "Акції Olympus впали через попередження FDA",
-      "summary": "Акції Olympus Corp. впали після того, як Управління з продовольства і медикаментів США випустило попередження для японського виробника медтехніки. Це сталося за результатами перевірок шести підприємств.",
-      "category": "Економіка",
-      "tags": [
-        "Olympus",
-        "FDA",
-        "акції",
-        "бізнес"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMVGTAKGIFPD00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/hong-kong-investigates-ipo-rigging-video",
-      "published_at": "2026-10-14T00:56:55+00:00",
-      "raw_text": "Hong Kong Investigates IPO Rigging\n\nThe Securities and Futures Commission warned investment banks and other intermediaries against arrangements that may artificially inflate demand for initial public offerings. Minmin Low has more on \"The Asia Trade.\" (Source: Bloomberg)",
-      "title": "У Гонконзі розслідують маніпуляції з IPO",
-      "summary": "Комісія з цінних паперів та ф'ючерсів застерегла інвестиційні банки від схем, що штучно завищують попит на первинні публічні розміщення акцій. Триває розслідування.",
-      "category": "Економіка",
-      "tags": [
-        "Гонконг",
-        "IPO",
-        "фінанси",
-        "розслідування"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMVHAHWWD62O00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-14/openai-staffer-arrested-pope-leo-lung-cancer-diagnosis-more",
-      "published_at": "2026-10-14T00:56:41+00:00",
-      "raw_text": "OpenAI Staffer Arrested, Pope Leo Lung Cancer Diagnosis, More\n\nSource: Bloomberg, 0:00",
-      "title": "Зведення новин Bloomberg",
-      "summary": "Bloomberg випустив огляд новин, що включає арешт співробітника OpenAI та інформацію про стан здоров'я Папи Римського Лева. Інформація носить загальний оглядовий характер.",
-      "category": "Світ",
-      "tags": [
-        "OpenAI",
-        "Папа Римський",
-        "Bloomberg"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMULYIKGZAJM00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/trump-says-taiwan-to-buy-gas-from-alaska-lng-pipeline-project",
-      "published_at": "2026-10-14T00:56:07+00:00",
-      "raw_text": "Trump Says Taiwan to Buy Gas From Alaska LNG Pipeline Project\n\nPresident Donald Trump said Taiwan agreed to buy 30% of the gas from a liquefied natural gas pipeline project in Alaska over the next 20 years, touting the initiative ahead of midterm elections.",
-      "title": "Трамп заявив про угоду щодо купівлі Тайванем газу з Аляски",
-      "summary": "Президент США Дональд Трамп повідомив, що Тайвань погодився купувати 30% газу з проєкту газопроводу на Алясці протягом 20 років. Заяву було зроблено напередодні проміжних виборів.",
-      "category": "Світ",
-      "tags": [
-        "Трамп",
-        "Тайвань",
-        "США",
-        "економіка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27125",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27125",
-      "published_at": "2026-10-14T00:26:06+00:00",
-      "raw_text": "The performance-enhancing drug is legal, safe—and may have benefits beyond sport \nhttps://t.co/ElecTOk5pD\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
-      "title": "Легальні препарати для підвищення продуктивності",
-      "summary": "Існують легальні та безпечні препарати для покращення спортивних результатів, які можуть мати користь і поза межами спорту. Видання аналізує їхній вплив на організм.",
-      "category": "Наука і здоров'я",
-      "tags": [
-        "спорт",
-        "медицина",
-        "допінг"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27124",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27124",
-      "published_at": "2026-10-14T00:06:28+00:00",
-      "raw_text": "Ask a doctor about vitamin supplements and they will probably tell you that all they do is help you produce “expensive urine”. But the evidence is more positive than that advice might suggest \nhttps://t.co/rl2F374HpD\n — The Economist (\n@TheEconomist\n) \nOct 14, 2026",
-      "title": "Ефективність вітамінних добавок",
-      "summary": "Наукові дані щодо вітамінних добавок є більш позитивними, ніж скептична думка багатьох лікарів про їхню марність. Дослідження вказують на реальну користь від їх вживання.",
-      "category": "Наука і здоров'я",
-      "tags": [
-        "вітаміни",
-        "здоров'я",
-        "дослідження"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27123",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27123",
-      "published_at": "2026-10-13T23:46:14+00:00",
-      "raw_text": "Heart-rate variability measures not how quickly the heart beats, but how regularly spaced those beats are. We explain why a higher number—that is, a more irregular pattern—is generally what you want \nhttps://t.co/BJEw3WYJfG\n — The Economist (\n@TheEconomist\n) \nOct 13, 2026",
-      "title": "Що таке варіабельність серцевого ритму",
-      "summary": "Видання The Economist пояснює, чому вищий показник варіабельності серцевого ритму, тобто більш нерегулярний патерн, зазвичай є показником здоров'я. Дослідження описує значення інтервалів між ударами серця.",
-      "category": "Здоров'я",
-      "tags": [
-        "медицина",
-        "серце",
-        "здоров'я"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMVDBEKGZAIY00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/opinion/articles/2026-10-13/the-indian-central-bank-s-rupee-rescue-is-getting-desperate",
-      "published_at": "2026-10-13T23:30:50+00:00",
-      "raw_text": "The Indian Central Bank's Rupee Rescue Is Getting Desperate\n\nThe Indian central bank seems to be in crisis-fighting mode. It has dusted off the playbook it last used during the 2013 taper tantrum to ward off a free fall in the currency. But the more desperate the defense of the psychologically important level of 100 rupees to the dollar, the greater the risk that authorities will overplay their hand and cause serious damage.",
-      "title": "Дії Центрального банку Індії щодо захисту рупії",
-      "summary": "Центральний банк Індії застосовує заходи для запобігання падінню національної валюти. Експерти попереджають про ризики надмірного втручання регулятора.",
-      "category": "Економіка",
-      "tags": [
-        "Індія",
-        "Центробанк",
-        "рупія",
-        "економіка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-13/boe-s-bailey-says-getting-harder-to-avoid-inflationary-impact",
-          "raw_text": "BOE Hawk Pill Skeptical of Market Pricing Four UK Rate Hikes\n\nOne of the Bank of England’s most hawkish officials cast doubt on market pricing that suggests the UK central bank will hike interest rates four times by next summer.",
-          "published_at": "2026-10-13T20:42:10+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_27122",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27122",
-      "published_at": "2026-10-13T23:26:19+00:00",
-      "raw_text": "Election experts’ nightmare scenario is that Donald Trump might try to seize voting equipment or ballots. That would make it hard to know whether ballots had been manipulated \nhttps://t.co/ZDJdhNpstA\n — The Economist (\n@TheEconomist\n) \nOct 13, 2026",
-      "title": "Побоювання експертів щодо безпеки виборів у США",
-      "summary": "Виборчі експерти висловлюють занепокоєння, що Дональд Трамп може спробувати захопити виборче обладнання або бюлетені. Це унеможливить перевірку результатів на наявність маніпуляцій.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "вибори",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMV97ZR24U9Q00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-13/kiwi-exodus-to-australia-hits-13-year-high-ahead-of-election",
-      "published_at": "2026-10-13T23:08:01+00:00",
-      "raw_text": "Kiwi Exodus to Australia Hits 13-Year High Ahead of Election\n\nNew Zealand’s exodus of citizens to Australia accelerated in the first three months of the year, reaching the highest in 13 years in a further blow to the government just weeks from an election, latest data show.",
-      "title": "Міграція громадян Нової Зеландії до Австралії досягла 13-річного максимуму",
-      "summary": "Потік мігрантів з Нової Зеландії до Австралії суттєво зріс на початку року. Це створює додаткові політичні проблеми для уряду напередодні виборів.",
-      "category": "Світ",
-      "tags": [
-        "Нова Зеландія",
-        "Австралія",
-        "міграція",
-        "вибори"
-      ],
-      "importance": 2,
       "media_list": [],
       "related_sources": []
     }
