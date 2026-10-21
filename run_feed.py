@@ -45,7 +45,7 @@ def parse_telegram(url, limit=5):
     m = re.search(r"t\.me/(?:s/)?([a-zA-Z0-9_]+)", url)
     if not m:
         return []
-    clean_name = m.group(1).strip(\"'\\"\")
+    clean_name = m.group(1).strip('"\'')
     target_url = f"https://t.me/s/{clean_name}"
 
     try:
@@ -309,7 +309,6 @@ def main():
                     existing_data["articles"] = loaded
         except Exception:
             pass
-
     existing_ids = {a["id"] for a in existing_data.get("articles", [])}
     pending_items = []
 
