@@ -126,8 +126,7 @@ def parse_website_or_rss(url, limit=5):
     feed = feedparser.parse(xml_content if xml_content else url)
     if not feed.entries and not url.endswith(('.xml', '.rss')):
         for extra in ["/rss", "/feed", "/rss.xml", "/feeds/news.rss"]:
-            alt_url = url.rstrip('/') + extra
-.strip('"\'')
+            alt_url = url.rstrip('/') + extra.strip('"\'')
             test_feed = feedparser.parse(alt_url)
             if test_feed.entries:
                 feed = test_feed
