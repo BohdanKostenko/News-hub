@@ -371,9 +371,12 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
         let mediaItems = [];
         let seenUrls = new Set();
         rawMedia.forEach(m => {
-          if (m && m.url && !seenUrls.has(m.url)) {
-            seenUrls.add(m.url);
-            mediaItems.push(m);
+          if (m && m.url) {
+            const cleanUrl = String(m.url).trim().replace(/^['"\s]+|['"\s]+$/g, '');
+            if (cleanUrl && !seenUrls.has(cleanUrl)) {
+              seenUrls.add(cleanUrl);
+              mediaItems.push({ type: m.type || 'image', url: cleanUrl });
+            }
           }
         });
         let mediaHtml = '';
@@ -381,8 +384,8 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
           const count = Math.min(mediaItems.length, 4);
           let items = '';
           mediaItems.forEach(m => {
-            if (m.type === 'image') items += '<img src="' + m.url + '" loading="lazy" onclick="openLightbox(\'' + m.url + '\')">';
-            else if (m.type === 'video') items += '<video src="' + m.url + '" controls></video>';
+            if (m.type === 'image') items += '<img src="' + m.url + '" loading="lazy" referrerpolicy="no-referrer" onclick="openLightbox(this.src)" onerror="this.style.display=\'none\'">';
+            else if (m.type === 'video') items += '<video src="' + m.url + '" controls playsinline preload="metadata"></video>';
           });
           mediaHtml = '<div class="media-gallery gallery-' + count + '">' + items + '</div>';
         }
@@ -402,7 +405,7 @@ window.toggleSourceAccordion = function(articleId, idx, event) {
           '<div class="card-body">' +
             '<div class="card-meta"><span>' + a.source_name + ' • ' + (a.category||'Новина') + '</span><button class="bookmark-btn" onclick="toggleBookmark(\'' + a.id + '\')">' + (isFav ? '⭐' : '☆') + '</button></div>' +
             '<div class="card-time-row">' + (isUrgent ? '<span class="urgent-badge">🚨 ТЕРМІНОВО</span>' : '') + (a.published_at ? '<span>🕒 ' + formatDateTime(a.published_at) + '</span>' : '') + '<span class="reading-time">' + calcReadingTime(a.raw_text||a.summary) + '</span></div>' +
-            '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + relHtml +
+            '<div class="card-title">' + a.title + '</div><div class="card-summary">' + a.summary + '</div>' + (/[a-zA-Z]{4,}\s+[a-zA-Z]{4,}/.test((a.title||'') + ' ' + (a.summary||'')) ? '<div style="margin-top:6px;"><button type="button" class="tag-btn" style="font-size:12px;padding:4px 10px;" onclick="translateCardText(this)">🌐 Перекласти українською</button></div>' : '') + relHtml +
                     singleActionsHtml +
             '<div class="card-tags">' + tagsHtml + '</div>' +
           '</div>';
@@ -561,42 +564,36 @@ function toggleSourceText(articleId, index, event) {
 </script>
 <script src="app_addons.js"></script>
 
-    <script>
-        async function translateArticle(articleId, titleText, summaryText, btnElement) {
-            btnElement.disabled = true;
-            btnElement.textContent = '⏳ Перекладаємо...';
-            try {
-                // Переклад заголовка
-                let resTitle = await fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(titleText) + '&langpair=en|uk');
-                let dataTitle = await resTitle.json();
-                let translatedTitle = dataTitle.responseData ? dataTitle.responseData.translatedText : titleText;
+    
 
-                // Переклад основного тексту/сумірі
-                let translatedSummary = summaryText;
-                if (summaryText && summaryText.trim().length > 0) {
-                    let resSum = await fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(summaryText) + '&langpair=en|uk');
-                    let dataSum = await resSum.json();
-                    if (dataSum.responseData && dataSum.responseData.translatedText) {
-                        translatedSummary = dataSum.responseData.translatedText;
-                    }
-                }
 
-                // Знаходимо картку та оновлюємо текст
-                const card = btnElement.closest('.card');
-                if (card) {
-                    const titleEl = card.querySelector('.card-title');
-                    const summaryEl = card.querySelector('.card-summary');
-                    if (titleEl) titleEl.textContent = translatedTitle;
-                    if (summaryEl) summaryEl.textContent = translatedSummary;
-                }
-                btnElement.remove(); // Прибираємо кнопку після успішного перекладу
-            } catch (e) {
-                console.error("Помилка перекладу:", e);
-                btnElement.disabled = false;
-                btnElement.textContent = '🌐 Помилка перекладу';
-            }
-        }
-    </script>
+<script>
+window.translateCardText = async function(btn) {
+  const card = btn.closest('.card');
+  if (!card) return;
+  const titleEl = card.querySelector('.card-title');
+  const sumEl = card.querySelector('.card-summary');
+  const fullEl = card.querySelector('.full-text');
+  btn.disabled = true;
+  btn.textContent = '⏳ Перекладаємо...';
+  async function tr(text) {
+    if (!text || !text.trim()) return text;
+    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=uk&dt=t&q=' + encodeURIComponent(text);
+    const r = await fetch(url);
+    const d = await r.json();
+    return d[0].map(x => x[0]).join('');
+  }
+  try {
+    if (titleEl) titleEl.textContent = await tr(titleEl.textContent);
+    if (sumEl) sumEl.textContent = await tr(sumEl.textContent);
+    if (fullEl) fullEl.textContent = await tr(fullEl.textContent);
+    btn.remove();
+  } catch (e) {
+    btn.disabled = false;
+    btn.textContent = '🌐 Спробувати ще раз';
+  }
+};
+</script>
 
 </body>
 </html>

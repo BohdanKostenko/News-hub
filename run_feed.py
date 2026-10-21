@@ -45,7 +45,7 @@ def parse_telegram(url, limit=5):
     m = re.search(r"t\.me/(?:s/)?([a-zA-Z0-9_]+)", url)
     if not m:
         return []
-    clean_name = m.group(1)
+    clean_name = m.group(1).strip(\"'\\"\")
     target_url = f"https://t.me/s/{clean_name}"
 
     try:
@@ -98,7 +98,7 @@ def parse_telegram(url, limit=5):
             style_str = p.get("style", "")
             pm = re.search(r"url\(([^)]+)\)", style_str)
             if pm:
-                u = pm.group(1)
+                u = pm.group(1).strip(\"'\\"\")
                 # Якщо є відео, постер-прев'ю не додаємо як окреме фото
                 if u not in seen_urls and not video_tags:
                     seen_urls.add(u)
