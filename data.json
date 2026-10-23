@@ -1,12 +1,447 @@
 {
-  "updated_at": "2026-10-23 00:09",
+  "updated_at": "2026-10-23 04:41",
   "digest": [
-    "У Києві оголошено відбій повітряної тривоги, небезпека минула, проте у Полтаві зафіксовано атаки БпЛА на залізничну інфраструктуру без постраждалих.",
-    "Президент США підтвердив відновлення доступу України до системи Starlink завдяки домовленостям з Ілоном Маском.",
-    "Інфляція в Японії перевищила цільовий показник Центробанку, що підвищує ймовірність підняття ставки у грудні.",
-    "Президент Аргентини Хав'єр Мілей наполягає на подальших реформах, хоча його експеримент стикається з ризиками через низький рейтинг."
+    "Російські війська завдали масованого удару по ТЕС ДТЕК, зупинивши її роботу через суттєві пошкодження.",
+    "У Полтавській громаді через падіння ворожого БпЛА пошкоджено будинки та ЛЕП, обійшлося без постраждалх.",
+    "ЗМІ оприлюднили деталі нового мирного плану США щодо України, який передбачає відмову від НАТО в обмін на членство в ЄС та інвестиції.",
+    "Азійські інвестори масово переорієнтовуються на безпечні активи через падіння акцій техногігантів та ескалацію на Близькому Сході.",
+    "Генеральний директор Сінгапурської біржі Лох Бун Чі оголосив про плани залишити свою посаду."
   ],
   "articles": [
+    {
+      "id": "rss_TNCF6BR24U8100",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/how-the-ceuta-border-crossing-left-morocco-s-dead-nameless-in-spain",
+      "published_at": "2026-10-23T04:30:11+00:00",
+      "raw_text": "How the Ceuta Border Crossing Left Morocco’s Dead Nameless in Spain\n\nWhen people die making dangerous journeys, fragmented systems can leave their bodies unidentified and cemeteries dotted with numbered graves.",
+      "title": "How the Ceuta Border Crossing Left Morocco’s Dead Nameless in Spain",
+      "summary": "Fragmented systems leave the bodies of migrants dying on dangerous journeys unidentified. This results in numerous numbered graves in cemeteries near the border.",
+      "category": "Світ",
+      "tags": [
+        "migration",
+        "Spain",
+        "Morocco",
+        "Ceuta"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TN6ZYIN3N09800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/singapore-exchange-s-loh-plans-to-hand-over-reins-after-decade",
+      "published_at": "2026-10-23T04:30:10+00:00",
+      "raw_text": "Singapore Exchange’s Loh Plans to Hand Over Reins After Decade\n\nSingapore Exchange Ltd. Chief Executive Officer Loh Boon Chye said he’s preparing to step down as the bourse moves into its next phase of growth.",
+      "title": "Singapore Exchange CEO Loh Boon Chye Plans to Step Down",
+      "summary": "Singapore Exchange Ltd. Chief Executive Officer Loh Boon Chye announced plans to step down. The departure coincides with the bourse entering its next phase of growth.",
+      "category": "Бізнес",
+      "tags": [
+        "Singapore",
+        "Exchange",
+        "CEO",
+        "business"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNCEFST3BZMP00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-10-23/asia-investors-seek-havens-as-ai-selloff-deepens-video",
+      "published_at": "2026-10-23T04:28:09+00:00",
+      "raw_text": "Asia Investors Seek Havens as AI Selloff Deepens\n\nA selloff in tech giants and escalating Middle East hostilities have pushed global investors towards the safety of bonds. Meanwhile, a Chine tech repricing is deepening. Bloomberg's reporters and guests report on how the impact is cascading across Asia. (Source: Bloomberg)",
+      "title": "Інвестори в Азії шукають безпечні активи через падіння акцій технологічних компаній",
+      "summary": "Розпродаж у техногігантах та ескалація на Близькому Сході змусили глобальних інвесторів переорієнтуватися на облігації. Ситуація посилюється переоцінкою китайських технологічних компаній.",
+      "category": "Економіка",
+      "tags": [
+        "інвестиції",
+        "Азія",
+        "технології",
+        "ринки"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
+          "raw_text": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing\n\nThere’s no end in sight for the selloff in China’s artificial intelligence model developer stocks, with competition growing ever more heated and the threat of rival listings next year.",
+          "published_at": "2026-10-23T00:30:00+00:00"
+        },
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+          "raw_text": "Asian Stocks Slide After US Tech Rout, Bonds Rally: Markets Wrap\n\nAsian stocks extended losses, tracking declines on Wall Street as investors rotated out of technology giants following a blistering rally earlier this year and sought safety in Treasuries and currencies such as the yen.",
+          "published_at": "2026-10-22T22:05:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_28012",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28012",
+      "published_at": "2026-10-23T04:26:29+00:00",
+      "raw_text": "Every adaptation of an ancient text is as much about its own era as the original work; less a lens than a mirror. Sir Christopher Nolan’s “The Odyssey” is no different \nhttps://t.co/aMW3gsvm3R\n — The Economist (\n@TheEconomist\n) \nOct 23, 2026",
+      "title": "Критика нової адаптації «Одіссеї» Крістофера Нолана",
+      "summary": "Видання The Economist опублікувало статтю про майбутню екранізацію класичного твору Крістофером Ноланом. Автор зазначає, що адаптація давнього тексту відображає сучасну епоху.",
+      "category": "Культура",
+      "tags": [
+        "Кіно",
+        "Крістофер Нолан",
+        "Одіссея"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78055",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78055",
+      "published_at": "2026-10-23T04:25:05+00:00",
+      "raw_text": "РФ масовано обстріляла одну з ТЕС ДТЕК, повідомили у компанії. Станція припинила генерацію електроенергії, обладнання суттєво пошкоджене.  \n\n\n\n\nУ ДТЕК додали, що з початку повномасштабного вторгнення російські війська атакували її ТЕС понад 230 разів.",
+      "title": "Обстріл ТЕС ДТЕК",
+      "summary": "Російські війська завдали масованого удару по одній із теплоелектростанцій ДТЕК. Станція припинила генерацію електроенергії через суттєві пошкодження обладнання.",
+      "category": "Енергетика",
+      "tags": [
+        "ДТЕК",
+        "ТЕС",
+        "обстріл",
+        "енергетика"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/ramBeYSLxzGjh7r5KeCtg2gatUNeIn0JLuHd-PFkvtFZ7IrPy5rlkFPGIw4eEdbZG182A07TO2T4lfYkrRXGXfoY6tztePaCVsvDBqBIgrtqOg33vebqmdZnj4k8pHmzHjMWG8vPYbBtfe9KCs2QfABDYLdNvw5QDzKS_SCLHUwu27Kf6_OWG4EJBMxcq3B24vpXDzYbXM96rbirs8i_YsB1aMa4P_z_0SE1eboQiRBwUseWr7KDZRwIhAfWR56J5frj3FbGHvGVchI0ve6G3yi9Fcrn0HImd9xanwOFAd8pyWVKSgL7tfr5CtjdirUU27tCcPD0Shq9iyzU_zEv4w.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146952",
+          "raw_text": "‼️\nрф масовано обстріляла одну з ТЕС ДТЕК. Станція припинила генерацію електроенергії. \n\n\n\n\nСуттєво пошкоджено обладнання. З початку повномасштабки ТЕС ДТЕК були атаковані ворогом понад 230 разів.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-10-23T04:22:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ok_kremen_59422",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/59422",
+      "published_at": "2026-10-23T04:23:09+00:00",
+      "raw_text": "❗️\nУ Полтавській громаді зафіксовано падіння БпЛА на відкритій території. Вибуховою хвилею пошкоджено прилеглі приватні будинки, споруди та лінію електропередач. Попередньо, люди не постраждали.",
+      "title": "Падіння БпЛА на Полтавщині пошкодило будинки та ЛЕП",
+      "summary": "У Полтавській громаді зафіксовано падіння ворожого безпілотника на відкритій території. Вибухова хвиля пошкодила приватні будинки, споруди та лінію електропередач, постраждалих немає.",
+      "category": "Подробиці",
+      "tags": [
+        "Полтавщина",
+        "БпЛА",
+        "руйнування",
+        "ПОВА"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78054",
+          "raw_text": "У Полтавській громаді дрон впав на відкритій території, повідомив очільник ОВА Дяківнич. Вибуховою хвилею пошкоджені приватні будинки, споруди та лінія електропередачі. Попередньо, люди не постраждали.",
+          "published_at": "2026-10-23T03:23:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_146951",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/146951",
+      "published_at": "2026-10-23T04:14:47+00:00",
+      "raw_text": "❗️\nУкраїна відмовляється від НАТО, а на Донбасі створюють демілітаризовану зону: США підготували новий мирний план щодо України\n, – The Economist.\n\n\n\n\n▪\nНатомість Україні обіцяють інвестиції та членство в ЄС;\n\n\n▪\nрф отримує пом’якшення санкцій, угоди з США та відновлення відносин із Заходом;\n\n\n▪️\nЄ також пропозиція повернути російський газ до Європи та перезапустити «Північний потік».\n\n\n\n\nЩо думаєте про план? \n👇\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "ЗМІ опублікували деталі нового мирного плану щодо України",
+      "summary": "За даними The Economist, США підготували мирний план, який передбачає відмову України від НАТО в обмін на інвестиції та членство в ЄС. Росія ж може отримати пом'якшення санкцій та відновлення енергетичних проєктів із Заходом.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "НАТО",
+        "ЄС",
+        "мирний план"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/uxIl8s2uPlPf2PJDiCJ2IapS2XfLuGI3SBzJ_AkJVGqXHFQAp1GEStzlrGZbQba_tvChTTz4sWEZ5zcBH1NuFQr6Ua7UAVQ4z3jJDO6dGlk75oC7SoT4GtkuTtvxjqnMAVRxUNqYzOMpfu3iwqPV1yvsr8GZpZMcWuXxdYhRif-fefx65s2yHwuphoNB9IbQhicSoD12nYbscf1WcnA_XvqvVBxo0phm-_skHT6TR1Lg_5cg02H0tsn8anWqztlZcz4W6qsTsmV-6RpDmZ93BWiE4Jx0QfW8_ghoGAvlMp2EVoSN6omqhlqQYs1wZXlCzwO8bf9xZSFT4FM8CPxfCw.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@holosameryky",
+          "source_url": "https://t.me/holosameryky/22365",
+          "raw_text": "Постійний представник США при НАТО Метью Вітакер заявив, що президент Трамп продовжує працювати над припиненням війни Росії проти України, \nоднак переговорний процес просувається повільніше, ніж хотілося б.\n\n\n\n\nПершочерговим завданням Вітакер назвав\n зупинити загибель людей, досягти припинення вогню, а потім домовитися про остаточне врегулювання та мирну угоду.\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8214088.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+          "published_at": "2026-10-22T19:10:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_28011",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28011",
+      "published_at": "2026-10-23T04:06:04+00:00",
+      "raw_text": "Marrying later, working harder and being better parents have diminished male friendships \nhttps://t.co/KXBkevwbEg\n — The Economist (\n@TheEconomist\n) \nOct 23, 2026",
+      "title": "Зміна життєвих пріоритетів скорочує чоловічу дружбу",
+      "summary": "Пізні шлюби, інтенсивна робота та зосередженість на батьківстві призводять до зменшення кількості та міцності чоловічих дружніх зв'язків.",
+      "category": "Суспільство",
+      "tags": [
+        "суспільство",
+        "психологія",
+        "стосунки"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "holosameryky_22368",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22368",
+      "published_at": "2026-10-23T04:05:01+00:00",
+      "raw_text": "Нестача ракет-перехоплювачів для балістики, які рятують життя\n, — це питання номер один, яке піднімав президент Зеленський у розмові з держсекретарем Рубіо 20 жовтня, за повідомленням українського президента.\n\n\n\n\nДержсекретар США наголосив, що наразі \nбагато країн світу потребують цих ракет,\n в тому числі самі США, Ізраїль та Саудівська Аравія:\n\n\n\n\n\"У нас є власні потреби. У нас є мінімальні стандарти, які ми повинні задовольнити всередині країни і для наших військових баз по всьому світу\".\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8214182.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Зеленський обговорив з Рубіо дефіцит ракет-перехоплювачів",
+      "summary": "Під час розмови з держсекретарем США Рубіо президент Зеленський підняв питання нестачі ракет-перехоплювачів для балістики. У США зазначили, що ці ракети також потрібні іншим країнам та власним військовим базам.",
+      "category": "Політика",
+      "tags": [
+        "Зеленський",
+        "США",
+        "ППО",
+        "Зброя"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28010",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28010",
+      "published_at": "2026-10-23T03:46:05+00:00",
+      "raw_text": "In important ways Muslim views can resemble those of other Europeans, according to polling we commissioned. But some attitudes should trouble liberals who have long assumed that open societies eventually make people more tolerant \nhttps://t.co/4Hvlutpt1T\n — The Economist (\n@TheEconomist\n) \nOct 23, 2026",
+      "title": "Опитування виявило специфіку поглядів мусульман у Європі",
+      "summary": "Дослідження показують схожість поглядів європейських мусульман з іншими громадянами, проте певні установки викликають занепокоєння лібералів щодо толерантності.",
+      "category": "Суспільство",
+      "tags": [
+        "Європа",
+        "суспільство",
+        "опитування"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28009",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28009",
+      "published_at": "2026-10-23T03:26:35+00:00",
+      "raw_text": "His claims about AI repay examination. Unfortunately, such an exercise only underlines how ill-prepared the world is for a technology that may soon throw everything up in the air \nhttps://t.co/s7DhxtD01W\n — The Economist (\n@TheEconomist\n) \nOct 23, 2026",
+      "title": "Світ не готовий до наслідків розвитку штучного інтелекту",
+      "summary": "Аналіз заяв щодо штучного інтелекту демонструє непоготовність глобальної спільноти до технології, яка здатна швидко змінити звичний уклад життя.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "технології",
+        "майбутнє"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-22/ai-concerns-return-treasuries-rally-on-haven-demand-more",
+          "raw_text": "AI Concerns Return, Treasuries Rally on Haven Demand, More\n\nSource: Bloomberg, 0:00",
+          "published_at": "2026-10-22T23:41:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_78053",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78053",
+      "published_at": "2026-10-23T03:22:28+00:00",
+      "raw_text": "Київ — відбій повітряної тривоги через загрозу дронів.",
+      "title": "Відбій повітряної тривоги у Києві",
+      "summary": "У Києві оголошено відбій повітряної тривоги, яка була пов'язана із загрозою застосування ворожих дронів. Наразі небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "ППО"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78045",
+          "raw_text": "Київ — відбій повітряної тривоги.",
+          "published_at": "2026-10-22T23:50:52+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13712",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-22T18:16:28+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103029",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-10-22T18:16:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_78052",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78052",
+      "published_at": "2026-10-23T03:18:42+00:00",
+      "raw_text": "У Харкові пролунав вибух, інформують кореспонденти Суспільного. \n\n\n\n\nМіський голова Терехов написав, що війська РФ поцілили реактивним дроном по Слобідському району міста.",
+      "title": "Вибух у Харкові внаслідок удару дроном",
+      "summary": "У Харкові пролунав вибух. За інформацією міського голови, війська РФ поцілили реактивним дроном по Слобідському району.",
+      "category": "Події",
+      "tags": [
+        "Харків",
+        "вибух",
+        "обстріл",
+        "ДПС"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78051",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78051",
+      "published_at": "2026-10-23T03:09:09+00:00",
+      "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
+      "title": "Повітряна тривога у Києві",
+      "summary": "У Києві оголошено повітряну тривогу через загрозу застосування дронів. Мешканців закликають залишатися в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "дрони"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/UQgBSAyf-c2yMieILYGGm6i_QiEtefXzgI0P4C-TV61hYKdF8_xvAZfFwjCMLr5nobZZOsT0Vzz_uWvvaLlCSBHvTFPYzwu3Y_bGuLqLciO75QDZac1bMT4EamJJXwRi431m5RvHEfPHGCOZKWJ-zZYVU27J0pbCA3dHFf96ZN2V8SLgYxb2JXOvIB8JqBt5oHLGpdcKQK8jhiyNk7ZcD7AK6dMWBXa49DmzIX5XAAxvLAYNtkwazxxZSuEjiKh78wO06dVaP6Q_3aQmCXEzlFCWIa8SjVzExDGP4dXNNC0NEQ3bh0nhqxmrGgWsp-FwmwWU_InPOWXUhDp_bGCtzQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78044",
+          "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
+          "published_at": "2026-10-22T23:23:23+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13711",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
+          "published_at": "2026-10-22T17:57:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_28008",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28008",
+      "published_at": "2026-10-23T03:06:36+00:00",
+      "raw_text": "Taiwan’s journey from dictatorship to open society has transformed its global standing. But far from prizing its democracy, self-interested politicians are breaking it \nhttps://t.co/QzFolSDshF\n — The Economist (\n@TheEconomist\n) \nOct 23, 2026",
+      "title": "Демократія Тайваню під загрозою політичних інтересів",
+      "summary": "Еволюція Тайваню від диктатури до відкритого суспільства змінила його глобальне значення. Проте політичні діячі ставлять власні інтереси вище за демократичні цінності.",
+      "category": "Світ",
+      "tags": [
+        "Тайвань",
+        "демократія",
+        "політика"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28007",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28007",
+      "published_at": "2026-10-23T02:46:25+00:00",
+      "raw_text": "It is rare to find a young Hollywood star as bankable as Tom Holland. There are four lessons aspiring actors can glean from his early success \nhttps://t.co/rzh5SutY47\n — The Economist (\n@TheEconomist\n) \nOct 23, 2026",
+      "title": "Успіх актора Тома Голланда: уроки від The Economist",
+      "summary": "Видання The Economist аналізує ранній успіх молодої голлівудської зірки Тома Голланда. У статті виділено чотири ключові уроки для акторів-початківців.",
+      "category": "Культура",
+      "tags": [
+        "Том Голланд",
+        "Кіно",
+        "The Economist"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNC3XIKJH6V600",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high",
+      "published_at": "2026-10-23T02:13:32+00:00",
+      "raw_text": "AI Tech Fears Push Global Credit Spreads to 17-Month High\n\nMetrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical tensions caused investors to seek out safe-haven assets.",
+      "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+      "summary": "Global bond market metrics indicate the highest risk-off sentiment in over a year. This comes as a selloff in AI stocks and geopolitical tensions drive investors toward safe-haven assets.",
+      "category": "Економіка",
+      "tags": [
+        "AI",
+        "markets",
+        "economy",
+        "bonds"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "holosameryky_22367",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22367",
+      "published_at": "2026-10-23T00:12:08+00:00",
+      "raw_text": "Постійний представник США при НАТО Метью Вітакер заявив, що президент Трамп продовжує працювати над припиненням війни Росії проти України, однак\n переговорний процес просувається повільніше, ніж хотілося б\n \n➡️\n \nhttps://youtu.be/dCIYJENgujs\n\n\n\n\nВ інтерв'ю FoxNews першочерговим завданням Вітакер назвав зупинити загибель людей, досягти припинення вогню, а потім домовитися \nпро остаточне врегулювання та мирну угоду.\n\n\n\n\nСпецпосланець Віткофф після зустрічі з Путіним повернувся до Осло, де поінформував прем’єра Норвегії про результати переговорів. Президент Зеленський заявив, що Київ \nна постійному звʼязку із переговорною командою в Осло.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "США продовжують працювати над припиненням війни в Україні",
+      "summary": "Постпред США при НАТО Метью Вітакер заявив, що адміністрація Трампа працює над припиненням війни, проте переговорний процес просувається повільно. Першочерговим завданням є зупинення загибелі людей та досягнення припинення вогню.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "НАТО",
+        "Війна в Україні",
+        "Переговори"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/l934c5bqRHgHKOVJWk-b68h-_uLsfDhKY9Hq3TVEQFEKCEBhF7Hz6SoOk5MDEk4sNy4pywK0ZgVriYj0Fre23oxhUSSwz2s3Licm6hhC0Da2u-IM0VyzM5KQR8pNgcPL7kPqCgQupFXW4FQe6w7NJpEemNrDqMgv20cbafnnkivP4kWhWrcc77YnijeV50Rs5zdG0TzcZsLmOrv3DqhZVALlU2zB6fIdsRycLRfsAL8sjiUKIRLK_AiQGD5sa7u676XUGd3EsWUE2YoSj8qwj3BdPJZ3FHKy2-uiKq72hXdXdFM1TRt1jBZRfX_STn60-07h8qS0MObhSx9pyt9dTw.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/146942",
+          "raw_text": "🤡\nроссия не хочет с Украиной воевать, воевать хочет Киев, – путін.  Ще тези пал лаїча:  \n▪️\n«Утраченные Киевом земли – не их территория, это исторические земли россии»; \n▪️\n«Украинцев, как бездомных собак, собирают на улицах, загоняют на фронт насильно. В ВСУ полмиллиона…",
+          "published_at": "2026-10-22T18:43:50+00:00"
+        }
+      ]
+    },
     {
       "id": "TheEconomistOfficial_27999",
       "source_name": "@theeconomistofficial",
@@ -24,60 +459,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78045",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78045",
-      "published_at": "2026-10-22T23:50:52+00:00",
-      "raw_text": "Київ — відбій повітряної тривоги.",
-      "title": "Відбій повітряної тривоги в Києві",
-      "summary": "У Києві офіційно оголошено відбій повітряної тривоги. Небезпека минула.",
-      "category": "Безпека",
-      "tags": [
-        "Київ",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78042",
-          "raw_text": "Київ — відбій повітряної тривоги.",
-          "published_at": "2026-10-22T21:27:22+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13712",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-22T18:16:28+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59417",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-22T18:16:27+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103029",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-10-22T18:16:18+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13709",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-22T13:37:57+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13707",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-22T13:18:01+00:00"
-        }
-      ]
     },
     {
       "id": "holosameryky_22366",
@@ -130,24 +511,6 @@
         "демократія",
         "США",
         "політика"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNC1SZV84D8G00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-22/ai-concerns-return-treasuries-rally-on-haven-demand-more",
-      "published_at": "2026-10-22T23:41:23+00:00",
-      "raw_text": "AI Concerns Return, Treasuries Rally on Haven Demand, More\n\nSource: Bloomberg, 0:00",
-      "title": "Побоювання щодо штучного інтелекту та ріст казначейських облігацій",
-      "summary": "Інвестори демонструють зростаючий попит на безпечні активи, що призвело до ралі казначейських облігацій. Також на ринках знову посилилися занепокоєння щодо розвитку та впливу штучного інтелекту.",
-      "category": "Технології",
-      "tags": [
-        "ШІ",
-        "економіка",
-        "облігації"
       ],
       "importance": 2,
       "media_list": [],
@@ -289,42 +652,6 @@
       ]
     },
     {
-      "id": "suspilnenews_78044",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78044",
-      "published_at": "2026-10-22T23:23:23+00:00",
-      "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
-      "title": "Повітряна тривога у Києві через загрозу дронів",
-      "summary": "У Києві оголошено повітряну тривогу через дронову небезпеку.",
-      "category": "Безпека",
-      "tags": [
-        "Київ",
-        "повітряна тривога",
-        "БпЛА"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/UQgBSAyf-c2yMieILYGGm6i_QiEtefXzgI0P4C-TV61hYKdF8_xvAZfFwjCMLr5nobZZOsT0Vzz_uWvvaLlCSBHvTFPYzwu3Y_bGuLqLciO75QDZac1bMT4EamJJXwRi431m5RvHEfPHGCOZKWJ-zZYVU27J0pbCA3dHFf96ZN2V8SLgYxb2JXOvIB8JqBt5oHLGpdcKQK8jhiyNk7ZcD7AK6dMWBXa49DmzIX5XAAxvLAYNtkwazxxZSuEjiKh78wO06dVaP6Q_3aQmCXEzlFCWIa8SjVzExDGP4dXNNC0NEQ3bh0nhqxmrGgWsp-FwmwWU_InPOWXUhDp_bGCtzQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103028",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
-          "published_at": "2026-10-22T17:58:02+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13711",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-22T17:57:34+00:00"
-        }
-      ]
-    },
-    {
       "id": "TheEconomistOfficial_27996",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/27996",
@@ -414,32 +741,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "rss_TNBSGYKIJH8G00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-      "published_at": "2026-10-22T22:05:06+00:00",
-      "raw_text": "Asian Stocks Slide After US Tech Rout, Bonds Rally: Markets Wrap\n\nAsian stocks extended losses, tracking declines on Wall Street as investors rotated out of technology giants following a blistering rally earlier this year and sought safety in Treasuries and currencies such as the yen.",
-      "title": "Падіння азійських акцій через спад у технологічному секторі США",
-      "summary": "Азійські фондові ринки продовжили зниження, наслідуючи Волл-стріт. Інвестори масово виходили з технологічних компаній та шукали безпеки в облігаціях і єні.",
-      "category": "Економіка",
-      "tags": [
-        "ринки",
-        "акції",
-        "економіка",
-        "Азія"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-10-22/stocks-tumble-moderna-merck-fall-as-leaked-data-disappoints",
-          "raw_text": "Stocks Tumble, Moderna, Merck Fall As Leaked Data Disappoints\n\nSource: Bloomberg, 0:00",
-          "published_at": "2026-10-22T21:08:13+00:00"
-        }
-      ]
     },
     {
       "id": "suspilnenews_78043",
@@ -803,36 +1104,6 @@
       "related_sources": []
     },
     {
-      "id": "holosameryky_22365",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22365",
-      "published_at": "2026-10-22T19:10:18+00:00",
-      "raw_text": "Постійний представник США при НАТО Метью Вітакер заявив, що президент Трамп продовжує працювати над припиненням війни Росії проти України, \nоднак переговорний процес просувається повільніше, ніж хотілося б.\n\n\n\n\nПершочерговим завданням Вітакер назвав\n зупинити загибель людей, досягти припинення вогню, а потім домовитися про остаточне врегулювання та мирну угоду.\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8214088.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-      "title": "Метью Вітакер назвав головне завдання США у переговорах щодо України",
-      "summary": "Постпред США при НАТО зазначив, що пріоритетом є зупинення загибелі людей та досягнення припинення вогню. Лише після цього можливе остаточне врегулювання та укладення мирної угоди.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "НАТО",
-        "мирний процес"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/ht40q-i8B_3eZEHZWitU0b_R__Pv_nH2ca18MOfkqJbV2VWUP9jPIbpO4c9zPfh6nKwFJU0qLQdsDyk9vPIYSshXJuOa3GKLXFaMhu4jHzgwCnuwh6eUqv6I3Vh-bCclyhEnQTOMyVVnzMnZ5FGzwa3M1sSF0UIhvjyrB3ENMW45PQoOhUgb87PKfgghveotrmIj5KLLqCSeXWlSm1MvXOp5inI6jiIP2O_oManali-FlBh1Y_kWq8QtmKUdSaH8vKjVW0cWAdcJm9euAkANZJw2UfSqQqgV1ZacnElGX6Y-_U2uAAswV23Pa3Nk_5vDW5vfIvIQMNrWvuiRYHaI7A.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22364",
-          "raw_text": "🔴\n \nВітакер: Переговори щодо України просуваються повільніше, ніж хотілося б. ЧАС-TIME\n \n➡️\n \nyoutube.com/live/nJMlOVgO1kk\n\n\n\n\nВ ефірі ЧАС-TIME:\n\n\n\n\n🔹\n Президент Трамп працює над припиненням війни Росії проти України, \nоднак переговори просуваються повільніше\n, ніж хотілося б, — представник США при НАТО Метью Вітакер.\n\n\n🔹\n Спецпосланець США Віткофф повернувся до Осло та поінформував прем’єр-міністра Норвегії \nпро результати переговорів.\n\n\n🔹\n США планують збільшити виробництво \nракет-перехоплювачів для систем Patriot до 2000\n — старший радник Центру стратегічних і міжнародних досліджень Марк Кансіан.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-10-22T18:27:55+00:00"
-        }
-      ]
-    },
-    {
       "id": "EurointegrationComUA_23516",
       "source_name": "@EurointegrationComUa",
       "source_url": "https://t.me/EurointegrationComUA/23516",
@@ -905,48 +1176,6 @@
       "related_sources": []
     },
     {
-      "id": "truexanewsua_146942",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/146942",
-      "published_at": "2026-10-22T18:43:50+00:00",
-      "raw_text": "🤡\nроссия не хочет с Украиной воевать, воевать хочет Киев, – путін.  Ще тези пал лаїча:  \n▪️\n«Утраченные Киевом земли – не их территория, это исторические земли россии»; \n▪️\n«Украинцев, как бездомных собак, собирают на улицах, загоняют на фронт насильно. В ВСУ полмиллиона…",
-      "title": "Заяви кремлівського керівництва щодо війни в Україні",
-      "summary": "Президент росії володимир путін озвучив чергові пропагандистські тези про те, що Україна нібито не хоче миру, а також повторив інші традиційні наративи російської пропаганди.",
-      "category": "Політика",
-      "tags": [
-        "політика",
-        "росія",
-        "війна"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/64ae6bfb42.mp4?token=uy5xxiYcQpHcf3kCTgbK56ux17XMW48O_JrSkL5YNiXI7Fb-Zu_UE0eCpMxYSuy2Q8q9yGZXX2QRD0YjFuOa36AkG35rWsGv-PfDDJBuszHgy5LiQD8211SNfTCF5wfkjKXlNoCfkmc8KEOEttLG6hPBDmBYqdQudyseyGcdfCcBNoTDE9BITPhrpVHSF3nZMXC67aMBhncNz96hcUwhg8wLDvVypZn8ABZnbVfrP8G05kGnL8paE4U1JwhkjBDnz_5_xEZWoHpo8rdLGUuWo4sjWVH676Y_VRRql3pKWB-Nc4zZ8UYqYRa_f9aJwqxidekai8yE6oV1sY3mwskcs7HetF28xGlM21WR6qw5i-Dp2O273S-54PBMn1C21Lar9hG07z3xD99jLHETMDbegxkdMu94_Om14Dk6cxm8CCeVaKFUGbSNPgQSR_dSo3EW-KSD3wK_YOelyokQrpmTiRobaq_o8jepXS2YdHxO0vldh1IV18lTknGIIiosNQ2Nph0GgsgdTXnUkYFjB8UXgeAjh1JrDieQ2hDDEnVt_fQ0y5R1Bws_Wfn5uXdLxnCW0E34P4ft3OrG4Fe_Oz3aN9YMnhjT1ucXbK3iKYZnD5Qu-6FWFlXUeWWKEFJDwr091GEAFsCnIGSUnBOpwrSSsEoiD1pO0usPblsJzdu0dos"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146922",
-          "raw_text": "Віткофф запропонував рф провести наступного місяця тристоронню зустріч між США, Китаєм та рф для обговорення плану припинення війни в Україні,\n – FT.\n\n\n\n\nЦю пропозицію порівнюють з Ялтинською конференцією, коли високопоставлені лідери Сполучених Штатів, Великої Британії та колишнього Радянського Союзу зібралися в Ялті на Кримському півострові з лютого по листопад 1945 року, ближче до кінця Другої світової війни, та домовилися про післявоєнний світовий порядок, розділ та окупацію Німеччини, а також план опіки над Кореєю.\n\n\n\n\nУкраїну на обговорення не запросили \n🤬\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-          "published_at": "2026-10-22T11:07:44+00:00"
-        },
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22364",
-          "raw_text": "🔴\n \nВітакер: Переговори щодо України просуваються повільніше, ніж хотілося б. ЧАС-TIME\n \n➡️\n \nyoutube.com/live/nJMlOVgO1kk\n\n\n\n\nВ ефірі ЧАС-TIME:\n\n\n\n\n🔹\n Президент Трамп працює над припиненням війни Росії проти України, \nоднак переговори просуваються повільніше\n, ніж хотілося б, — представник США при НАТО Метью Вітакер.\n\n\n🔹\n Спецпосланець США Віткофф повернувся до Осло та поінформував прем’єр-міністра Норвегії \nпро результати переговорів.\n\n\n🔹\n США планують збільшити виробництво \nракет-перехоплювачів для систем Patriot до 2000\n — старший радник Центру стратегічних і міжнародних досліджень Марк Кансіан.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-10-22T18:27:55+00:00"
-        },
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22361",
-          "raw_text": "Група підтримки України в Конгресі США (Congressional Ukraine Caucus) закликає президента Трампа \nдопомогти Україні вивести з ладу російські пускові установки.\n\n\n\n\nЗагалом серед підписантів: 7 конгресменів від Республіканської партії і 16 від Демократичної, пише The Hill.\n\n\n\n\n📌\n \nЧитайте тут \n➡️\n \nhttps://www.holosameryky.com/a/8214065.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-10-22T16:00:01+00:00"
-        }
-      ]
-    },
-    {
       "id": "ok_kremen_59418",
       "source_name": "@ok_kremen",
       "source_url": "https://t.me/ok_kremen/59418",
@@ -981,6 +1210,31 @@
           "published_at": "2026-10-22T17:20:03+00:00"
         }
       ]
+    },
+    {
+      "id": "holosameryky_22364",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22364",
+      "published_at": "2026-10-22T18:27:55+00:00",
+      "raw_text": "🔴\n \nВітакер: Переговори щодо України просуваються повільніше, ніж хотілося б. ЧАС-TIME\n \n➡️\n \nyoutube.com/live/nJMlOVgO1kk\n\n\n\n\nВ ефірі ЧАС-TIME:\n\n\n\n\n🔹\n Президент Трамп працює над припиненням війни Росії проти України, \nоднак переговори просуваються повільніше\n, ніж хотілося б, — представник США при НАТО Метью Вітакер.\n\n\n🔹\n Спецпосланець США Віткофф повернувся до Осло та поінформував прем’єр-міністра Норвегії \nпро результати переговорів.\n\n\n🔹\n США планують збільшити виробництво \nракет-перехоплювачів для систем Patriot до 2000\n — старший радник Центру стратегічних і міжнародних досліджень Марк Кансіан.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Заява США щодо переговорів про Україну та виробництва ракет Patriot",
+      "summary": "Переговори щодо припинення війни Росії проти України просуваються повільніше, ніж очікувалося, заявив представник США при НАТО Метью Вітакер. Водночас США планують збільшити виробництво ракет-перехоплювачів для систем Patriot до 2000 одиниць.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "переговори",
+        "ППО",
+        "Patriot",
+        "війна"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/ht40q-i8B_3eZEHZWitU0b_R__Pv_nH2ca18MOfkqJbV2VWUP9jPIbpO4c9zPfh6nKwFJU0qLQdsDyk9vPIYSshXJuOa3GKLXFaMhu4jHzgwCnuwh6eUqv6I3Vh-bCclyhEnQTOMyVVnzMnZ5FGzwa3M1sSF0UIhvjyrB3ENMW45PQoOhUgb87PKfgghveotrmIj5KLLqCSeXWlSm1MvXOp5inI6jiIP2O_oManali-FlBh1Y_kWq8QtmKUdSaH8vKjVW0cWAdcJm9euAkANZJw2UfSqQqgV1ZacnElGX6Y-_U2uAAswV23Pa3Nk_5vDW5vfIvIQMNrWvuiRYHaI7A.jpg"
+        }
+      ],
+      "related_sources": []
     },
     {
       "id": "TheEconomistOfficial_27965",
@@ -1665,6 +1919,31 @@
         }
       ],
       "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13709",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13709",
+      "published_at": "2026-10-22T13:37:57+00:00",
+      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+      "title": "Відбій повітряної тривоги в Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчук",
+        "відбій"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13707",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-22T13:18:01+00:00"
+        }
+      ]
     },
     {
       "id": "ok_kremen_59414",
@@ -20323,238 +20602,6 @@
         "Одіссея"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMZDOQT96OSG00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-16/reliance-pushes-back-as-musk-questions-starlink-s-delay-in-india",
-      "published_at": "2026-10-16T04:38:53+00:00",
-      "raw_text": "Reliance Pushes Back as Musk Questions Starlink India Delay\n\nReliance Industries Ltd., led by billionaire Mukesh Ambani, pushed back against suggestions that it is trying to keep Elon Musk’s Starlink Inc. out of India, saying its own satellite venture is still awaiting regulatory clearances.",
-      "title": "Reliance заперечує звинувачення у затримці виходу Starlink на ринок Індії",
-      "summary": "Компанія Reliance Industries Ltd. під керівництвом Мукеша Амбані відкинула звинувачення у блокуванні сервісу Starlink Ілона Маска в Індії. У компанії заявили, що їхнє власне супутникове підприємство також очікує на регуляторні дозволи.",
-      "category": "Технології",
-      "tags": [
-        "Reliance",
-        "Starlink",
-        "Індія",
-        "Ілон Маск"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cm89zp48k4kzo_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T03:45:09+00:00",
-      "raw_text": "Three children and teacher killed in US primary school shooting\n\nThe suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.",
-      "title": "Стрілянина в початковій школі США: загинули діти та вчитель",
-      "summary": "У США сталася стрілянина в початковій школі, внаслідок якої загинули троє дітей та вчитель. Підозрюваного застрелив озброєний перехожий, який переслідував його.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "стрілянина",
-        "надзвичайна подія"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMXRBSKGIFPS00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-rupee-rebound-comes-with-growing-strains-in-fx-market",
-      "published_at": "2026-10-16T02:58:21+00:00",
-      "raw_text": "India’s Rupee Relief Comes With Disruptions in Financial Markets\n\nThe Reserve Bank of India’s historic defense of the rupee bought the currency some reprieve, but at a steep cost.",
-      "title": "Захист рупії коштував Індії збоїв на фінансових ринках",
-      "summary": "Резервний банк Індії зміг тимчасово підтримати курс національної валюти завдяки історичній інтервенції. Проте цей крок призвів до серйозних збоїв на фінансових ринках країни.",
-      "category": "Економіка",
-      "tags": [
-        "Індія",
-        "валюта",
-        "економіка"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27348",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27348",
-      "published_at": "2026-10-16T01:06:31+00:00",
-      "raw_text": "Fiscally, a shift to more direct taxation is right for China, promising a system that is fairer and more sustainable. We explain why, politically, it is a calculated gamble, \nhttps://t.co/aa26TXjk9xIllustration\n: Cornelia Li \nhttps://t.co/kpERFQSVBl\n — The Economist (\n@TheEconomist\n) \nOct 16, 2026",
-      "title": "Податкова реформа в Китаї",
-      "summary": "Перехід до прямих податків є правильним кроком для Китаю задля створення справедливої та стійкої системи. Водночас експерти вважають це політично прорахованим ризиком.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "податки",
-        "економіка"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77557",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77557",
-      "published_at": "2026-10-16T01:00:51+00:00",
-      "raw_text": "У Луцьку було чутно звуки вибухів, інформують кореспонденти Суспільного.",
-      "title": "Звуки вибухів у Луцьку",
-      "summary": "У Луцьку було чутно звуки вибухів. Про це інформують кореспонденти Суспільного.",
-      "category": "Брехня та війна",
-      "tags": [
-        "Луцьк",
-        "вибухи",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77553",
-          "raw_text": "В Івано-Франківську чутно звуки вибухів, повідомляють кореспонденти Суспільного.",
-          "published_at": "2026-10-16T00:13:07+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TMXTDRR24U8300",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-10-16/takaichi-s-challenges-after-one-year-in-office-video",
-      "published_at": "2026-10-16T01:00:42+00:00",
-      "raw_text": "Takaichi's Challenges After One Year in Office\n\nAs Sanae Takaichi marks one year since becoming Japan's first female prime minister, Bloomberg TV's Shery Ahn looks back at what has been achieved and what challenges lie ahead. (Source: Bloomberg)",
-      "title": "Підсумки першого року Санае Такаїчі на посаді прем'єр-міністра Японії",
-      "summary": "Минув рік з часу призначення Санае Такаїчі першою жінкою-прем'єр-міністром Японії. Експерти аналізують досягнення її уряду та виклики, які залишаються актуальними.",
-      "category": "Світ",
-      "tags": [
-        "Японія",
-        "політика",
-        "уряд"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/features/2026-10-16/japan-pm-sanae-takaichi-s-record-on-women-and-gender-equality",
-          "raw_text": "Japan PM Sanae Takaichi’s Record on Women and Gender Equality\n\nSanae Takaichi refuses to let gender define her politics, but her first year in office has made her a lightning rod for competing anxieties about women and power.",
-          "published_at": "2026-10-16T01:00:07+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TMY8O1RKV2V200",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-16/new-delhi-braces-for-fresh-crackdown-as-cockroaches-plan-march",
-      "published_at": "2026-10-16T01:00:00+00:00",
-      "raw_text": "India Detains Youth Activists Ahead of Protest Over Voter Rolls\n\nPolice in the Indian capital detained the founder of the youth-led Cockroach Janta Party to prevent him from attending a planned protest in New Delhi, escalating a standoff with authorities over a contentious voter-roll revision and the arrest of two prominent activists.",
-      "title": "У Індії затримали молодіжних активістів перед протестом",
-      "summary": "Поліція Нью-Делі затримала засновника молодіжної партії, щоб запобігти його участі у запланованій акції протесту. Протест пов'язаний зі спірною ревізією списків виборців та арештом інших активістів.",
-      "category": "Світ",
-      "tags": [
-        "Індія",
-        "протести",
-        "політика"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TMZ4UFT96OSH00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-outflows-to-worsen-as-msci-mulls-cut-analysts-say",
-      "published_at": "2026-10-16T00:43:17+00:00",
-      "raw_text": "Indonesia Outflows to Worsen as MSCI Mulls Cut, Analysts Say\n\nIndonesian stocks will likely see further outflows as the nation faces a potential ejection from global stock indexes following MSCI Inc.’s latest proposal to downgrade the country, according to analysts.",
-      "title": "Індонезія зіткнеться з відтоком капіталу через можливе зниження індексів MSCI",
-      "summary": "Індонезійські акції можуть зазнати додаткового відтоку коштів через можливе виключення країни з глобальних фондових індексів. Це пов'язано з останньою пропозицією MSCI Inc. щодо пониження рейтингу країни.",
-      "category": "Економіка",
-      "tags": [
-        "Індонезія",
-        "Акції",
-        "MSCI",
-        "Фінанси"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cw5yn83m8gypo_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-16T00:34:45+00:00",
-      "raw_text": "Same-day test helps doctors detect hidden infections in critically ill children\n\nMetagenomics offers a new way of detecting infections in intensive care patients.",
-      "title": "Новий тест допомагає виявляти приховані інфекції у важкохворих дітей",
-      "summary": "Метагеноміка пропонує новий швидкий метод виявлення інфекцій у пацієнтів відділень інтенсивної терапії. Це допомагає лікарям діагностувати хвороби за один день.",
-      "category": "Технології",
-      "tags": [
-        "медицина",
-        "наука",
-        "здоров'я"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77556",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77556",
-      "published_at": "2026-10-16T00:33:13+00:00",
-      "raw_text": "В Івано-Франківську пролунали повторні вибухи, повідомили наші кореспонденти.",
-      "title": "Повторні вибухи в Івано-Франківську",
-      "summary": "В Івано-Франківську зафіксовано повторні вибухи. Про це повідомили кореспонденти з місця подій.",
-      "category": "Брехня та війна",
-      "tags": [
-        "Івано-Франківськ",
-        "вибухи",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_77555",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/77555",
-      "published_at": "2026-10-16T00:29:30+00:00",
-      "raw_text": "У Рівному було чутно звук вибуху, повідомляють кореспонденти Суспільного.",
-      "title": "Вибух у Рівному",
-      "summary": "У Рівному пролунав звук вибуху. Інформацію про це підтвердили кореспонденти Суспільного.",
-      "category": "Брехня та війна",
-      "tags": [
-        "Рівне",
-        "вибухи",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27346",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27346",
-      "published_at": "2026-10-16T00:26:39+00:00",
-      "raw_text": "“There’s so much more spending to cut and so many more taxes to lower,” Argentina’s president emphasises in an interview. But with his personal net approval rating deeply negative, Javier Milei’s free-market experiment hangs in the balance \nhttps://t.co/IN5PT3AMbE\n — The Economist (\n@TheEconomist\n) \nOct 16, 2026",
-      "title": "Політичний експеримент Хав'єра Мілея в Аргентині",
-      "summary": "Президент Аргентини наголошує на подальшому скороченні витрат та зниженні податків. Проте через негативний особистий рейтинг його ринкові реформи опинилися під загрозою.",
-      "category": "Світ",
-      "tags": [
-        "Аргентина",
-        "економіка",
-        "політика"
-      ],
-      "importance": 3,
       "media_list": [],
       "related_sources": []
     }
