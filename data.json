@@ -1,39 +1,378 @@
 {
-  "updated_at": "2026-10-25 20:47",
+  "updated_at": "2026-10-25 23:12",
   "digest": [
-    "Александар Вучич заявив про поразку на парламентських виборах у Сербії, де перемогу здобула опозиція.",
-    "У Великій Британії через потужний шторм Боело загинула людина та 160 тисяч домогосподарств залишилися без світла.",
-    "Дональд Трамп назвав можливе зростання цін на пальне невеликою ціною за позбавлення Ірану ядерної зброї.",
-    "Україна запроваджує режим припинення вогню в окупованих Олешках на Херсонщині з 27 жовтня для допомоги місцевим жителям."
+    "Президент Сербії Александар Вучич визнав поразку своєї партії на виборах, де переміг студентсько-протестний рух.",
+    "Компанія Netflix провела масштабні кадрові зміни через кризу у програмуванні та невдоволення авторів.",
+    "Уряд Великої Британії подвоює фінансування для прибирання бездомних з вулиць до Різдва.",
+    "Дональд Трамп розкритикував кандидата в сенатори Абдула Ель-Саєда на мітингу в Мічигані."
   ],
   "articles": [
     {
-      "id": "truexanewsua_147144",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/147144",
-      "published_at": "2026-10-25T20:42:58+00:00",
-      "raw_text": "👀\nВучич визнав поразку на парламентських виборах у Сербії, заявивши, що переміг підтримуваний студентами «Студентський список».\n\n\n\n\nЯк це вплине на Україну - поглянемо в майбутньому.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-      "title": "Вучич визнав поразку на виборах у Сербії",
-      "summary": "Александар Вучич заявив про поразку на парламентських виборах у Сербії. Перемогу здобув опозиційний «Студентський список».",
+      "id": "TheEconomistOfficial_28248",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28248",
+      "published_at": "2026-10-25T23:01:17+00:00",
+      "raw_text": "Even as Republicans try to use socialism to undermine Democrats’ appeal, a new crop of pragmatic city socialists insist they will do the opposite \nhttps://t.co/pTBUHItkE0Photo\n: Getty Images \nhttps://t.co/NBip9UL1UD\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
+      "title": "Нове покоління прагматичних соціалістів у США",
+      "summary": "Республіканці намагаються використовувати тему соціалізму проти демократів. Водночас нові прагматичні міські соціалісти запевняють, що їхня діяльність матиме протилежний ефект.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "США",
+        "соціалізм"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNHJW1KGZAJA00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-25/inside-the-firings-and-leadership-changes-at-netflix",
+      "published_at": "2026-10-25T23:00:01+00:00",
+      "raw_text": "Inside the Firings and Leadership Changes at Netflix\n\nA programming slump and talent backlash prompted a major regime change at Netflix",
+      "title": "Кадрові зміни та звільнення у керівництві Netflix",
+      "summary": "Серія спадів у програмуванні та невдоволення талановитих авторів призвели до масштабної зміни режиму та керівництва у компанії Netflix. Нові кадрові рішення покликані подолати кризу.",
+      "category": "Технології",
+      "tags": [
+        "Netflix",
+        "бізнес",
+        "кадри"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNDDOCVTTD2500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/trump-attacks-el-sayed-over-muslim-faith-at-michigan-rally",
+      "published_at": "2026-10-25T22:58:05+00:00",
+      "raw_text": "Trump Attacks El-Sayed Over Muslim Faith at Michigan Rally\n\nPresident Donald Trump used a campaign rally to intensify his attacks on Senate candidate Abdul El-Sayed, his Muslim faith and his Egyptian heritage, repeatedly portraying the Michigan-born Democrat as sympathetic to Islamic extremism without offering any evidence for his allegations.",
+      "title": "Трамп критикує Ель-Саєда на мітингу в Мічигані",
+      "summary": "Дональд Трамп використав передвиборчий мітинг для атак на кандидата в сенатори Абдула Ель-Саєда. Він згадував його мусульманську віру та єгипетське походження, звинувачуючи демократа в симпатіях до ісламського екстремізму без надання доказів.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "вибори",
+        "Трамп",
+        "Ель-Саєд"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cw5yn3xlprpmo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-25T22:54:57+00:00",
+      "raw_text": "Serbia's veteran ruler Vučić concedes election to student-led protest movement\n\nThe populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "title": "Президент Сербії Вучич визнав поразку на виборах",
+      "summary": "Довгостроковий лідер Сербії Александар Вучич заявив, що його партія програла вибори, які стали фактично референдумом щодо майбутнього країни. Перемогу здобув студентсько-протестний рух.",
       "category": "Світ",
       "tags": [
         "Сербія",
         "вибори",
-        "Вучич"
+        "Александар Вучич"
       ],
-      "importance": 3,
+      "importance": 4,
       "media_list": [
         {
           "type": "image",
-          "url": "https://cdn4.telesco.pe/file/VsFKMjKOm0ttZvCMPZzA2YDdZp7Jn8vjbUChKyzHBxDS8dK1ExK2GseFz1qoa6LQ81LCTwTWp2NQglwyHRImphvLtC-ocD_DvuGjTgv3S0GpBYQl6ydkXE93aU_wcGEZ51e3dAVRcPdBB8Fh1W1GLTsXARLpyqDl_Y05_Hy5R7C8_3feLMnhJYhdMyCI3K8ANGKCYr7mZOAtrLRUuMe1ZVQCrHqJNSItDeccxv7h_zIiAeuHDFchbh09aCuTGiQlJWFHfKzqbSeKcELCRfYNy4HSE1kYsbCj9ZbZpB3v7Jb5yNy5sBHbLs-WXwccy_w98clx4V0siylypwgWEUOdZw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Zktl0aYJ09D9zd5ilyozmBHY0Q9QCOO3U-Dz_Q3p5q6_r7ILseO2bUCwpE_5SjXiYZeXTdCvtGkUrVsNVn7BoAvoOfaPYQYz0Wt1PrDEG6vLeVTGFmQFDWpPx6os8vr-nK2CMrp0t-w8MXKAQayAQrjbiPzs_folQfPDSVb-rfA-PGR27ajuQEG0HoBmBBr7PTuXOnQoE9bY6UNn320mUy-ujOuyWwhUVhuOPUfpO5a0WSUuSDmkSfvD6TWXb2ZR651OnaeOfX7Fg1MMTv_6ZJG8I_DiBYIPClK8OpxgyK2rZElUZDK5-f2wPz6Yb4n8rnvWopHrMs0npFv6eGJgCw.jpg"
         }
       ],
       "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90085",
+          "raw_text": "🗳\n Колишній президент Сербії Александар Вучич \nвизнав\n поразку на дострокових парламентських виборах. \n\n\n\n\n«Ми ще не маємо остаточних результатів, але на основі вибірки зрозуміло, що ми програли ці вибори. Переміг “Студентський список”, вони матимуть від 135 до 140 місць, а ми — 105»,\n — сказав Вучич   \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-25T21:11:27+00:00"
+        },
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23555",
+          "raw_text": "Сенсація з Сербії!\n\n\n \n\n\nКолишній президент Сербії та лідер виборчого списку «Єдиної Сербії» Александар Вучич заявив про виграш вибрів опозиційним блоком «Студентський список».\n\n\n \n\n\nЗа його словами, опозиційний \n«Студентський список» матиме від 135 до 140 місць\n у новому парламенті. Зважаючи, що Народна Скупщина Сербії містить 250 депутатських місць, це означає, що опозиційний блок матиме більшість.\n\n\n \n\n\nДеталі – у новині:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/25/7248546",
+          "published_at": "2026-10-25T21:05:11+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/147144",
+          "raw_text": "👀\nВучич визнав поразку на парламентських виборах у Сербії, заявивши, що переміг підтримуваний студентами «Студентський список».\n\n\n\n\nЯк це вплине на Україну - поглянемо в майбутньому.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-10-25T20:42:58+00:00"
+        },
         {
           "source_name": "@EurointegrationComUa",
           "source_url": "https://t.me/EurointegrationComUA/23552",
           "raw_text": "У Сербії на виборах проголосувала понад половина виборців\n\n\n\n\nСтаном на 16:00 у Сербії на парламентських виборах проголосували понад 50%; водночас спостерігачі зафіксували численні порушення, зокрема тиск на виборців та інциденти на дільницях.\n\n\n\n\nБільше у новині\n: \nhttps://www.eurointegration.com.ua/news/2026/10/25/7248542/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
           "published_at": "2026-10-25T17:12:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_28247",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28247",
+      "published_at": "2026-10-25T22:51:34+00:00",
+      "raw_text": "Money is not just a cause of campaigns’ success but also a measure of it. The more candidates raise from individuals in their states, the likelier they are to have large numbers of enthusiastic supporters \nhttps://t.co/MdoU8chBFl\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
+      "title": "Зв'язок між фінансуванням кампаній та підтримкою виборців",
+      "summary": "Видання The Economist аналізує фінансування політичних кампаній. Збільшення зборів коштів від громадян свідчить про високий рівень підтримки кандидатами.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "вибори",
+        "фінанси"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28246",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28246",
+      "published_at": "2026-10-25T22:41:39+00:00",
+      "raw_text": "In every congressional election since 1998, polls have overestimated Democratic support in red states and underestimated it in blue states—and vice versa for Republicans. Our charts explain the trend \nhttps://t.co/o8H9N4jR1N\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
+      "title": "Помилки опитувань на виборах у США",
+      "summary": "Аналіз показує, що з 1998 року передвиборчі опитування систематично переоцінюють підтримку демократів у республіканських штатах і навпаки. Нові дані демонструють цю стійку тенденцію.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "вибори",
+        "соціологія"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28245",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28245",
+      "published_at": "2026-10-25T22:41:38+00:00",
+      "raw_text": "Donald Trump has succeeded partly by relying on radical scepticism of facts proclaimed not just by other politicians but by the news media, the pollsters, the courts and the scientists \nhttps://t.co/XxBOdjIyWN\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
+      "title": "Стратегія Дональда Трампа та скептицизм до фактів",
+      "summary": "Успіх Дональда Трампа частково базується на радикальному скептицизмі щодо фактів. Це стосується інформації від політиків, медіа, соціологів, судів та науковців.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "політика",
+        "вибори"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/0e62ee545e.mp4?token=bFTZS1FfeStlI-S0I1ja-_XXTRujA1Z2XW7sMQdoE5DYZTX7SGBRP9VwUJHJahXWmyzNrrqVndggrihlK7rXM1ELoMbSOwXxrCclq0bvQdfbIhF7unFfaIfbU3tkOCofv-rXNEstsvpabk5Sq1kBodIMdveJUkI_66Jy6CouhtwTbd2Due70WQkbSkHhP-w6O-oOK0m163LxtfmITID96S7MxHErByyktDnFPh5QZxIJ-HfF3OrjKE5mdMnkLpyv9LBqupXPrRiCajThbvKOhbMTqiEng7k7T4FORRljZNgbULhs3--eigxIdaklEAxAeO1Ir-wsgPlP4QF0QSX0RQ"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/147145",
+          "raw_text": "Я подивився йому в дупу, і я ніколи раніше не робив цього з чоловіком,\n – Трамп уже втретє згадує, як розглядав американського сенатора.\n\n\n\n\n«Я раніше бачив надзвичайно красиві сідниці, так, Нікі Мінаж, чи не так? Це важко не помітити!».\n\n\n\n\n😬\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-10-25T21:13:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss__news_articles_c3n04yxn2yqro_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-25T22:37:36+00:00",
+      "raw_text": "Funding set to double for plan to get rough sleepers off streets by Christmas\n\nBurnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+      "title": "У Великій Британії подвоять фінансування для допомоги бездомним",
+      "summary": "Уряд Великої Британії виділяє вдвічі більше коштів на ініціативу з прибирання бездомних з вулиць до Різдва. Це виконання першої обіцянки прем'єр-міністра, зробленої в липні.",
+      "category": "Світ",
+      "tags": [
+        "Велика Британія",
+        "суспільство",
+        "фінансування"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+          "raw_text": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power\n\nAn amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+          "published_at": "2026-10-25T20:32:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TLQY2VT9NJLS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/what-to-expect-from-china-s-fifth-plenum-xi-s-purges-and-tighter-party-control",
+      "published_at": "2026-10-25T22:32:34+00:00",
+      "raw_text": "What to Expect From China’s Fifth Plenum: Xi’s Purges and Tighter Party Control\n\nChina’s ruling Communist Party is holding its most important meeting of the year between Oct. 26 and 29. Known as the fifth plenum, the closed-door gathering of hundreds of top officials is expected to focus on strengthening the party’s ideology and governance, including its anti-corruption campaign, rather than the economic policies that would typically dominate a fifth plenum.",
+      "title": "П'ятий пленум Компартії Китаю: зміцнення контролю та чистки Сі",
+      "summary": "У Китаї проходить закритий п'ятий пленум Компартії за участю вищих посадових осіб. Зустріч зосереджена на посиленні партійної ідеології та антикорупційній кампанії замість економічної політики.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "політика",
+        "Компартія Китаю"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28244",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28244",
+      "published_at": "2026-10-25T22:26:23+00:00",
+      "raw_text": "Money works within a complex, hierarchical apparatus. Perry Mehrling helped economists understand the importance of “par”, a feature of money which normally attracts little attention \nhttps://t.co/Gv3a8xdo0J\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
+      "title": "Дослідження концепції грошей Перрі Мерлінга",
+      "summary": "Економіст Перрі Мерлінг допоміг фахівцям краще зрозуміти ієрархічну структуру грошової системи. Зокрема, він дослідив поняття «паритету», якому зазвичай приділяють мало уваги.",
+      "category": "Світ",
+      "tags": [
+        "економіка",
+        "фінанси",
+        "наука"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28243",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28243",
+      "published_at": "2026-10-25T22:01:31+00:00",
+      "raw_text": "How is it that America can undertake an enormous, energy-intensive construction boom on a scale never before seen, unbothered by war in the Middle East? Thank the 2010s \nhttps://t.co/5PeaUDS0si\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
+      "title": "Будівельний бум в США та енергетика",
+      "summary": "Економіка США демонструє масштабний будівельний бум завдяки подіям та трендам минулого десятиліття. Ситуація розвивається попри зовнішні виклики та конфлікти.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "економіка",
+        "будівництво"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_90086",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/90086",
+      "published_at": "2026-10-25T21:51:55+00:00",
+      "raw_text": "🇫🇷\n \nМарін Ле Пен\n розпочала\n кампанію перед президентськими виборами 2027 року. Вона пообіцяла посилити боротьбу зі злочинністю, обмежити імміграцію та зменшити вплив ЄС на Францію.  \n\n\n\n\nЗа результатами опитування, оприлюдненого 25 жовтня, Ле Пен підтримують від 32% до 33,5% виборців. Її найближчий конкурент — лідер ультралівої партії Жан-Люк Меланшон, який набирає 17%. За даними опитування, у разі виходу обох політиків до другого туру Ле Пен має значну перевагу.\n\n\n\n\nВодночас участь Ле Пен у виборах може ускладнити її судимість у справі про привласнення коштів Європарламенту. Політикиня оскаржує вирок\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Марін Ле Пен розпочала кампанію на виборах 2027 року у Франції",
+      "summary": "Французька політикиня Марін Ле Пен офіційно розпочала передвиборчу кампанію з обіцянками посилити боротьбу зі злочинністю та обмежити вплив ЄС. Згідно з опитуваннями, вона наразі лідерує у рейтингах, проте її участь може ускладнити судовий вирок.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "вибори",
+        "Марін Ле Пен"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/Ab6RBgzlHb-SEbp7WPzDL5NkFiQ8UamLHPpZDq7NXhpuP3QaaWTA_sXLbwnUQqKfByfKpa5rBHlMOuN29DT-DjGmlb40FxgdVsx7jBDk36K-lV6uLYzLkRIKSM5tWy7IO3InkjyA7Okl0gSBwC1cllB1F198UYb0-9j--r35-OFBMVVAAnAWuDlCzJCibVI7XKY4TW3fqVdczBp37r3owpkfCapOPum-_SMC5LuREqR28QjE0pTLkQ8WXA4AxtIZRWv_azUkKuFjE7kKie5opYX5UdwcH17OD3cTX1tZK17A1Xu9rU55ZA-u30lzNYtAamc6k56QczJSY3x858VDEA.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78205",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78205",
+      "published_at": "2026-10-25T21:45:15+00:00",
+      "raw_text": "🔹\n У \nХаркові\n внаслідок дронового удару РФ по Новобаварському району постраждав 14-річний хлопець. \n\n\n\n\n🔹\n У \nХерсоні\n через російську атаку на Дніпровський район травмувалася 64-річна жінка.\n\n\n\n\n🔹\n На \nСумщині\n війська РФ вдарили по приватному будинку в Ямполі. Поранення дістала 61-річна місцева жителька.\n\n\n\n\n🔹\n На \nДонеччині\n російська армія обстріляла Миколаївську громаду. Внаслідок атаки поранений чоловік, пошкоджений будинок.\n\n\n\n\n🔹\n На \nЧернігівщині\n від удару безпілотником виникла пожежа у зерносховищі в Мамекиному. Постраждала 54-річна жінка, пошкоджень зазнало авто.\n\n\n\n\n🔹\n На \nДніпропетровщині\n через обстріл Миколаївської громади травмувався чоловік.",
+      "title": "Наслідки обстрілів України військами РФ",
+      "summary": "Унаслідок ворожих ударів дронами та артилерією поранень зазнали мирні жителі у Харкові, Херсоні, Сумській, Донецькій, Чернігівській та Дніпропетровській областях. Також зафіксовані пошкодження інфраструктури та житлових будинків.",
+      "category": "Війна",
+      "tags": [
+        "обстріли",
+        "постраждалі",
+        "РФ"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/bGhOXuu1O7TQ1EzpP2lNiE0b1EzIy43N7hI-LnMTMCZ_qFZG3Qap1rU639-De4sIms4DBuG4EG9JJN9tqX6tmY0uyX5ZoLk7BVpMKkZGoBCrSzA1H2h9Lcp05SgLYFD7Cx8JaBq0jxEQtxd8Lx1sQRk_ee8_RXhUSksUfsZOAdK1VWx2i-d_qy0WEN_gFLZsp1Z_AiFwXc2GFJgtz5iVeK74f4gokc2B9AWsZLt4yTh6bS-IOlYKsAeeMJB37ficUSOoAZmhOkXRo6a5VGnKzCpdxy0dSRDZ-XrFlWcY7k0NLrFKw1fAJyu-XLQfgi59bRlI7HAibadJXBpj4knmhg.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90084",
+          "raw_text": "За добу під ударом \nопинилися \nчотири «Епіцентри», росіяни намагатимуться вивозити людей з Олешок у бік рф — \n#важливезадень\n\n\n\n\n🔸\n За добу росіяни\n атакували\n будівлі «Епіцентру» у Полтаві, Харкові, Запоріжжі та Вінниці. У мережі магазинів такі дії росіян назвали «тотальним знищенням мережі» \n\n\n\n\n🔸\n Зеленський \nприпускає\n, що під час гуманітарної місії в окупованих Олешках російські війська спробують спрямувати потік евакуйованих жителів на територію росії \n\n\n\n\n🔸\n Під \nатакою\n промислова зона міста Єлець у Липецькій області росії. Ймовірно, ракети атакували завод «Енергія»  \n\n\n\n\n🔸\n Нацгвардійці дронами \nдоставили\n в тимчасово окуповані Олешки пакунки з дитячим харчуванням та іграшками\n\n\n\n\n🔸\n Майже 70% виборців у США\n стурбовані\n корупцією в адміністрації Трампа — опитування FT  \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-10-25T20:09:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TNH5Q4RKV2TD00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/uae-s-nusseibeh-pledges-dialogue-with-iran-if-elected-un-chief",
+      "published_at": "2026-10-25T21:31:07+00:00",
+      "raw_text": "UAE’s Nusseibeh Vows Independence, Dialogue If Elected UN Chief\n\nUnited Arab Emirates Minister of State Lana Nusseibeh, who is vying to become secretary general of the United Nations, pledged to be fully independent and continue dialogue if elected to the top position at the organization.",
+      "title": "Лана Нуссейба обіцяє незалежність у разі обрання генсеком ООН",
+      "summary": "Кандидатка на пост генерального секретаря ООН та міністерка держслужби ОАЕ Лана Нуссейба пообіцяла бути повністю незалежною. Вона також заявила про намір продовжувати діалог у разі перемоги на виборах.",
+      "category": "Світ",
+      "tags": [
+        "ООН",
+        "ОАЕ",
+        "Лана Нуссейба",
+        "вибори"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNHCZ8T96OSN00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+      "published_at": "2026-10-25T21:22:39+00:00",
+      "raw_text": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips\n\nElon Musk said SpaceX has closed a $40 billion debt deal to pay for the chips it needs to fuel its artificial intelligence ambitions.",
+      "title": "SpaceX залучила $40 млрд боргового фінансування на купівлю чипів для ШІ",
+      "summary": "Ілон Маск заявив, що компанія SpaceX уклала угоду про боргове фінансування на 40 мільярдів доларів. Отримані кошти підуть на придбання чипів для розвитку проєктів у сфері штучного інтелекту.",
+      "category": "Технології",
+      "tags": [
+        "SpaceX",
+        "Ілон Маск",
+        "ШІ",
+        "фінанси"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78204",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78204",
+      "published_at": "2026-10-25T20:50:10+00:00",
+      "raw_text": "🇷🇸\n У Сербії відбуваються дострокові парламентські вибори. Їх у вересні призначив вже колишній президент Александар Вучич на тлі майже двох років масових демонстрацій, очолюваних студентами, повідомляє Reuters.  Зазначається, що поблизу виборчих дільниць по…",
+      "title": "Дострокові парламентські вибори у Сербії",
+      "summary": "У Сербії проходять дострокові парламентські вибори, призначені експрезидентом Александаром Вучичем. Голосування відбувається на тлі масових студентських демонстрацій.",
+      "category": "Світ",
+      "tags": [
+        "Сербія",
+        "вибори",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/StJtjl4_1E33AhKs14TJrfNuLoJYsytAAJKdmUksPao5Da7cV7WK-RrramiBVSObpXzEavM4Qy4So_KywDi5DI4tqhfzmi6zZybGm4hYWHdrIVyALU1D0uUoYHb8bVp8ev1-cykqmPX3rdDD45gctCGvLKOcyu12zVpr5n8HsS8z2zgLdn6X16rZfoYfdtBqc6f-FYVi9TpXWeh1n7Z9oVGO0XyGNK8hSpyyV9BHl-fdrdyQNwd4ltr3CunNGq0nI5lMXVvqVHn9txG5WMgKWdOWEN4jKTvTPFAhXpUSsK_jlXwtQBBgOusDxTsSmNfQUjip2IDWUL2aB-5ybbY7lg.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78194",
+          "raw_text": "🇷🇸\n У Сербії відбуваються дострокові парламентські вибори. Їх у вересні призначив вже колишній президент Александар Вучич на тлі майже двох років масових демонстрацій, очолюваних студентами, повідомляє Reuters.  Зазначається, що поблизу виборчих дільниць по…",
+          "published_at": "2026-10-25T15:57:40+00:00"
         }
       ]
     },
@@ -83,32 +422,6 @@
           "source_url": "https://www.bloomberg.com/news/audio/2026-10-25/trump-decision-nearing-on-iran-machado-returns-to-venezuela",
           "raw_text": "Trump: Decision Nearing on Iran, Machado Returns to Venezuela\n\nSource: Bloomberg, 0:00",
           "published_at": "2026-10-25T20:00:37+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss__news_articles_cxdd8gr1vje0o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T20:32:27+00:00",
-      "raw_text": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power\n\nAn amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
-      "title": "Шторм Боело у Великій Британії: загиблий та знеструмлення",
-      "summary": "Чоловік загинув через падіння дерева внаслідок потужного шторму у Великій Британії. Близько 160 тисяч домогосподарств залишилися без електроенергії через негоду.",
-      "category": "Світ",
-      "tags": [
-        "Велика Британія",
-        "шторм",
-        "погода",
-        "негода"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/28224",
-          "raw_text": "A hard look at Britain’s data suggests so. But it is hardly an epidemic \nhttps://t.co/MWK4PehZrW\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
-          "published_at": "2026-10-25T17:31:13+00:00"
         }
       ]
     },
@@ -200,30 +513,6 @@
       ],
       "importance": 5,
       "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_90084",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90084",
-      "published_at": "2026-10-25T20:09:22+00:00",
-      "raw_text": "За добу під ударом \nопинилися \nчотири «Епіцентри», росіяни намагатимуться вивозити людей з Олешок у бік рф — \n#важливезадень\n\n\n\n\n🔸\n За добу росіяни\n атакували\n будівлі «Епіцентру» у Полтаві, Харкові, Запоріжжі та Вінниці. У мережі магазинів такі дії росіян назвали «тотальним знищенням мережі» \n\n\n\n\n🔸\n Зеленський \nприпускає\n, що під час гуманітарної місії в окупованих Олешках російські війська спробують спрямувати потік евакуйованих жителів на територію росії \n\n\n\n\n🔸\n Під \nатакою\n промислова зона міста Єлець у Липецькій області росії. Ймовірно, ракети атакували завод «Енергія»  \n\n\n\n\n🔸\n Нацгвардійці дронами \nдоставили\n в тимчасово окуповані Олешки пакунки з дитячим харчуванням та іграшками\n\n\n\n\n🔸\n Майже 70% виборців у США\n стурбовані\n корупцією в адміністрації Трампа — опитування FT  \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Наслідки обстрілів мережі «Епіцентр» та ситуація в Олешках",
-      "summary": "За добу російські війська атакували чотири торгові центри «Епіцентр» у різних містах України. Також повідомляється про можливі плани РФ примусово вивозити мешканців Олешок на свою територію під час евакуації.",
-      "category": "Війна",
-      "tags": [
-        "Епіцентр",
-        "Олешки",
-        "обстріли",
-        "евакуація"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/bGhOXuu1O7TQ1EzpP2lNiE0b1EzIy43N7hI-LnMTMCZ_qFZG3Qap1rU639-De4sIms4DBuG4EG9JJN9tqX6tmY0uyX5ZoLk7BVpMKkZGoBCrSzA1H2h9Lcp05SgLYFD7Cx8JaBq0jxEQtxd8Lx1sQRk_ee8_RXhUSksUfsZOAdK1VWx2i-d_qy0WEN_gFLZsp1Z_AiFwXc2GFJgtz5iVeK74f4gokc2B9AWsZLt4yTh6bS-IOlYKsAeeMJB37ficUSOoAZmhOkXRo6a5VGnKzCpdxy0dSRDZ-XrFlWcY7k0NLrFKw1fAJyu-XLQfgi59bRlI7HAibadJXBpj4knmhg.jpg"
-        }
-      ],
       "related_sources": []
     },
     {
@@ -1186,6 +1475,23 @@
       "related_sources": []
     },
     {
+      "id": "holosameryky_22385",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22385",
+      "published_at": "2026-10-25T16:02:59+00:00",
+      "raw_text": "На минулих проміжних виборах у Сполучених Штатах, що відбулися у 2022 році, \n112 мільйонів виборців взяли участь у голосуванні.\n\n\n\n\nВиборча система США передбачає, що процес голосування контролюють посадові особи штатів і місцевих органів влади, а виборці приходять на місцеві виборчі дільниці, \nякими керують 8 000 органів місцевого самоврядування\n, згідно з даними Комісії США з питань сприяння виборам (EAC).\n\n\n\n\n📌\n \nЧитайте тут\n \n➡️\n \nhttps://www.holosameryky.com/a/8213370.html\n\n\n\n\n#VOAMidterms2026\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Особливості організації виборчого процесу в США",
+      "summary": "На проміжних виборах у США у 2022 році взяли участь 112 мільйонів виборців. Процес голосування контролюється на рівні штатів і місцевих органів влади.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "вибори"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "rss_TNH0E6O32FWG00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/audio/2026-10-25/us-weighs-iran-escalation-crenshaw-presses-musk-on-starlink",
@@ -1203,35 +1509,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78194",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78194",
-      "published_at": "2026-10-25T15:57:40+00:00",
-      "raw_text": "🇷🇸\n У Сербії відбуваються дострокові парламентські вибори. Їх у вересні призначив вже колишній президент Александар Вучич на тлі майже двох років масових демонстрацій, очолюваних студентами, повідомляє Reuters.  Зазначається, що поблизу виборчих дільниць по…",
-      "title": "Дострокові парламентські вибори у Сербії",
-      "summary": "У Сербії проходять дострокові парламентські вибори, призначені колишнім президентом на тлі масових протестів. Біля виборчих дільниць спостерігається підвищена активність.",
-      "category": "Світ",
-      "tags": [
-        "Сербія",
-        "вибори"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/StJtjl4_1E33AhKs14TJrfNuLoJYsytAAJKdmUksPao5Da7cV7WK-RrramiBVSObpXzEavM4Qy4So_KywDi5DI4tqhfzmi6zZybGm4hYWHdrIVyALU1D0uUoYHb8bVp8ev1-cykqmPX3rdDD45gctCGvLKOcyu12zVpr5n8HsS8z2zgLdn6X16rZfoYfdtBqc6f-FYVi9TpXWeh1n7Z9oVGO0XyGNK8hSpyyV9BHl-fdrdyQNwd4ltr3CunNGq0nI5lMXVvqVHn9txG5WMgKWdOWEN4jKTvTPFAhXpUSsK_jlXwtQBBgOusDxTsSmNfQUjip2IDWUL2aB-5ybbY7lg.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23546",
-          "raw_text": "На виборах у Сербії зафіксували різке зростання явки порівняно з 2023 роком\n\n\n\n\nСтаном на 12:00 25 жовтня на дострокових парламентських виборах у Сербії, які розглядаються як протистояння між колишнім президентом Александаром Вучичем та студентським рухом, проголосувало понад 34% виборців.\n\n\n\n\nБільше у новині\n: \nhttps://www.eurointegration.com.ua/news/2026/10/25/7248529/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-10-25T13:19:29+00:00"
-        }
-      ]
     },
     {
       "id": "truexanewsua_147128",
@@ -20277,339 +20554,6 @@
         "економіка"
       ],
       "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27599",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27599",
-      "published_at": "2026-10-18T23:06:25+00:00",
-      "raw_text": "Are closet liberals climbing the Communist Party’s ranks? When current leaders retire, rising stars from the seventh generation (born in the 1960s and the 1970s) could take top jobs in the party \nhttps://t.co/NzFt4BmuJF\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Зміни у керівництві Компартії Китаю",
-      "summary": "Експерти аналізують перспективи приходу до влади нового покоління політиків, народжених у 1960-1970 роках. Вони можуть зайняти ключові посади після відставки чинного керівництва.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "політика",
-        "The Economist"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cxj0ly1m3q81o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-18T23:06:09+00:00",
-      "raw_text": "Major fire at Canada military base leaves four dead, dozens injured\n\nPrime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-      "title": "Масштабна пожежа на військовій базі в Канаді: є загиблі",
-      "summary": "На військовій базі в Канаді сталася масштабна пожежа, внаслідок якої загинуло чотири особи, десятки отримали поранення. Прем'єр-міністр повідомив, що рятувальники боролися з вогнем усю ніч у надзвичайно складних умовах.",
-      "category": "Світ",
-      "tags": [
-        "Канада",
-        "пожежа",
-        "надзвичайна ситуація"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-          "raw_text": "What we know so far about deadly fire at Canadian military base\n\nAt least four people are confirmed to have died after a huge fire swept through the base.",
-          "published_at": "2026-10-18T17:48:53+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TN4GLQKJH6VC00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion",
-      "published_at": "2026-10-18T22:47:16+00:00",
-      "raw_text": "Cleanaway Shares Jump 21% After $6.5 Billion EQT Takeover Deal\n\nShares of Australia’s Cleanaway Waste Management Ltd. saw their biggest jump in 15 years after a unit of EQT AB agreed to buy the firm for about A$9.3 billion ($6.5 billion) including debt, making it the latest local company to enter private hands after a period of share underperformance.",
-      "title": "Акції Cleanaway зросли на 21% через угоду з поглинанням від EQT",
-      "summary": "Акції австралійської компанії Cleanaway Waste Management показали рекордне зростання за останні 15 років. Це сталося після того, як структура EQT AB погодилася викупити підприємство приблизно за $6.5 мільярдів.",
-      "category": "Бізнес",
-      "tags": [
-        "EQT",
-        "Cleanaway",
-        "акції",
-        "угода"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
-          "raw_text": "US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap\n\nUS equity-index futures rebounded from last week’s chip rout ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil slipped.",
-          "published_at": "2026-10-18T22:07:25+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_27598",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27598",
-      "published_at": "2026-10-18T22:46:40+00:00",
-      "raw_text": "SpaceX’s telecoms play is best viewed not as a grab for a share of the current market, but as a wager on the future. Yet the expansion of Starlink adds only more to the company’s plate \nhttps://t.co/AKn6tKqgEn\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Оцінка стратегії SpaceX від The Economist",
-      "summary": "Видання The Economist опублікувало матеріали про те, що розширення телекомунікаційного напрямку SpaceX та Starlink є ставкою на майбутнє. Водночас це створює додаткове навантаження на компанію.",
-      "category": "Технології",
-      "tags": [
-        "SpaceX",
-        "Starlink",
-        "The Economist",
-        "технології"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_102829",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/102829",
-      "published_at": "2026-10-18T22:13:37+00:00",
-      "raw_text": "БпЛА у напрямку Кременчука\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-      "title": "Рух БпЛА у напрямку Кременчука",
-      "summary": "У повітряному просторі зафіксовано рух безпілотних літальних апаратів у напрямку Кременчука. Жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "БпЛА",
-        "Кременчук",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59166",
-          "raw_text": "БпЛА в напрямку Кременчука",
-          "published_at": "2026-10-18T22:10:28+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TMZ9SRKK3NY800",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
-      "published_at": "2026-10-18T22:02:51+00:00",
-      "raw_text": "Latest Oil Market News and Analysis for Oct. 19\n\nOil retreated from a five-month high, as traders weighed flareups in fighting in the Middle East against signs supply from the region is holding at near pre-war levels.",
-      "title": "Ціни на нафту знизилися через ситуацію на Близькому Сході",
-      "summary": "Нафта відступила від п'ятимісячного максимуму на тлі оцінки трейдерами бойових дій на Близькому Сході. Водночас зберігаються ознаки стабільного постачання з регіону.",
-      "category": "Економіка",
-      "tags": [
-        "нафта",
-        "ринок",
-        "близький схід"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27594",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27594",
-      "published_at": "2026-10-18T21:46:35+00:00",
-      "raw_text": "“I have cancelled his other meetings that day and booked him on a flight to Kathmandu.” Our management columnist imagines what happens if workplace agents were to take matters into their own hands \nhttps://t.co/E8DRmD63XG\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Колонка про менеджмент та робочі агенти",
-      "summary": "Колумнерист видання фантазує про ситуацію, коли робочі агенти беруть ініціативу у свої руки та самостійно скасовують чи бронюють зустрічі. Це сатиричний погляд на сучасне управління.",
-      "category": "Технології",
-      "tags": [
-        "менеджмент",
-        "кар'єра",
-        "гумор"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27592",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27592",
-      "published_at": "2026-10-18T21:31:49+00:00",
-      "raw_text": "Who will be left to pick up the bill in the event of a crash? \nhttps://t.co/XNIltq11ud\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Питання відповідальності у разі аварій",
-      "summary": "Аналітичний матеріал присвячений тому, хто нестиме фінансову та юридичну відповідальність у разі дорожньо-транспортних пригод. Стаття розглядає поточні виклики у цій сфері.",
-      "category": "Світ",
-      "tags": [
-        "безпека",
-        "транспорт",
-        "страхування"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_27591",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27591",
-      "published_at": "2026-10-18T21:26:12+00:00",
-      "raw_text": "Some political prisoners in Venezuela have a specific jailer: a person with a grudge who needs to be convinced to release them. And almost half of those remaining have a military past \nhttps://t.co/EwQzuOV3wy\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Ситуація з політичними в'язнями у Венесуелі",
-      "summary": "Частина політичних в'язнів у Венесуелі стикається з упередженими наглядачами, яких потрібно переконати у необхідності звільнення. Майже половина з тих, хто залишається ув'язненими, має військове минуле.",
-      "category": "Світ",
-      "tags": [
-        "Венесуела",
-        "політика",
-        "в'язні"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TN4EU0KJH6V500",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/trump-says-diesel-deal-aimed-to-keep-talks-with-russia-going",
-      "published_at": "2026-10-18T21:24:30+00:00",
-      "raw_text": "Trump Says Diesel Deal Aimed to Keep Talks With Russia Going\n\nPresident Donald Trump said he cut a diesel export deal with Russia and delayed imposing further sanctions because he doesn’t want to drive Vladimir Putin away from peace talks with Ukraine.",
-      "title": "Трамп пояснив угоду щодо дизелю з Росією",
-      "summary": "Дональд Трамп заявив, що уклав угоду про експорт дизелю з РФ та відклав нові санкції задля збереження переговорів про мир з Україною. За його словами, він намагається не відштовхнути Володимира Путіна від діалогу.",
-      "category": "Політика",
-      "tags": [
-        "Трамп",
-        "Росія",
-        "санкції",
-        "Україна"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146623",
-          "raw_text": "🤡\nЗеленський не хоче закінчувати війну й, імовірно, ніколи цього не хотів, — Трамп.  Моє рішення щодо росії дуже просте. Я веду переговори про мир у війні між росією та Україною й не хочу робити нічого, що безглуздо відштовхне росію від переговорного столу.…",
-          "published_at": "2026-10-18T20:49:34+00:00"
-        }
-      ]
-    },
-    {
-      "id": "hromadske_ua_89683",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/89683",
-      "published_at": "2026-10-18T21:15:38+00:00",
-      "raw_text": "❗️\nУ Деснянському районі Києва влучання в будівлю медичного центру. У Дніпровському — в нежитлову будівлю, повідомив Кличко  \n🧡\n підписатися | підтримати",
-      "title": "Влучання у Деснянському та Дніпровському районах Києва",
-      "summary": "У Деснянському районі Києва зафіксовано влучання у будівлю медичного центру. У Дніпровському районі пошкоджено нежитлову будівлю.",
-      "category": "Війна",
-      "tags": [
-        "Київ",
-        "обстріл",
-        "Кличко"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/c858848a4e.mp4?token=C1Mt6qWm5h8F22RNI9LdIrgkCxzbxrpQzHOBp0KO4c0HK1fvLwdC0GiUTjV2bVR7v3sANzzeLjiNV1TF-ZsjFPtoySorim_PhM3DG2RTyXWgx1kqwBTvk310QstMNIAHpxd4eQmecMk25youK9vWSoDRhSK8GlSKPTmaR9EbwFsLORsEiK3NZLeVjxpYYZWDomtCTfWpF5LyJ8AoVW5oBZlf1DJUtG40w5vhQ0JtKInRwMtKhf6u09L10TcIlwn7WWLC5pjr2DrqE_-Qq4g14_jqlqEvpc4Do98DakD_lNg5TSkOrNCFA-59OuXHI52TICvvKxw9Z9qcpJyue4sc8A"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/146624",
-          "raw_text": "❗️\nПриліт балістики біля школи у Дніпровському районі \nКиєва\n.\n\n\n\n\nЧерез атаку, на жаль, загинула людина, а ще двоє – з травмами. \n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-          "published_at": "2026-10-18T21:06:38+00:00"
-        },
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/89681",
-          "raw_text": "❗️\nУ Деснянському районі Києва влучання в будівлю медичного центру. У Дніпровському — в нежитлову будівлю, повідомив Кличко\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-10-18T20:25:53+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/77748",
-          "raw_text": "У Деснянському районі Києва, попередньо, було влучання в будівлю медичного центру. У Дніпровському — в нежитлову будівлю, \nповідомив\n міський голова Кличко.",
-          "published_at": "2026-10-18T20:25:14+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TN4FSHT96OSG00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger",
-      "published_at": "2026-10-18T21:14:58+00:00",
-      "raw_text": "Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger\n\nDaiichi Life Group Inc. offered to buy the remainder of Challenger Ltd. that it doesn’t already own, in a takeover bid that valued the Australian firm at around A$7.9 billion ($5.5 billion).",
-      "title": "Daiichi Life виставила пропозицію про купівлю Challenger за $4.4 мільярда",
-      "summary": "Японська Daiichi Life Group Inc. запропонувала викупити решту акцій австралійської компанії Challenger Ltd. Вся угода оцінюється приблизно у $5.5 мільярда.",
-      "category": "Економіка",
-      "tags": [
-        "бізнес",
-        "купівля",
-        "фінанси"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TN0DDTKK3NY900",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation",
-      "published_at": "2026-10-18T21:13:44+00:00",
-      "raw_text": "AI Cloud Firm Nscale Faces Investor Pushback Over IPO Valuation\n\nNscale Ltd. is facing opposition to the valuation target it’s pursuing in its initial public offering, according to people familiar with the matter, after a series of market setbacks for artificial intelligence companies.",
-      "title": "Штучний інтелект: Nscale зіткнулася з критикою через оцінку для IPO",
-      "summary": "Хмарна компанія Nscale Ltd. отримала опозицію щодо цільової оцінки для свого первинного публічного розміщення акцій (IPO). Це сталося на тлі ринкових невдач інших компаній у сфері штучного інтелекту.",
-      "category": "Технології",
-      "tags": [
-        "IPO",
-        "AI",
-        "Nscale",
-        "інвестиції"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/27560",
-          "raw_text": "AI will require scholars to reinvent their disciplines. Scientists will have to learn to love guiding models—and studying, verifying and teaching their results \nhttps://t.co/ymvVusVlh8\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-          "published_at": "2026-10-18T12:46:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_27590",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/27590",
-      "published_at": "2026-10-18T21:06:36+00:00",
-      "raw_text": "Christianity might have become a global religion without Rome, but it would not be the same religion, a new book argues. The argument is striking; some may find it enraging \nhttps://t.co/OcbWlkAolg\n — The Economist (\n@TheEconomist\n) \nOct 18, 2026",
-      "title": "Нова книга про роль Риму у становленні християнства",
-      "summary": "У новій книзі аналізується вплив Риму на формування християнства як глобальної релігії. Автори стверджують, що релігія набула б іншого вигляду без римського впливу.",
-      "category": "Культура",
-      "tags": [
-        "Християнство",
-        "Рим",
-        "книги"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TN0KU7RKV2YZ00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-10-18/for-three-buffetts-a-150-billion-puzzle-over-warren-s-riches",
-      "published_at": "2026-10-18T21:00:50+00:00",
-      "raw_text": "For Three Buffetts, a $150 Billion Puzzle Over Warren’s Riches\n\nWarren Buffett is worth an estimated $150 billion. He's also promised to divest himself of his vast wealth before he dies. Except it's hard when the pot keeps growing. So his three children are stepping in to spread it around. Alexandre Rajbhandari explains (Source: Bloomberg)",
-      "title": "Діти Воррена Баффета вирішують дилему з його статками у $150 мільярдів",
-      "summary": "Воррен Баффет володіє статками у 150 мільярдів доларів і пообіцяв роздати їх до смерті. Оскільки кошти продовжують зростати, його троє дітей беруться за розподіл цих багатств.",
-      "category": "Світ",
-      "tags": [
-        "Воррен Баффет",
-        "фінанси",
-        "благодійність"
-      ],
-      "importance": 2,
       "media_list": [],
       "related_sources": []
     }
