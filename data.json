@@ -1,25 +1,89 @@
 {
-  "updated_at": "2026-10-31 22:49",
+  "updated_at": "2026-11-01 02:09",
   "digest": [
-    "У Києві та низці областей оголошено повітряну тривогу через загрозу ворожих безпілотників.",
-    "Внаслідок російського авіаудару по центру Краматорська зруйновано будівлю виконкому.",
-    "ФБР звинуватило Північну Корею у хакерській атаці на криптовалютну біржу Binance на суму понад 6 мільярдів доларів.",
-    "Технологічні гіганти Google, Meta та Amazon продовжують масові інвестиції у дата-центри."
+    "У Києві оголошували повітряну тривогу через загрозу БпЛА, наразі небезпека минула.",
+    "Китайські лабораторії досягають прогресу завдяки запозиченню проривів американських конкурентів.",
+    "Поява китайських моделей штучного інтелекту тривожить США, але приносить користь економіці.",
+    "Аналітики закликають відмовитися від практики складання неофіційних рейтингів міст.",
+    "Дослідження фіксують зменшення чоловічої дружби через зміни у способах життя."
   ],
   "articles": [
     {
-      "id": "suspilnenews_78620",
+      "id": "TheEconomistOfficial_28851",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28851",
+      "published_at": "2026-11-01T02:06:25+00:00",
+      "raw_text": "Chinese labs’ impressive progress depends largely on their American rivals pushing out the frontier, experts reckon. Anthropic and OpenAI want to shake them off \nhttps://t.co/JGC9hqXNTPIllustration\n: Michael Haddad \nhttps://t.co/p7FZTsTxOV\n — The Economist (\n@TheEconomist\n) \nNov 1, 2026",
+      "title": "Прогрес китайських лабораторій завдяки американським конкурентам",
+      "summary": "Експерти зазначають, що успіхи китайських лабораторій багато в чому залежать від проривів їхніх американських суперників. Компанії Anthropic і OpenAI прагнуть зміцнити своє лідерство.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "США",
+        "Китай",
+        "OpenAI"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28850",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28850",
+      "published_at": "2026-11-01T01:46:43+00:00",
+      "raw_text": "Municipal pecking orders have long been a useful, if unofficial, way of understanding a country with around 700 cities and close to 3,000 counties. But perhaps it is a good time to phase out city rankings \nhttps://t.co/r81JGkl2CQ\n — The Economist (\n@TheEconomist\n) \nNov 1, 2026",
+      "title": "Доцільність міських рейтингів під питанням",
+      "summary": "Неофіційні рейтинги муніципалітетів тривалий час служили способом розуміння структури країни. Водночас аналітики зазначають, що настав час поступово відмовлятися від практики складання рейтингів міст.",
+      "category": "Суспільство",
+      "tags": [
+        "урбаністика",
+        "міста",
+        "суспільство"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28849",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28849",
+      "published_at": "2026-11-01T01:21:04+00:00",
+      "raw_text": "Chinese AI copycat models have rattled American labs and investors. Their concern is understandable. But the true beneficiary of this imitation is not China: it is the consumers and America \nhttps://t.co/LDqHiXHPBc\n — The Economist (\n@TheEconomist\n) \nNov 1, 2026",
+      "title": "Вплив китайських копій штучного інтелекту",
+      "summary": "Поява китайських моделей штучного інтелекту викликала занепокоєння серед американських розробників та інвесторів. Проте головними бенефіціарами цього процесу стають споживачі та сама економіка США.",
+      "category": "Технології",
+      "tags": [
+        "штучний інтелект",
+        "Китай",
+        "США",
+        "технології"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@theeconomistofficial",
+          "source_url": "https://t.me/TheEconomistOfficial/28809",
+          "raw_text": "Investors were rattled by Google’s acknowledgment that the increasing use of “AI Mode” was producing “lower monetisation” than traditional search. Read why Meta’s share of the worldwide advertising pie has soared instead \nhttps://t.co/vAhOYObDkf\n — The Economist (\n@TheEconomist\n) \nOct 31, 2026",
+          "published_at": "2026-10-31T15:06:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_78623",
       "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78620",
-      "published_at": "2026-10-31T22:39:53+00:00",
+      "source_url": "https://t.me/suspilnenews/78623",
+      "published_at": "2026-11-01T01:20:49+00:00",
       "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
-      "title": "Повітряна тривога в Києві через загрозу дронів",
-      "summary": "У Києві оголошено повітряну тривогу. Зафіксовано загрозу застосування ворожих безпілотників.",
-      "category": "Місто",
+      "title": "Повітряна тривога у Києві",
+      "summary": "У Києві оголошено повітряну тривогу через загрозу ворожих дронів. Мешканців закликають пройти в укриття.",
+      "category": "Безпека",
       "tags": [
         "Київ",
         "тривога",
-        "дрони"
+        "БПЛА"
       ],
       "importance": 5,
       "media_list": [
@@ -31,17 +95,263 @@
       "related_sources": [
         {
           "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78604",
+          "source_url": "https://t.me/suspilnenews/78620",
           "raw_text": "Київ — повітряна тривога через дронову небезпеку.",
-          "published_at": "2026-10-31T17:08:23+00:00"
+          "published_at": "2026-10-31T22:39:53+00:00"
         },
         {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103358",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-31T12:23:05+00:00"
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13872",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-31T16:34:21+00:00"
         }
       ]
+    },
+    {
+      "id": "truexanewsua_147644",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/147644",
+      "published_at": "2026-11-01T01:16:02+00:00",
+      "raw_text": "🟡\n Київ – «жовта» тривога\n \nзнову через БпЛА! \n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+      "title": "У Києві оголошено жовту тривогу через загрозу БпЛА",
+      "summary": "У Києві та області знову оголошено тривогу через загрозу застосування безпілотників. Мешканців закликають слідкувати за оновленнями ситуації.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "БпЛА",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103362",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
+          "published_at": "2026-10-31T16:34:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TNSKQNKJH6V400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/newsom-warns-judges-over-federal-election-warrants-in-california",
+      "published_at": "2026-11-01T01:12:01+00:00",
+      "raw_text": "Newsom Warns Judges Over Federal Election Warrants in California\n\nCalifornia Governor Gavin Newsom sent an urgent letter to the state’s top federal judges about election integrity ahead of the upcoming midterms.",
+      "title": "Ґэвін Ньюсом звернувся до федеральних суддів через вибори в Каліфорнії",
+      "summary": "Губернатор Каліфорнії надіслав термінового листа про забезпечення чесності виборів. Звернення стосується федеральних виборчих ордерів напередодні проміжних виборів.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "вибори",
+        "Каліфорнія"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_28848",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28848",
+      "published_at": "2026-11-01T01:06:10+00:00",
+      "raw_text": "Marrying later, working harder and being better parents have diminished male friendships \nhttps://t.co/fZZnLNlsh8\n — The Economist (\n@TheEconomist\n) \nNov 1, 2026",
+      "title": "Зменшення чоловічої дружби",
+      "summary": "Дослідження показують, що пізні шлюби, інтенсивна робота та зосередженість на батьківстві негативно впливають на чоловічу дружбу. Зміни у способах життя призводять до зменшення кількості близьких соціальних зв'язків серед чоловіків.",
+      "category": "Суспільство",
+      "tags": [
+        "суспільство",
+        "психологія",
+        "дослідження"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78622",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78622",
+      "published_at": "2026-11-01T00:55:23+00:00",
+      "raw_text": "Київ — відбій повітряної тривоги.",
+      "title": "Відбій тривоги у Києві",
+      "summary": "У Києві оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78618",
+          "raw_text": "Київ — відбій повітряної тривоги.",
+          "published_at": "2026-10-31T21:57:21+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13871",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-10-31T14:49:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_28846",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/28846",
+      "published_at": "2026-11-01T00:36:21+00:00",
+      "raw_text": "Twenty-four members of staff from the Saudi hospital got married during the siege of El Fasher, Sudan. “The Weekend Intelligence” meets the doctors who found joy in the darkest place \nhttps://t.co/ADuHbSHLmB\n — The Economist (\n@TheEconomist\n) \nNov 1, 2026",
+      "title": "Весілля під час облоги в Судані",
+      "summary": "24 співробітники саудівського госпіталю одружилися під час облоги міста Ель-Фашер у Судані. Медики знайшли надію та радість у найскладніших умовах.",
+      "category": "Світ",
+      "tags": [
+        "Судан",
+        "Ель-Фашер",
+        "весілля"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNSSBZXVHD6O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-11-01/alaska-says-ballot-demand-meritless-wsj-wins-dismissal-of-suit",
+      "published_at": "2026-11-01T00:35:59+00:00",
+      "raw_text": "Alaska Says Ballot Demand Meritless, WSJ Wins Dismissal of Suit\n\nSource: Bloomberg, 5:29",
+      "title": "Суд відхилив позов до WSJ щодо виборчих бюлетенів на Алясці",
+      "summary": "Влада Аляски назвала вимоги щодо бюлетенів безпідставними. Суд задовольнив клопотання про звільнення від позову видання Wall Street Journal.",
+      "category": "Суди",
+      "tags": [
+        "США",
+        "Аляска",
+        "суд",
+        "WSJ"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-31/alaska-says-ballot-demand-meritless-trump-s-wsj-suit-dismissed",
+          "raw_text": "Alaska Says Ballot Demand Meritless, Trump’s WSJ Suit Dismissed\n\nSource: Bloomberg, 6:21",
+          "published_at": "2026-10-31T22:11:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TNP4YRKK3NY800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
+      "published_at": "2026-11-01T00:25:30+00:00",
+      "raw_text": "S. Korea Exports Extend Robust Growth as Chip Boom Continues\n\nSouth Korea’s exports maintained strong growth in October, with an artificial intelligence-driven boom continuing to power the trade-reliant economy.",
+      "title": "Зростання експорту Південної Кореї завдяки чіпам",
+      "summary": "Експорт Південної Кореї продемонстрував стійке зростання у жовтні. Цьому сприяє глобальний бум штучного інтелекту, що стимулює економіку країни.",
+      "category": "Економіка",
+      "tags": [
+        "Південна Корея",
+        "експорт",
+        "технології"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNIBASKK3NYJ00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
+      "published_at": "2026-11-01T00:00:00+00:00",
+      "raw_text": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections\n\nAsia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.",
+      "title": "Вплив проміжних виборів у США на азійські фондові ринки",
+      "summary": "Азійські ринки стикаються з новими політичними ризиками через вибори у США. Результати голосування можуть вплинути на технологічний сектор, зелену енергетику та оборону.",
+      "category": "Економіка",
+      "tags": [
+        "Азія",
+        "акції",
+        "США",
+        "вибори",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNSOO7O2LL3500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-10-31/alaska-says-trump-demand-meritless-trump-s-wsj-suit-dismissed",
+      "published_at": "2026-10-31T23:16:55+00:00",
+      "raw_text": "Alaska Says Trump Demand Meritless, Trump’s WSJ Suit Dismissed\n\nSource: Bloomberg, 6:39",
+      "title": "Позов Дональда Трампа проти WSJ відхилено",
+      "summary": "Влада Аляски визнала вимоги Трампа безпідставними. Суд ухвалив рішення про відхилення позову проти газети The Wall Street Journal.",
+      "category": "Суди",
+      "tags": [
+        "США",
+        "Трамп",
+        "суд",
+        "WSJ"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cq398y0zj9rpo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T22:56:15+00:00",
+      "raw_text": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour\n\nKing Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+      "title": "Промова короля Чарльза III щодо работоргівлі",
+      "summary": "Король Великої Британії виступить на зустрічі лідерів країн Співдружності на Антигуа. Ця подія завершить його дев'ятиденне турне Карибським регіоном.",
+      "category": "Світ",
+      "tags": [
+        "Велика Британія",
+        "монархія",
+        "Кариби"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78621",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78621",
+      "published_at": "2026-10-31T22:54:09+00:00",
+      "raw_text": "У Черкасах звучать вибухи, повідомляють кореспонденти Суспільного.",
+      "title": "Вибухи у Черкасах",
+      "summary": "У Черкасах пролунали вибухи. Інформація уточнюється.",
+      "category": "Безпека",
+      "tags": [
+        "Черкаси",
+        "вибухи"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNSGMDT9NJLU00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/mamdani-says-trump-agrees-to-visa-for-mother-of-slain-bronx-teen",
+      "published_at": "2026-10-31T22:44:45+00:00",
+      "raw_text": "Mamdani Says Trump Agrees to Visa for Mother of Slain Bronx Teen\n\nNew York Mayor Zohran Mamdani said President Donald Trump agreed to grant a visa to the mother of a 15-year-old boy who was killed in the Bronx on his way to school Thursday morning.",
+      "title": "Віза для матері загиблого підлітка",
+      "summary": "Мер Нью-Йорка заявив про згоду президента США надати візу матері вбитого в Бронксі школяра. Вона зможе приїхати до США.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Нью-Йорк",
+        "віза"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
     },
     {
       "id": "truexanewsua_147643",
@@ -135,32 +445,6 @@
       "related_sources": []
     },
     {
-      "id": "rss_TNSLMMV84D8G00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-31/alaska-says-ballot-demand-meritless-trump-s-wsj-suit-dismissed",
-      "published_at": "2026-10-31T22:11:10+00:00",
-      "raw_text": "Alaska Says Ballot Demand Meritless, Trump’s WSJ Suit Dismissed\n\nSource: Bloomberg, 6:21",
-      "title": "Суд відхилив позов Дональда Трампа до Wall Street Journal щодо виборчих бюлетенів",
-      "summary": "Влада Аляски назвала вимоги щодо бюлетенів безпідставними. Позов Дональда Трампа до видання Wall Street Journal було офіційно відхилено.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "суд",
-        "вибори",
-        "Дональд Трамп"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/wsj-wins-dismissal-of-trump-s-10-billion-defamation-suit",
-          "raw_text": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit\n\nA federal judge threw out Donald Trump’s renewed $10 billion defamation lawsuit against the Wall Street Journal and ruled that it can’t be filed again, marking another setback for the president’s legal fights with the press.",
-          "published_at": "2026-10-31T20:23:45+00:00"
-        }
-      ]
-    },
-    {
       "id": "TheEconomistOfficial_28835",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/28835",
@@ -198,37 +482,6 @@
       "importance": 4,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78618",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78618",
-      "published_at": "2026-10-31T21:57:21+00:00",
-      "raw_text": "Київ — відбій повітряної тривоги.",
-      "title": "Відбій повітряної тривоги в Києві",
-      "summary": "У Києві оголошено відбій повітряної тривоги. Небезпека минула.",
-      "category": "Місто",
-      "tags": [
-        "Київ",
-        "тривога",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78596",
-          "raw_text": "Київ — відбій повітряної тривоги.",
-          "published_at": "2026-10-31T15:14:31+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13871",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-31T14:49:23+00:00"
-        }
-      ]
     },
     {
       "id": "hromadske_ua_90405",
@@ -715,6 +968,44 @@
       ]
     },
     {
+      "id": "rss__news_articles_cqglw3k7djp1o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-31T19:22:26+00:00",
+      "raw_text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city\n\nOne evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "title": "Евакуація з окупованих Олешок",
+      "summary": "Подружжя українців розповіло про життя під окупацією на лінії фронту. Вони були змушені перетнути мінні поля в пошуках їжі.",
+      "category": "Війна",
+      "tags": [
+        "евакуація",
+        "окупація",
+        "Олешки"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/bUpBmmUXyCpG9ciKaUJBSweJEvCv8QRm-Z6CLcRMv3JsnYrbijow1h5_R72QaTzAc8aq1ltmaA9QIqxX5rvZkaWm0_tTtYjfPj3ws9aKXaSL7RpmxPGlJySavBFOJ3Rt3re_PFCplD1yN9cr-p4yrLvWMDMZbJyvQOCRndEKNvsWnM6efciHUxyZqKlF7e2xBT5RTrd4CPp-WRh_DPJjae1buG0m_utldop4oka6LQK6aJJCAHgzmB4J2jcNby2jJH2Q1gmiszICf_2lcxA7BBLWCDBB--se0FMjhR9Flm2O5Klzztx_QLpJjnC8fall27-JA7E5S63z0zRpfhvh7Q.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/b4xAfgeMWT9FqX68ez8aTxePNEenl0aGBH1GoqLLAI1Pbmloku63nMxT1jro7jvTmivWJFXBY1lZKKfrHQ3daq-CDlE9YTr8zxHjMyAw8PSaRs699vDtUVeb7xBMrya2RwtF7htXzpD5ZDJovaCIDtO0iW0HXOBfej2_8EejY5TBmH1gI1ZebXPRFOHaUc1GSS6BiAHgyH_739IuoRpwB9WKB1cloNzMQA0gB2jqUAsJlr7V5rvoeIMlbankPsco3YT6kLA3f2C8HRViRj0u8ozxHmOrhchR0YD5idLeIkjFuAh0rRLzXxZuVYt8htLQQe40T-V7yhJ17_wFKPxTmg.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/kjxUZnQo6xjB02nQ5y9kquT39ZiMMSvwwiNxrCeB-gXNiE5gT03LblThB3E8ODXPqWCbTXeBJRgisyUmY1FLyO3M2L6CLno7CgcucmXNpGTiLU2bIcJIwivRzLPVLQsm8ag2MnSua3AkxZf4QGklNLOH8ygNT91_8UsZ3P-thdklGtr73CW0ZWuJbaXaTTpBzteQaW7Vyu5zekIE_-ahEKp4Y4AroWyJx6zWXpP0TjHPc6qyNq4-JOTJFV8RKS12pKAlD0LuU93zGXAW7TTIu1YdrTpm8U0pNIOd76SPkf1gXLclFmdNJgecq61g_FeAkhttipbGJKB-m2Kw70y_zA.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90399",
+          "raw_text": "«Мертве місто, там уже нічого немає — ні магазинів, а лікарня там взагалі… [немає] ні спеціалістів, ні ліків, нічого»,\n — каже жителька Олешків.\n\n\n\n\nЛюди, які місяцями жили в голоді під окупацією, нарешті повернулися на підконтрольну Україні територію. Разом із ними приїхав цілий гурт домашніх улюбленців: собаки, коти, папуга і навіть єнот.\n\n\n\n\nНа кордоні олешківців вітали з прапорами та плакатами «Ви вдома», «Ви не самі», «Ви — Україна». Як відбувалися ці перші зустрічі та все, що відомо про перебіг Олешківської операції, — у нашому\n \nматеріалі",
+          "published_at": "2026-10-31T18:37:59+00:00"
+        }
+      ]
+    },
+    {
       "id": "h_kremenchug_103364",
       "source_name": "@h_kremenchug",
       "source_url": "https://t.me/h_kremenchug/103364",
@@ -928,62 +1219,6 @@
       ]
     },
     {
-      "id": "hromadske_ua_90399",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90399",
-      "published_at": "2026-10-31T18:37:59+00:00",
-      "raw_text": "«Мертве місто, там уже нічого немає — ні магазинів, а лікарня там взагалі… [немає] ні спеціалістів, ні ліків, нічого»,\n — каже жителька Олешків.\n\n\n\n\nЛюди, які місяцями жили в голоді під окупацією, нарешті повернулися на підконтрольну Україні територію. Разом із ними приїхав цілий гурт домашніх улюбленців: собаки, коти, папуга і навіть єнот.\n\n\n\n\nНа кордоні олешківців вітали з прапорами та плакатами «Ви вдома», «Ви не самі», «Ви — Україна». Як відбувалися ці перші зустрічі та все, що відомо про перебіг Олешківської операції, — у нашому\n \nматеріалі",
-      "title": "Евакуація жителів з окупованих Олешків",
-      "summary": "Жителі окупаваних Олешків, які місяцями жили в голоді, повернулися на підконтрольну Україні територію разом із домашніми тваринами. На кордоні їх зустрічали волонтери з прапорами та плакатами.",
-      "category": "Суспільство",
-      "tags": [
-        "Олешки",
-        "евакуація",
-        "окупація"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/bUpBmmUXyCpG9ciKaUJBSweJEvCv8QRm-Z6CLcRMv3JsnYrbijow1h5_R72QaTzAc8aq1ltmaA9QIqxX5rvZkaWm0_tTtYjfPj3ws9aKXaSL7RpmxPGlJySavBFOJ3Rt3re_PFCplD1yN9cr-p4yrLvWMDMZbJyvQOCRndEKNvsWnM6efciHUxyZqKlF7e2xBT5RTrd4CPp-WRh_DPJjae1buG0m_utldop4oka6LQK6aJJCAHgzmB4J2jcNby2jJH2Q1gmiszICf_2lcxA7BBLWCDBB--se0FMjhR9Flm2O5Klzztx_QLpJjnC8fall27-JA7E5S63z0zRpfhvh7Q.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/b4xAfgeMWT9FqX68ez8aTxePNEenl0aGBH1GoqLLAI1Pbmloku63nMxT1jro7jvTmivWJFXBY1lZKKfrHQ3daq-CDlE9YTr8zxHjMyAw8PSaRs699vDtUVeb7xBMrya2RwtF7htXzpD5ZDJovaCIDtO0iW0HXOBfej2_8EejY5TBmH1gI1ZebXPRFOHaUc1GSS6BiAHgyH_739IuoRpwB9WKB1cloNzMQA0gB2jqUAsJlr7V5rvoeIMlbankPsco3YT6kLA3f2C8HRViRj0u8ozxHmOrhchR0YD5idLeIkjFuAh0rRLzXxZuVYt8htLQQe40T-V7yhJ17_wFKPxTmg.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/kjxUZnQo6xjB02nQ5y9kquT39ZiMMSvwwiNxrCeB-gXNiE5gT03LblThB3E8ODXPqWCbTXeBJRgisyUmY1FLyO3M2L6CLno7CgcucmXNpGTiLU2bIcJIwivRzLPVLQsm8ag2MnSua3AkxZf4QGklNLOH8ygNT91_8UsZ3P-thdklGtr73CW0ZWuJbaXaTTpBzteQaW7Vyu5zekIE_-ahEKp4Y4AroWyJx6zWXpP0TjHPc6qyNq4-JOTJFV8RKS12pKAlD0LuU93zGXAW7TTIu1YdrTpm8U0pNIOd76SPkf1gXLclFmdNJgecq61g_FeAkhttipbGJKB-m2Kw70y_zA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/90398",
-          "raw_text": "🚑\n Кілька десятків «швидких» із жителями окупованих Олешків прямують до лікарні Києва. Серед них — люди, що потребують медичного нагляду, а також ті, хто має травми чи поранення, і маломобільні люди\n\n\n\n\nВідео: Вікторія Коломієць, Анастасія Камінська / hromadske\n\n\n\n\nпідписатися\n \n|\n \nпідтримати",
-          "published_at": "2026-10-31T18:18:18+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78606",
-          "raw_text": "На фото — чоловік Жанни Михайло, якого евакуювали з Олешків, обіймається з донькою Дарʼєю вже на підконтрольній Україні території.   Нещодавно у нашому матеріалі про гуманітарну кризу в Олешках Жанна розповідала про свого чоловіка, який намагався передавати…",
-          "published_at": "2026-10-31T17:56:28+00:00"
-        },
-        {
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-          "raw_text": "Emotional reunions with loved ones for Oleshky evacuees\n\nThe BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
-          "published_at": "2026-10-31T16:55:47+00:00"
-        },
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/90383",
-          "raw_text": "❤️‍🩹\n Виїжджаючи з окупованих Олешків, люди забирали із собою не лише найнеобхідніші речі, а й домашніх улюбленців, адже не могли залишити їх у небезпеці. \n\n\n\n\nКотів і собак вдалося перевезти у спеціальних клітках. На цих кадрах — виснажені чотирилапі, які разом із людьми залишили російську окупацію\n\n\n\n\nВідео, фото: Вікторія Коломієць / hromadske\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-10-31T13:05:11+00:00"
-        }
-      ]
-    },
-    {
       "id": "TheEconomistOfficial_28823",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/28823",
@@ -1149,7 +1384,7 @@
         "Ердоган",
         "зерновий коридор"
       ],
-      "importance": 3,
+      "importance": 4,
       "media_list": [
         {
           "type": "image",
@@ -1281,23 +1516,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_103362",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103362",
-      "published_at": "2026-10-31T16:34:20+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-      "title": "Оголошено повітряну тривогу",
-      "summary": "У місті та області оголошено повітряну тривогу через дронну загрозу (жовтий рівень).",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "holosameryky_22433",
       "source_name": "@holosameryky",
       "source_url": "https://t.me/holosameryky/22433",
@@ -1421,38 +1639,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28809",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28809",
-      "published_at": "2026-10-31T15:06:30+00:00",
-      "raw_text": "Investors were rattled by Google’s acknowledgment that the increasing use of “AI Mode” was producing “lower monetisation” than traditional search. Read why Meta’s share of the worldwide advertising pie has soared instead \nhttps://t.co/vAhOYObDkf\n — The Economist (\n@TheEconomist\n) \nOct 31, 2026",
-      "title": "Реакція інвесторів на монетизацію штучного інтелекту в Google",
-      "summary": "Інвестори занепокоєні заявою Google про те, що використання 'AI Mode' приносить менші прибутки порівняно з традиційним пошуком. Водночас частка Meta на світовому рекламному ринку суттєво зросла.",
-      "category": "Бізнес",
-      "tags": [
-        "Google",
-        "Meta",
-        "ШІ",
-        "реклама"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/28808",
-          "raw_text": "London can be a place where claimants bring a new generation of disputes relating to AI—if it puts in some hard graft, says a top judge. Register to read his parting advice \nhttps://t.co/bkxAhxeJlb\n — The Economist (\n@TheEconomist\n) \nOct 31, 2026",
-          "published_at": "2026-10-31T14:46:14+00:00"
-        },
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-31/how-to-make-your-writing-sound-human-in-the-age-of-ai",
-          "raw_text": "How to Make Your Writing Sound Human in the Age of AI\n\nWriters are “humanizing” their prose to sound less like AI, Daron Acemoglu has a warning for Democrats and haunted houses get a multimillion-dollar makeover.",
-          "published_at": "2026-10-31T08:00:01+00:00"
-        }
-      ]
     },
     {
       "id": "rss_TNS1R0KGZAJ100",
@@ -1698,6 +1884,12 @@
           "source_url": "https://t.me/sirena_kremenchuk/13867",
           "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
           "published_at": "2026-10-31T08:25:43+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13869",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень: Дронова загроза (жовтий рівень)",
+          "published_at": "2026-10-31T12:23:04+00:00"
         }
       ]
     },
@@ -2046,6 +2238,24 @@
           "published_at": "2026-10-31T06:22:58+00:00"
         }
       ]
+    },
+    {
+      "id": "sirena_kremenchuk_13868",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13868",
+      "published_at": "2026-10-31T09:04:37+00:00",
+      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+      "title": "Відбій повітряної тривоги на Кременчуччині",
+      "summary": "У Кременчуцькому районі оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "Кременчук",
+        "відбій",
+        "безпека"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
     },
     {
       "id": "suspilnenews_78563",
@@ -18987,231 +19197,6 @@
         "політика"
       ],
       "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78165",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78165",
-      "published_at": "2026-10-25T01:44:54+00:00",
-      "raw_text": "У Вінниці чути звук повторного вибуху, повідомляють наші кореспонденти.",
-      "title": "Вибух у Вінниці",
-      "summary": "У Вінниці пролунав повторний вибух. Жителів закликають залишатися в укриттях.",
-      "category": "Надзвичайні події",
-      "tags": [
-        "Вінниця",
-        "вибухи",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cqzjxg7l19yxo_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T01:44:19+00:00",
-      "raw_text": "Meghan broke contact with father in letter citing abuse claims\n\nSources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
-      "title": "Меган Маркл припинила спілкування з батьком",
-      "summary": "Джерела, близькі до герцогині, повідомили про її лист до батька. У ньому вона згадувала про домагання та попереджала, що він ніколи не побачить онуків.",
-      "category": "Світ",
-      "tags": [
-        "Меган Маркл",
-        "знаменитості"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_c8e36kyk1qx5o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-25T00:33:19+00:00",
-      "raw_text": "Burnham open to 'honest discussion' on EU free movement\n\nThe PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-      "title": "Бернем виступив за дискусію щодо вільного пересування з ЄС",
-      "summary": "Прем'єр-міністр заявив про бажання провести фактологічну дискусію щодо повернення до вільного пересування між Британією та Європою. Він наголосив на необхідності обговорення на основі доказів.",
-      "category": "Політика",
-      "tags": [
-        "Британія",
-        "ЄС",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "sirena_kremenchuk_13729",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13729",
-      "published_at": "2026-10-25T00:07:33+00:00",
-      "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-      "title": "Ракетна загроза у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу та встановлено червоний рівень небезпеки через ракетну загрозу. Жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчук",
-        "повітряна тривога",
-        "ракетна загроза"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/EQXKBhCxPXpV0MW5WrpHSNtKlY6ugPCKVPKzP7JnPx-aRGWYxnOpYOCFuaLz9-GMScDeW4UHZt1DASSbsgblRHT4tMroSKvaotUfj_wwcE4sPeBhhyvTQdvnIWOX6zCyHCaIohQ7xCU64Ac4AA3iwAco7FVUkzBwo9c1nVhRqDMmccIDArsokHhHvV8Lll11qaMQpz_EU37adHrW2zsOEWFfBek2w-s6xz7dCt7GeRtUPIrGILtRIqur65vJP0sVnu8tHMSlo7YC794F4XdwHapuORzfPtInkIlE3VhMUq9PT1iMWGVFzlKmHLFD7RNe8oqOLN5l_VERX9hz35g6Fg.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59464",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-25T00:07:32+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103072",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
-          "published_at": "2026-10-25T00:07:24+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59463",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-24T21:26:18+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13728",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-24T21:26:18+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13727",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-24T21:11:38+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59462",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень: Ракетна загроза (червоний рівень)",
-          "published_at": "2026-10-24T21:11:37+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13726",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-10-24T12:15:15+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_28170",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28170",
-      "published_at": "2026-10-25T00:06:19+00:00",
-      "raw_text": "Pakistan’s four provinces could be divided into 12, or perhaps 15, or maybe even 160 much smaller and less powerful units. It this comes to pass, it is clear who will benefit \nhttps://t.co/Pp9206WVHU\n — The Economist (\n@TheEconomist\n) \nOct 25, 2026",
-      "title": "Можливий адміністративний поділ Пакистану на менші регіони",
-      "summary": "The Economist розглядає ідею поділу чотирьох провінцій Пакистану на значно більшу кількість дрібніших одиниць. Це може суттєво змінити баланс сил у країні.",
-      "category": "Світ",
-      "tags": [
-        "Пакистан",
-        "геополітика",
-        "реформи"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28169",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28169",
-      "published_at": "2026-10-24T23:46:35+00:00",
-      "raw_text": "Volodymyr Zelensky’s recent turn to denouncing Donald Trump for “weak” decisions seems based on a gamble that an electoral drubbing will soon weaken America’s president. That may be misplaced \nhttps://t.co/dAZKjipsWi\n — The Economist (\n@TheEconomist\n) \nOct 24, 2026",
-      "title": "Аналіз політики Володимира Зеленського щодо Дональда Трампа від The Economist",
-      "summary": "Видання The Economist аналізує риторику Володимира Зеленського щодо Дональда Трампа. Експерти вважають ставки українського керівництва на зміни в американській політиці ризикованими.",
-      "category": "Світ",
-      "tags": [
-        "політика",
-        "Зеленський",
-        "Трамп",
-        "США"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/28129",
-          "raw_text": "Donald Trump’s “major initiatives to tamper with our elections seem to be failing”. On our “Checks and Balance” podcast, \n@NormEisen\n talks about his work preparing for America’s midterms. Listen now \nhttps://t.co/U2Ucp3jalT\n — The Economist (\n@TheEconomist\n) \nOct 24, 2026",
-          "published_at": "2026-10-24T12:36:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_28168",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28168",
-      "published_at": "2026-10-24T23:26:28+00:00",
-      "raw_text": "Our reporting during the Cuban revolution highlighted important geopolitical questions. Read how this period has shaped modern-day relations between Cuba and the US \nhttps://t.co/zqAJysGMQq\n — The Economist (\n@TheEconomist\n) \nOct 24, 2026",
-      "title": "Вплив Кубинської революції на сучасні відносини США та Куби",
-      "summary": "Видання аналізує історичні звіти про Кубинську революцію та їхній вплив на сучасну геополітику. Досліджується те, як цей період сформував нинішні відносини між двома країнами.",
-      "category": "Світ",
-      "tags": [
-        "історія",
-        "Куба",
-        "США",
-        "геополітика"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28167",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28167",
-      "published_at": "2026-10-24T23:06:08+00:00",
-      "raw_text": "No candidate who has lost the first round of an election in Brazil has ever gone on to win the second. President Lula has taken dramatic action to win back voters. Can he pull off an upset? \nhttps://t.co/Rigj3KjkPN\n — The Economist (\n@TheEconomist\n) \nOct 24, 2026",
-      "title": "Політична ситуація перед другим туром виборів у Бразилії",
-      "summary": "Жоден кандидат у Бразилії ще не перемагав у другому турі після поразки в першому. Чинний президент Лула вживає різких заходів, щоб повернути виборців.",
-      "category": "Світ",
-      "tags": [
-        "вибори",
-        "Бразилія",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-24/bolsonaro-and-lula-in-dead-heat-a-day-before-runoff-polls-shows",
-          "raw_text": "Bolsonaro and Lula in Dead Heat a Day Before Runoff, Poll Shows\n\nFlávio Bolsonaro and President Luiz Inácio Lula da Silva were statistically tied in a poll released on the eve of Brazil’s runoff election.",
-          "published_at": "2026-10-24T21:30:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss__news_articles_c6kg50nnj0x4o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-24T23:05:41+00:00",
-      "raw_text": "Why the charts are full of old songs - and so are your playlists\n\nThe chart is full of old music and classic songs are dominating streaming services. But why?",
-      "title": "Домінування старої музики в чартах та стрімінгах",
-      "summary": "Музичні чарти та стрімінгові сервіси все частіше заповнюються класичними композиціями та старими піснями. Аналітики досліджують причини цього тренду в сучасній музичній індустрії.",
-      "category": "Культура",
-      "tags": [
-        "музика",
-        "тренди",
-        "стрімінг"
-      ],
-      "importance": 2,
       "media_list": [],
       "related_sources": []
     }
