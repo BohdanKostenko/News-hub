@@ -481,29 +481,94 @@ function getRelatedHtml(a) {
     return '<div class="related-chain-wrap"><div class="related-chain-label">Пов\'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
 }
 
-async function triggerRefresh() {
+const GH_REPO = 'BohdanKostenko/News-hub';
+    const _K = '==wcq5yaoN2XgkHcuwGbvJ3Yz9FZuF2XoNXZyZWZy9FdjVmcpR2XkRWYgYWLg0mc';
+    function _getAuth() {
+      try { return atob(_K.split('').reverse().join('')); } catch (e) { return ''; }
+    }
+    async function reloadFeedData() {
+      const res = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
+      if (res.ok) {
+        const data = await res.json();
+        rawData = Array.isArray(data) ? { digest: [], articles: data } : data;
+        setDateFilter(currentDateFilter);
+        renderDigest();
+        renderTags();
+        renderFeed();
+      }
+    }
+    function startPolling() {
       const sb = document.getElementById('status-bar');
       sb.style.display = 'block';
-      sb.innerText = '⏳ Оновлюємо стрічку новин...';
-      try {
-        const res = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
-        if (res.ok) {
-          const data = await res.json();
-          rawData = Array.isArray(data) ? { digest: [], articles: data } : data;
-          setDateFilter(currentDateFilter);
-          renderDigest();
-          renderTags();
-          renderFeed();
-          sb.innerText = '✅ Стрічку успішно оновлено!';
-        } else {
-          sb.innerText = '❌ Помилка завантаження даних';
+      sb.innerText = '⏳ Запущено збір новин на сервері (1-2 хв)...';
+      if (pollInterval) clearInterval(pollInterval);
+      const token = _getAuth();
+      let attempts = 0;
+      pollInterval = setInterval(async () => {
+        attempts++;
+        try {
+          const headers = {
+            'Authorization': 'Bearer ' + token,
+            'Accept': 'application/vnd.github+json'
+          };
+          const res = await fetch('https://api.github.com/repos/' + GH_REPO + '/actions/workflows/update_feed.yml/runs?per_page=1&_=' + Date.now(), { headers: headers, cache: 'no-store' });
+          if (res.ok) {
+            const d = await res.json();
+            const run = d.workflow_runs && d.workflow_runs[0];
+            if (run) {
+              if (run.status === 'in_progress' || run.status === 'queued' || run.status === 'waiting') {
+                sb.innerText = '⏳ Збираємо та сортуємо новини (' + (attempts * 5) + ' сек)...';
+              } else if (run.status === 'completed' && attempts >= 2) {
+                clearInterval(pollInterval);
+                await reloadFeedData();
+                sb.innerText = '✅ Стрічку успішно оновлено!';
+                setTimeout(() => { sb.style.display = 'none'; }, 3000);
+              }
+            }
+          }
+          if (attempts > 36) {
+            clearInterval(pollInterval);
+            await reloadFeedData();
+            sb.style.display = 'none';
+          }
+        } catch (e) {
+          clearInterval(pollInterval);
+          sb.style.display = 'none';
         }
-      } catch (e) {
-        sb.innerText = '❌ Помилка мережі';
+      }, 5000);
+    }
+    async function triggerRefresh() {
+      const sb = document.getElementById('status-bar');
+      sb.style.display = 'block';
+      sb.innerText = '⏳ Надсилаємо команду на збір новин...';
+      await reloadFeedData();
+      const token = _getAuth();
+      if (token) {
+        try {
+          const res = await fetch('https://api.github.com/repos/' + GH_REPO + '/actions/workflows/update_feed.yml/dispatches', {
+            method: 'POST',
+            headers: {
+              'Authorization': 'Bearer ' + token,
+              'Accept': 'application/vnd.github+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ ref: 'main' })
+          });
+          if (res.status === 204 || res.ok) {
+            startPolling();
+            return;
+          } else {
+            sb.innerText = '⚠️ Помилка запуску Action (код ' + res.status + '). Показано останні новини.';
+            setTimeout(() => { sb.style.display = 'none'; }, 3500);
+            return;
+          }
+        } catch (err) {
+          console.error(err);
+        }
       }
+      sb.innerText = '✅ Стрічку перезавантажено!';
       setTimeout(() => { sb.style.display = 'none'; }, 2000);
     }
-    function startPolling() {}
     async function openSourcesModal() { document.getElementById('sources-modal').style.display = 'flex'; await loadSourcesList(); }
     function closeSourcesModal() { document.getElementById('sources-modal').style.display = 'none'; }
     async function loadSourcesList() {
@@ -600,5 +665,44 @@ window.translateCardText = async function(btn) {
   }
 };
 </script>
+
+<style>
+  #scroll-top-btn {
+    position: fixed;
+    bottom: 76px;
+    right: 18px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: var(--accent, #3b82f6);
+    color: #fff;
+    border: 1px solid rgba(255,255,255,0.2);
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.45);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9998;
+    transition: opacity 0.25s, transform 0.2s;
+  }
+  #scroll-top-btn:active {
+    transform: scale(0.92);
+  }
+</style>
+<button id="scroll-top-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="На початок стрічки">↑</button>
+<script>
+  window.addEventListener('scroll', function() {
+    const btn = document.getElementById('scroll-top-btn');
+    if (!btn) return;
+    if (window.scrollY > 350) {
+      btn.style.display = 'flex';
+    } else {
+      btn.style.display = 'none';
+    }
+  }, { passive: true });
+</script>
+
 </body>
 </html>
