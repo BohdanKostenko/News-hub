@@ -491,7 +491,7 @@ const GH_REPO = 'BohdanKostenko/News-hub';
       if (res.ok) {
         const data = await res.json();
         rawData = Array.isArray(data) ? { digest: [], articles: data } : data;
-        setDateFilter(currentDateFilter);
+        
         renderDigest();
         renderTags();
         renderFeed();
