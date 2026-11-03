@@ -481,7 +481,7 @@ function getRelatedHtml(a) {
     return '<div class="related-chain-wrap"><div class="related-chain-label">Пов\'язані джерела:</div><div class="related-chips-row">' + chips + '</div>' + panels + '</div>';
 }
 
-const GH_REPO = 'BohdanKostenko/News-hub';
+
     const _K = '==wcq5yaoN2XgkHcuwGbvJ3Yz9FZuF2XoNXZyZWZy9FdjVmcpR2XkRWYgYWLg0mc';
     function _getAuth() {
       try { return atob(_K.split('').reverse().join('')); } catch (e) { return ''; }
@@ -537,12 +537,74 @@ const GH_REPO = 'BohdanKostenko/News-hub';
         }
       }, 5000);
     }
+    
+    const GH_REPO = 'BohdanKostenko/News-hub';
+    function getGhToken() {
+      return localStorage.getItem('gh_pat_token') || '';
+    }
+    function askGhToken() {
+      const msg = 'Для запуску збору новин на сервері GitHub введіть ваш GitHub Token (з правом workflow). Або залиште порожнім, щоб просто оновити поточну стрічку:';
+      const t = prompt(msg);
+      if (t && t.trim()) {
+        localStorage.setItem('gh_pat_token', t.trim());
+        return t.trim();
+      }
+      return '';
+    }
+    async function reloadFeedData() {
+      const res = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
+      if (res.ok) {
+        const data = await res.json();
+        rawData = Array.isArray(data) ? { digest: [], articles: data } : data;
+        renderDigest();
+        renderTags();
+        renderFeed();
+      }
+    }
+    function startPolling() {
+      const sb = document.getElementById('status-bar');
+      sb.style.display = 'block';
+      sb.innerText = '⏳ Запущено збір новин на сервері (1-2 хв)...';
+      if (pollInterval) clearInterval(pollInterval);
+      const token = getGhToken();
+      let attempts = 0;
+      pollInterval = setInterval(async () => {
+        attempts++;
+        try {
+          const headers = token ? { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json' } : { 'Accept': 'application/vnd.github+json' };
+          const res = await fetch('https://api.github.com/repos/' + GH_REPO + '/actions/workflows/update_feed.yml/runs?per_page=1&_=' + Date.now(), { headers: headers, cache: 'no-store' });
+          if (res.ok) {
+            const d = await res.json();
+            const run = d.workflow_runs && d.workflow_runs[0];
+            if (run) {
+              if (run.status === 'in_progress' || run.status === 'queued' || run.status === 'waiting') {
+                sb.innerText = '⏳ Збираємо та сортуємо новини (' + (attempts * 5) + ' сек)...';
+              } else if (run.status === 'completed' && attempts >= 2) {
+                clearInterval(pollInterval);
+                await reloadFeedData();
+                sb.innerText = '✅ Стрічку успішно оновлено!';
+                setTimeout(() => { sb.style.display = 'none'; }, 3000);
+              }
+            }
+          }
+          if (attempts > 36) {
+            clearInterval(pollInterval);
+            await reloadFeedData();
+            sb.style.display = 'none';
+          }
+        } catch (e) {
+          clearInterval(pollInterval);
+          sb.style.display = 'none';
+        }
+      }, 5000);
+    }
     async function triggerRefresh() {
       const sb = document.getElementById('status-bar');
       sb.style.display = 'block';
-      sb.innerText = '⏳ Надсилаємо команду на збір новин...';
+      sb.innerText = '⏳ Перевіряємо оновлення...';
       await reloadFeedData();
-      const token = _getAuth();
+      let token = getGhToken();
+      if (!token) token = askGhToken();
       if (token) {
         try {
           const res = await fetch('https://api.github.com/repos/' + GH_REPO + '/actions/workflows/update_feed.yml/dispatches', {
@@ -557,10 +619,9 @@ const GH_REPO = 'BohdanKostenko/News-hub';
           if (res.status === 204 || res.ok) {
             startPolling();
             return;
-          } else {
-            sb.innerText = '⚠️ Помилка запуску Action (код ' + res.status + '). Показано останні новини.';
-            setTimeout(() => { sb.style.display = 'none'; }, 3500);
-            return;
+          } else if (res.status === 401 || res.status === 403) {
+            localStorage.removeItem('gh_pat_token');
+            alert('Токен недійсний або не має прав workflow. Спробуйте ще раз.');
           }
         } catch (err) {
           console.error(err);
@@ -569,6 +630,7 @@ const GH_REPO = 'BohdanKostenko/News-hub';
       sb.innerText = '✅ Стрічку перезавантажено!';
       setTimeout(() => { sb.style.display = 'none'; }, 2000);
     }
+
     async function openSourcesModal() { document.getElementById('sources-modal').style.display = 'flex'; await loadSourcesList(); }
     function closeSourcesModal() { document.getElementById('sources-modal').style.display = 'none'; }
     async function loadSourcesList() {
