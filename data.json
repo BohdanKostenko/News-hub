@@ -1,13 +1,586 @@
 {
-  "updated_at": "2026-11-03 19:28",
+  "updated_at": "2026-11-03 21:23",
   "digest": [
-    "Україна планує відкрити всі переговорні кластери з ЄС до кінця року та завершити переговори у першій половині 2027-го.",
-    "Російські війська атакували безпілотниками підстанцію Хмельницької АЕС, що створює загрозу ядерній безпеці.",
-    "Експерти радять диверсифікувати інвестиції поза межами AI для зменшення ризиків на ринку.",
-    "У Кременчуцькому районі оголошено повітряну тривогу на тлі стабілізації ситуації до жовтого рівня небезпеки.",
-    "Іспанія готується до саміту для зміцнення унікальних зв'язків із країнами Латинської Америки."
+    "Міністр транспорту Іспанії подав у відставку після залізничної аварії поблизу Мадрида, яка забрала життя щонайменше 69 людей.",
+    "Прогноз доходів AMD перевищив очікування аналітиків завдяки високому попиту на чипи для штучного інтелекту.",
+    "В Одесі внаслідок ворожого обстрілу зафіксовано пошкодження торговельної інфраструктури.",
+    "Дослідники виявили, що моделі штучного інтелекту, навчені за сократівським методом, менше схильні догоджати людям і частіше шукають істину."
   ],
   "articles": [
+    {
+      "id": "rss__news_articles_c6wydqd4yxdyo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-03T21:19:57+00:00",
+      "raw_text": "Spanish transport minister resigns days after deadly train crash\n\nAt least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "title": "Відставка міністра транспорту Іспанії через залізничну аварію",
+      "summary": "Міністр транспорту Іспанії подав у відставку через кілька днів після смертельної аварії потяга на південь від Мадрида. Внаслідок зіткнення загинуло щонайменше 69 людей і десятки отримали поранення.",
+      "category": "Світ",
+      "tags": [
+        "Іспанія",
+        "надзвичайна подія",
+        "відставка"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/spanish-transport-minister-quits-in-political-blow-for-sanchez",
+          "raw_text": "Spain’s Transport Chief Quits in Political Blow for Sánchez\n\nSpanish Transport Minister Oscar Puente resigned over his role in a high-speed train crash that killed 69 people.",
+          "published_at": "2026-11-03T20:36:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TNXXWFKGIFQ400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
+      "published_at": "2026-11-03T21:18:31+00:00",
+      "raw_text": "AMD Sales Forecast Tops Estimates on Soaring AI Chip Demand\n\nAdvanced Micro Devices Inc., a key challenger to Nvidia Corp. in artificial intelligence chips, gave a revenue forecast that exceeded analysts’ estimates, indicating that demand for data center processors remains strong.",
+      "title": "Прогноз продажів AMD перевищив очікування",
+      "summary": "Компанія Advanced Micro Devices Inc. опублікувала прогноз доходу, який перевершив оцінки аналітиків. Це свідчить про високий попит на чипи для штучного інтелекту та процесори для дата-центрів.",
+      "category": "Технології",
+      "tags": [
+        "AMD",
+        "ШІ",
+        "бізнес"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNY30IUT4Z5S00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-11-03/stock-movers-amd-fiserv-super-micro-podcast",
+      "published_at": "2026-11-03T21:14:42+00:00",
+      "raw_text": "Stock Movers: AMD, Fiserv, Super Micro (Podcast)\n\nSource: Bloomberg, 0:00",
+      "title": "Огляд руху акцій: AMD, Fiserv, Super Micro",
+      "summary": "Подкаст від Bloomberg присвячений огляду коливань акцій компаній AMD, Fiserv та Super Micro. Надається аналіз ринкових тенденцій.",
+      "category": "Економіка",
+      "tags": [
+        "акції",
+        "фінанси",
+        "подкаст"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand",
+          "raw_text": "Super Micro Outlook Tops Estimates on AI-Fueled Server Demand\n\nSuper Micro Computer Inc. forecast revenue for the current quarter that exceeded analysts’ estimates, signaling continued strength in demand for the company’s servers packed with artificial intelligence chips.",
+          "published_at": "2026-11-03T21:13:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TNY2ZEUT4Z5S00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-11-03/stocks-close-mixed-strong-turnout-among-black-young-voters",
+      "published_at": "2026-11-03T21:14:02+00:00",
+      "raw_text": "Stocks Close Mixed, Strong Turnout Among Black, Young Voters\n\nSource: Bloomberg, 0:00",
+      "title": "Змішані результати торгів та активність виборців",
+      "summary": "Фондові ринки закрилися різноспрямовано на тлі високої явки чорношкірих та молодих виборців. Події привернули увагу фінансових аналітиків та спостерігачів за виборами.",
+      "category": "Світ",
+      "tags": [
+        "ринки",
+        "вибори",
+        "США"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78800",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78800",
+      "published_at": "2026-11-03T21:11:07+00:00",
+      "raw_text": "В Одесі внаслідок атаки РФ пошкоджена торговельна інфраструктура, повідомив очільник МВА Лисак. Інформацію про наслідки уточнюють.",
+      "title": "В Одесі внаслідок російської атаки пошкоджено торговельну інфраструктуру",
+      "summary": "В Одесі зафіксовано пошкодження торговельної інфраструктури через ворожий обстріл. Наразі профільні служби уточнюють інформацію про наслідки.",
+      "category": "Місто",
+      "tags": [
+        "Одеса",
+        "обстріли",
+        "інфраструктура"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_13918",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/13918",
+      "published_at": "2026-11-03T21:07:00+00:00",
+      "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+      "title": "Повітряна тривога в Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі встановлено червоний рівень небезпеки. Оголошено повітряну тривогу.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчуцький район",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/Pu0FpsATnuI47CF9aSnvEUAZhmrOwP_NJXge4a6vwzhk0OgBRKdV3J5lV1nkufg6sLR3X6Ct4YuT70R2-2xSWymiuGf2EMbsrV6PeFLDBJIsJYte_6Zz4llUrWRPHa6NFVrJJMqFxw159OsBGC7prIUOiM2PKJxUJ0evRkDhLORGe9_dHXtkvbyv6nXubcfUHKxtG8k3I87mAfdxTVtiVDCeaRJ2nbqmr6rcqpUYfnp3d8_kZAEVAid-G5w0MbbSzIGcpuFS0TLYLSw-ZMsO9tyE4U_-MOUgUR-rgKfWdLqylvImZdxN2X9-yG4UXZd_B3jtKFlHiKa-3eTcaBp8vg.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/ly1aqDxjA5ZQE3t6u9bg7iJBPcyAWyKjGmbkt-UAbn9Ax33r-OusI8Th3C__Em8FpyNjcPsVEWDdyEdhnQNhpAmDVDEBiEdyUve4avzVojfDTKpNH_mnbyoNtJlFGgCz69eVbP8FbztGGvRg_7yore_UKsrSe76n5lgAJV_3Uo6YGbHDq0xraq37W5F6-bHZwSftR9nN0n73YFhiqgHilwI4Z5c2erLgVh_Q5Ay5b9G8k8CShmq3DKp5qQoepyV4CkSHKmJrVZQLmwpf2EMvvljuuP36mWYgknKqIW9DUd7ayes-5z1plioiIsaNIvyBFqIuAWblwQE5BUAG4aEOeA.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/WPOSrrTP1XMtl7ySopszdPveqb6wrPrGoSa7a9mBxuKZUzk7GzcMFZNTXgw1lWHnYzVaninGhjDxvGDYv_UEeupCVcY0Lw6MCR_za0wiw2W6ua-oLQvi7va0DdkV7r5q73ra7BYZKpBjVEoVft3msXJIhfEA-DUuNdzAHW4LW7bAvVUGlqPqSWqeAgruCqxbMJnAK_YeW316wPyozlYcerrTWpjq1V98r7UDUiQd3xvcOMBQYFwA61DqBdco9PBBcqQASOKsI-EYORjZuWKNzstFM-iCs6RbH7y4U0852nsH_Vn9_7xapRi65ods0vwvwYw7_RXn6ygKlmVvKvlr4A.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59972",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-03T21:06:59+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103459",
+          "raw_text": "🔴\n \nКременчуцький р-н\n\n\nРівень підвищено до червоного",
+          "published_at": "2026-11-03T21:06:56+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103457",
+          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого",
+          "published_at": "2026-11-03T19:03:52+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13917",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-03T19:03:36+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59971",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-03T19:03:35+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13916",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-03T18:46:48+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/59970",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-03T18:46:47+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13915",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-03T18:13:01+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13914",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-03T17:21:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_147896",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/147896",
+      "published_at": "2026-11-03T21:06:56+00:00",
+      "raw_text": "У Києві оголосили червоний рівень тривоги — ракетна небезпека\n.\n\n\n\n\n23:19 відбій.",
+      "title": "Ракетна небезпека у Києві",
+      "summary": "У Києві було оголошено червоний рівень тривоги через ракетну небезпеку. О 23:19 пролунав відбій повітряної тривоги.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "ракетна небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29087",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29087",
+      "published_at": "2026-11-03T21:06:08+00:00",
+      "raw_text": "Some of the lessons that philosophy can offer AI researchers are ancient. One expert says models trained in the Socratic method are less keen on people-pleasing and more willing to pursue the truth \nhttps://t.co/8PxPOWURne\n — The Economist (\n@TheEconomist\n) \nNov 3, 2026",
+      "title": "Філософія та штучний інтелект",
+      "summary": "Дослідники зазначають, що моделі штучного інтелекту, навчені за сократівським методом, менше схильні до догодить людям і частіше прагнуть істини. Підхід базується на давніх філософських принципах.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "Технології",
+        "Наука"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+          "raw_text": "AI Investment Boom Demands Stronger Financial Oversight\n\nThe unprecedented investment boom to build out the infrastructure for artificial intelligence is projected to reach more than $10 trillion, if all current plans are realized. The money is coming from many sources, including corporate cash flows, public equity and debt issuance, private debt issuance, off-balance sheet lease obligations and guarantees to AI data center developers from so-called hyperscalers and the leading chip provider, Nividia Corp.",
+          "published_at": "2026-11-03T16:00:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_78799",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78799",
+      "published_at": "2026-11-03T21:04:11+00:00",
+      "raw_text": "У США відбуваються проміжні вибори, на яких республіканці можуть втратити більшість у Конгресі. Як результати вплинуть на Трампа та Україну — обговорюємо у спецетері «Суспільне Студія». Також показуємо, як проходить голосування у Техасі: https://www.youtu…",
+      "title": "Проміжні вибори у США: перебіг голосування та вплив на Україну",
+      "summary": "У США проходять проміжні вибори, де республіканці можуть втратити більшість у Конгресі. Суспільне проводить спецетер щодо наслідків голосування для України та Дональда Трампа.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "вибори",
+        "Конгрес",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/Tlun-8m_55gOVnQrnyESAorlikpc3WAVGD2DWciiYsPaRxOkRuN964X3tSp6z3ypEilEP7V3b_wsMU0UYXv7W7JVecXZ_D4eccQPuqdE2EONoXaaw-rL6HqJcmYDyeNk0XF4qtQZHJct5M4BqqLZvnJAl-1PaEI50Qd91sK2zXEC8tiexu6uxXL2TmWcq3aMjsVEDLsFMm3bXIZTC-cgYolpjWD2Nmi4oswRCmUmbyW6Zw0hSqUP1-YH3CRY_2ClOlwdK3lWZDNlabJr4XVqo7TA3aNe77lQbXF21PZ4T4l-Y3DlnhgLTZeDtEPDUydcEa3JUtSofXEyETZlRS5jzQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78797",
+          "raw_text": "🇺🇸\n Команда Суспільного працює у США, де тривають проміжні вибори до Конгресу. Обидві його палати зараз контролюють республіканці, тож ці вибори визначать, чи втримає партія президента свої позиції. Від цього залежить й те, як минуть наступні два роки Трампа…",
+          "published_at": "2026-11-03T20:05:03+00:00"
+        },
+        {
+          "source_name": "@holosameryky",
+          "source_url": "https://t.me/holosameryky/22457",
+          "raw_text": "Президент Дональд Трамп і глава Держдепу Марко Рубіо заявляють, що проміжні вибори до Конгресу, які відбудуться у вівторок, \nне змінять його зовнішньополітичного курсу. \n\n\n\n\nОднак опозиційні демократи сподіваються \nздобути більшість \nу Палаті представників і Сенаті, що посилило б їхні спроби обмежити удари США по іранському режиму, а також вплинути на підхід Трампа до завершення російсько-української війни.\n\n\n\n\n#VOAMidterms2026\n\n\n\n\n \n📌\n Читайте тут \n➡️\n \nhttps://www.holosameryky.com/a/8218275.html\n\n\n\n\nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+          "published_at": "2026-11-03T16:45:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_147895",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/147895",
+      "published_at": "2026-11-03T21:03:50+00:00",
+      "raw_text": "🟡\n«Жовта» тривога у Києві\n.\n\n\n\n\nНайшвидші попередження про загрозу — тут і зараз: \nОперативний Монітор \n📡",
+      "title": "«Жовта» тривога у Києві",
+      "summary": "У Києві зафіксовано оголошення «жовтої» тривоги. Мешканців закликають стежити за офіційними попередженнями.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "тривога",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/147892",
+          "raw_text": "🟡\n«Жовта» тривога у Києві\n.\n\n\n\n\n22:46 відбій.\n\n\n\n\nНайшвидші попередження про загрозу — тут і зараз: \nОперативний Монітор \n📡",
+          "published_at": "2026-11-03T20:07:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_147894",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/147894",
+      "published_at": "2026-11-03T20:55:32+00:00",
+      "raw_text": "🤬\nрф вдарила по ТЦ в Одесі, \n– місцеві канали.\n\n\n\n\nУсі деталі: \nhttps://t.me/+mALIsF2rQJI4ODFi",
+      "title": "Удар РФ по ТЦ в Одесі",
+      "summary": "Російські війська завдали удару по торговому центру в Одесі. Деталі події уточнюються.",
+      "category": "Події",
+      "tags": [
+        "Одеса",
+        "обстріл",
+        "ТЦ"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/3fbb9bdf8a.mov?token=HsJRDI4uPNRl8kJMj41ZuFRrIqzoqS5rf_5c0joFZkSre3uqlnpwaLXG9qpBP7jDBP1G8hhk7dCW4ijeDp3OrQvYi3NksJrsQPHwLkBRgFbXj5wDKh0UTjXG06LcmnycCtNqCFRnWXo-3tCufITGBdYNyW58jkaraegHr0v2QAKHThRI142LO82l3sqEj15KRZjY9r9Ntocaph_WjNGbsxkJ2P7v7DJiE5XOyKeLLZQf7Fxn_AD0mehyGAB8uwxz9dX4iIu0nxN0AZJb5Zbi2YKCQxcCYrGHC5cCgSyx-Uysw9eS3buM3CTq8c7iQmKliOEt41BwYW2f2B72T5bjww"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_90555",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/90555",
+      "published_at": "2026-11-03T20:53:01+00:00",
+      "raw_text": "🇳🇴\n Уряд Норвегії \nвиділяє\n приблизно €100 млн на три роки для інвестування в Україну спільно з норвезьким бізнесом.\n\n\n\n\nМіністр фінансів Єнс Столтенберг наголосив, що державні внески мають допомогти залучити приватний капітал до української промисловості й технологій\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Норвегія виділяє близько 100 млн євро на інвестиції в Україну",
+      "summary": "Уряд Норвегії спрямує приблизно 100 млн євро протягом трьох років на спільні інвестиції з норвезьким бізнесом в Україну. Кошти покликані залучити приватний капітал до української промисловості та технологій.",
+      "category": "Економіка",
+      "tags": [
+        "Норвегія",
+        "інвестиції",
+        "фінанси"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29086",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29086",
+      "published_at": "2026-11-03T20:46:19+00:00",
+      "raw_text": "“Hopes that market forces alone will solve the energy transition are misplaced,” writes \n@murat_kurum\n. Ahead of the conference this month, the president of COP31 makes the case for government intervention \nhttps://t.co/stJzMNUSuH\n — The Economist (\n@TheEconomist\n) \nNov 3, 2026",
+      "title": "Думка про енергетичний перехід",
+      "summary": "Майбутній президент COP31 заявляє, що самі лише ринкові сили не вирішать проблему енергетичного переходу. Він наголошує на необхідності державного втручання напередодні конференції.",
+      "category": "Екологія",
+      "tags": [
+        "енергетика",
+        "екологія",
+        "COP31"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78798",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78798",
+      "published_at": "2026-11-03T20:37:34+00:00",
+      "raw_text": "У \nЖитомирі\n повністю зникло світло, без електропостачання також залишилися окремі райони області, повідомляють кореспонденти Суспільного. У міськраді повідомили, що ввечері 3 листопада війська РФ атакували енергетичну інфраструктуру.\n\n\n\n\nУ \nКовелі\n на Волині РФ атакувала об’єкт інфраструктури, повідомив міський голова Чайка. Більшість споживачів залишаються без електропостачання. Місцевий водоканал переходить на резервні джерела живлення.",
+      "title": "Атака на енергоінфраструктуру: Житомир та Ковель залишилися без світла",
+      "summary": "У Житомирі та Ковелі через ворожі атаки на енергетичну інфраструктуру зникло електропостачання. Місцева влада та комунальні служби ліквідовують наслідки та переходять на резервні джерела.",
+      "category": "Війна",
+      "tags": [
+        "Житомир",
+        "Ковель",
+        "обстріли",
+        "світло"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_47661",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/47661",
+      "published_at": "2026-11-03T20:35:20+00:00",
+      "raw_text": "Група БпЛА курсом на Кременчук.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "БпЛА рухаються на Кременчук",
+      "summary": "Зафіксовано групу ворожих безпілотних літальних апаратів, що тримають курс на місто Кременчук. Оголошено небезпеку.",
+      "category": "Безпека",
+      "tags": [
+        "Кременчук",
+        "БпЛА",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_90554",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/90554",
+      "published_at": "2026-11-03T20:33:01+00:00",
+      "raw_text": "🇪🇺\n Естонія, Латвія, Литва та Польща \nзакликали\n ЄC розірвати двосторонні договори про захист інвестицій із росією. \n\n\n\n\nЗокрема, ці угоди містять положення, які заохочують інвестиції в російську економіку. Крім того, вони дають змогу навіть особам, щодо яких запроваджено санкції, звертатися до міжнародних арбітражних судів із позовами проти держав-членів ЄС.\n\n\n\n\nТакі угоди досі діють у 17 країнах-членах ЄС\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Країни Балтії та Польща закликали ЄС розірвати інвестиційні договори з РФ",
+      "summary": "Естонія, Латвія, Литва та Польща звернулися до Євросоюзу з вимогою скасувати двосторонні договори про захист інвестицій з Росією. Ці угоди досі діють у 17 країнах ЄС і дозволяють підсанкційним особам позиватися проти європейських держав.",
+      "category": "Світ",
+      "tags": [
+        "ЄС",
+        "санкції",
+        "економіка"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_103458",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103458",
+      "published_at": "2026-11-03T20:31:44+00:00",
+      "raw_text": "Група БпЛА курсом на Кременчук — ПС ЗСУ \n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
+      "title": "Загроза застосування БпЛА у Кременчуці",
+      "summary": "Повітряні Сили ЗСУ зафіксували рух групи безпілотників у напрямку Кременчука. Мешканців закликають перебувати в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "Кременчук",
+        "Повітряна тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/47659",
+          "raw_text": "⚠️\nЗагроза балістики\n.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
+          "published_at": "2026-11-03T18:54:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_90553",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/90553",
+      "published_at": "2026-11-03T20:13:01+00:00",
+      "raw_text": "Масована атака на енергетику, \nзаворушення\n в Петропавлівській Борщагівці планували для провокацій, СБУ повідомила Юлії Мендель про підозру в держзраді \n— \n#важливезадень\n \n\n\n \n\n\n🔸\n росіяни здійснюють одну з наймасштабніших атак на енергетичну інфраструктуру України. Зокрема, рф завдала \nмасованого удару \nпо трьох теплових електростанціях\n\n\n\n\n🔸\n У США \nрозпочали\n роботу перші виборчі дільниці для голосування на проміжних виборах до Конгресу\n\n\n\n\n🔸\n Правоохоронці, командування Нацгвардії та очільник МВС \nвийшли до журналістів із заявами \nщодо подій на Петропавлівській Борщагівці. За словами заступника голови СБУ, цей захід планували, щоб викрасти одного з військових Нацгвардії\n\n\n\n\n🔸\n Зеленський \nхотів поговорити\n з Маском після обмеження роботи Starlink, але той «не вийшов на зв’язок»\n\n\n\n\n🔸\n СБУ та ОГП заочно повідомили про підозру \nЮлії Мендель\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Масована атака на енергетику та підозра Юлії Мендель: головні події дня",
+      "summary": "Росія здійснила масштабну атаку на українську енергосистему, завдавши удару по трьох ТЕС. Крім того, СБУ повідомила про підозру в держзраді Юлії Мендель та розкрила деталі провокацій на Київщині.",
+      "category": "Політика",
+      "tags": [
+        "енергетика",
+        "СБУ",
+        "обстріли"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/CREO0GFuTF3kO58DGHjZCTC-_LWCUp02isP4e5VarCM0UuRojCnSFNriJUHfiUICzcRtMdu_rQL9qZriwbzdYphor2MKczb65x7WzBVZEQkmIZrfJDTuuZ6amBRQMC8qwCj8FB3i-UtrtChmFfnR6Is8_4uCcSYxRc_YFNjHQCeN8xmN9uFqgq8aONWsbYtmcWETnvJCacvivgMovOBieWCGxm33FzESMxiTphCeaukY3CFGoMPQoB5CNKHMbWuRGFrgWlR_bpTCy7uJ82A21Ds02JAtNL2SuVKTKegLAIxtDhHDvL24QL_UfUseoGaU_FECGYaX5gY76MKyvI2yEQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-03/bloomberg-news-now-video-mw12fndj",
+          "raw_text": "Bloomberg News Now\n\nUS Midterm Election Day\nDemocrats Cautiously Optimistic about Results\n2026 Most Expensive US Election in History\nVoters Go to Polls while Gasoline Averages Over $4 per Gallon\nNo Major Moves on Wall Street as Markets Await Election Results\nJob Numbers Jumped Unexpectedly in September\nMeta Seeks $15 Billion in USD Portion of Overseas Bonds\nTrump Claims Netanyahu Agreement in Ending US-Israeli Aide\nUS Strikes Iran's Qeshm Island\nCrude Oil Moving Lower\nZelinskyy & Merz State EU Should Be in Ukraine-Russia War Negotiations (Source: Bloomberg)",
+          "published_at": "2026-11-03T19:13:18+00:00"
+        },
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90543",
+          "raw_text": "❗️\n \nЮлії Мендель заочно \nповідомили\n про підозру в державній зраді \n— СБУ.\n\n\n\n\nЇї інкримінують державну зраду в умовах воєнного стану та виправдовування збройної агресії росії\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-11-03T16:17:30+00:00"
+        },
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90541",
+          "raw_text": "😡\n росіяни з ночі \nздійснюють\n одну з наймасштабніших атак на енергетичну інфраструктуру України.  \n\n\n\n\nЧерез пошкодження енергооб’єктів у Києві тимчасово припинили водопостачання, а в низці регіонів, зокрема в столиці, запровадили аварійні відключення електроенергії \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-11-03T15:36:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kremenchugtruexa_47660",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/47660",
+      "published_at": "2026-11-03T20:12:44+00:00",
+      "raw_text": "Ситуація по БпЛА на Полтавщині: \n\n\n\n\n▪️\n1  на Первомайське; \n\n\n▪️\n1 на Губське;\n\n\n▪️\n1 на Галяве.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Рух БпЛА на Полтавщині",
+      "summary": "Фіксується пересування ворожих безпілотників у напрямку Первомайського, Губського та Галяви. Жителів закликають перебувати в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "Полтавщина",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_90552",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/90552",
+      "published_at": "2026-11-03T19:53:36+00:00",
+      "raw_text": "🐕\n Ветеринари \nборються\n за життя собаки на прізвисько Щасливчик, якого евакуювали з Комишувахи після російського авіаудару 2 листопада.\n\n\n\n\nЗазначається, що Щасливчик дістав опіки очей, носа, верхньої губи та правої передньої лапи. Також у нього травмовані шкіра й очі, а на тілі є численні уламкові поранення, зокрема в ділянці живота. Через опіки собака навіть не може моргати\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "У Запоріжжі ветеринари рятують евакуйованого з Комишувахи собаку",
+      "summary": "Ветеринари борються за життя собаки на прізвисько Щасливчик, який отримав тяжкі поранення та опіки внаслідок російського авіаудару по Комишувасі 2 листопада. Тварина має численні уламкові поранення та опіки очей, через які не може моргати.",
+      "category": "Суспільство",
+      "tags": [
+        "тварини",
+        "війна",
+        "евакуація"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/W0-l853VyMbnQC8-r-1ft_H1ZFsouVzBEckp6YAxm42Nm-Qqiqh9w-Xx2LOcEFhmrYfKgcWx3zW3AsHzVwiJE6hUXg7m8ICiVMp-4BveLwfm4EpIk0H_40ZRHnyiCg7SL4l8dN6RHntNWOLaemn16d4f3ojOcAKQeANeISCKUJu0RYN6nx4j6H_gBpGmekn0qucLkwbbxafajsDwvSGk9_Zts_9d-mIcB-jNvzNnNZGkbrN57IF7DENex6YhUf89-S5WE46Fimp-BGCANoDFdLb3-S5e_3z9-bBTPOY_FXTwI2iB54s4BqCyJC5qylCJcYozBvRiCGFb97y2ObxbcQ.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29083",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29083",
+      "published_at": "2026-11-03T19:51:29+00:00",
+      "raw_text": "Hugo Gye, our Britain political correspondent, interviews Andy Burnham from the Caribbean \nhttps://t.co/yDuOdYgLTA\n — The Economist (\n@TheEconomist\n) \nNov 3, 2026",
+      "title": "Інтерв'ю з Енді Бернемом",
+      "summary": "Політичний кореспондент The Economist Г'ю Гай записав інтерв'ю з британським політиком Енді Бернемом. Розмова стосується актуальних політичних тем.",
+      "category": "Політика",
+      "tags": [
+        "інтерв'ю",
+        "велика британія",
+        "політика"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "EurointegrationComUA_23692",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23692",
+      "published_at": "2026-11-03T19:37:31+00:00",
+      "raw_text": "У дайджесті \nвівторка\n – вибори в США, Меланія Трамп \nготує зустріч з РФ\n, \nпокарання для Шредера\n.\n\n\n\n\nПопереду – тижні переговорів. Цього тижня будуть зустрічі Америка-Європа-НАТО-Україна, наступного – Україна-США-Росія в Абу-Дабі.\n\n\n\n\nПотім, на саміті у Китаї, може відбутися зустріч Трампа, Сі Цзіньпіна і Путіна. Ну а у грудні в Сполучених Штатах – саміт \"Групи двадцяти\".\n\n\n\n\nТим часом \nу Латвії впав російський дрон\n, у Польщі у ніч проти вівторка помітили \nпідозрілу активність на кордоні з Росією\n, за добу європейські авіакомпанії отримали \nп’ять повідомлень про вибухівку\n на борту літаків.\n\n\n\n\nНорвегія \nпосилює оборону кордону\n з РФ, щоб краще виявляти ворожі дрони, а в ЄС розробили \nрекомендації у разі надзвичайних ситуацій\n.\n\n\n\n\nДалі – скорочена версія \nдайджесту новин 3 листопада\n.\n\n\n\n\nВ ОЧІКУВАННІ ЗВІТУ ЄС\n\n\n\n\nВже 4 листопада Європейська комісія оприлюднить щорічний звіт про розширення ЄС, у якому представить власну оцінку прогресу України на шляху до членства.\n\n\n\n\nПосолка ЄС в Україні Катаріна Матернова заявила, що звіт про розширення\n \nпокаже, що Україна лишається у лідерах євроінтеграції\n.\n\n\n\n\nЗа її словами, звіт врахує сукупний прогрес у процесі виконання Україною критеріїв вступу до ЄС, а також\n \nвизнає відсутність відкату у реформах\n.\n\n\n\n\nТим часом Угорщина\n \nзнов не погодилася просунутися з відкриттям 4 та 5 кластерів\n для України. Хоча, за словами представника України при Європейському Союзі Тараса Качки,\n \nУгорщина не висувала нових предметних заперечень\n проти відкриття двох останніх переговорних кластерів у переговорах з Україною про вступ до ЄС.\n\n\n\n\nТИЖНІ ПЕРЕГОВОРІВ\n\n\n\n\nГоловна речниця Єврокомісії Паула Піньо повідомила, що завтра, 4 листопада, у Брюсселі\n \nвідбудеться зустріч щодо гарантій безпеки для України\n.\n\n\n\n\nЦю ж інформацію підтвердив і український президент.\n\n\n\n\n\"Завтра в Брюсселі будуть наші команди,\n будуть зустрічі Америка-Європа-НАТО-Україна\n. Будуть говорити про пакети відновлення, про \nгарантії безпеки\n. Будуть працювати на рівні команд\"\n, – сказав Зеленський.\n\n\n\n\nУ вівторок ввечері голова Служби зовнішньої розвідки Рустем Умєров уточнив, що протягом \n4-5 листопада\n представники українського уряду працюватимуть з партнерами у Брюсселі\n \nнад гарантіями безпеки та \"Планом процвітання\" (Prosperity Plan) для України\n.\n\n\n\n\nДо речі, більшість українців\n \nне вірять у надійність гарантій безпеки від США, більш впевнені у Європі.\n\n\n\n\nРаніше спеціальний представник президента США Стів Віткофф в X повідомив, що \nцього тижня\n відбудеться зустріч американської команди з представниками Франції, Німеччини, Великої Британії, ЄС та НАТО у Брюсселі.\n\n\n\n\nНа ній сторони обговорять гарантії безпеки для України, післявоєнну архітектуру безпеки Європи та економічні можливості для підтримки відбудови України.\n\n\n\n\nЗа даними Bloomberg,\n \nСША закличуть країни НАТО збільшити внески\n до програми закупівлі зброї для України.\n\n\n\n\nВже \nнаступного тижня\n, за словами Віткоффа, відбудуться переговори США, України та Росії. Вони заплановані на\n \n10-11 листопада в Абу-Дабі\n.\n\n\n\n\nВін додав, що обговорення будуть зосереджені на післявоєнних домовленостях щодо безпеки, деескалації, гуманітарних заходах та наступних кроках на шляху до миру.\n\n\n\n\nВидання Financial Times дізналося, що \nза два тижні\n може відбутися\n \nтристороння зустріч лідерів США, Китаю та Росії\n на полях саміту Азійсько-Тихоокеанського економічного співробітництва (АТЕС) у китайському Шеньчжені. \n\n\n\n\nА пізніше, у грудні, у Сполучених Штатах відбудеться саміт \"Групи двадцяти\". \n\n\n\n\nВИБОРИ В США\n\n\n\n\nУ США\n \nстартували проміжні вибори\n до Конгресу.\n\n\n\n\nПерші виборчі дільниці відкрилися у північно-східному штаті Вермонт о 5 ранку за східним часом (\n12:00 за Києвом)\n. \n\n\n\n\nТим часом президент Сполучених Штатів Дональд Трамп назвав Гренландію\n \nнайбільшим подарунком\n, який Європа коли-небудь робила США, а також заявив, що\n \nСША припинять фінансування Ізраїлю наприкінці 2026 року\n.\n\n\n\n\nБільше важливого і цікавого\n \n– в огляді новин\n вівторка\n за лінком:\n\n\nhttps://www.eurointegration.com.ua/news/2026/11/3/7249226/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "Дайджест новин: міжнародні події та безпека в Європі",
+      "summary": "Опубліковано дайджест ключових подій, що включає підготовку до виборів у США, падіння російського дрона в Латвії та посилення кордонів Норвегії з РФ. Також очікується публікація звіту Єврокомісії щодо євроінтеграції України.",
+      "category": "Світ",
+      "tags": [
+        "дайджест",
+        "Європа",
+        "безпека",
+        "вибори в США",
+        "Єврокомісія"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_90551",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/90551",
+      "published_at": "2026-11-03T19:29:34+00:00",
+      "raw_text": "🇩🇪\n \nНімецький оборонний стартап \nпланує\n наступного року спустити на воду 24-метрове безекіпажне надводне судно для охорони підводних кабелів та відстеження російського «тіньового флоту».\n\n\n\n\nСудно призначене для роботи в Балтійському та Північному морях, де суднам доводиться долати високі хвилі та низькі температури. Апарат зможе супроводжувати військові кораблі або самостійно стежити за морською інфраструктурою\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Німецький стартап побудує безекіпажне судно для охорони кабелів та стеження за флотом РФ",
+      "summary": "У Німеччині планують спустити на воду 24-метровий безпілотний корабель для захисту підводних кабелів у Балтійському та Північному морях. Апарат також стежитиме за суднами російського «тіньового флоту».",
+      "category": "Технології",
+      "tags": [
+        "Німеччина",
+        "технології",
+        "флот",
+        "безпека"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "TheEconomistOfficial_29079",
       "source_name": "@theeconomistofficial",
@@ -82,30 +655,27 @@
       "related_sources": []
     },
     {
-      "id": "rss_TNXXE6KGZAJC00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/videos/2026-11-03/bloomberg-news-now-video-mw12fndj",
-      "published_at": "2026-11-03T19:13:18+00:00",
-      "raw_text": "Bloomberg News Now\n\nUS Midterm Election Day\nDemocrats Cautiously Optimistic about Results\n2026 Most Expensive US Election in History\nVoters Go to Polls while Gasoline Averages Over $4 per Gallon\nNo Major Moves on Wall Street as Markets Await Election Results\nJob Numbers Jumped Unexpectedly in September\nMeta Seeks $15 Billion in USD Portion of Overseas Bonds\nTrump Claims Netanyahu Agreement in Ending US-Israeli Aide\nUS Strikes Iran's Qeshm Island\nCrude Oil Moving Lower\nZelinskyy & Merz State EU Should Be in Ukraine-Russia War Negotiations (Source: Bloomberg)",
-      "title": "Головні події дня від Bloomberg News",
-      "summary": "Огляд світових новин охоплює проміжні вибори у США, економічні показники, ринки та міжнародну політику. Зокрема, обговорюються питання ринку праці, ситуація на Близькому Сході та переговори щодо України.",
+      "id": "holosameryky_22462",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22462",
+      "published_at": "2026-11-03T19:15:01+00:00",
+      "raw_text": "🇺🇸\n \nПроміжні вибори у США 2026\n – дивіться спецвипуск Голосу Америки Українською \n➡️\n \nyoutube.com/live/NdZN62-p2N4\n\n\n\n\nПобачимося в ефірі \n3 листопада о 21:30 за Києвом\n (о 14:30 за Вашингтоном).\n\n\n \n\n\n🙌\n \nСтежмо разом\n за перебігом голосування та результатами виборів до Конгресу США!\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Спецвипуск Голосу Америки щодо виборів у США 2026",
+      "summary": "Голос Америки Українською проводить спецвипуск, присвячений проміжним виборам у США 2026 року. Ефір розпочнеться 3 листопада о 21:30 за Києвом для висвітлення перебігу голосування та результатів виборів до Конгресу.",
       "category": "Світ",
       "tags": [
         "США",
         "вибори",
-        "економіка",
-        "світ"
+        "медіа"
       ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": [
+      "importance": 2,
+      "media_list": [
         {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13912",
-          "raw_text": "Головне за 3 листопада:  \n\n\n\n\n📌\n На війні з російськими окупантами загинули військовослужбовці з Кременчука —\n Михайло Михайлов та Артем Георгієв\n.\n\n\n\n\n📌\n На головній площі Кременчука \nрозпочали встановлення різдвяної ялинки\n.\n\n\n\n\n📌\n У Кременчуці продовжують встановлювати \nавтономні системи живлення на світлофорах\n.\n\n\n\n\n📌\n З яких виплат військовослужбовця утримують аліменти на дітей, а які не враховують під час розрахунку? Читайте - \nТУТ\n. \n\n\n\n\n📌\n Понад три тисячі ветеранів та ветеранок, які втратили зір під час захисту України, \nотримають цільову державну підтримку\n. \n\n\n\n\n📌\n Жителів багатоповерхівок закликають враховувати графіки відключення світла \nпід час користування ліфтом. \n\n\n\n\n📌\n «\n17 500 грн від ООН\n»: шахраї підробили сторінку виплат та Ощад 24/7.\n\n\n \n\n\n📌\n \nСмарттелевізор\n може стати точкою входу для кіберзловмисників.\n\n\n\n\n📌\n Клуб юних моряк «Гардемарин» запрошує усіх охочих \nна безкоштовні заняття з домедичноі допомоги\n.\n\n\n\n\n📌\n \nПогода на завтра\n, 4 листопада буде мінлива хмарність. Без опадів. Температура: протягом доби 3-8ºтепла.\n\n\n \n\n\nПідписатися на канал «СИРЕНА КРЕМЕНЧУК\n»",
-          "published_at": "2026-11-03T16:01:45+00:00"
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/TfmUPDfDvWvIVX5ZzM-DOvGfGFnpR0qIdExV90gplA_soVouvSbQduZVljByIgw1hOgbsF1gKIBc5ctwjaqhFrAqIPvSKZ_vNTV0GP--aZ5mLTLttzattP-XT8petrEAaicBHAhuG5z2qXgL2egi4DSG8cpwq6dqVpb7x6ld3Ke8xEEo35wa-_NQO9zI97UUekZjKwdfAy6Vz21Hj5xTQaeAUFAUFTSYL--gmf_XjjcqvQkTlzapUETV_IOKEnFW0p7OlRP_TyRFXfPtAEPyaROTUB5848nOxBuORbzyG79Tqk_nsHPefmvwee-a5Wr2Jp-tLw8pXjkLC5dXqwFXfA.jpg"
         }
-      ]
+      ],
+      "related_sources": []
     },
     {
       "id": "TheEconomistOfficial_29078",
@@ -124,109 +694,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_103457",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103457",
-      "published_at": "2026-11-03T19:03:52+00:00",
-      "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого",
-      "title": "Зниження рівня небезпеки у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі рівень небезпеки знижено до жовтого. Ситуація стабілізується.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчук",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/Pu0FpsATnuI47CF9aSnvEUAZhmrOwP_NJXge4a6vwzhk0OgBRKdV3J5lV1nkufg6sLR3X6Ct4YuT70R2-2xSWymiuGf2EMbsrV6PeFLDBJIsJYte_6Zz4llUrWRPHa6NFVrJJMqFxw159OsBGC7prIUOiM2PKJxUJ0evRkDhLORGe9_dHXtkvbyv6nXubcfUHKxtG8k3I87mAfdxTVtiVDCeaRJ2nbqmr6rcqpUYfnp3d8_kZAEVAid-G5w0MbbSzIGcpuFS0TLYLSw-ZMsO9tyE4U_-MOUgUR-rgKfWdLqylvImZdxN2X9-yG4UXZd_B3jtKFlHiKa-3eTcaBp8vg.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/ly1aqDxjA5ZQE3t6u9bg7iJBPcyAWyKjGmbkt-UAbn9Ax33r-OusI8Th3C__Em8FpyNjcPsVEWDdyEdhnQNhpAmDVDEBiEdyUve4avzVojfDTKpNH_mnbyoNtJlFGgCz69eVbP8FbztGGvRg_7yore_UKsrSe76n5lgAJV_3Uo6YGbHDq0xraq37W5F6-bHZwSftR9nN0n73YFhiqgHilwI4Z5c2erLgVh_Q5Ay5b9G8k8CShmq3DKp5qQoepyV4CkSHKmJrVZQLmwpf2EMvvljuuP36mWYgknKqIW9DUd7ayes-5z1plioiIsaNIvyBFqIuAWblwQE5BUAG4aEOeA.jpg"
-        },
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/WPOSrrTP1XMtl7ySopszdPveqb6wrPrGoSa7a9mBxuKZUzk7GzcMFZNTXgw1lWHnYzVaninGhjDxvGDYv_UEeupCVcY0Lw6MCR_za0wiw2W6ua-oLQvi7va0DdkV7r5q73ra7BYZKpBjVEoVft3msXJIhfEA-DUuNdzAHW4LW7bAvVUGlqPqSWqeAgruCqxbMJnAK_YeW316wPyozlYcerrTWpjq1V98r7UDUiQd3xvcOMBQYFwA61DqBdco9PBBcqQASOKsI-EYORjZuWKNzstFM-iCs6RbH7y4U0852nsH_Vn9_7xapRi65ods0vwvwYw7_RXn6ygKlmVvKvlr4A.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13916",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-          "published_at": "2026-11-03T18:46:48+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59970",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-          "published_at": "2026-11-03T18:46:47+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13915",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-03T18:13:01+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13914",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-03T17:21:19+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59968",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-03T17:21:18+00:00"
-        },
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/us-job-openings-jump-to-highest-level-since-may-layoffs-fall",
-          "raw_text": "US Job Openings Jump to Four-Month High, Layoffs Decline\n\nUS job openings unexpectedly jumped in September to a four-month high and layoffs fell to the lowest level in over a year, signaling firmer demand for workers heading into the fourth quarter.",
-          "published_at": "2026-11-03T15:03:35+00:00"
-        }
-      ]
-    },
-    {
-      "id": "sirena_kremenchuk_13917",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13917",
-      "published_at": "2026-11-03T19:03:36+00:00",
-      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-      "title": "Повітряна тривога на Кременчуччині",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу із жовтим рівнем небезпеки. Жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59971",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-03T19:03:35+00:00"
-        },
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/47658",
-          "raw_text": "❗️\n \nТРИВОГА\n \n⚠️\n\n\n\n\nМапа з рухом цілей для міста та області тут: \n[ЗАВАНТАЖИТИ МАПУ]",
-          "published_at": "2026-11-03T18:46:45+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103456",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
-          "published_at": "2026-11-03T18:46:40+00:00"
-        }
-      ]
     },
     {
       "id": "hromadske_ua_90550",
@@ -297,24 +764,6 @@
       ]
     },
     {
-      "id": "kremenchugtruexa_47659",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/47659",
-      "published_at": "2026-11-03T18:54:29+00:00",
-      "raw_text": "⚠️\nЗагроза балістики\n.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
-      "title": "Загроза застосування балістичного озброєння",
-      "summary": "Зафіксовано загрозу удару балістичними ракетами по регіону. Громадян просять негайно пройти до найближчих укриттів.",
-      "category": "Безпека",
-      "tags": [
-        "балістика",
-        "загроза",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "TheEconomistOfficial_29077",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/29077",
@@ -336,6 +785,30 @@
           "source_url": "https://t.me/TheEconomistOfficial/29063",
           "raw_text": "This week on Inside Economics, Henry Curr heads to New York to meet Pierre Yared, the former acting chair of Donald Trump’s Council of Economic Advisers.Tune in from 6pm London time to hear their assessment of the president’s economic progress \nhttps://t.co/SljvR9VWyy\n — The Economist (\n@TheEconomist\n) \nNov 3, 2026",
           "published_at": "2026-11-03T15:46:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_103456",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103456",
+      "published_at": "2026-11-03T18:46:40+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
+      "title": "Оголошено повітряну тривогу",
+      "summary": "У регіоні введено червоний рівень небезпеки через початок повітряної тривоги. Необхідно пройти до укриттів.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103453",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-03T17:21:18+00:00"
         }
       ]
     },
@@ -864,30 +1337,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_103453",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103453",
-      "published_at": "2026-11-03T17:21:18+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-      "title": "Оголошено повітряну тривогу",
-      "summary": "В регіоні оголошено повітряну тривогу. Встановлено жовтий рівень загрози.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103442",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-          "published_at": "2026-11-03T11:33:36+00:00"
-        }
-      ]
-    },
-    {
       "id": "rss_TNXH8UKK3NY800",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/hydro-quebec-forced-to-import-more-power-after-deals-with-us-utilities",
@@ -1078,30 +1527,6 @@
       "related_sources": []
     },
     {
-      "id": "holosameryky_22457",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22457",
-      "published_at": "2026-11-03T16:45:26+00:00",
-      "raw_text": "Президент Дональд Трамп і глава Держдепу Марко Рубіо заявляють, що проміжні вибори до Конгресу, які відбудуться у вівторок, \nне змінять його зовнішньополітичного курсу. \n\n\n\n\nОднак опозиційні демократи сподіваються \nздобути більшість \nу Палаті представників і Сенаті, що посилило б їхні спроби обмежити удари США по іранському режиму, а також вплинути на підхід Трампа до завершення російсько-української війни.\n\n\n\n\n#VOAMidterms2026\n\n\n\n\n \n📌\n Читайте тут \n➡️\n \nhttps://www.holosameryky.com/a/8218275.html\n\n\n\n\nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-      "title": "Трамп і Рубіо запевняють, що проміжні вибори не змінять зовнішню політику США",
-      "summary": "Президент Дональд Трамп та держсекретар Марко Рубіо заявляють, що результати проміжних виборів до Конгресу не змінять курс зовнішньої політики. Водночас демократи сподіваються отримати більшість, щоб вплинути на політику щодо Ірану та війни в Україні.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "вибори",
-        "Конгрес",
-        "Дональд Трамп"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/Tlun-8m_55gOVnQrnyESAorlikpc3WAVGD2DWciiYsPaRxOkRuN964X3tSp6z3ypEilEP7V3b_wsMU0UYXv7W7JVecXZ_D4eccQPuqdE2EONoXaaw-rL6HqJcmYDyeNk0XF4qtQZHJct5M4BqqLZvnJAl-1PaEI50Qd91sK2zXEC8tiexu6uxXL2TmWcq3aMjsVEDLsFMm3bXIZTC-cgYolpjWD2Nmi4oswRCmUmbyW6Zw0hSqUP1-YH3CRY_2ClOlwdK3lWZDNlabJr4XVqo7TA3aNe77lQbXF21PZ4T4l-Y3DlnhgLTZeDtEPDUydcEa3JUtSofXEyETZlRS5jzQ.jpg"
-        }
-      ],
-      "related_sources": []
-    },
-    {
       "id": "hromadske_ua_90544",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/90544",
@@ -1133,9 +1558,16 @@
         "вибори",
         "Суспільне"
       ],
-      "importance": 2,
+      "importance": 3,
       "media_list": [],
-      "related_sources": []
+      "related_sources": [
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+          "raw_text": "How the US midterm results could unfold - as millions of Americans head to the polls\n\nThe BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+          "published_at": "2026-11-03T10:32:56+00:00"
+        }
+      ]
     },
     {
       "id": "TheEconomistOfficial_29065",
@@ -1186,42 +1618,6 @@
       ]
     },
     {
-      "id": "hromadske_ua_90543",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90543",
-      "published_at": "2026-11-03T16:17:30+00:00",
-      "raw_text": "❗️\n \nЮлії Мендель заочно \nповідомили\n про підозру в державній зраді \n— СБУ.\n\n\n\n\nЇї інкримінують державну зраду в умовах воєнного стану та виправдовування збройної агресії росії\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Юлії Мендель заочно повідомлено про підозру в держзраді",
-      "summary": "СБУ заочно повідомила про підозру колишній речниці президента Юлії Мендель. Їй інкримінують державну зраду в умовах воєнного стану та виправдовування збройної агресії РФ.",
-      "category": "Політика",
-      "tags": [
-        "СБУ",
-        "Юлія Мендель",
-        "держзрада"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/oWu7e4_q3CvAOAxiMcT9exbIV_rnURwc_E-iaLctXIL1d1EXiUVWXKFiaX36hx7z4fJP-z2trZDAVgOkLsizuv-dU6S-eLsNDOVLU44dLgFMria1LSCey_egkQ-5LxOw5cqPHjEloA4lVjuwveq8iTdwdW2Hzqh1SRZhfFb4AA1-Mr4-hJowZpsSoJuwhr6YRtTSnWkFi6tTeyL3aMfn6mAV0v8T1mp0zwGhmXx0xLsqgjeHZNRAfGOgMGeSwTs_pDidbu6wZCA6bc2pE5J0a7y58v7th0RvA9aejHv-E9Qi2AJ2PIXWeHXb5ghXphoVyFllNvBEmgMJAU3kUhzeBQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78790",
-          "raw_text": "Юлії Мендель заочно \nповідомили\n про підозру в державній зраді та виправдовуванні збройної агресії РФ, передає СБУ. \n\n\n\n\nЗа даними слідства, у своїх публічних висловлюваннях вона дискредитує Україну та виправдовує війну РФ. Зараз Мендель перебуває за кордоном.",
-          "published_at": "2026-11-03T16:06:04+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/147878",
-          "raw_text": "👀\nЮлії Мендель заочно повідомили про підозру у державній зраді\n, – СБУ та ОГП.\n\n\n\n\n Колишній прессекретарці Зеленського ікримінують державну зраду в умовах воєнного стану та виправдовування збройної агресії рф.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
-          "published_at": "2026-11-03T16:05:46+00:00"
-        }
-      ]
-    },
-    {
       "id": "hromadske_ua_90542",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/90542",
@@ -1252,24 +1648,6 @@
         "фінанси",
         "суд",
         "кредитори"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNXOGJVTTD1X00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-      "published_at": "2026-11-03T16:00:19+00:00",
-      "raw_text": "AI Investment Boom Demands Stronger Financial Oversight\n\nThe unprecedented investment boom to build out the infrastructure for artificial intelligence is projected to reach more than $10 trillion, if all current plans are realized. The money is coming from many sources, including corporate cash flows, public equity and debt issuance, private debt issuance, off-balance sheet lease obligations and guarantees to AI data center developers from so-called hyperscalers and the leading chip provider, Nividia Corp.",
-      "title": "Бум інвестицій в штучний інтелект потребує посиленого фінансового нагляду",
-      "summary": "Обсяг інвестицій в інфраструктуру штучного інтелекту може перевищити 10 трильйонів доларів із різних джерел фінансування. Експерти наголошують на необхідності пильнішого нагляду за цими процесами.",
-      "category": "Технології",
-      "tags": [
-        "штучний інтелект",
-        "інвестиції",
-        "економіка"
       ],
       "importance": 2,
       "media_list": [],
@@ -1395,49 +1773,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_90541",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90541",
-      "published_at": "2026-11-03T15:36:01+00:00",
-      "raw_text": "😡\n росіяни з ночі \nздійснюють\n одну з наймасштабніших атак на енергетичну інфраструктуру України.  \n\n\n\n\nЧерез пошкодження енергооб’єктів у Києві тимчасово припинили водопостачання, а в низці регіонів, зокрема в столиці, запровадили аварійні відключення електроенергії \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Масована атака на енергосистему України",
-      "summary": "росія здійснила одну з наймасштабніших атак на енергетичну інфраструктуру України. У Києві та інших регіонах введені аварійні відключення світла, також є проблеми з водопостачанням.",
-      "category": "Суспільство",
-      "tags": [
-        "обстріл",
-        "енергетика",
-        "відключення світла",
-        "Київ"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/u1kdbn-QO5c0TatRmZWvn9UUYCOVV4wmADuaQCBJ-ZDhbERKrSsJsQx5BeXXHMf7cdB-ARwVmZoKk0nGb4pGRe1ge4YnDiFp7XWDIsOll62bzn18dB1yL8YMr4K06_TfhQdrnvArywPe6GdO7g9C-DHNU63hu28RIOcTmxNxZaue4AFEM6UrvzgQLA_dhBIw--C0zlIbPU-u0uA4W02ekOIt5zzqairQlDJqxr3GH36j33XjyJorkYiqJ14F8zJcdpEwLGzXJqWp31EHLUB4bKqBYIzN_sar8Co756hrLYFhzAI11plB_1GocGkzVLbQGSfRv0f7-UuFerV9Ez7xGQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59964",
-          "raw_text": "😡\nРосія здійснює одну з наймасштабніших атак на енергетику України, —\n \nУкренерго\n\n\n\n\nЗ ночі Росія масовано атакує енергетичну інфраструктуру України. Лише за минулу добу ворог понад 20 разів цілеспрямовано обстрілював енергооб’єкти, застосувавши безпрецедентну кількість засобів ураження.\n\n\n\n\n⚠️\nВнаслідок атак ситуація в енергосистемі суттєво ускладнилася. У низці регіонів, зокрема в Києві, вимушено запровадили аварійні відключення електроенергії.\n\n\n\n\n❗️\nВ «Укренерго» повідомили, що тисячі енергетиків працюють над ліквідацією наслідків обстрілів та відновленням електропостачання. Насамперед заживлюватимуть об’єкти критичної інфраструктури.",
-          "published_at": "2026-11-03T15:02:36+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78787",
-          "raw_text": "💡\nЗ ночі \nтриває\n одна з наймасштабніших атак на енергетику України, повідомили в Укренерго. \n\n\n\n\nПротягом минулої доби РФ атакувала енергообʼєкти понад 20 разів. Через наслідки обстрілів у Києві та низці регіонів запровадили аварійні відключення світла.\n\n\n\n\nЕнергетики працюють над відновленням електропостачання. Спершу заживлюватимуть обʼєкти критичної інфраструктури.",
-          "published_at": "2026-11-03T14:48:47+00:00"
-        },
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/90538",
-          "raw_text": "🤬\n росіяни \nатакували\n Дніпро, Київщину та Житомирщину. Унаслідок ударів загинули троє людей, ще щонайменше 25 людей постраждали. \n\n\n\n\nНа Київщині російський безпілотник влучив у приватний будинок. Загинула 14-річна дитина, ще один із її батьків, за попередніми даними, зазнав поранення.\n\n\n\n\nУнаслідок російського удару по Дніпру загинули двоє людей, ще 20 зазнали поранень, 14 постраждалих перебувають у лікарнях.\n\n\n\n\nТакож під російським ударом опинилася Житомирщина. Постраждали четверо людей\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-11-03T14:36:01+00:00"
-        }
-      ]
     },
     {
       "id": "EurointegrationComUA_23689",
@@ -18871,159 +19206,6 @@
         }
       ],
       "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_90192",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90192",
-      "published_at": "2026-10-27T20:46:58+00:00",
-      "raw_text": "😡\n \nАдміністрація Трампа \nможе зняти\n санкції із російського інвестиційного фонду, який називали «чорною касою» путіна \n— NYT.\n\n\n\n\nАмериканський посадовець підтвердив, що адміністрація Трампа розглядає таку можливість задля «покращення відносин між США та росією та сприяння припиненню війни». Цей співрозмовник також похвалив очільника російського фонду прямих інвестицій Кирила Дмитрієва. Він назвав його «корисним посланцем» для американських переговірників у дискусіях щодо припинення війни \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Адміністрація Трампа розглядає зняття санкцій з російського інвестфонду",
-      "summary": "Адміністрація Трампа може скасувати санкції проти російського інвестиційного фонду задля покращення відносин із РФ та припинення війни. Про це повідомляє The New York Times із посиланням на американського посадовця.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "Росія",
-        "санкції",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/MCbVgfBdgSc_Xk0Ac-D90pawe8Q9Dn6XXoEt7jBW3PYp6pTOnd9d0VjDw_JU63HOvJ4FKgPqRluerghj0YJ4SdPqe6EJWBD97MIWtxvjp6NScGdHGCsp5YKOHiN42Pqktp4MTQMdFxX1A8mGHa3jsNl94aRsgI3y0m5wVm_0soRgzSwqymP8TqfnEP2zS_C_7Kb4yS8aqlCZW1cZhJlkID5cePcZ2Fs1O3Cm0DIrtgPeDgjb2B-4aB-tGIJ3ulxgCSoj8v1QcI5yK3t1_EX0vzJ9CckqWdJcA5rne9RFfLSxApNRdGzKAI8-aT8Bw6PnGb2BEi65fuFedsUUDAjvzQ.jpg"
-        }
-      ],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_147283",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/147283",
-      "published_at": "2026-10-27T20:45:03+00:00",
-      "raw_text": "🔥\nрф під масованою атакою «Фламінго» + БпЛА,\n – росЗМІ.\n\n\n\n\nЧекаємо хороші новини.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
-      "title": "Атака на території рф",
-      "summary": "Російські ЗМІ повідомили про масовану атаки безпілотників та невідомих об'єктів на території рф. Інформація уточнюється.",
-      "category": "Війна",
-      "tags": [
-        "рф",
-        "атака",
-        "БпЛА"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/95f189c3c5.mp4?token=HUn6-IiA0SQEhNd0XipXcatZJNbTHUV6i0OvsN04SdxqQ9QFzFtrEty0qJDpTAK3Rm_nNMxpg2xtreIsolpj6Bd6lq6vy6oge4xEOyKlbqI-2bfGMBNMTE0OH-d8C_mzYk8BRfJHvvSFyOhs0gxqQkZy81o522XfT5rcx_JoGnfH9XSMGirHs6DoR7jc-tmC0L3J1nBG9ykLD1bCkx4RlYFyCzATwKwVhF5WYmURPBc1vzEaNMGxoFdbhfmHHWJP3X-mhGqk9u4PhjRJWlZ9LeGzu0e85AhMqQgRVTS93TzgssGnWlB1AX159a5r0ywRGS3o5cDy-0zr6WfcFWkDHw"
-        }
-      ],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_147282",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/147282",
-      "published_at": "2026-10-27T20:42:05+00:00",
-      "raw_text": "Загроза балістики з Брянська – у Києві та областях, де оголошено тривогу.\n Червоний рівень небезпеки.\n\n\n\n\n22:52 відбій.\n\n\n\n\nЗахисти себе та близьких. Всі сповіщення про небезпеку тут: \nhttps://t.me/monitor_ua",
-      "title": "Загроза балістичного озброєння",
-      "summary": "Зафіксовано загрозу застосування балістичних ракет з напрямку Брянська у Києві та областях. Пізніше було оголошено відбій тривоги.",
-      "category": "Безпека",
-      "tags": [
-        "Київ",
-        "балістика",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/59575",
-          "raw_text": "Загроза балістики",
-          "published_at": "2026-10-27T17:27:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": "hromadske_ua_90191",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90191",
-      "published_at": "2026-10-27T20:09:26+00:00",
-      "raw_text": "Навколо Олешок \nоголосили\n режим тиші для евакуації населення, а в Україні писали щорічний Радіодиктант національної єдності — \n#важливезадень\n\n\n\n\n🔸\n О 3:00 за київським часом на Херсонщині \nзапровадили\n режим припинення вогню, щоб вивести людей з окупованих Олешок, де триває гуманітарна катастрофа. Арахамія\n повідомив\n, що режим тиші в Херсонській області триватиме до 22:59 1 листопада \n\n\n\n\n🔸\n В Україні \nвідбувся\n щорічний Всеукраїнський радіодиктант національної єдності. Журналісти hromadske побували на двох локаціях та поспостерігали, як це відбувалося \n\n\n\n\n🔸\n Українська компанія HIMERA спільно з данською GomSpace Group \nзапустила\n перший тестовий супутник майбутньої незалежної української мережі зв’язку \n\n\n\n\n🔸\n Компанія «Нова пошта» вже \nвтілила\n проєкт приватної протиповітряної оборони, яка вже збивала російські ударні «шахеди» \n\n\n\n\n🔸\n У Швеції\n затримали\n колишнього народного депутата Дмитра Святаша, який закликав до змін територіальної цілісності України, за що отримав заочний вирок в Україні  \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Головні події дня: режим тиші в Олешках, Радіодиктант та затримання Святаша",
-      "summary": "На Херсонщині оголосили режим тиші для евакуації з Олешок, а в Україні пройшов щорічний Радіодиктант національної єдності. Крім того, у Швеції затримали ексдепутата-втікача Дмитра Святаша.",
-      "category": "Україна",
-      "tags": [
-        "Олешки",
-        "евакуація",
-        "Радіодиктант",
-        "Святаш"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/Dv7K0b_Z1jaLNlwHDVZ-BjB_Fuzwfki5G7P-yr5xOCJ_61GhZyxBXIQY3q7EKjmzmDCgE8qz87koFoWVrdGwL3xpC-_X5dEu23wGjxyqjjn4f7ScFgSakIAH8t4jo2m2CYOns9-LSkPvFcroXbaj80A-Gaf8maRZ3KjEtepOXqA4qDbLYkJyjjli6Ww38y_q_pwD2GEp-jsjTwBJ-VLkkXxbynwosKIrA7Fy2qlUhgQqK3o7FziopOfzSPT1zTz9r3LbyujkVKfE-VpzpLa2alOywuJ4pLzi0aUI3Y9q0lOSSRG_jUQCOA1_uLio93O5SRZalp-tWBeJc8nhDsRT3A.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78328",
-          "raw_text": "💔\n У Херсоні через \nрежим тиші\n, оголошений у межах гуманітарної місії в Олешках, стало значно тихіше. Містяни кажуть, що люди масово вийшли на вулиці, у місті побільшало машин і відвідувачів у закладах.\n\n\n\n\nУ центрі екстреної медичної допомоги повідомили, що за день не отримували викликів через поранення внаслідок дронових атак чи артобстрілів. Режим тиші має тривати до кінця 1 листопада.",
-          "published_at": "2026-10-27T19:33:26+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TNJF8FKK3NY900",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation",
-      "published_at": "2026-10-27T19:43:06+00:00",
-      "raw_text": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation\n\nPhysical Intelligence, a startup developing artificial intelligence software to power robots for real-world tasks, is in funding talks that would nearly double its valuation to roughly $20 billion, according to people familiar with the matter.",
-      "title": "Стартап Physical Intelligence готується до оцінки у $20 мільярдів",
-      "summary": "Розробник штучного інтелекту для роботів Physical Intelligence проводить переговори про фінансування. Це може майже подвоїти оцінку компанії до приблизно $20 млрд.",
-      "category": "Технології",
-      "tags": [
-        "стартапи",
-        "AI",
-        "інвестиції",
-        "робототехніка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "EurointegrationComUA_23584",
-      "source_name": "@EurointegrationComUa",
-      "source_url": "https://t.me/EurointegrationComUA/23584",
-      "published_at": "2026-10-27T19:39:38+00:00",
-      "raw_text": "ДАЙДЖЕСТ ВІВТОРКА\n\n\n\n\nПрезидент Фінляндії і прем’єр Норвегії поговорили з правителем Росії. \n\n\n\n\nКраїни Е5 заявили про готовність брати більшу відповідальність в обороні Європи. У Польщі \nстворять центр технічного обслуговування ракет PAC-3\n для систем Patriot. \n\n\n\n\nУ Великій Британії закликали бути готовими до сценарію війни між НАТО та Росією.\n\n\n\n\nУ Празі \nгорів будинок власника збройового концерну STV,\n що виробляє снаряди для України, а у Молдові \nхакери викрали дані\n близько 750 тисяч мешканців.\n\n\n\n\nУ Швеції\n \nзатримали засудженого в Україні проросійського\n ексдепутата Святаша, а \nНорвегія видала Україні банкіра\n, якого підозрюють у крадіжці 1 млн грн з рахунків клієнтів. \n\n\n\n\nДалі – скорочена версія \nдайджесту новин 27 жовтня\n.\n\n\n\n\nРОЗМОВА ДВОХ ЛІДЕРІВ З ПУТІНИМ\n\n\n\n\nЛідери Фінляндії та Норвегії провели\n \nпереговори з правителем Росії Владіміром Путіним\n.\n\n\n\n\nПрезидент Фінляндії Александр Стубб та прем’єр-міністр Норвегії Йонас Гар Стьоре обговорили війну Росії проти України, а також дипломатичні зусилля, спрямовані на припинення війни та сприяння миру й стабільності в Європі.\n\n\n\n\nПрезидент України Володимир Зеленський повідомив, що лідери Фінляндії та Норвегії \"чітко сказали\" Путіну\n \nпро необхідність реальних деескалаційних кроків щодо української енергетики на інфраструктури\n.\n\n\n\n\nВін подякував Стуббу та Стьоре \"за детальний бриф і цю активність на підтримку нашої дипломатії та спільних з усіма партнерами мирних зусиль\".\n\n\n\n\nПрезидент Фінляндії поінформував, що\n \nдзвінок Путіну готували спільно з Україною\n.\n\n\n\n\nМіністр закордонних справ Норвегії Еспе Барт\n \nЕйде заявив, що не бачить суперечності між тим\n, щоб бути \nсеред найважливіших прихильників України\n, і тим, щоб намагатися \nсприяти досягненню мирної угоди\n.\n\n\n\n\nДо речі,\n \nНорвегія виділяє майже 50 млн євро\n на енергетичну підтримку України.\n\n\n\n\nА фінська міністерка закордонних справ Еліна Валтонен заявила, що\n \nФінляндія не бажає виступати посередником у війні\n, бо підтримує Україну.\n\n\n\n\n\"Фінляндія не шукає ролі посередника у війні, тому що ми зараз і в майбутньому залишимось на боці України\"\n, – сказала Валтонен на пресконференції з українським і норвезьким колегами у Гельсінкі.\n\n\n\n\nМіністр закордонних справ України Андрій Сибіга сьогодні провів зустріч зі своєю фінською колегою Еліною Валтонен, в ході якої\n \nвручив їй Орден княгині Ольги III ступеня\n.\n\n\n\n\nРЕАКЦІЯ НА ПЕРЕГОВОРИ З ПУТІНИМ\n\n\n\n\nПрем’єр-міністерка Данії Метте Фредеріксен скептично ставиться до телефонної розмови, бо ця ініціатива \"\nне була узгоджена\n з жодним із нас\"\n.\n\n\n\n\nПрем’єр Фінляндії Петтері\n \nОрпо пояснив, що це продовження процесу в Осло\n. \nНагадаємо, \n20 жовтня в норвезькій столиці пройшли переговори\n між українським президентом, спецпредставниками президента США, а також з представниками країн Європи. \n\n\n\n\nГлава уряду Швеції Ульф\n \nКрістерссон назвав ризикованим проведення переговорів\n, які \nможуть розколоти єдину позицію Європи\n.\n\n\n\n\n\"Якщо подивитися на те, що Росія робить на місцях щодня, то, на мою думку, немає нічого, що вказувало б на те, що вони прагнуть миру – \nвони прагнуть покори\n\"”, \n– наголосив Крістерссон.\n\n\n\n\nПрем’єр-міністр Польщі Дональд Туск розповів, що отримав від лідерів Фінляндії та Норвегії інформацію про телефонну розмову, і зазначив, що вони були\n \n\"стримано оптимістичними\" щодо подальших мирних переговорів\n.\n\n\n\n\nДИВЕРСІЇ В ЄВРОПІ\n\n\n\n\nРумунія посилила охорону стратегічних об’єктів\n після спроби підпалу заводу. Румунське Міністерство закордонних справ у вівторок\n \nвикликало посла Росії в Бухаресті для надання роз’яснень\n \nщодо диверсії на заводі Carfil\n у Брашові, за якою нібито стояла мережа, що керується з РФ.\n\n\n\n\nМіністр закордонних справ України назвав\n \nударом по європейській безпеці\n спробу підпалу оборонного підприємства Carfilі.\n\n\n\n\nТим часом виданню Financial Times стало відомо, що син президента США\n \nпровів два дні на полюванні в Монголії з наближеним до Кремля магнатом\n.\n\n\n\n\nКрім того, адміністрація Трампа, за даними ЗМІ,\n \nрозглядає зняття санкцій з російського інвестиційного фонду\n.\n\n\n\n\nВ Туреччині пройшли\n \nрейди проти банди, яка може бути причетна до підпалу об'єктів Starlink\n.\n\n\n\n\nБільше важливого і цікавого\n \n– в огляді новин \nвівторка\n за лінком:\n\n\nhttps://www.eurointegration.com.ua/news/2026/10/27/7248726/",
-      "title": "Міжнародний дайджест: переговори з Путіним та безпека Європи",
-      "summary": "Лідери Фінляндії та Норвегії провели переговори з Путіним щодо війни в Україні. У Європі обговорюють посилення оборони на тлі загроз.",
-      "category": "Світ",
-      "tags": [
-        "політика",
-        "безпека",
-        "Росія",
-        "Європа"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/AZGYXjwSIHAi6MG9QzhN9CTd8oyHHJGd7-XKhwfvgAai63q6CYjizK85SdatRhrqfNG_JPR-4BKnhHEPt58WXOCw4SjN9bNFBo65JlGlvzmknY9Vro_4CY9p-L1tOyjn4ly92XJXDnvR89ActItgTITT3mfNhZFOOSjmD7c9RhJmvGTdwnl2N9OeOcl1Rcx06vJrCr9mKjg_Sq9cM73KNtv0x6tC-s-TT-Ktyeam2_7qt_6YKp6lWbUSNDqZPtuzQQtnDABRep51fGKyzz_PWTxlQqY01eY9hj6eOLvdrA-g67BhYEJQTgTaLPDcQs253aBDVoFOZJAYIala28f7dw.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23578",
-          "raw_text": "Лідери Фінляндії та Норвегії подзвонили Путіну обговорити завершення війни  У вівторок, 27 жовтня, президент Фінляндії Александр Стубб та прем’єр-міністр Норвегії Йонас Гар Стьоре з власної ініціативи провели телефонну розмову з очільником Кремля Владіміром…",
-          "published_at": "2026-10-27T14:25:35+00:00"
-        }
-      ]
     }
   ]
 }
