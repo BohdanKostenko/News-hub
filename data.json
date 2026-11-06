@@ -1,13 +1,405 @@
 {
-  "updated_at": "2026-11-05 22:52",
+  "updated_at": "2026-11-06 03:24",
   "digest": [
-    "Штучний інтелект переходить від ролі інструмента до самостійного виконання наукових завдань.",
-    "Уряд Канади у бюджеті-2026 спрямував нафтові доходи на житло та податкові пільги.",
-    "Президент Парагваю Сантьяго Пења подав у відставку через наслідки фінансової кризи Ueno.",
-    "Авіакомпанія Qantas підвищує ціни на квитки та скорочує рейси через дорожчання палива.",
-    "Білий дім планує номінувати Ребеку Гошорн Джурату на посаду в Мінфіні США."
+    "Світові ринки та Nasdaq зазнали значного падіння через побоювання щодо нафтової кризи та витрат на штучний інтелект.",
+    "Демократичний уряд М'янми у вигнанні використовує термінали Starlink для роботи шкіл і лікарень.",
+    "У Києві та кількох областях оголошено «жовту» тривогу через загрозу ворожих безпілотників.",
+    "Інфляція в Таїланді вперше за три роки перевищила цільовий показник Центробанку і досягла 3,9%.",
+    "У Китаї державні підприємства стали основним джерелом кадрів для політичного кар'єрного зростання в Компартії."
   ],
   "articles": [
+    {
+      "id": "rss_TO24IVT9NJO700",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
+      "published_at": "2026-11-06T03:15:32+00:00",
+      "raw_text": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean\n\nWith the Iran war roiling oil markets, concerns about AI spending rattling technology stocks and uncertainty over the global economic lookout, there’s no shortage of turbulence in global markets.",
+      "title": "Ситуація на світових ринках на тлі нафтової кризи та інвестицій в AI",
+      "summary": "Ескалація навколо Ірану та занепокоєння щодо витрат на штучний інтелект спричинили турбулентність на світових ринках. Інвестори стикаються з невизначеністю глобальної економічної перспективи.",
+      "category": "Економіка",
+      "tags": [
+        "ринки",
+        "акції",
+        "економіка",
+        "нафта"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TO1XK8KIUPS500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-11-06/nasdaq-suffers-worst-rout-since-march-2020",
+      "published_at": "2026-11-06T03:10:46+00:00",
+      "raw_text": "Nasdaq Suffers Worst Rout Since March 2020\n\nThe stock-market rout on Thursday pulled down companies at the heart of the AI boom due to the prospect of a political shift that will tap the brakes on the industry’s growth. (Source: Bloomberg)",
+      "title": "Nasdaq зазнав найбільшого падіння з березня 2020 року",
+      "summary": "Четверневий обвал фондового ринку зачепив компанії сфери штучного інтелекту. Причиною стали очікування політичних змін, які можуть сповільнити зростання галузі.",
+      "category": "Економіка",
+      "tags": [
+        "Nasdaq",
+        "акції",
+        "технології",
+        "AI"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29359",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29359",
+      "published_at": "2026-11-06T03:06:18+00:00",
+      "raw_text": "Myanmar’s democratic government-in-exile uses Starlink to remotely run schools and hospitals in liberated areas. SpaceX’s motives for removing the terminals in the country are obscure \nhttps://t.co/cynQ0wf0PU\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
+      "title": "Використання Starlink у М'янмі",
+      "summary": "Демократичний уряд у вигнанні М'янми використовує термінали Starlink для дистанційного управління школами та лікарнями. Водночас мотиви SpaceX щодо можливого вимкнення терміналів залишаються незрозумілими.",
+      "category": "Світ",
+      "tags": [
+        "М'янма",
+        "Starlink",
+        "технології"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148044",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148044",
+      "published_at": "2026-11-06T02:49:09+00:00",
+      "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+      "title": "Дронова загроза у Києві та областях",
+      "summary": "У Києві та низці областей оголошено «жовту» тривогу через загрозу ворожих дронів. Мешканців закликають слідкувати за оновленнями ситуації.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Київ",
+        "дрони",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29358",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29358",
+      "published_at": "2026-11-06T02:46:17+00:00",
+      "raw_text": "Some officials have always migrated from state businesses to politics. But in the past decade the door has opened more widely. We explain why \nhttps://t.co/qYeHTHUFin\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
+      "title": "Зв'язок між державним бізнесом та політикою в Китаї",
+      "summary": "Міграція чиновників із державного бізнесу в політику існувала завжди, проте за останнє десятиліття цей процес значно активізувався. Видання пояснює причини таких змін.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "політика",
+        "бізнес"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNUSZST9NJLS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/thailand-inflation-accelerates-to-3-9-breaching-bot-target",
+      "published_at": "2026-11-06T02:40:12+00:00",
+      "raw_text": "Thailand Inflation Surges to 3.9%, Breaching BOT’s Target\n\nThailand’s inflation breached the central bank’s target ceiling for the first time in more than three years as higher oil prices and flood-related food costs intensified price pressures, though officials signaled the price spike may be temporary.",
+      "title": "Інфляція в Таїланді перевищила цільовий показник Центробанку і сягнула 3,9%",
+      "summary": "Зростання цін на нафту та витрати на продукти через повені призвели до того, що інфляція в Таїланді вперше за три роки перевищила цільову стелю ЦБ. Офіційні особи вважають цей сплеск тимчасовим.",
+      "category": "Економіка",
+      "tags": [
+        "інфляція",
+        "Таїланд",
+        "економіка",
+        "центробанк"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29357",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29357",
+      "published_at": "2026-11-06T02:26:35+00:00",
+      "raw_text": "Why is China’s stock market sagging? Three factors may explain the country’s financial underperformance \nhttps://t.co/05sRGM7ILo\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
+      "title": "Три фактори падіння фондового ринку Китаю",
+      "summary": "Експерти виділяють три основні причини, які пояснюють слабкі показники та спад на китайському фондовому ринку. Аналіз фінансової ситуації в країні.",
+      "category": "Економіка",
+      "tags": [
+        "Китай",
+        "ринок",
+        "фінанси"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29356",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29356",
+      "published_at": "2026-11-06T02:06:11+00:00",
+      "raw_text": "Rising through state firms is a change from how officials previously climbed the greasy pole. Register for free to read why they have become the ultimate finishing school for a new generation of Communist Party leaders \nhttps://t.co/sS9gi9UcweIllustration\n: Cornelia Li \nhttps://t.co/22CfQU7VWS\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
+      "title": "Державні компанії як нова школа для лідерів Компартії Китаю",
+      "summary": "Кар'єрне зростання через державні підприємства стало новим методом просування для чиновників Компартії Китаю. Це відрізняється від попередніх практик політичної кар'єри.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "політика",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29355",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29355",
+      "published_at": "2026-11-06T01:46:28+00:00",
+      "raw_text": "China’s labs are unlikely, for now, to produce big scientific breakthroughs. But they could supercharge manufacturing \nhttps://t.co/SPwMVBFwAQ\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
+      "title": "Наукові лабораторії та виробництво в Китаї",
+      "summary": "Китайські лабораторії наразі навряд чи здатні здійснити великі наукові прориви. Проте вони здатні значно посилити виробничий потенціал.",
+      "category": "Технології",
+      "tags": [
+        "Китай",
+        "наука",
+        "виробництво"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29354",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29354",
+      "published_at": "2026-11-06T01:21:23+00:00",
+      "raw_text": "People who prefer brown rice tend to smoke less, exercise more and eat healthier food overall. But correlation is not causation. Is white rice really so unhealthy? \nhttps://t.co/G0Om8cWxzp\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
+      "title": "Дослідження про користь бурого та білого рису",
+      "summary": "Люди, які надають перевагу бурому рису, частіше ведуть здоровий спосіб життя, проте це кореляція, а не прямий причинно-следчий зв'язок. Видання The Economist аналізує, чи дійсно білий рис шкідливий.",
+      "category": "Здоров'я",
+      "tags": [
+        "харчування",
+        "дослідження"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNX0DMT96OSH00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
+      "published_at": "2026-11-06T01:15:16+00:00",
+      "raw_text": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters\n\nThe Taiwan dollar weakened past the key psychological level of 33 per US dollar for the first time since April 2025, as a broad retreat in artificial intelligence shares weighed on the island’s tech-heavy equity market.",
+      "title": "Валюта Тайваню ослабла до мінімуму через ситуацію з акціями AI",
+      "summary": "Курс тайванського долара впав нижче психологічної позначки у 33 за долар США вперше з квітня 2025 року. Це сталося через падіння акцій технологічних компаній, пов'язаних зі штучним інтелектом.",
+      "category": "Фінанси",
+      "tags": [
+        "Тайвань",
+        "валюта",
+        "економіка",
+        "ШІ"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cvglww2r307ko_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T01:13:53+00:00",
+      "raw_text": "Met chief warns policing 'heading for failure' without reform\n\nSir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+      "title": "Голова Скотленд-Ярду попередив про кризу поліції",
+      "summary": "Сер Марк Роулі заявив, що нинішня система поліції не справляється зі складністю сучасних злочинів без проведення реформ.",
+      "category": "Світ",
+      "tags": [
+        "Велика Британія",
+        "поліція",
+        "реформи"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "holosameryky_22555",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22555",
+      "published_at": "2026-11-06T00:03:51+00:00",
+      "raw_text": "У Брюсселі другий день тривають консультації України\n, США та європейських партнерів щодо гарантій безпеки і післявоєнного відновлення України.\n\n\n\n\nВони проходять \nнапередодні тристоронніх мирних переговорів\n з Росією в Абу-Дабі, запланованих на 10–11 листопада.\n\n\n\n\nЩо вже відомо і які висновки Єврокомісія зробила щодо вступу України до ЄС – розповідає кореспондентка Голосу Америки Українською \nТетяна Висоцька зі штаб-квартири НАТО\n.\n\n\n\n\n📌\n Дивіться тут \n➡️\n \nyoutu.be/X5Phw5mhj9I\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Консультації щодо гарантій безпеки України у Брюсселі",
+      "summary": "У Брюсселі тривають дводенні консультації України, США та європейських партнерів щодо гарантій безпеки і післявоєнного відновлення. Переговори проходять напередодні тристоронньої зустрічі в Абу-Дабі.",
+      "category": "Політика",
+      "tags": [
+        "Брюссель",
+        "безпека",
+        "ЄС",
+        "США",
+        "переговори"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/omqLaI3TOvSP9qwdZZM9VUBgoQrRxKG7IyfNxFvtl9BXsw4zrdqmjRrtcpq5ryr1EBq6AtlT4ImnSHKfkv60_WBMi0vRK1QNAnDXVgg_hKTBeKY2ctrkiy-AiAg1jql0k_hRbJQ_0J3EzlABFJr8rQK-utD_rWIYj3U9BAw2z3jivLsY6T_s0TQxAJ81R-5wZYVibz3bMyjeKytUuo_TYVWa-ER7t9nV-bQsBNn9Rj-UpGEkFjWFLIR1uoi_FW5-dgQJk5ojEvtZGjZmnA_dBerTb8amedNd300XzpbhQAeE3DJYiN3SbfhISLazHZAxX7plkNfYlxvY-lDt5FxwJQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23721",
+          "raw_text": "Україна, США та Європа обговорили майбутні гарантії безпеки для України, а також нову стратегію європейської безпеки\n\n\n\n\nРазом із представниками Франції, Великої Британії, Німеччини, США та НАТО обговорили, якими мають бути гарантії для України з боку Сполучених Штатів та інших партнерів, а також нову стратегію європейської безпеки\n\n\n– розповів голова служби зовнішньої розвідки України Рустем Умєров за підсумками зустрічей у Брюсселі.\n\n\n\n\nЗа його словами, робота над гарантіями безпеки триває, а подробиці обговорень та наступні кроки будуть оприлюднені пізніше.\n\n\n\n\nБільше тут:\n\n\nhttps://www.eurointegration.com.ua/news/2026/11/5/7249377/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+          "published_at": "2026-11-05T16:57:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TO0KL8KK3NY900",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
+      "published_at": "2026-11-05T23:08:17+00:00",
+      "raw_text": "Latest Oil Market News and Analysis for Nov. 6\n\nOil pushed higher after rebounding on Thursday from a sharp selloff triggered by a Democratic sweep of US midterm elections, as traders weighed the outlook for an end to war in the Middle East.",
+      "title": "Ціни на нафту зросли після попереднього падіння",
+      "summary": "Нафта подорожчала після різкого продажу напередодні, спричиненого політичними новинами у США. Трейдери продовжують оцінювати перспективи завершення конфлікту на Близькому Сході.",
+      "category": "Економіка",
+      "tags": [
+        "нафта",
+        "ринок",
+        "ціни",
+        "трейдери"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "holosameryky_22554",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22554",
+      "published_at": "2026-11-05T23:00:31+00:00",
+      "raw_text": "Чи зможе прихід демократів до влади \nу Конгресі вплинути на зовнішньополітичний курс, яким рухаються США за адміністрації Дональда Трампа?\n\n\n\n\nПро це Голос Америки розпитав \nу політичної аналітикині Катерини Шинкарук.\n\n\n\n\n📌\n \nДивіться тут\n \n➡️\n \nyoutu.be/Z8bba416nNM\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp\n\n\n\n\n#VOAMidterms2026",
+      "title": "Вплив демократів у Конгресі на зовнішню політику США",
+      "summary": "Політична аналітикиня Катерина Шинкарук прокоментувала Голосу Америки можливі зміни у зовнішньополітичному курсі США за адміністрації Дональда Трампа у разі приходу демократів до влади у Конгресі.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Конгрес",
+        "демократи",
+        "Дональд Трамп"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/cop769mv_g97PABR3LTR7jMmP8PliaURwj5fF6RzCn_R_3vAgcAxP1KsdnW8hNIV3bQPiLLEjoJJ46vaOGKiPg4kKZqYGSHdj3_fPcUWyfhQR7WvEmbwuFox3slGVVHecFycyUnHgnwzJUuZkzuDWRLL530GjNdIHOWfu5yDSAAg-rm-NgfkUXajDlTmRGncTzthLKJlJXy8SWgc3zlXI9EFEO4A1zn2Luv597foiN6Z8HyTVHhQiFJVSzOtFwPQ5qMEOh7VhdEtQFs7_8_VLSC5mO_TO3vYQw3_TDOe-pw3dMlgym4KHNS2IqkXaspJI5MRC6SFE5bddB8i5Fj7yg.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@theeconomistofficial",
+          "source_url": "https://t.me/TheEconomistOfficial/29300",
+          "raw_text": "RT \n@HugoGye\n: \n@TheEconomist\n Burnham sat down with \n@TheEconomist\n this week for his first foreign policy-focused interview, explaining how he plans to put Britain back at the centre of the world stage and why doing so passes the 'Makerfield test'.Read the interview here: \nhttps://t.co/LVT2afd8WD\n — The Economist (\n@TheEconomist\n) \nNov 5, 2026",
+          "published_at": "2026-11-05T17:21:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TO1R48T9NJLU00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/investors-pick-disney-g-mining-at-sohn-conference-in-queenstown",
+      "published_at": "2026-11-05T23:00:20+00:00",
+      "raw_text": "Hedge Funds Tout Nvidia, Disney at Sohn Queenstown Conference\n\nStock pickers touted an AI favorite, a Japanese confectionary maker and a Canadian gold miner at the inaugural Sohn Conference in Queenstown, New Zealand.",
+      "title": "Хедж-фонди презентували інвестиційні ідеї на конференції Sohn",
+      "summary": "Керуючі активами рекомендували акції Nvidia, японського виробника солодощів та канадського золотодобувача на першій конференції Sohn у Новій Зеландії. Мезою заходу є презентація перспективних інвестиційних стратегій.",
+      "category": "Фінанси",
+      "tags": [
+        "інвестиції",
+        "акції",
+        "Nvidia",
+        "фонди"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_47761",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/47761",
+      "published_at": "2026-11-05T22:51:12+00:00",
+      "raw_text": "❗️\n \nТРИВОГА\n \n⚠️\n\n\n\n\nМапа з рухом цілей для міста та області тут: \n[ЗАВАНТАЖИТИ МАПУ]",
+      "title": "Оголошено повітряну тривогу",
+      "summary": "У місті та області оголошено повітряну тривогу. Жителям рекомендується перейти в укриття.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_103528",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103528",
+      "published_at": "2026-11-05T22:51:01+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+      "title": "Повітряна тривога та жовтий рівень небезпеки",
+      "summary": "В регіоні оголошено повітряну тривогу та встановлено жовтий рівень небезпеки. Перебувайте в безпечних місцях.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13947",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-05T22:51:01+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60071",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-05T22:51:00+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13945",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-05T18:52:54+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103526",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-05T18:52:54+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60068",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-05T18:52:53+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13943",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-05T17:23:12+00:00"
+        }
+      ]
+    },
     {
       "id": "TheEconomistOfficial_29344",
       "source_name": "@theeconomistofficial",
@@ -119,6 +511,25 @@
       "related_sources": []
     },
     {
+      "id": "rss__news_articles_cmd9343z3zw2o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T22:32:02+00:00",
+      "raw_text": "Firms told to publish salaries in job adverts ahead of new law\n\nThe government argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "title": "Уряд зобов'яже компанії публікувати зарплати у вакансіях",
+      "summary": "Британський уряд зобов'яже роботодавців вказувати зарплату у вакансіях. На думку влади, це допоможе шукачам роботи та запобігатиме дискримінації в оплаті праці.",
+      "category": "Економіка",
+      "tags": [
+        "робота",
+        "зарплата",
+        "уряд",
+        "закон"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "rss_TO1U3BKJH6V500",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/qantas-hikes-fares-deepens-cuts-to-flying-as-fuel-costs-bite",
@@ -219,6 +630,12 @@
           "source_url": "https://t.me/truexanewsua/148043",
           "raw_text": "❗️\nБуде велика угода , і вона зачепить не лише Україну\n, – Трамп.\n\n\n\n\n«Я можу навіть сказати, що вона може охоплювати \nвсю Європу. Це буде велика, чудова угода.\n \nУсі будуть у захваті».\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
           "published_at": "2026-11-05T21:37:20+00:00"
+        },
+        {
+          "source_name": "@holosameryky",
+          "source_url": "https://t.me/holosameryky/22551",
+          "raw_text": "👉️\n️️️️️\n З Білого дому журналістка Голосу Америки \nЮлія Ярмоленко про промову першої леді Меланії Трамп та присутність представників України та Росії\n.\n\n\n\n\n📌\n Читайте тут \n➡️\n \nhttps://www.holosameryky.com/a/8219351.html\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+          "published_at": "2026-11-05T20:40:32+00:00"
         }
       ]
     },
@@ -348,6 +765,37 @@
         }
       ],
       "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148043",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148043",
+      "published_at": "2026-11-05T21:37:20+00:00",
+      "raw_text": "❗️\nБуде велика угода , і вона зачепить не лише Україну\n, – Трамп.\n\n\n\n\n«Я можу навіть сказати, що вона може охоплювати \nвсю Європу. Це буде велика, чудова угода.\n \nУсі будуть у захваті».\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Трамп заявив про підготовку великої угоди щодо Європи",
+      "summary": "Дональд Трамп анонсував укладення великої угоди, яка зачепить не лише Україну, а й усю Європу. За його словами, всі будуть у захваті від цього рішення.",
+      "category": "Світ",
+      "tags": [
+        "Трамп",
+        "політика",
+        "Європа",
+        "Україна"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/7d56f490ac.mp4?token=UB-rwNPTDlaN7Y0-VkikwxarFdKNoBEj9W9e01T3H4GS3EbL1sClpX7LNazrpR5smyLoS9lh1b6K14XV6Q_94t1B8OLcn-RMAhybEKexnaFkH2-NnmoS2oSSJjrmdIudyuhbfaVcdYiv9pAQUnO-YK9NrSdLaTjGezncJYmUuJD2rSJ06z4MmeRXa9ddP2AabrIGiyGxUo7yrw-N_o9MHKwtoVh3j75cn1O8sa8P8jgfv2yGNEfvE4_Z70xYcGCf6rld-svBTZoQ70oQNNRtCCJ_9uEIpDqIR2AP3nSUtk0S5McZnxORhrfZV3o6SLJ7pvz70yXtp_A37aLjHb3OsJ-3ZBQGea6109BbdS9-RScq8Qz3GcmU6dliQLCkin05sQjMiPQwMj1V5Iz_qnkKX5iteJd3n24MuG0fh-Zw76yYpDU9sb5YviYG4HJRJEUNtTQB0HFSp3Mk9dNIKJhK8N11GzI_rPCV84IJfERi5I6i0kRRlYoMhz5A5UspeYQuH7jgwA0iaqU3TOap2QGAQQKpNpNV5qRxeltGDUE6-7zFHz_kJhhg8-rwyBw-xgXoMI7ldAzVhC2lpzp14VEi8M5vnCdirvdMgn2huzeav60QmKpm9auF2obvHOh-C2n9vRaOLarxS2aWppnmzwuuRHyILIX-o4XmeD8oiWrrIus"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90642",
+          "raw_text": "🇺🇸\n У Білому домі розпочалася зустріч Меланії Трамп із представниками росії та України, яка присвячена гуманітарній місії у тимчасово окупованих Олешках.  Меланія Трамп висловила сподівання, що ця місія буде «початком» для процесу припинення вогню у російсько…",
+          "published_at": "2026-11-05T17:00:31+00:00"
+        }
+      ]
     },
     {
       "id": "truexanewsua_148042",
@@ -545,6 +993,24 @@
       "related_sources": []
     },
     {
+      "id": "suspilnenews_78895",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78895",
+      "published_at": "2026-11-05T20:22:15+00:00",
+      "raw_text": "Внаслідок російської атаки в Олександрівській громаді  на Кіровоградщині виникла пожежа в житловому будинку. Троє травмованих передали медикам. На місці події працюють відповідні служби. Триває ліквідація наслідків, \nповідомив\n керівник ОВА Райкович.",
+      "title": "Атака на Кіровоградщину: є пожежа та постраждалі",
+      "summary": "Внаслідок російської атаки в Олександрівській громаді загорівся житловий будинок. Троє людей травмовані, на місці працюють екстрені служби.",
+      "category": "Події",
+      "tags": [
+        "Кіровоградщина",
+        "обстріл",
+        "пожежа"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "truexanewsua_148041",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/148041",
@@ -557,6 +1023,25 @@
         "мобілізація",
         "кордон",
         "ЗСУ"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "EurointegrationComUA_23723",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23723",
+      "published_at": "2026-11-05T19:50:14+00:00",
+      "raw_text": "ДАЙДЖЕСТ ЧЕТВЕРГА\n\n\n\n\nЗа даними ЗМІ, \nРубіо\n розглядає \nможливість піти у відставку\n, республіканці хочуть \nініціювати імпічмент\n \nГегсета\n, а демократи – \nперевірити дії\n \nМаска\n через уповільнення роботи Starshield в Україні. \n\n\n\n\nТим часом в ЄС – серія повідомлень про мінування літаків. \n\n\n\n\nЄСПЛ \nвиніс рішення\n проти України у справі \nКатерини Гандзюк\n, а в Німеччині наголосили, що атаки на газопроводи \"Північний потік\" у Балтійському морі \nмали незначний вплив\n на газопостачання Німеччини.\n\n\n\n\nМіністерка закордонних справ Угорщини Аніта Орбан заявила, що\n \nвступ України до ЄС до 2030 року є нереалістичним\n, а прем’єр Грузії Іраклій Кобахідзе\n \nрозкритикував звіт Єврокомісії\n щодо прогресу країни у вступі в ЄС. \n\n\n\n\nДалі – скорочена версія \nдайджесту новин 5 листопада.\n\n\n\n\n4,3 МЛРД ЄВРО ВІД ЄС\n\n\n\n\nЄС\n \nперерахував Україні 4,36 млрд євро\n на бюджетні та оборонні потреби.\n\n\n\n\nЗ них 658 млн євро – в межах \nоборонного\n компонента Ukraine Support Loan. Це вже сьома виплата на оборонні потреби за цією програмою.\n\n\n\n\nКошти спрямують на закупівлю безпілотників, ракет, радарів, систем радіоелектронної боротьби та боєприпасів для протиповітряної оборони України. При цьому більшу частину фінансування використають для закупівлі обладнання в \nукраїнських компаній\n.\n\n\n\n\nПЕРЕГОВОРИ З ФІЦО\n\n\n\n\nОчільник словацького уряду Роберт Фіцо сьогодні відвідав Україну.\n\n\n\n\nПід час візиту до Львова, прем’єр-міністр Словаччини Роберт Фіцо підписав з прем’єр-міністром Сергієм Корецьким міжурядову\n \nУгоду про створення двомовних гімназій в обох країнах\n.\n\n\n\n\nТакож стало відомо, що Словаччина передасть Україні 1 млн євро н\nа генератори, укриття та медичне обладнання\n.\n\n\n\n\nПрем’єр-міністр Словаччини Роберт Фіцо під час візиту до України\n \nвисловив критику на адресу Європейського Союзу\n.\n\n\n\n\n\"Мені неймовірно прикро, що Європейський Союз відіграє таку незначну роль у міжнародній політиці\"\n, – сказав він на пресконференції з прем’єр-міністром України.\n\n\n\n\nА президент Словаччини Петер Пеллегріні заявив, що\n \nвійна в Україні починає виснажувати Європу\n, і \nЄвропейський Союз повинен брати участь у переговорах\n щодо її припинення цього конфлікту.\n\n\n\n\nДИЗЕЛЬ НЕ ЇДЕ ДО США\n\n\n\n\nДва з трьох танкерів з російським дизелем, які прямували до США, змінили курс\n, пише Financial Times.\n\n\n\n\nРосійський танкер Talisman та танкер Leruo, що належить Гонконгу і плаває під прапором Сьєрра-Леоне, завантажені дизелем з РФ, більше не вказують атлантичне узбережжя США як пункт призначення.\n\n\n\n\nУ понеділок Leruo, що перебуває під санкціями Великої Британії, ЄС та Канади, змінив свій сигнал на Бразилію.\n\n\n\n\nПідсанкційне судно Talisman відвернуло від Атлантичного океану й увійшло у Середземне море, де наразі перебуває біля узбережжя Алжиру. Танкер подає сигнал \"очікує на розпорядження\". Це свідчить про те, що вантаж з російським дизелем ще не має підтвердженого покупця чи порту призначення.\n\n\n\n\nТретій танкер, завантажений дизельним паливом з РФ, грецький Agioi Fanendes, судячи з усього, продовжує свій шлях до США, але також подає сигнал \"очікую вказівок\".\n\n\n\n\n\"МІНУВАННЯ\" ЛІТАКІВ В КРАЇНАХ ЄС\n\n\n\n\nВранці 5 листопада у \nФранції\n літак екстрено перенаправили\n \nчерез повідомлення про загрозу вибуху\n.\n\n\n\n\nЗгодом стало відомо, що три літаки, які прямували до \nБолгарії\n,\n \nотримали повідомлення про загрозу вибуху\n.\n\n\n\n\nЛітак рейсу Варшава-\nБрюссель\n \nотримав повідомлення про вибухівку.\n\n\n\n\nУ \nЧехії\n, \nРумунії\n та \nІталії\n пасажирські літаки приземлилися після того, як\n \nотримали повідомлення про загрозу вибуху\n на борту на тлі подібних інцидентів у Болгарії та Бельгії.\n\n\n\n\nУ ЄС закликали\n \nпровести національні розслідування \"замінувань\"\n авіарейсів.\n\n\n\n\nБільше важливого і цікавого\n \n– в огляді новин \nчетверга\n за лінком:\n\n\nhttps://www.eurointegration.com.ua/news/2026/11/5/7249396/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
+      "title": "Міжнародний дайджест новин та виплата від ЄС",
+      "summary": "ЄС перерахував Україні 4,36 млрд євро на бюджетні та оборонні потреби. Також у світі обговорюють відставку Рубіо, ситуацію зі Starshield та заяви щодо євроінтеграції України.",
+      "category": "Світ",
+      "tags": [
+        "ЄС",
+        "фінанси",
+        "політика",
+        "дайджест"
       ],
       "importance": 3,
       "media_list": [],
@@ -636,24 +1121,6 @@
         "велика британія"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_103526",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103526",
-      "published_at": "2026-11-05T18:52:54+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-      "title": "Повітряна тривога",
-      "summary": "У місті та області оголошено повітряну тривогу. Встановлено жовтий рівень загрози.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "безпека",
-        "сирена"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
@@ -771,24 +1238,6 @@
       "related_sources": []
     },
     {
-      "id": "TheEconomistOfficial_29300",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29300",
-      "published_at": "2026-11-05T17:21:08+00:00",
-      "raw_text": "RT \n@HugoGye\n: \n@TheEconomist\n Burnham sat down with \n@TheEconomist\n this week for his first foreign policy-focused interview, explaining how he plans to put Britain back at the centre of the world stage and why doing so passes the 'Makerfield test'.Read the interview here: \nhttps://t.co/LVT2afd8WD\n — The Economist (\n@TheEconomist\n) \nNov 5, 2026",
-      "title": "Інтерв'ю з британським політиком про зовнішню політику",
-      "summary": "Британський політик Бернем дав перше інтерв'ю щодо зовнішньої політики для The Economist. Він пояснив свої плани щодо повернення Британії на світову арену.",
-      "category": "Світ",
-      "tags": [
-        "Велика Британія",
-        "зовнішня політика",
-        "інтерв'ю"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "EurointegrationComUA_23722",
       "source_name": "@EurointegrationComUa",
       "source_url": "https://t.me/EurointegrationComUA/23722",
@@ -874,30 +1323,6 @@
       "related_sources": []
     },
     {
-      "id": "hromadske_ua_90642",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90642",
-      "published_at": "2026-11-05T17:00:31+00:00",
-      "raw_text": "🇺🇸\n У Білому домі розпочалася зустріч Меланії Трамп із представниками росії та України, яка присвячена гуманітарній місії у тимчасово окупованих Олешках.  Меланія Трамп висловила сподівання, що ця місія буде «початком» для процесу припинення вогню у російсько…",
-      "title": "Зустріч Меланії Трамп щодо гуманітарної місії в Олешках",
-      "summary": "У Білому домі відбулася зустріч Меланії Трамп із представниками росії та України щодо гуманітарної місії в окупованих Олешках. Вона висловила сподівання на початок процесу припинення вогню.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "гуманітарна місія",
-        "Україна",
-        "росія"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/nchSVqttyDXUeigCyRbXfWogV83nznLsxYdoQoOYgt6fvhJiHQtempKWYce2QyaGq_PvCPCk_idqW3I2EiGO2HqkDeB6MgJom5JdpHvBMCl97aqxfHwqb9E762TWJaUbsBvHSa3D5_LDv7eDX9Q9QOzAGURhOc900Iro7nQNr4hI0YGwvYkbrrl_QDAniSkhP7n56dyT5Dexe8j70twipyUpnnDPyKyT6PTPJjj8BaDARHSb1GjJdhhTMZ05zG723QMlP4iheRhUf9vqx9hfv3l9fnTzBF_Vh8vLaKVS7MXlz-Oz7-rjbF1H5mbnMplx_JBPZ1z1WTitTZli27AKMQ.jpg"
-        }
-      ],
-      "related_sources": []
-    },
-    {
       "id": "hromadske_ua_90641",
       "source_name": "@hromadske_ua",
       "source_url": "https://t.me/hromadske_ua/90641",
@@ -937,6 +1362,30 @@
       ],
       "importance": 3,
       "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "EurointegrationComUA_23720",
+      "source_name": "@EurointegrationComUa",
+      "source_url": "https://t.me/EurointegrationComUA/23720",
+      "published_at": "2026-11-05T16:14:01+00:00",
+      "raw_text": "Краще, ніж заслуговуємо: як ЄС оцінив правосуддя в Україні та чому його обережність небезпечна\n\n\n\n\nУ \nзвіті ЄС про розширення\n Брюссель діагностував низку проблем української судової системи.\n\n\n\n\nЗокрема, потребу збереження участі міжнародних експертів у відборах членів низки судових органів. Також є зауваження щодо реформування системи правничої освіти.\n\n\n\n\nВодночас щодо деяких питань Єврокомісія могла би бути більше вимогливою – це стосується Конституційного та Верховного судів, адвокатури, декларацій доброчесності суддів. Адже у будь-якому разі згодом недостатній прогрес у цьому стане перешкодою у подальшому русі України до ЄС.\n\n\n\n\nПро темпи судової реформи, де і чому Євросоюз має бути більш вимогливим до України, читайте в статті \nМихайла Жернакова та Анастасії Кокалко з Фундації DEJURE\n за посиланням:\n\n\nhttps://www.eurointegration.com.ua/articles/2026/11/5/7249364/",
+      "title": "Оцінка ЄС судової реформи в Україні",
+      "summary": "У звіті про розширення ЄС вказав на проблеми української судової системи та наголосив на важливості участі міжнародних експертів у відборі суддів. Експерти зазначають, що Єврокомісія могла б бути більш вимогливою до певних інституцій.",
+      "category": "Політика",
+      "tags": [
+        "ЄС",
+        "судова реформа",
+        "Єврокомісія",
+        "DEJURE"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/B-waT3F3QD6SOQd2TFtpihN01nVpvbQy9t894e9Qx9cAqikjJV5Q0xIXXk_rdIOmVFGR-5DJ2uk_HGOsoYmYyauN37x3NcoFuCPtp1hYltna2lgXa_QqfYz9e9EED7fzGFPPVRLeKSsngpy_5zzBEgo53NLLCKz4lWKq1qaETPHwVpp6p1egiumzLFLPgASBSVXTB9Tii1F-x8qShvTgg66mFyuscsL7oTeK-tiIHkClCk7HzCPVS3VzpiJwYT9q_3qFtfjg9agdGdxqOyQX_EIKCuwmBRM9fMxF1vcGKdP1Eg-WvyfLQX678Jwrwn2PShGsnnjWsz37kIWud0THNw.jpg"
+        }
+      ],
       "related_sources": []
     },
     {
@@ -17638,226 +18087,6 @@
           "source_url": "https://t.me/hromadske_ua/90310",
           "raw_text": "❗\nУ Дніпровському районі зафіксовано падіння уламків у дворі житлового будинку, повідомили в КМВА\n\n\n\n\nпідписатися\n \n|\n \nпідтримати",
           "published_at": "2026-10-29T21:18:05+00:00"
-        }
-      ]
-    },
-    {
-      "id": "truexanewsua_147439",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/147439",
-      "published_at": "2026-10-30T03:02:28+00:00",
-      "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-      "title": "Дронова загроза у Києві та областях",
-      "summary": "У Києві та низці областей оголошено «жовту» тривогу через загрозу ворожих дронів. Мешканців закликають слідкувати за оновленнями ситуації.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "Київ",
-        "дрони"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103288",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-          "published_at": "2026-10-29T23:56:57+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss__news_articles_ck8dz8j5n993o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-30T01:35:40+00:00",
-      "raw_text": "Australian mushroom murderer loses appeal to overturn convictions\n\nErin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-      "title": "Австралійка програла апеляцію у справі про отруєння грибами",
-      "summary": "Ерін Патерсон намагалася оскаржити свій вирок, стверджуючи про несправедливість суду. Проте колегія з трьох суддів відхилила всі сім підстав для апеляції.",
-      "category": "Світ",
-      "tags": [
-        "Австралія",
-        "суд",
-        "кримінальні справи"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_147438",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/147438",
-      "published_at": "2026-10-30T01:31:00+00:00",
-      "raw_text": "Цілі над Кременчуком!",
-      "title": "Зафіксовано цілі над Кременчуком",
-      "summary": "У повітряному просторі над Кременчуком зафіксовано цілі. Працюють відповідні служби.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчук",
-        "цілі",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNLEYFKK3NYA00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/indonesia-rain-set-to-curb-wildfires-clear-haze-in-singapore-malaysia",
-      "published_at": "2026-10-30T00:03:33+00:00",
-      "raw_text": "Indonesia Rain Set to Curb Wildfires, Clear Haze in Singapore, Malaysia\n\nIndonesia is set for more consistent rain next month, providing relief from wildfires that have spewed toxic smoke across Singapore and Malaysia, though widespread downpours are still weeks away.",
-      "title": "Очікувані дощі в Індонезії допоможуть подолати лісові пожежі",
-      "summary": "У наступному місяці в Індонезії прогнозують стабільні дощі. Це допоможе зменшити лісові пожежі, які спричинили задимлення у Сінгапурі та Малайзії.",
-      "category": "Світ",
-      "tags": [
-        "пожежі",
-        "Індонезія",
-        "екологія"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TK9UFBN3N09A00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/lagarde-exits-ecb-after-big-wins-some-errors-and-a-long-goodbye",
-      "published_at": "2026-10-30T00:01:00+00:00",
-      "raw_text": "Lagarde Exits ECB After Big Wins, Some Errors and a Long Goodbye\n\nChristine Lagarde will leave the European Central Bank with one victory notched up over inflation, camaraderie restored among policymakers and the euro on track to join the digital age.",
-      "title": "Крістін Лагард залишає посаду в ЄЦБ",
-      "summary": "Крістін Лагард завершує роботу в Європейському центральному банку. За час її каденції вдалося подолати інфляцію та розпочати підготовку євро до цифрової ери.",
-      "category": "Економіка",
-      "tags": [
-        "ЄЦБ",
-        "Крістін Лагард",
-        "фінанси"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/lagarde-quits-ecb-to-shed-neutrality-and-enter-political-fray-mvtp2d3u",
-          "raw_text": "Lagarde Quits ECB to Shed Neutrality and Enter Political Fray\n\nPresident Christine Lagarde said she quit as European Central Bank early to speak out on political matters precluded by her current role.",
-          "published_at": "2026-10-29T15:20:41+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TNADH1T9NJLT00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "raw_text": "Philippine Bonds Most Exposed in Emerging Asia to Fed Hikes\n\nPhilippine bonds are the most vulnerable in emerging Asia to a hawkish Federal Reserve, according to an analysis by Bloomberg.",
-      "title": "Вразливість облігацій Філіппін до політики ФРС",
-      "summary": "Згідно з аналізом Bloomberg, філіппінські облігації є найбільш уразливими в країнах, що розвиваються в Азії, до можливого підвищення ставок Федеральною резервною системою США. Це створює додаткові ризики для фінансового ринку регіону.",
-      "category": "Економіка",
-      "tags": [
-        "фінанси",
-        "облігації",
-        "ФРС",
-        "Азія"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28663",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28663",
-      "published_at": "2026-10-29T23:56:09+00:00",
-      "raw_text": "As its search engine sputters, rivals gain ground \nhttps://t.co/WSa9NibseV\n — The Economist (\n@TheEconomist\n) \nOct 29, 2026",
-      "title": "Конкуренти набирають обертів на тлі проблем пошукових систем",
-      "summary": "На тлі зниження ефективності роботи традиційних пошукових систем конкуренти починають завойовувати нові позиції на ринку. Аналітики досліджують поточні зміни в індустрії пошукових технологій.",
-      "category": "Технології",
-      "tags": [
-        "технології",
-        "інтернет",
-        "конкуренція"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28662",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28662",
-      "published_at": "2026-10-29T23:46:13+00:00",
-      "raw_text": "“Secularism will come to us too.” Flores, an island in Indonesia, has become a wellspring of Catholic priests. Ideas of “individualism and freedom”, says one trainee priest, could threaten that \nhttps://t.co/vbp0Nlo7iW\n — The Economist (\n@TheEconomist\n) \nOct 29, 2026",
-      "title": "Зростання кількості католицьких священників на індонезійському острові Флорес",
-      "summary": "Острів Флорес в Індонезії перетворився на центр підготовки католицьких священників. Проте майбутні священники зазначають, що поширення ідей індивідуалізму та свободи може становити загрозу для традиційних релігійних укладів.",
-      "category": "Суспільство",
-      "tags": [
-        "релігія",
-        "Індонезія",
-        "суспільство"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNK3QAKK3NY800",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/tokyo-inflation-exceeds-boj-s-2-target-ahead-of-rate-decision",
-      "published_at": "2026-10-29T23:36:21+00:00",
-      "raw_text": "Tokyo Inflation Exceeds BOJ’s 2% Target Before Rate Decision\n\nConsumer inflation in Tokyo remained well above the Bank of Japan’s 2% target, underscoring persistent price pressures just hours before the central bank’s board is expected to hold its policy settings steady.",
-      "title": "Інфляція в Токіо перевищила цільовий показник Банку Японії",
-      "summary": "Споживча інфляція в Токіо залишилася вище цільових 2% перед засіданням центробанку. Це свідчить про стійкий ціновий тиск у країні.",
-      "category": "Економіка",
-      "tags": [
-        "Японія",
-        "інфляція",
-        "економіка"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28661",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28661",
-      "published_at": "2026-10-29T23:26:16+00:00",
-      "raw_text": "The innovation table’s stability partly reflects the Global Innovation Index’s breadth: no one metric carries decisive weight. It also masks some changes below the surface \nhttps://t.co/Z1ZKJJATHe\n — The Economist (\n@TheEconomist\n) \nOct 29, 2026",
-      "title": "Особливості формування Global Innovation Index",
-      "summary": "Стабільність інноваційної таблиці частково пояснюється широтою Глобального індексу інновацій, де жодна окрема метрика не має вирішального значення. Водночас це приховує певні приховані зміни у загальній картині.",
-      "category": "Технології",
-      "tags": [
-        "інновації",
-        "економіка",
-        "дослідження"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_103286",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103286",
-      "published_at": "2026-10-29T23:16:18+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень · Дронова загроза",
-      "title": "Оголошено повітряну тривогу через дронову загрозу",
-      "summary": "У місті та області введено повітряну тривогу через загрозу ворожих безпілотників (жовтий рівень небезпеки).",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "БпЛА",
-        "загроза"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103274",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень · Ракетна загроза",
-          "published_at": "2026-10-29T18:32:08+00:00"
         }
       ]
     }
