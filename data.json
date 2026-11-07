@@ -1,11 +1,593 @@
 {
-  "updated_at": "2026-11-06 23:31",
+  "updated_at": "2026-11-07 03:12",
   "digest": [
-    "Масований ракетний удар по енергетичній інфраструктурі Київщини, зафіксовано влучання та вибухи в столиці.",
-    "Фінансові результати компанії FIGS перевищили прогнози завдяки зростанню попиту на медичний одяг.",
-    "Американські політики закликають демократів зосередитися на реформах і законодавстві, а не на імпічменті Трампа."
+    "У Києві та кількох областях оголошували повітряну тривогу через загрозу дронів, яку вже скасовано.",
+    "Чистий прибуток Bank of Shanghai у третьому кварталі впав на 93% через зв'язки з однією особою.",
+    "У Гонконзі заарештували 28 осіб за махінації на тендерах із ремонту будівель.",
+    "Народний банк Китаю продовжує купувати золото на тлі падіння цін на нього.",
+    "Японія створює нову агенцію для підготовки до масштабніших і складніших стихійних лих."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_29451",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29451",
+      "published_at": "2026-11-07T03:06:14+00:00",
+      "raw_text": "Bank of Shanghai gave investors a nasty shock in October. It said its net profit had collapsed by 93% in the third quarter, year on year. The main source of the lender’s troubles seems to be its relationship with one man \nhttps://t.co/wqjpLMPvVf\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
+      "title": "Падіння прибутку Bank of Shanghai",
+      "summary": "У третьому кварталі чистий прибуток Bank of Shanghai впав на 93% у річному вимірі. Головною причиною фінансових проблем стали зв'язки з однією особою.",
+      "category": "Світ",
+      "tags": [
+        "банк",
+        "фінанси",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29450",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29450",
+      "published_at": "2026-11-07T02:46:32+00:00",
+      "raw_text": "Robotised labs have existed for decades, but they require humans to analyse data and refine experiments. AI models can take over the drudgery. China is watching America closely for a strategy \nhttps://t.co/ArqIVptzRk\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
+      "title": "Штучний інтелект в наукових лабораторіях",
+      "summary": "Штучний інтелект здатен повністю взяти на себе рутинну роботу в лабораторіях, звільнивши людей від аналізу даних та експериментів. Китаю уважно стежить за стратегією США у цій сфері.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "наука",
+        "Китай",
+        "США"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TO3YQEKJH6XA00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/hong-kong-arrests-28-in-building-bid-rigging-probe-rthk-says",
+      "published_at": "2026-11-07T02:27:47+00:00",
+      "raw_text": "Hong Kong Arrests 28 in Building Bid-Rigging Probe, RTHK Says\n\nHong Kong authorities arrested 28 people tied to a suspected triad-linked bid-rigging syndicate targeting building maintenance and renovation contracts, Radio Television Hong Kong reported, citing Secretary for Security Chris Tang.",
+      "title": "У Гонконзі заарештували 28 осіб у справі про махінації на будівельних тендерах",
+      "summary": "Правоохоронці Гонконгу затримали 28 осіб, пов'язаних із підозрюваним у зв'язках із тріадами синдикатом. Вони причетні до махінацій із тендерами на ремонт і обслуговування будівель.",
+      "category": "Світ",
+      "tags": [
+        "Гонконг",
+        "кримінал",
+        "розслідування"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29449",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29449",
+      "published_at": "2026-11-07T02:26:27+00:00",
+      "raw_text": "Japan is already a global leader in disaster preparedness. With the new agency, the government hopes to equip itself for bigger and more complex disasters that may lie ahead \nhttps://t.co/hUW5lL2xAu\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
+      "title": "Японія посилює підготовку до катастроф",
+      "summary": "Японія є глобальним лідером у сфері готовності до стихійних лих. За допомогою створення нової агенції уряд прагне підготуватися до масштабніших і складніших криз у майбутньому.",
+      "category": "Світ",
+      "tags": [
+        "Японія",
+        "безпека",
+        "катастрофи"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TO0IC8KJH6V400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
+      "published_at": "2026-11-07T02:26:22+00:00",
+      "raw_text": "China Extends Gold-Buying Streak to Two Years as Prices Drop\n\nChina’s central bank added to its gold reserves in October — extending a buying streak to two years — as the precious metal fell almost 7% to end the month below the $4,000-an-ounce support threshold.",
+      "title": "Народний банк Китаю продовжує купувати золото",
+      "summary": "Центральний банк Китаю нарощував свої золоті резерви два роки поспіль. Це сталося на тлі падіння цін на дорогоцінний метал майже на 7% за місяць.",
+      "category": "Економіка",
+      "tags": [
+        "Китай",
+        "золото",
+        "економіка",
+        "центробанк"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148143",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148143",
+      "published_at": "2026-11-07T02:11:15+00:00",
+      "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\n04:17 відбій.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+      "title": "Дронова загроза у Києві та низці областей",
+      "summary": "У Києві та кількох областях оголосили «жовту» тривогу через загрозу застосування дронів. О 04:17 було оголошено відбій повітряної тривоги.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Київ",
+        "дрони",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TO40OEXVHD6O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-11-07/stephen-miller-new-chief-of-staff-axios-vance-leads-iran-push-mw5rmvc6",
+      "published_at": "2026-11-07T02:09:50+00:00",
+      "raw_text": "Stephen Miller New Chief of Staff, Axios: Vance Leads Iran Push\n\nSource: Bloomberg, 6:20",
+      "title": "Кадрові зміни та політичні новини США",
+      "summary": "З'явилася інформація про призначення Стівена Міллера новим керівником апарату, а також про можливу ініціативу Венса щодо Ірану. Джерелом виступає Bloomberg та Axios.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "політика",
+        "кадри"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "ok_kremen_60118",
+      "source_name": "@ok_kremen",
+      "source_url": "https://t.me/ok_kremen/60118",
+      "published_at": "2026-11-07T02:09:01+00:00",
+      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+      "title": "Повітряна тривога: жовтий рівень у Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі оголошено повітряну тривогу з жовтим рівнем небезпеки. Перебувайте в безпечних місцях.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчуцький район",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13970",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-07T02:09:01+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103563",
+          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого",
+          "published_at": "2026-11-07T02:08:46+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/148135",
+          "raw_text": "🔴\n Київ та низка областей – «червона» тривога!\n\n\n\n\n04:08 відбій.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+          "published_at": "2026-11-07T01:00:24+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13969",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-07T00:51:00+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103560",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-07T00:25:53+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60116",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-07T00:25:52+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13968",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-07T00:25:52+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13967",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-07T00:03:15+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13966",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-06T23:03:28+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103557",
+          "raw_text": "🔴\n \nКременчуцький р-н\n\n\nРівень підвищено до червоного",
+          "published_at": "2026-11-06T23:02:59+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103556",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-06T22:06:13+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/13965",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-06T22:06:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_29448",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29448",
+      "published_at": "2026-11-07T02:01:41+00:00",
+      "raw_text": "China’s oddities deter many global investors. A bigger worry in tech circles is that the country’s lean present becomes the rest of the world’s future \nhttps://t.co/KmOYih9YxaIllustration\n: Satoshi Kambayashi \nhttps://t.co/5jjRK5KdFJ\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
+      "title": "Технологічні виклики та економіка Китаю",
+      "summary": "Особливості економіки Китаю лякають глобальних інвесторів, проте у світі технологій переймаються іншим. Експерти занепокоєні тим, що теперішній стан Китаю може стати майбутнім для решти світу.",
+      "category": "Економіка",
+      "tags": [
+        "Китай",
+        "технології",
+        "інвестиції"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TNW7G3KJH6V600",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/california-voters-reject-billionaire-tax-ddhq-says",
+      "published_at": "2026-11-07T02:00:16+00:00",
+      "raw_text": "California Voters Reject Billionaire Wealth Tax, DDHQ Projects\n\nCalifornia voters are expected to reject a first-of-its-kind tax on billionaires, DDHQ projected on X, marking the end to one of the most expensive and divisive political battles in state history.",
+      "title": "У Каліфорнії виборці відхилили податок на багатство",
+      "summary": "Виборці в Каліфорнії відхилили первинний у своєму роді податок на мільярдерів. Це завершило одну з найдорожчих і найсуперечливіших політичних битв у штаті.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "Каліфорнія",
+        "податки",
+        "вибори"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TO3YV4R24U8F00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+      "published_at": "2026-11-07T01:54:36+00:00",
+      "raw_text": "Beijing Vows to Hit Back Against US Sanctions on China Companies\n\nChina strongly opposes US sanctions on two Chinese companies over their dealings with a third party and reserves the right to take “necessary measures” to protect its interests, China’s Ministry of Commerce said on Saturday.",
+      "title": "Пекін пообіцяв відповісти на санкції США проти китайських компаній",
+      "summary": "Міністерство комерції Китаю виступило проти санкцій США щодо двох китайських компаній. Відомство заявило про право вжити необхідних заходів для захисту інтересів.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "США",
+        "санкції",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148138",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148138",
+      "published_at": "2026-11-07T01:48:46+00:00",
+      "raw_text": "❗️\nОдин з найстаріших НПЗ росії у Саратові, який переробляє близько 7 млн тон нафт в рік, атакували дронами!\n\n\n\n\nЗараз там — гучні вибухи, налякані місцеві, пожежа та чути роботу певео.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Атака дронів на НПЗ у Саратові",
+      "summary": "Один із найстаріших російських нафтопереробних заводів у Саратові зазнав атаки безпілотників. На території підприємства спалахнула пожежа, лунають вибухи.",
+      "category": "Світ",
+      "tags": [
+        "Росія",
+        "Саратов",
+        "НПЗ",
+        "пожежа",
+        "БПЛА"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/7632b78788.mov?token=NSj7TAyZM9gJgI3UIUCNOYYzq3CQyieGIT08kESHp7kGg4kBFbCFUFRJmmlbGt3dnA3kF-45tPw0SUEDUXZz2kw6693csmWcUqLm21oGkUdFpv_ZzRE3KiF9a4zsBpZ0R7C-2Nn21bdDhM2-kLgyruT_RPFYmC_o0f2OL5oE-G91YoN1QLGwM2XU1Nl3mXcmCq9D4zLp6D7coRkSlHB-YwPU0H_e79M4bAK_PiLJoSHdX3e_lQxL_4RkyitTm3nwiMLyInqYUSuFNC-LHzw1mSXbMWn5V-reDvT-ntXwrw14MQzuMVJPV9HK-RAPDvzn-A8bEQfOVly4imOtieN_Yw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/5488411dbb.mp4?token=LyXL0l-mrvC8yrtidc0EM_GzvIMnXmtT5PR4xMP6HkdEPuyf-h_Td9YcaY5Az87b_6l3iEUgiVk6h_FlpJ0l5bCNcpAh41pNscHgTP5mCClzB7SWaiRdu-lTvJdaC2JZKD5tqxoavdV0wf9Fk3m8m0mI6gGVZfShwxMmj8Py4JsEsTz5jADIiWLEs9dDNJHj_btDiN70HDMcmBEO2EiEC0iLKwYrP47rMAiZsKe3EMAuznH4Qwr7SOkejpdV33kExbbUc0N5XaJjwdAEXwl0QW2fI0aiqNtcvqqBHEm5LdH4-jSFymnMlC6f1KSf4h4Tdl5Ud2VPuQK_s4dEmHRMUg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/b9148acd79.mov?token=bi_zvQN9tir95PTa24LzGp2-NlmTb22ayGw3wRQiz7uL2qn2_qJohlbXBt-O0T3QSJWju7_TzmKtlZBd9zwqOiQ2NMcLoo7Hk_k0C0E2Bra-CT7QK3o5sW53WhHJi1-h4Smy4_wVGUCX_nZB195fU-X5TedIuScIUNqQjjDvNsl-0K17WG5z3wIMpphIuSnZC3VF9_8EwA7LvZUQDNR_4ZQBBKlCxKLF8uxfWlDFGo4xpHBtSjH6xuYw1WonMT8WfZ1w8XuuYa2ds7rig21PMPHYq5muJDfr8p-BStDZzMixsR02hsdqyPuEcy6tFCyNCEMmts9u9AjgP7CyMUH_jw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/5d27ce0616.mp4?token=FD6gOp8pQFT820pFV798fDgM1cD6fR2joOaxMTlM7tFi38R5FccTag1yxZjJq03PBRwSqJX2rCv9da4Zv_990jRNgvutkSO1RMOumSM8NK0Xx4yYoMfyjjE-QxjLvpPWSW3m2CGARfEet-7fvhnkJ-t_mHz99XI3DnBAhp9h6OslnNPeLHytkmgJHV076i-LivWFX4RXC5Zb2DfO2eZA36wS8FZzxRd4b7DE88MQ6fCe2zx76yThKTjS_8wTrkKkPaqx5wxASnO2AG_UqwBi7rGaQQyDvjXlox56aVOE8HLu9kt4Foe1P7HjBucr6citLBBEJxkpRwuKJAp1II5ScQ"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ca7fae2cca.mov?token=Bq5y4Vwuw4o0B52aVUhsPsnKIVisOkEfjGxupju5t47LNWUJxNuq-aWlx13-cxdHzhI2bTCBF2qyXgS9i7V00PvD5n8D6BwfcmIGCBGsGlbmgCX-RJ509X3uj-_QKp_D2ky1q51Gjzewq-BxdZ3lKFQjKmy5STOMN-6IkJtIcoWLt9n5lynY7OXNogCmAEMm1j5ht7wQRhTTrFFJTn-uE1yEX6C-G9i_RISuL64KIF1Ud5HAn-hNUW8bojjZV99VS-Rvt-gjdX7nLyuJJ3tsh4N2EeoMt7sYROIXncuO7ckZ0ryEIOvtYRLhwgBM2ArXNBOaOFb-RL4ez2CM-1q_gQ"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78934",
+          "raw_text": "У Броварському районі Київщини двоє людей постраждали внаслідок атаки дронів РФ, повідомили в ОВА. Чоловіка дістали з-під завалів і госпіталізували, жінці надали допомогу на місці. Також виникла пожежа в приватному будинку.",
+          "published_at": "2026-11-06T21:44:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_29447",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29447",
+      "published_at": "2026-11-07T01:46:05+00:00",
+      "raw_text": "She would interview them if she could. But of course there is no communication. In her new book, Clémentine Goldszal tries to decipher what a baby’s earliest days are like. Learn more here: \nhttps://t.co/5HJIP2usqK\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
+      "title": "Книга про перші дні життя немовляти",
+      "summary": "У своїй новій книзі Clémentine Goldszal намагається розшифрувати, якими є перші дні життя дитини. Авторка досліджує ранній розвиток та сприйняття немовлят.",
+      "category": "Культура",
+      "tags": [
+        "книга",
+        "психологія",
+        "діти"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148137",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148137",
+      "published_at": "2026-11-07T01:40:45+00:00",
+      "raw_text": "❗️\nРосіяни намагаються атакувати Північний міст у \nКиєві\n.\n В районі чули декілька вибухів. \n\n\n\n\nЗагалом цього разу застосували близько шести ракет по столиці. Проте в запасі у рф лишилось ще, тому загроза зберігається протягом ночі. \n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Ракетна атака на Київ: вибухи в районі Північного мосту",
+      "summary": "Російські війська намагалися атакувати Північний міст у Києві, застосувавши близько шести ракет. У столиці лунали вибухи, зберігається загроза нових ударів.",
+      "category": "Безпека",
+      "tags": [
+        "Київ",
+        "вибухи",
+        "Північний міст",
+        "обстріли"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78942",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78942",
+      "published_at": "2026-11-07T01:32:11+00:00",
+      "raw_text": "Повторні вибухи у столиці, повідомляють кореспонденти Суспільного.",
+      "title": "У столиці пролунали повторні вибухи",
+      "summary": "У Києві зафіксовано повторні вибухи. Мешканців закликають залишатися в укриттях.",
+      "category": "Місто",
+      "tags": [
+        "вибухи",
+        "Київ",
+        "Суспільне"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78938",
+          "raw_text": "Повторні вибухи у столиці, повідомляють кореспонденти Суспільного.",
+          "published_at": "2026-11-06T23:19:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_148136",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148136",
+      "published_at": "2026-11-07T01:31:17+00:00",
+      "raw_text": "❗️\nДві балістині ракети на Оболонь/Північний міст в Києві.\n\n\n\n\nСитуація в місті: \nhttps://t.me/+EWmw0Cq-Os03ZGQy",
+      "title": "Загроза удару балістичними ракетами по Києву",
+      "summary": "Зафіксовано рух двох балістичних ракет у напрямку Оболоні та Північного мосту в Києві. Мешканців закликали перебувати в укриттях.",
+      "category": "Безпека",
+      "tags": [
+        "балістика",
+        "Київ",
+        "обстріли",
+        "Оболонь"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29446",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29446",
+      "published_at": "2026-11-07T01:26:13+00:00",
+      "raw_text": "Ahead of his 160th birthday, China’s government has been whipping up Sun Yat-sen mania with exhibitions, concerts and seminars. Taiwanese officials have warned their citizens not to attend \nhttps://t.co/K3oI5AYU1Y\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
+      "title": "Пекін готується до ювілею Сунь Ятсена на тлі попереджень Тайваню",
+      "summary": "Уряд Китаю проводить масові заходи до 160-річчя Сунь Ятсена, використовуючи це у пропагандистських цілях. Тайванські офіційні особи закликали громадян уникати участі в цих заходах.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "Тайвань",
+        "Сунь Ятсен"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78941",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78941",
+      "published_at": "2026-11-07T01:05:21+00:00",
+      "raw_text": "Вибух пролунав у Києві, повідомляють наші кореспонденти.",
+      "title": "У Києві пролунав вибух",
+      "summary": "У столиці пролунав вибух, про що повідомляють кореспонденти. Деталі та наслідки події уточнюються.",
+      "category": "Місто",
+      "tags": [
+        "вибухи",
+        "Київ",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_78940",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/78940",
+      "published_at": "2026-11-07T01:01:42+00:00",
+      "raw_text": "КМВА повідомила, що наразі відомо про двох постраждалих внаслідок атаки. Також у Солом'янському районі пошкоджено будівлю дитячого садочку, виникло загоряння нежитлової будівлі.",
+      "title": "Наслідки атаки у Києві: двоє постраждалих та пошкодження",
+      "summary": "Внаслідок атаки у Києві зафіксовано двох постраждалих. У Солом'янському районі пошкоджено дитячий садок та сталася пожежа в нежитловій будівлі.",
+      "category": "Місто",
+      "tags": [
+        "КМВА",
+        "обстріл",
+        "Київ",
+        "постраждалі"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/78939",
+          "raw_text": "Кличко: У Соломʼянському районі влучання уламків у 5-поверховий житловий будинок.\n\n\n\n\nТакож, за іншою адресою вибуховою хвилею пошкоджено скління вікон.",
+          "published_at": "2026-11-06T23:45:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_103562",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103562",
+      "published_at": "2026-11-07T01:01:23+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
+      "title": "Оголошено повітряну тривогу",
+      "summary": "У регіоні оголошено червоний рівень небезпеки. Жителям рекомендовано перейти до укриттів.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103554",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
+          "published_at": "2026-11-06T21:56:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_103561",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103561",
+      "published_at": "2026-11-07T00:51:00+00:00",
+      "raw_text": "🟢\n Відбій повітряної тривоги!",
+      "title": "Відбій повітряної тривоги",
+      "summary": "В місті та області оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60117",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-07T00:50:59+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60115",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-07T00:03:15+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103555",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-11-06T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "holosameryky_22566",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22566",
+      "published_at": "2026-11-07T00:03:54+00:00",
+      "raw_text": "Партія президента програла проміжні вибори? \nНічого незвичного: так буває майже завжди.\n\n\n\n\nАле у 2026 році контроль над обома палатами Конгресу змінився вперше з 2006 року, а в деяких штатах остаточні результати \nможуть стати відомі лише в грудні.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp\n\n\n\n\n#VOAMidterms2026",
+      "title": "Підсумки проміжних виборів у США 2026 року",
+      "summary": "Контроль над обома палатами Конгресу США змінився вперше з 2006 року за результатами проміжних виборів. У деяких штатах підрахунок голосів та остаточні результати затягнуться до грудня.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "вибори",
+        "Конгрес"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+          "raw_text": "Why the US midterms sparked an AI stock selloff\n\nFears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+          "published_at": "2026-11-06T18:32:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_148133",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148133",
+      "published_at": "2026-11-07T00:01:40+00:00",
+      "raw_text": "❗️\nЧерез удар балістики по Києву постраждала п'ятиповерхівка у Солом'янському районі, – КМВА.  Слідкуйте за оновленням ситуації по Києву та області в реальному часі: https://t.me/kyiv  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+      "title": "Удар балістики по Києву: пошкоджено будинок",
+      "summary": "Внаслідок удару балістичною ракетою по Києву зафіксовано пошкодження п'ятиповерхового будинку в Солом'янському районі. На місці працюють екстрені служби.",
+      "category": "Надзвичайні події",
+      "tags": [
+        "Київ",
+        "обстріл",
+        "балістика",
+        "руйнування"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/6c566e8214.mp4?token=tWALO8N_gNGX9xW31k8sGftZtULEdW_s6lOnaQYhP8T7GczkB5TbK_djazWIlIuXdbYonqQiViE0qa7JDErGXOD55hAk5uy0Lz3MkqlJw847lnSwYC2nrkeS8VZ7kkZHJEnNGg52RUyv-JbH3kHwU4W5yvL3kqyBMZs_r_V3cyyMWILqVhU62Wuaj-3aHhudI0ryKHmXC0JkIEkCTacdBN8HGcVZQbntEy0u47Nxi_ZCcWZDiZB5vOyQ7tfJcQxQkS3G5I6AtnnD6J4uH8__ZtWZmW368sV6c9RgM9Q210gS0_VOPjMIWpeDmabMjeDg51m6Jqs0cyZWW6V7LgEG-g"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/b7ca0b4eb8.mp4?token=tjhMipLG5AViBHjU-4QJKSQZOhS6ULjsh-HEdoD-VlmQ9Wx1W51Vo38HshrP4i3nVMat2MjaMmk1FqC--T21ZLJiStedg7rjzBXyVAXFEuW2AQC4plz3Z6da6vqBMrr9i02UB2C6T7xCRs3bEJqR9EnKbQE3wnLA1JxXLTfmqurcziftVRnP4l097FiGG6ddrSy-ZMhjJ0cpos6ZK-kTzTviTx9Yi0MMikiZITrAJlW896Ok_8XPdutt_7FTXi4xZQn6zfokXFmTcELACBz5AIrnYMFUGN0piR9i53uz-HILP-hzM5TgtDAUZ_0CSPvf1q_nOBs-cCm0S5Cg4zr0xA"
+        }
+      ],
+      "related_sources": []
+    },
     {
       "id": "truexanewsua_148129",
       "source_name": "@truexanewsua",
@@ -57,6 +639,24 @@
       "related_sources": []
     },
     {
+      "id": "rss__news_articles_crp3gg2z171go_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-06T23:24:15+00:00",
+      "raw_text": "With Stephen Miller pick, Trump readies for a battle\n\nThe US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "title": "Призначення Стівена Міллера готує ґрунт для конфліктів у Конгресі США",
+      "summary": "Обраний президент США Дональд Трамп призначив Стівена Міллера своїм новим керівником апарату. Це кадрове рішення віщує можливі зіткнення з членами Конгресу.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "Трамп",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "rss_TO3SVQT3BZLV00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
@@ -89,24 +689,6 @@
         "Демократи"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78938",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78938",
-      "published_at": "2026-11-06T23:19:58+00:00",
-      "raw_text": "Повторні вибухи у столиці, повідомляють кореспонденти Суспільного.",
-      "title": "Вибухи у столиці",
-      "summary": "У Києві пролунали повторні вибухи. Про це повідомили кореспонденти Суспільного.",
-      "category": "Місто",
-      "tags": [
-        "вибухи",
-        "безпека",
-        "Київ"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
@@ -303,75 +885,6 @@
       "related_sources": []
     },
     {
-      "id": "sirena_kremenchuk_13966",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/13966",
-      "published_at": "2026-11-06T23:03:28+00:00",
-      "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-      "title": "Червоний рівень тривоги у районі",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу червоного рівня. Існує пряма загроза, необхідно негайно пройти в укриття.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "обстріли",
-        "Кременчуцький район",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60114",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-          "published_at": "2026-11-06T23:03:27+00:00"
-        }
-      ]
-    },
-    {
-      "id": "h_kremenchug_103557",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103557",
-      "published_at": "2026-11-06T23:02:59+00:00",
-      "raw_text": "🔴\n \nКременчуцький р-н\n\n\nРівень підвищено до червоного",
-      "title": "Підвищення рівня небезпеки у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі рівень повітряної тривоги підвищено до червоного. Мешканців закликають залишатися в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчук",
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60113",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-06T22:06:04+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60111",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-06T21:32:51+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13963",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-06T21:32:51+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13958",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-06T18:10:08+00:00"
-        }
-      ]
-    },
-    {
       "id": "TheEconomistOfficial_29437",
       "source_name": "@theeconomistofficial",
       "source_url": "https://t.me/TheEconomistOfficial/29437",
@@ -428,36 +941,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_103556",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103556",
-      "published_at": "2026-11-06T22:06:13+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-      "title": "Повітряна тривога: жовтий рівень",
-      "summary": "У регіоні зафіксовано повітряну тривогу. Встановлено жовтий рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13965",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-06T22:06:05+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13962",
-          "raw_text": "🔴\n Кременчуцький район — повітряна тривога, червоний рівень",
-          "published_at": "2026-11-06T21:05:22+00:00"
-        }
-      ]
-    },
-    {
       "id": "rss_TO32CDT96OSG00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/paraguay-senators-remove-pena-from-office-after-bank-scandal",
@@ -494,48 +977,6 @@
       "importance": 5,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "h_kremenchug_103555",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103555",
-      "published_at": "2026-11-06T22:00:00+00:00",
-      "raw_text": "🟢\n Відбій повітряної тривоги!",
-      "title": "Відбій повітряної тривоги",
-      "summary": "У регіоні оголошено відбій повітряної тривоги. Ситуація стабілізувалася.",
-      "category": "Безпека",
-      "tags": [
-        "відбій",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13964",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-06T21:33:46+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60112",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-06T21:33:45+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/13961",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-06T20:24:18+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60102",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-06T17:29:27+00:00"
-        }
-      ]
     },
     {
       "id": "holosameryky_22564",
@@ -578,30 +1019,6 @@
           "source_url": "https://t.me/holosameryky/22559",
           "raw_text": "🎧\n ПОДКАСТ: Опозиційна до президента Трампа Демократична партія\n готується створити більшість в обох палатах Конгресу США.\n \n\n\n\n\nЧи означає це можливість змін курсу Вашингтона щодо України\n і світу на додаток до того, що відбуватиметься всередині Америки?\n\n\n\n\nБогдан Цюпин\n з Лондона говорить про це в подкасті з: \n\n\n\n\n🗣️\nкерівником Голосу Америки Українською \nРусланом Петричкою\n, \n\n\n🗣️\nвиконавчою редакторкою \nТетяною Ворожко\n\n\n🗣️\nкореспонденткою \nIndependence Avenue Media\n \nМарією Ульяновською\n.\n\n\n\n\n🇺🇦\n Слухайте нас \nсайті\n · \nSpotify\n · \nYouTube\n!\n\n\n\n\n#VOAMidterms2026",
           "published_at": "2026-11-06T17:06:36+00:00"
-        }
-      ]
-    },
-    {
-      "id": "h_kremenchug_103554",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103554",
-      "published_at": "2026-11-06T21:56:23+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
-      "title": "Оголошено повітряну тривогу",
-      "summary": "У регіоні оголошено повітряну тривогу через загрозу. Встановлено червоний рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/47773",
-          "raw_text": "❗️\n \nТРИВОГА\n \n⚠️\n\n\n\n\nМапа з рухом цілей для міста та області тут: \n[ЗАВАНТАЖИТИ МАПУ]",
-          "published_at": "2026-11-06T10:15:02+00:00"
         }
       ]
     },
@@ -656,25 +1073,6 @@
           "url": "https://cdn4.telesco.pe/file/6f5d6f4d69.mp4?token=h-IW6ySQMetwyqKqwai4VONajdOnEFJKcMpinKaIPZA-EL0p6YLDurmw9Ez_rSX1Z6tUZHTVkvQCrTMcW_Nj-eDIvJz930qe3EwwiCaW-3ICiD4pMmYz4YPbBC1I6_1ETtnjuwOqx7PiSfdZDDEQewr3sr--p8gBnCMStnOZx8tTPrgtHw4iCK17u5vZnrhlx4iFPLJ3WQT_Lsaip-iMk5uat-IF9C9ww2-Ia_rPAr0RJcW6IInCC0fAtbC-2ODxairxjNiRDaME9U2Sv8foWklp36ChFJL50SOdn1AnONOuRaYbr06Yi0Is18pIrXCWWhTojbCXirqfFAjmEeEBt41TwQxUJ-l7quDiPbuD1zKidU2DFt2kwUBxVIZsERJZcaQpr38cMrkJ43TxcSodUzHsxGAhyKM5Ga3OYuFGcV1AmSzlNwpLyEx6JoAL1ptZBwIdg-_KCYD6LA0hMAUuwZhtZndOXxkaK6t6np9z2baLK0thvOgKzutAWPCC6TNprgD6OrJeSAMrvclH7AK4R-sfQ5t21VPVtoYPzIeOE78fKOX9Gtdq2dj8HgsK4lXPoDR7yCEXfuQxb3gkOQy40mUJmw16bXFjHk74strTSYEBMb6fKEXOxgQOqK_tsIuG9vd8hVmh9Yo0TGFHZfeRk-sUyEZ8HHpp1bvxT29gKeA"
         }
       ],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78934",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78934",
-      "published_at": "2026-11-06T21:44:54+00:00",
-      "raw_text": "У Броварському районі Київщини двоє людей постраждали внаслідок атаки дронів РФ, повідомили в ОВА. Чоловіка дістали з-під завалів і госпіталізували, жінці надали допомогу на місці. Також виникла пожежа в приватному будинку.",
-      "title": "Атака дронів на Броварський район",
-      "summary": "У Броварському районі внаслідок атаки російських дронів постраждали двоє людей, виникла пожежа в приватному будинку. Чоловіка госпіталізували, а жінці допомогли на місці.",
-      "category": "Бровари",
-      "tags": [
-        "обстріл",
-        "постраждалі",
-        "Бровари",
-        "ОВА"
-      ],
-      "importance": 5,
-      "media_list": [],
       "related_sources": []
     },
     {
@@ -17333,124 +17731,6 @@
         "перемир'я"
       ],
       "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_ck9dz3v7z7v3o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T02:12:19+00:00",
-      "raw_text": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack\n\nIf the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "title": "Хакерів з КНДР підозрюють у масштабній кібератаці на біржу Binance",
-      "summary": "Експерти вважають елітних північнокорейських хакерів головними підозрюваними у рекордній крадіжці криптовалюти. Це свідчить про зростаючу небезпеку та потужність хакерських угруповань з КНДР.",
-      "category": "Технології",
-      "tags": [
-        "Кібербезпека",
-        "КНДР",
-        "Binance",
-        "хакери"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNR1Y2UT4Z5S00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-10-31/stocks-drop-on-tech-rout-us-to-sell-missiles-to-ukraine-more-mvvri37j",
-      "published_at": "2026-10-31T02:08:26+00:00",
-      "raw_text": "Stocks Drop on Tech Rout, US to Sell Missiles to Ukraine, More\n\nSource: Bloomberg, 6:15",
-      "title": "Падіння акцій через технологічний спад",
-      "summary": "Фондові ринки демонструють зниження на тлі розпродажу акцій технологічних компаній. Тим часом США планують продати ракети Україні.",
-      "category": "Світ",
-      "tags": [
-        "економіка",
-        "акції",
-        "США",
-        "Україна"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-businessweek-daily-ai-trade-unwinds-podcast-video",
-          "raw_text": "Bloomberg Businessweek Daily: AI Trade Unwinds (Podcast)\n\nThe people, companies and trends shaping the global economy. Watch Carol and Tim LIVE every day on YouTube: http://bit.ly/3vTiACF\n\nWall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown. Disappointing tech results spurred the worst drop for stocks since June, with the Nasdaq 100 briefly crossing the threshold of a technical correction. The index sank 3.5% Friday.\n\nOn today's episode:\n\nKristine Aquino, Bloomberg News Markets Live Blog Managing Editor\nJeff Sprecher, Intercontinental Exchange CEO\nMuyao Shen, Bloomberg News Crypto Reporter\nDan Sheridan, Brooks Running CEO (Source: Bloomberg)",
-          "published_at": "2026-10-30T22:37:12+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_28768",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28768",
-      "published_at": "2026-10-31T02:06:14+00:00",
-      "raw_text": "New Zealand’s two biggest parties have struggled under the weight of unpopular leaders. Register for free Qiulae Wong is winning voters from across the political spectrum \nhttps://t.co/NIa0BPGgH2Photo\n: Getty Images \nhttps://t.co/YW9ZZ9Vruv\n — The Economist (\n@TheEconomist\n) \nOct 31, 2026",
-      "title": "Політична ситуація в Новій Зеландії",
-      "summary": "Провідні партії Нової Зеландії стикаються з кризою через непопулярність лідерів. Водночас нові політичні фігури залучають виборців з різних політичних спектрів.",
-      "category": "Світ",
-      "tags": [
-        "Нова Зеландія",
-        "вибори",
-        "політика"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_28767",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/28767",
-      "published_at": "2026-10-31T01:46:33+00:00",
-      "raw_text": "Each year apparatchiks across China battle one another for coveted rankings on league tables. But, scandalously, new rules would put an end to such competition \nhttps://t.co/JXSv6TVaqt\n — The Economist (\n@TheEconomist\n) \nOct 31, 2026",
-      "title": "Зміни у китайській політичній системі",
-      "summary": "Нові правила можуть покласти край щорічним змаганням та рейтингам серед китайських чиновників. Це викликає дискусії в політичних колах.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "політика",
-        "The Economist"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TN8XIRKJH6V400",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services",
-      "published_at": "2026-10-31T01:42:16+00:00",
-      "raw_text": "China Factory Activity Drops Back Into Decline as Growth Wobbles\n\nChina’s factory activity shrank in October, underscoring the challenges facing policymakers as they seek to sustain an economic recovery to ensure this year’s growth target is met.",
-      "title": "Скорочення виробничої активності в Китаї",
-      "summary": "У жовтні активність китайських заводів знову знизилася, що свідчить про труднощі у відновленні економіки. Це створює виклики для досягнення річних цілей зростання.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "економіка",
-        "виробництво"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNQYS2VTTCZY00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-31/indonesia-s-gas-cut-puts-singapore-s-energy-security-in-focus",
-      "published_at": "2026-10-31T01:00:02+00:00",
-      "raw_text": "Indonesia’s Gas Cut Puts Singapore’s Energy Security in Focus\n\nWith no homegrown supply, the city-state is widening its options as regional demand rises and output falls.",
-      "title": "Скорочення постачання газу в Індонезії загрожує Сінгапуру",
-      "summary": "Через відсутність власних енергоресурсів Сінгапур змушений шукати нові можливості на тлі падіння регіонального видобутку газу. Це загострює питання енергетичної безпеки міста-держави.",
-      "category": "Світ",
-      "tags": [
-        "енергетика",
-        "Сінгапур",
-        "Індонезія",
-        "газ"
-      ],
-      "importance": 2,
       "media_list": [],
       "related_sources": []
     }
