@@ -1,13 +1,613 @@
 {
-  "updated_at": "2026-11-12 22:44",
+  "updated_at": "2026-11-13 02:56",
   "digest": [
-    "Президент України Володимир Зеленський зустрівся в Ірландії зі спецпредставниками США Джаредом Кушнером та Стівом Віткоффом, який також оцінив потенціал післявоєнного відновлення України.",
-    "Компанія Nvidia опинилася під розслідуваннями Міністерства юстиції США, що разом із коливаннями цін на нафту вплинуло на обережне відкриття азійських ринків.",
-    "Дональд Трамп раніше провів масштабний закон про податки та витрати, а експерти аналізують можливий розвиток економічної політики за демократів.",
-    "Через 13 років після релізу GTA V новий сиквел має стати найбільшою розважальною подією в історії з рекордними прогнозами популярності.",
-    "У Перу місцеві жителі підозрюють корупційні схеми через постійну відсутність квитків до Мачу-Пікчу на пів року вперед."
+    "Генеральний директор Nvidia Дженсен Хуанг пішов у відставку на тлі скандалу та можливого допиту через зв'язки з китайською шпигункою, що створює ризики для експорту чіпів компанії.",
+    "Внаслідок російської атаки на Вінницю двоє жінок зазнали поранень, пошкоджено житлові будинки та дитячий садок.",
+    " Bloomberg повідомляє про чутки щодо можливого злиття компаній SpaceX і Tesla.",
+    "Інфляція в Індії у жовтні досягла дворічного максимуму, що посилило побоювання щодо підвищення процентних ставок.",
+    "У Сінгапурі заарештували п'ятого фігуранта справи про нелегальний експорт серверів із чіпами Nvidia до Малайзії."
   ],
   "articles": [
+    {
+      "id": "rss_TOF6LIWWD62O00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/audio/2026-11-13/nvidia-s-huang-out-spacex-tesla-talk-merger-more",
+      "published_at": "2026-11-13T02:51:18+00:00",
+      "raw_text": "Nvidia's Huang Out, SpaceX, Tesla Talk Merger, More\n\nSource: Bloomberg, 0:00",
+      "title": "Зміни у керівництві Nvidia та чутки про злиття SpaceX і Tesla",
+      "summary": "Bloomberg повідомляє про відставку очільника Nvidia Дженсена Хуанга та обговорення можливого злиття компаній SpaceX і Tesla. Інформація охоплює останні події на технологічному ринку.",
+      "category": "Технології",
+      "tags": [
+        "Nvidia",
+        "SpaceX",
+        "Tesla",
+        "Bloomberg"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cmq5vd1wdgz6o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T02:39:00+00:00",
+      "raw_text": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil\n\nUS lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "title": "Голова Nvidia Єнсен Хуанг пішов у відставку",
+      "summary": "Генеральний директор Nvidia Єнсен Хуанг залишив свою посаду на тлі скандалу. Американські законодавці хочуть допитати його через можливі зв'язки з китайською шпигункою.",
+      "category": "Технології",
+      "tags": [
+        "nvidia",
+        "технології",
+        "скандал"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@holosameryky",
+          "source_url": "https://t.me/holosameryky/22608",
+          "raw_text": "Гендиректор Nvidia Дженсен Хуанг \nподав у відставку.\n\n\n\n\nЦе оголошення пролунало лише через кілька днів після того, як Хуанг визнав, що \nмав позашлюбний зв’язок із жінкою\n, яку, за повідомленнями, американські розвідувальні служби підозрюють у шпигунстві на користь Китаю.\n\n\n\n\nУ заяві Nvidia подякувала Хуангу за \"\nйого неоціненний внесок у розвиток компанії та галузі\"\n.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+          "published_at": "2026-11-12T16:41:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TOF5YIKIJH8P00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-11-13/how-huang-s-exit-could-lead-to-nvidia-slowdown-video",
+      "published_at": "2026-11-13T02:37:30+00:00",
+      "raw_text": "How Huang’s Exit Could Lead to Nvidia Slowdown\n\nBloomberg Economics' geonomics and technology analyst Michael Deng says former Nvidia CEO Jensen Huang was capable of operating across the China-US divide and his departure may expose Nvidia to government policy from both sides. Huang, who made frequent visits to China and lobbied the US government for looser restrictions on chip exports to China, was ousted from his post after reports of three affairs. (Source: Bloomberg)",
+      "title": "Відставка Дженсена Хуанга може призвести до сповільнення Nvidia",
+      "summary": "Аналітики зазначають, що колишній CEO Nvidia умів маневрувати між США та Китаєм, а його відставка через скандал може посилити тиск регуляторів. Це створює ризики для експорту чіпів та загального розвитку компанії.",
+      "category": "Технології",
+      "tags": [
+        "Nvidia",
+        "Дженсен Хуанг",
+        "Китай",
+        "США",
+        "Технології"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/opinion/newsletters/2026-11-12/how-much-is-jensen-huang-s-old-leather-jacket-worth-now",
+          "raw_text": "How Much Is Jensen Huang’s Old Leather Jacket Worth Now?\n\nAfter Jensen Huang’s resignation, it can’t possibly be $960,000.",
+          "published_at": "2026-11-12T22:19:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_79231",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79231",
+      "published_at": "2026-11-13T02:31:27+00:00",
+      "raw_text": "Дві жінки зазнали поранень внаслідок російської атаки на Вінницю, повідомив міський голова Сергій Моргунов. Спалахнув житловий будинок, вибуховою хвилею пошкоджені приватні оселі, багатоквартирні будинки та дитсадок.",
+      "title": "Російська атака на Вінницю: двоє поранених та пошкоджені будинки",
+      "summary": "Внаслідок ворожого удару по Вінниці дві жінки зазнали поранень. Спалахнув житловий будинок, а вибухова хвиля пошкодила сусідні оселі та дитячий садок.",
+      "category": "Регіони",
+      "tags": [
+        "Вінниця",
+        "обстріл",
+        "постраждалі",
+        "руйнування"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_c58j4798874go_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T02:31:02+00:00",
+      "raw_text": "Military base asylum plans granted planning approval\n\nThe Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+      "title": "Схвалено плани розширення притулку для біженців на військовій базі",
+      "summary": "МВС Великої Британії отримало дозвіл на розміщення до 1256 чоловіків на території колишньої військової бази поблизу Бістера. Проєкт було прискорено.",
+      "category": "Світ",
+      "tags": [
+        "велика британія",
+        "біженці",
+        "міграція"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOF5NOKIP3IG00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-13/rate-hike-fears-set-to-test-nifty-s-rally-as-india-inflation-accelerates",
+      "published_at": "2026-11-13T02:31:00+00:00",
+      "raw_text": "Rate Hike Fears Set to Test Nifty’s Rally as India Inflation Accelerates\n\nOctober inflation beats estimates, accelerating to the highest level in two years.",
+      "title": "Прискорення інфляції в Індії посилює побоювання щодо підвищення ставок",
+      "summary": "Інфляція в Індії у жовтні перевищила прогнози та досягла найвищого рівня за два роки. Це стає серйозним випробуванням для поточного ралі фондового індексу Nifty.",
+      "category": "Світ",
+      "tags": [
+        "Індія",
+        "економіка",
+        "інфляція"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOF4SYKIP3IX00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+      "published_at": "2026-11-13T02:24:21+00:00",
+      "raw_text": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says\n\nSingapore charged a fifth person in relation to an AI server fraud case linked to the export of computer servers that might contain Nvidia Corp. chips to Malaysia, according to a report by the Straits Times.",
+      "title": "У Сінгапурі заарештували п'ятого фігуранта справи про чипи Nvidia",
+      "summary": "Сінгапур висунув звинувачення п'ятій особі у справі про шахрайство з серверами штучного інтелекту. Йдеться про нелегальний експорт комп'ютерних серверів, які могли містити чипи Nvidia, до Малайзії.",
+      "category": "Світ",
+      "tags": [
+        "Сінгапур",
+        "Nvidia",
+        "технології",
+        "суд"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29998",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29998",
+      "published_at": "2026-11-13T02:21:29+00:00",
+      "raw_text": "If America and Britain cannot get their shipyards in order, they could leave Australia with a nuclear-submarine base but no nuclear-powered submarines of its own \nhttps://t.co/fOrmwl4lX9\n — The Economist (\n@TheEconomist\n) \nNov 13, 2026",
+      "title": "Проблеми суднобудування США та Британії загрожують оборонному проєкту Австралії",
+      "summary": "The Economist аналізує ризики для Австралії залишитися без власних атомних підводних човнів через неспроможність верфей США та Великої Британії впоратися із замовленнями.",
+      "category": "Світ",
+      "tags": [
+        "Оборона",
+        "Австралія",
+        "США",
+        "Велика Британія"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79230",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79230",
+      "published_at": "2026-11-13T02:13:05+00:00",
+      "raw_text": "КМВА: У Шевченківському районі внаслідок падіння уламків БпЛА виникло загоряння будівлі медичного закладу.",
+      "title": "У Києві через падіння уламків БпЛА загорівся медзаклад",
+      "summary": "У Шевченківському районі Києва зафіксовано падіння уламків ворожого безпілотника. Внаслідок цього виникло загоряння в будівлі медичного закладу.",
+      "category": "Київ",
+      "tags": [
+        "Київ",
+        "КМВА",
+        "ПВО",
+        "пожежа"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29996",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29996",
+      "published_at": "2026-11-13T01:46:15+00:00",
+      "raw_text": "Is China becoming more attractive to top AI talent? On the “Drum Tower” podcast we look at how the Communist Party is attempting to reverse the country’s brain drain \nhttps://t.co/XrzvENpbmM\n — The Economist (\n@TheEconomist\n) \nNov 13, 2026",
+      "title": "Китай намагається повернути таланти у сфері штучного інтелекту",
+      "summary": "Подкаст The Economist досліджує зусилля Комуністичної партії Китаю щодо подолання відтоку мізків у галузі ШІ. Автори аналізують, чи стає країна привабливішою для провідних фахівців.",
+      "category": "Світ",
+      "tags": [
+        "Китай",
+        "Штучний інтелект",
+        "Технології"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29995",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29995",
+      "published_at": "2026-11-13T01:26:13+00:00",
+      "raw_text": "Indian equities have largely sat out the AI boom. Now that investors are re-evaluating the technology’s prospects, however, India has gained \nhttps://t.co/A4cDY0QOS9\n — The Economist (\n@TheEconomist\n) \nNov 13, 2026",
+      "title": "Вплив AI-буму на фондовий ринок Індії",
+      "summary": "Індійські акції спочатку не брали активної участі в загальному бумі штучного інтелекту. На тлі переоцінки перспектив технології інвесторами ринок Індії отримав нові переваги.",
+      "category": "Економіка",
+      "tags": [
+        "Індія",
+        "AI",
+        "інвестиції",
+        "фондовий ринок"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29994",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29994",
+      "published_at": "2026-11-13T01:01:24+00:00",
+      "raw_text": "Those assembled in Turkey for the COP31 climate summit would love to see China’s falling emissions as an outcome of their unceasing efforts. Dream on. There is much policymakers across the world can do to help keep emissions falling, however \nhttps://t.co/aoIvZ7LQjd\n — The Economist (\n@TheEconomist\n) \nNov 13, 2026",
+      "title": "Динаміка викидів в Китаї на тлі саміту COP31",
+      "summary": "Учасники кліматичного саміту COP31 у Туреччині обговорюють скорочення викидів в Китаї. Проте експерти зазначають, що це результат не лише міжнародних зусиль, і політики мають продовжувати роботу в цьому напрямку.",
+      "category": "Екологія",
+      "tags": [
+        "COP31",
+        "Китай",
+        "клімат",
+        "викиди"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_ckx28le8dv9wo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T00:55:31+00:00",
+      "raw_text": "Junior doctor burnout putting maternity patients at risk, says regulator\n\nTrainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+      "title": "Вигорання молодих лікарів загрожує пацієнткам пологових",
+      "summary": "За даними регулятора, лікарі-інтерни, які приймають пологи, частіше страждають від перепрацювання та професійного вигорання порівняно з іншими спеціальностями. Це становить ризик для пацієнток.",
+      "category": "Здоров'я",
+      "tags": [
+        "медицина",
+        "здоров'я",
+        "праця"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_29993",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/29993",
+      "published_at": "2026-11-13T00:46:14+00:00",
+      "raw_text": "The worst scandals are obvious in hindsight. That Jensen Huang’s mistress might be a Chinese agent would have been apparent had he inquired about her background \nhttps://t.co/TV8Yub1loD\n — The Economist (\n@TheEconomist\n) \nNov 13, 2026",
+      "title": "Скандал навколо зв'язків CEO Nvidia",
+      "summary": "Видання The Economist аналізує ситуацію навколо ймовірних зв'язків коханки Єнсена Хуанга з китайською розвідкою. Подібні ризики стають очевидними лише при ретельній перевірці біографії.",
+      "category": "Світ",
+      "tags": [
+        "Nvidia",
+        "Єнсен Хуанг",
+        "The Economist",
+        "скандал"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "h_kremenchug_103986",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103986",
+      "published_at": "2026-11-13T00:37:40+00:00",
+      "raw_text": "🟢\n Відбій повітряної тривоги!",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У регіоні офіційно скасовано повітряну тривогу. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "тривога"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/j30iACG6UDxSHvoOpJ0FTfXJ5x0TAJeYQPDxO22NwyefRhxzWDIuEUQplKhQtrSJWpowWDtJiHaZnCmTZ1POxpitjSXl-P5KqHAIejXqEJZuUPAlP-SFiIAfGBTe_6VJnP5HT_bN79YWh-1RBZSAFe0WA5zlpv6VArnGprnna2og8sN6mpUJs4abpzRE08qbSAqrTSe8OcGitOYlwJH1B0JLWJ1yJW3aVxPcB9RUIcdxOzcf_aB50HyYuuCFQbbuxOqmO6ONiD0J33iojnLQVo89aR6eANLCSJHm6NETrZEG0px1zhvhhjqQr3ILwpAn6kfUnwxw3BTjJSVlOwxp-g.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14127",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-13T00:37:40+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60651",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-13T00:37:39+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103984",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-11-13T00:09:51+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14124",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-12T21:31:15+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60648",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-12T21:31:13+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14122",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-12T17:39:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_148558",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148558",
+      "published_at": "2026-11-13T00:22:31+00:00",
+      "raw_text": "🔥\nВолгоград під масованою атакою. Вже більше 30-ти вибухів і пожежа на НПЗ.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+      "title": "Атака на Волгоград та пожежа на НПЗ",
+      "summary": "Волгоград зазнав масованої атаки безпілотників, пролунало понад 30 вибухів. Унаслідок нальоту спалахнула пожежа на місцевому нафтопереробному заводі.",
+      "category": "Світ",
+      "tags": [
+        "Росія",
+        "Волгоград",
+        "вибухи",
+        "НПЗ"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/09d8436e33.mp4?token=tivnQnZ8iFJF6tQJ5bKdhlHf0kdwrb2flKV61-dQRtC01_bkp4rZlSn_Z4qcTw60luubv2dt5o3SP_9A5u6satHC1KBU4riMksAclqN5lkRptAtDD-M_qFLq__e0L7zm90xBpl_5s_uxT2AwokBCEwSrHBJUlTVH3USSp6l-nEjnwNZkYY-rIq4Hg5HLpbB55jn_5Wf3IUWDyQpxnjjGLKndrdEWfnz_fmcubxJkWOsSpdOeTpyw8EsKeb3ZhvNjWo51OXmX2DT58AXjSC0j48I3AySMs5Nnv2IEnJRnAAzXnW3NVPZsJ6L7FwK9pnQad8jffleyjn_x1tgA2vWVALnypfqD-hsD9fFXiitFFahnfEP5VCPmMYCsBuJaeKbm67XEIK5NqD9PpKjbEhYY-LdR8lq1QKKTZ21JZH_1UsqMElo65uxAicNDPgODCxcg1XQ-UmYnPZXXdc8Ys2tM1VmwKdbAbuog3-4jPPsOKErNFJhvd7zpnIl8jATI-aJ9WwRLHUBncYJ14ZqXG7wvHLCh-axvEnCfkwPLIKdWWdG1e1T9pKgRIYtyMG_0a_GpPI8g2zERfQxrhOdxFlpAx2jKUQCe-DtfS2G7PnXQ3Q9tZp6MHlsanJew0xQ7wo6JAt88oUT6mf_FUr3RiTcmv8KV4wxIPeU36AMfBa8MEm8"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/75227836ca.mp4?token=HNlzGbW773sonCRfmVJDaBgHxsDuJv2Y2W5P0wMHZl3UdwePA2iH4rhpwiCj1KPPABLFl6xkH7SPKz-SN5x4qVy-uOK6t5-l4mcHTNwaMIS8KyFI5j7BDEUQOYv0dig7kzxylbejBRDAhoaUFWjSpCsyIjAJXcLxyvmQiXISxkd88piLndNufyb3gm_HsCjeQa-2EIOzARCBFohNMuNc5rLDxJopLRXEqaJYaKRqEdkevC_mQ1yQ3C1uX-bm2Kk-9eLyVua64Tuj74p1naGywk5n1gWe0KE37TMl9i1L8qyhCE7o2wZgT1T6v9akQh6CDWolAa-t7-BwD6BWS7dMyw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/5946d058e0.mp4?token=VFei4VeSnT9jOPeHNyGBZz9bbKadu3CVmCKe2VPhX5VrU9-FXwcC69x7X6XBOkGjiGbEGnQ0jpn1rghzLUaP4ArUovjmES4ak7AAf1i-g8o7aunORWWUKfxDgz-K4ourzj7FK6rrNOnFSvlPhxSIsZcDB3LyYgyYiUQRpmbddmiYbj8addh7u7eI-L4zT7QS5N1L1HwLTLZ3PBnvKjbA1JiaLkZfvt_MY1bAqIn5zSc11stGiMakYFriLdsQFTZuZdMACE5WZNORRCdT23V-_zjkFKOJEXt2sE1n25prdYTDGSdBgA8SCeY7HZA_BO0C7QWUC28PL0l6lOgCkDCweq6LYcvhhMAKKIKaQJ6BIXSZraCQdKuZApggliQOeFavSTomaLuosPyrmkAVDtEdoT-_Gulco23JKLDu577U0ALmyNJbSEYfDAQO-a9-YJ9fsEuTmLQJ_tVWJrdEDtOEwBW_EArQVsfocqZAC9R-XEdmaU2G-G792hV66yGn3P6w7kGUdvl-Tj1WkMH6wSyIqTbdRhD8ejpEk4N7Kd7lKuybcq1zCgXhgJVYlqmyQrilcGYlkf4K1JrUUDG7DmlZDFmSCsvMMN4BaxjpDxEYM9SIJN6wIeruuLx1M9zb9gFnEy9mHTReHMTFupt97B2nIIsJXvW6vNkhQApIMTZIDRs"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/c60dff221c.mp4?token=iAvNxw88AIB8Z3PhM1xWxrZBn4m2nprfHB_HHe55L-ytM52zgE390QXXKYJGEkXuf0pCWdM0kvMYcUhFB7TeOK3UunZ1-3M0_JMDHbwE-F1NooGRk6J4fJYbDya9Kf65VZB7dCMSLWLtJCjvrC4hpfboV1ISXsPijjrmlioY4BehCe5q2hOzWK8WOj3II9Nib-CABagvXzIMsQS4MaiGgC24Pt0qyWMcUB2RBhJuXDQPa9d6Im_dGas8emd93aoA2K7VD74xfvqc0AUqKgzhdZG-8Zh47KhLxgegMjRw0qQE83k9HkFdyKWCCTBUQ3SF3jQPix1dzTHb7JH3G80ZtQ"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/90999",
+          "raw_text": "🔥\n \nУ російському Волгограді \nзаявили\n про масовану атаку дронів.\n\n\n\n\nЗа даними із соцмереж, під прицілом безпілотників міг бути місцевий «ЛУКОЙЛ-Волгограднефтепереработка» — один із найбільших НПЗ у країні. \n\n\n\n\n🧡\n \nпідписатися\n \n| \nпідтримати",
+          "published_at": "2026-11-12T22:58:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_148556",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148556",
+      "published_at": "2026-11-13T00:14:55+00:00",
+      "raw_text": "❗️\nПросто жах! Вибиті вікна, потрощені вщент балкони та квартири. \nросіяни вдарили дроном по багатоповерхівці в Рівному\n, – ОВА.\n\n\n\n\nУдар прийшовся просто по будинку, де в цей момент перебували люди. Унаслідок атаки зайнялися дві квартири. Наразі відомо про \nп'ятьох постраждалих. \n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Удар дроном по багатоповерхівці в Рівному",
+      "summary": "Російський дрон влучив у багатоквартирний будинок у Рівному, внаслідок чого зайнялися дві квартири. Попередньо відомо про п'ятьох постраждалих.",
+      "category": "Надзвичайні події",
+      "tags": [
+        "Рівне",
+        "обстріл",
+        "ОДА",
+        "постраждалі"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/r-7QDIfLAilP-yVyadJbgc7-kW65-IgZPQbEKxZB9lIyuLwxQg-QavVHtckOkJXVsSVnxGTyuquYPBh9pbaF1IW5i_rv7O0lhewg12S7jW5XQDveXOmprnKZ3mQfJKkiyUcdpzc8OABSCl442E7Ded52spggegHqsueOlOY8rZD-cZxJTUq6ZecsQJdsyS4iKs_HN2kN4GfD5f376F7KkpFPJw_3Kbl5zs9bt4MvhYwxEM2iGqe9Cg55vLP3p0M3c-Snr81VDEh81m85EDv4JeeNtjkJqDnyn2hvptLygbytmIZ8apne4YVTXQ060pwXbiLlcehjLJ_x-rTIJdLP0A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/CJrt8gTSxaR0LDWVfqDBFWd1_F6wLN2Wv7fm1OLPcI0rWwxUnNenFXQ3LEirsRiDFt20n83DfCUM5UnKClv9gwLmQoSql4ZJTfCITALG9QydGii9vHlnyp6Pcr8Jfg1OvLPP3Y4WZ0KvoN0JoUUTzxdmVeIEntUnn_mSXxMR5hbtVJyDK9r0woiBW_n8HD1j3JKS5erKJfVPKm2XqzDpie09ALN6erSS3g8uhn97k3VD-THXOWPYYgphbxNVdUsaOqIKAJxiBN5UMUv2-GKS9crSFvM0fIDG1tqnkerq4ohLMZ-1ncYYusjSEfCvvYrdpwoASnEM3CeIgRsEPMF1hg.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/79226",
+          "raw_text": "Сьогодні загинули два чоловіки 57 та 47 років через російський удар FPV-дроном. Це сталося у Середино-Будській громаді. Чоловіки були біля мотоцикла, коли стався удар, — \nначальник\n ОВА Олег Григоров.",
+          "published_at": "2026-11-12T21:55:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_103985",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/103985",
+      "published_at": "2026-11-13T00:12:43+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+      "title": "Оголошено повітряну тривогу",
+      "summary": "У регіоні оголошено повітряну тривогу. Встановлено жовтий рівень небезпеки.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "небезпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103983",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
+          "published_at": "2026-11-12T23:55:48+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103975",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-12T16:53:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sirena_kremenchuk_14126",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/14126",
+      "published_at": "2026-11-13T00:12:07+00:00",
+      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+      "title": "Повітряна тривога: жовтий рівень у Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі знову зафіксовано повітряну тривогу та встановлено жовтий рівень небезпеки. Дотримуйтеся правил безпеки.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчуцький район",
+        "жовтий рівень"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/HYPZ-cnhqnQZJ9LCPbF1f6tOBdGHmG7byTz8pp_Pum0Uxwm1Gxge9cXy0gO790owmDCLzNYIFOuUSgBr3c1cF60KbcDPmH69O4oLm_y8yPgdwqRp6S1pIis7AaYHht4k-01_tn6uRz9G0GN9LLqqhqyeCBLN_e_tp_8lweO5dG8iu9B2ciggZQW8T5KNLjjCDe6dZ-wqxwHx38pF1Owc8jXsD_sxQfvT5J2u5yuGd8G2P9Ykk5u1ZwYwkqUvlkSgvDIgc6etk175q5bhe-osAYhzdXg8JU_VuGBRHsp_oFSErqnFJ-p2XtyZIlidW5M0WzFdK4k7_yWRygh_2rrzhQ.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60650",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-13T00:12:06+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/148555",
+          "raw_text": "🔴\n Київ та низка областей – «червона» тривога!  02:06 – відбій.  Слідкуйте за оновленням ситуації по Києву та області в реальному часі: https://t.me/kyiv",
+          "published_at": "2026-11-13T00:08:45+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60649",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-12T23:55:56+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14125",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-12T23:55:56+00:00"
+        },
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/148553",
+          "raw_text": "🔴\n Київ та низка областей – «червона» тривога!\n\n\n\n\n02:06 – відбій.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+          "published_at": "2026-11-12T23:55:42+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14123",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-12T20:34:42+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/103981",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-12T20:34:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TOEUY3T96OSH00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
+      "published_at": "2026-11-12T23:58:45+00:00",
+      "raw_text": "Gold Advances After Slump to One-Year Low Attracts Dip Buying\n\nGold advanced as investors with a long-term bullish view on bullion bought the dip after the precious metal tumbled to the lowest level in more than a year in the previous session.",
+      "title": "Ціни на золото зросли після падіння до річного мінімуму",
+      "summary": "Золото подорожчало завдяки інвесторам, які скористалися зниженням цін для купівлі активу. Перед цим дорогоцінний метал впав до найнижчого рівня більш ніж за рік.",
+      "category": "Економіка",
+      "tags": [
+        "Золото",
+        "Ринки",
+        "Інвестиції",
+        "Економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79229",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79229",
+      "published_at": "2026-11-12T23:05:01+00:00",
+      "raw_text": "П'ятеро людей поранені через атаку РФ на Рівне. У багатоповерхівку \nпоцілив\n російський безпілотник. Загорання сталося у двох квартирах. \n\n\n\n\nФото: Telegram Олександра Коваля",
+      "title": "Атака РФ на Рівне: є поранені та влучання у багатоповерхівку",
+      "summary": "Російський безпілотник влучив у багатоповерхівку в Рівному, спричинивши загоряння у двох квартирах. Внаслідок атаки п'ятеро людей отримали поранення.",
+      "category": "Війна",
+      "tags": [
+        "Рівне",
+        "обстріл",
+        "поранені",
+        "БпЛА"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/lQx-mylZPKONdVd01eS864kRw7rQvcUqDftzjBCwQHAVk0DdZr1Mgd3M4m4JewD_UdqhsGAANwH9sD9wuPLfOaetuOthEL598cS_cD6VP_XldO0Ui_Ydb7oj6UElvgAe78mDa-fgv9LrclDhX2bgaqk6zRcZZo6cROVm1erQMRVJjIP2bfYYtJz3tkLyms3FWRoUa9RfoprJQY_9DthRqxrTitXgTsvm_5fzMHhuHCIw7dVfJqv7xli9NeKuDV21DGivhwcf1keFbzET8A2aRw2qxEk2uQakYDow-TCDSH35MOFubLearX1i7yHFyPNtnFGMDuu0SYNXCwPYJ3yZUw.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_48307",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/48307",
+      "published_at": "2026-11-12T22:48:51+00:00",
+      "raw_text": "‼️\nОновлено графіки відключень на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Оновлення графіків відключень світла",
+      "summary": "У Кременчуці оновлено графіки погодинних відключень електроенергії на поточний день. Жителів закликають стежити за актуальною інформацією.",
+      "category": "ЖКГ",
+      "tags": [
+        "відключення світла",
+        "Кременчук"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/ZrkbkEkGmo6c1TDD-yGzAlKP4JwFPeBFl0r9z5NEa8TnMBbEZyXRVrRBGjF_QhaY25dW4EJ2isc8GHeileOIiHxSHmx5WQ78-UR0w3r5H8NBroW4scRzof4QTysduWu-S1G3ReOoD5j92fCB0V2u6i925tcu6RVQJ3QJDAmTSzjgh7HoKv5j37WjzcdtkMEUNfUPdJHtRY-0Ectw5sT0aIeWOtIQuEG5ThUrZjItEk5cRgLb4E2SQqbdERMHACW6jaTCy1-7pkZuN8Gk12mWjt4bG68bm991Vtkut0SPqvtongRLSt95P0JwxfTE68Mwk-f77T-XuDY4r-uFAXLFBw.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60646",
+          "raw_text": "🔌\n Графік відключень на 13 листопада\n\n\n\n\nСвітла НЕ буде в такі години:\n\n\n\n\n1.1\n — 00:00–03:00, 07:00–09:30, 13:00–16:00, 19:00–22:00\n\n\n1.2\n — 00:30–03:30, 07:30–10:00, 13:30–16:30, 19:30–22:00\n\n\n\n\n2.1\n — 01:00–04:00, 08:00–10:30, 14:00–17:00, 20:00–22:00\n\n\n2.2\n — 01:30–04:30, 08:30–11:00, 14:30–17:30, 20:30–22:30\n\n\n\n\n3.1\n — 03:00–05:00, 09:00–11:30, 15:00–18:00, 21:00–23:00\n\n\n3.2\n — 03:30–05:30, 09:30–12:00, 15:30–18:30, 21:30–23:30\n\n\n\n\n4.1\n — 04:00–06:00, 10:00–12:30, 16:00–19:00, 22:00–24:00\n\n\n4.2\n — 04:30–06:30, 10:30–13:00, 16:30–19:30, 22:30–24:00\n\n\n\n\n5.1\n — 05:00–07:00, 11:00–13:30, 17:00–20:00, 23:00–24:00\n\n\n5.2\n — 00:00–00:30, 05:30–07:30, 11:30–14:00, 17:30–20:30, 23:30–24:00\n\n\n\n\n6.1\n — 00:00–01:00, 06:00–08:30, 12:00–14:30, 18:00–21:00\n\n\n6.2\n — 00:00–01:30, 06:30–09:00, 12:30–15:30, 18:30–21:30",
+          "published_at": "2026-11-12T18:18:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_79228",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79228",
+      "published_at": "2026-11-12T22:47:52+00:00",
+      "raw_text": "У Вінниці та Хмельницькому пролунали вибухи, повідомили кореспонденти Суспільного.",
+      "title": "Вибухи у Вінниці та Хмельницькому",
+      "summary": "Кореспонденти Суспільного повідомили про звуки вибухів, що пролунали у Вінниці та Хмельницькому. Деталі з'ясовуються.",
+      "category": "Події",
+      "tags": [
+        "вибухи",
+        "Вінниця",
+        "Хмельницький",
+        "обстріл"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "TheEconomistOfficial_29986",
       "source_name": "@theeconomistofficial",
@@ -44,31 +644,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "rss_TOETZRN3N09D00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/opinion/newsletters/2026-11-12/how-much-is-jensen-huang-s-old-leather-jacket-worth-now",
-      "published_at": "2026-11-12T22:19:03+00:00",
-      "raw_text": "How Much Is Jensen Huang’s Old Leather Jacket Worth Now?\n\nAfter Jensen Huang’s resignation, it can’t possibly be $960,000.",
-      "title": "Питання вартості шкіряної куртки Дженсена Хуанга",
-      "summary": "Після відставки Дженсена Хуанга з посади постало питання реальної вартості його культової шкіряної куртки. Автори зазначають, що вона навряд чи коштує 960 000 доларів.",
-      "category": "Технології",
-      "tags": [
-        "Дженсен Хуанг",
-        "Nvidia",
-        "культура"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-          "raw_text": "How AI visionary Jensen Huang was undone by his own bad decisions\n\nZoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-          "published_at": "2026-11-12T16:43:36+00:00"
-        }
-      ]
     },
     {
       "id": "rss_TOEOLMKGZAJ100",
@@ -236,24 +811,6 @@
         "The Economist"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_79226",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/79226",
-      "published_at": "2026-11-12T21:55:34+00:00",
-      "raw_text": "Сьогодні загинули два чоловіки 57 та 47 років через російський удар FPV-дроном. Це сталося у Середино-Будській громаді. Чоловіки були біля мотоцикла, коли стався удар, — \nначальник\n ОВА Олег Григоров.",
-      "title": "Удар FPV-дроном на Сумщині: загинули двоє чоловіків",
-      "summary": "У Середино-Будській громаді внаслідок удару російського FPV-дрона загинули двоє чоловіків віком 57 та 47 років. Трагедія сталася, коли вони перебували біля мотоцикла.",
-      "category": "Війна",
-      "tags": [
-        "обстріл",
-        "Сумщина",
-        "загиблі"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
@@ -441,84 +998,6 @@
       "related_sources": []
     },
     {
-      "id": "sirena_kremenchuk_14124",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/14124",
-      "published_at": "2026-11-12T21:31:15+00:00",
-      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-      "title": "Відбій повітряної тривоги у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі пролунав відбій повітряної тривоги. Ситуація стабілізувалася.",
-      "category": "Безпека",
-      "tags": [
-        "відбій",
-        "повітряна тривога",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/j30iACG6UDxSHvoOpJ0FTfXJ5x0TAJeYQPDxO22NwyefRhxzWDIuEUQplKhQtrSJWpowWDtJiHaZnCmTZ1POxpitjSXl-P5KqHAIejXqEJZuUPAlP-SFiIAfGBTe_6VJnP5HT_bN79YWh-1RBZSAFe0WA5zlpv6VArnGprnna2og8sN6mpUJs4abpzRE08qbSAqrTSe8OcGitOYlwJH1B0JLWJ1yJW3aVxPcB9RUIcdxOzcf_aB50HyYuuCFQbbuxOqmO6ONiD0J33iojnLQVo89aR6eANLCSJHm6NETrZEG0px1zhvhhjqQr3ILwpAn6kfUnwxw3BTjJSVlOwxp-g.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103982",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-11-12T21:31:14+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60648",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-12T21:31:13+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14123",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-12T20:34:42+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60647",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-12T20:34:41+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14122",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-12T17:39:17+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103979",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-11-12T17:38:19+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14121",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-          "published_at": "2026-11-12T17:23:04+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14120",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-12T17:13:28+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103973",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-11-12T16:35:33+00:00"
-        }
-      ]
-    },
-    {
       "id": "truexanewsua_148546",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/148546",
@@ -592,30 +1071,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_103981",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103981",
-      "published_at": "2026-11-12T20:34:42+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-      "title": "Повітряна тривога",
-      "summary": "У регіоні оголошено повітряну тривогу. Встановлено жовтий рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14119",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-12T16:53:40+00:00"
-        }
-      ]
-    },
-    {
       "id": "kremenchugtruexa_48304",
       "source_name": "@kremenchugtruexa",
       "source_url": "https://t.me/kremenchugtruexa/48304",
@@ -652,7 +1107,7 @@
         "збій",
         "технології"
       ],
-      "importance": 3,
+      "importance": 4,
       "media_list": [
         {
           "type": "image",
@@ -765,37 +1220,6 @@
       "related_sources": []
     },
     {
-      "id": "ok_kremen_60646",
-      "source_name": "@ok_kremen",
-      "source_url": "https://t.me/ok_kremen/60646",
-      "published_at": "2026-11-12T18:18:32+00:00",
-      "raw_text": "🔌\n Графік відключень на 13 листопада\n\n\n\n\nСвітла НЕ буде в такі години:\n\n\n\n\n1.1\n — 00:00–03:00, 07:00–09:30, 13:00–16:00, 19:00–22:00\n\n\n1.2\n — 00:30–03:30, 07:30–10:00, 13:30–16:30, 19:30–22:00\n\n\n\n\n2.1\n — 01:00–04:00, 08:00–10:30, 14:00–17:00, 20:00–22:00\n\n\n2.2\n — 01:30–04:30, 08:30–11:00, 14:30–17:30, 20:30–22:30\n\n\n\n\n3.1\n — 03:00–05:00, 09:00–11:30, 15:00–18:00, 21:00–23:00\n\n\n3.2\n — 03:30–05:30, 09:30–12:00, 15:30–18:30, 21:30–23:30\n\n\n\n\n4.1\n — 04:00–06:00, 10:00–12:30, 16:00–19:00, 22:00–24:00\n\n\n4.2\n — 04:30–06:30, 10:30–13:00, 16:30–19:30, 22:30–24:00\n\n\n\n\n5.1\n — 05:00–07:00, 11:00–13:30, 17:00–20:00, 23:00–24:00\n\n\n5.2\n — 00:00–00:30, 05:30–07:30, 11:30–14:00, 17:30–20:30, 23:30–24:00\n\n\n\n\n6.1\n — 00:00–01:00, 06:00–08:30, 12:00–14:30, 18:00–21:00\n\n\n6.2\n — 00:00–01:30, 06:30–09:00, 12:30–15:30, 18:30–21:30",
-      "title": "Графік відключень світла на 13 листопада",
-      "summary": "Оприлюднено детальний графік погодинних відключень електроенергії для черг та підчерг на 13 листопада. Жителів просять завчасно спланувати використання енергоємних приладів.",
-      "category": "ЖКГ",
-      "tags": [
-        "відключення світла",
-        "електрика",
-        "графік",
-        "Кременчук"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/Dv6luj54f7nYpjnDdPNrQX1QbQCQ0BSzAdELE7RiGrtHkeIgEYoZMyE3KhsPZmpLyAcJwvfHO8iOmgMQ7QtPv8m4irHceKhkqbYwwNHRGGe-qHqd4xKBmMvu1V00X3kCl4pTwiFsJvY5fH4mZspQ-_vW98r9E4NUVnSvY3pkQsHiOPgsGMGqz8vXwK6Gq6KdBOA30zIwX6OLc2uHF92eXtDwZOVxUS7Zi9QDvlRqXb8RlXxYD2fnxp9gS437LU1piSWwv7PbhRyzTrPu4Lr1j5cwMuFOOvkb4xq3zoajEsVoaZArHFFVu84EFzRBQIu8UuVIUSCDeA8L-2bwG1jNkA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103980",
-          "raw_text": "Попередній графік відключень електроенергії на завтра, 13 листопада \n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-          "published_at": "2026-11-12T18:09:31+00:00"
-        }
-      ]
-    },
-    {
       "id": "ok_kremen_60645",
       "source_name": "@ok_kremen",
       "source_url": "https://t.me/ok_kremen/60645",
@@ -879,30 +1303,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_103975",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/103975",
-      "published_at": "2026-11-12T16:53:40+00:00",
-      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-      "title": "Оголошено повітряну тривогу",
-      "summary": "У місті оголошено повітряну тривогу. Встановлено жовтий рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103972",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-          "published_at": "2026-11-12T16:17:40+00:00"
-        }
-      ]
-    },
-    {
       "id": "EurointegrationComUA_23831",
       "source_name": "@EurointegrationComUa",
       "source_url": "https://t.me/EurointegrationComUA/23831",
@@ -958,24 +1358,6 @@
         "Starshield",
         "США",
         "зв'язок"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "holosameryky_22608",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22608",
-      "published_at": "2026-11-12T16:41:32+00:00",
-      "raw_text": "Гендиректор Nvidia Дженсен Хуанг \nподав у відставку.\n\n\n\n\nЦе оголошення пролунало лише через кілька днів після того, як Хуанг визнав, що \nмав позашлюбний зв’язок із жінкою\n, яку, за повідомленнями, американські розвідувальні служби підозрюють у шпигунстві на користь Китаю.\n\n\n\n\nУ заяві Nvidia подякувала Хуангу за \"\nйого неоціненний внесок у розвиток компанії та галузі\"\n.\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-      "title": "Гендиректор Nvidia Дженсен Хуанг подав у відставку",
-      "summary": "Керівник компанії Nvidia Дженсен Хуанг залишає посаду. Це сталося невдовзі після заяви про скандал через зв'язки з підозрюваною у шпигунстві на користь Китаю жінкою.",
-      "category": "Технології",
-      "tags": [
-        "Nvidia",
-        "Дженсен Хуанг",
-        "відставка"
       ],
       "importance": 3,
       "media_list": [],
@@ -1924,6 +2306,25 @@
         "безпека"
       ],
       "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOD6G6T9NJLT00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/malaysia-air-calls-for-level-playing-field-if-airasia-gets-aid",
+      "published_at": "2026-11-12T02:03:38+00:00",
+      "raw_text": "Malaysia Air Calls for Level Playing Field on AirAsia Aid\n\nAny financial aid given to struggling carriers such as AirAsia Group Bhd should be made available to other airlines to keep competition fair, the head of Malaysia Airlines Bhd said.",
+      "title": "Malaysia Airlines вимагає рівних умов через допомогу для AirAsia",
+      "summary": "Керівник Malaysia Airlines закликав зробити будь-яку фінансову допомогу проблемним перевізникам, таким як AirAsia Group, доступною для всіх авіакомпаній. Це необхідно для збереження чесної конкуренції на ринку.",
+      "category": "Економіка",
+      "tags": [
+        "Malaysia Airlines",
+        "AirAsia",
+        "Авіація",
+        "Економіка"
+      ],
+      "importance": 2,
       "media_list": [],
       "related_sources": []
     },
@@ -16267,303 +16668,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "truexanewsua_148044",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/148044",
-      "published_at": "2026-11-06T02:49:09+00:00",
-      "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-      "title": "Дронова загроза у Києві та областях",
-      "summary": "У Києві та низці областей оголошено «жовту» тривогу через загрозу ворожих дронів. Мешканців закликають слідкувати за оновленнями ситуації.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "Київ",
-        "дрони",
-        "безпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29358",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29358",
-      "published_at": "2026-11-06T02:46:17+00:00",
-      "raw_text": "Some officials have always migrated from state businesses to politics. But in the past decade the door has opened more widely. We explain why \nhttps://t.co/qYeHTHUFin\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
-      "title": "Зв'язок між державним бізнесом та політикою в Китаї",
-      "summary": "Міграція чиновників із державного бізнесу в політику існувала завжди, проте за останнє десятиліття цей процес значно активізувався. Видання пояснює причини таких змін.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "політика",
-        "бізнес"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNUSZST9NJLS00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/thailand-inflation-accelerates-to-3-9-breaching-bot-target",
-      "published_at": "2026-11-06T02:40:12+00:00",
-      "raw_text": "Thailand Inflation Surges to 3.9%, Breaching BOT’s Target\n\nThailand’s inflation breached the central bank’s target ceiling for the first time in more than three years as higher oil prices and flood-related food costs intensified price pressures, though officials signaled the price spike may be temporary.",
-      "title": "Інфляція в Таїланді перевищила цільовий показник Центробанку і сягнула 3,9%",
-      "summary": "Зростання цін на нафту та витрати на продукти через повені призвели до того, що інфляція в Таїланді вперше за три роки перевищила цільову стелю ЦБ. Офіційні особи вважають цей сплеск тимчасовим.",
-      "category": "Економіка",
-      "tags": [
-        "інфляція",
-        "Таїланд",
-        "економіка",
-        "центробанк"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29357",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29357",
-      "published_at": "2026-11-06T02:26:35+00:00",
-      "raw_text": "Why is China’s stock market sagging? Three factors may explain the country’s financial underperformance \nhttps://t.co/05sRGM7ILo\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
-      "title": "Три фактори падіння фондового ринку Китаю",
-      "summary": "Експерти виділяють три основні причини, які пояснюють слабкі показники та спад на китайському фондовому ринку. Аналіз фінансової ситуації в країні.",
-      "category": "Економіка",
-      "tags": [
-        "Китай",
-        "ринок",
-        "фінанси"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29356",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29356",
-      "published_at": "2026-11-06T02:06:11+00:00",
-      "raw_text": "Rising through state firms is a change from how officials previously climbed the greasy pole. Register for free to read why they have become the ultimate finishing school for a new generation of Communist Party leaders \nhttps://t.co/sS9gi9UcweIllustration\n: Cornelia Li \nhttps://t.co/22CfQU7VWS\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
-      "title": "Державні компанії як нова школа для лідерів Компартії Китаю",
-      "summary": "Кар'єрне зростання через державні підприємства стало новим методом просування для чиновників Компартії Китаю. Це відрізняється від попередніх практик політичної кар'єри.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "політика",
-        "економіка"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29355",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29355",
-      "published_at": "2026-11-06T01:46:28+00:00",
-      "raw_text": "China’s labs are unlikely, for now, to produce big scientific breakthroughs. But they could supercharge manufacturing \nhttps://t.co/SPwMVBFwAQ\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
-      "title": "Наукові лабораторії та виробництво в Китаї",
-      "summary": "Китайські лабораторії наразі навряд чи здатні здійснити великі наукові прориви. Проте вони здатні значно посилити виробничий потенціал.",
-      "category": "Технології",
-      "tags": [
-        "Китай",
-        "наука",
-        "виробництво"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TO211FT96OSH00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
-      "published_at": "2026-11-06T01:26:53+00:00",
-      "raw_text": "Copper Moves Lower as US Election Undermines AI and Tariff Trade\n\nCopper slumped to its lowest since July as a political shakeup in Washington threatened to blunt two key bullish drivers: the rapid buildout of AI infrastructure, and the risk of US import tariffs on the metal.",
-      "title": "Падіння цін на мідь на тлі подій у США",
-      "summary": "Ціни на мідь знизилися до мінімуму з липня через політичні зміни у Вашингтоні. Це загрожує ключовим факторам росту ринку — розвитку інфраструктури ШІ та ризикам введення імпортних тарифів США.",
-      "category": "Економіка",
-      "tags": [
-        "мідь",
-        "ринок",
-        "політика",
-        "економіка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29354",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29354",
-      "published_at": "2026-11-06T01:21:23+00:00",
-      "raw_text": "People who prefer brown rice tend to smoke less, exercise more and eat healthier food overall. But correlation is not causation. Is white rice really so unhealthy? \nhttps://t.co/G0Om8cWxzp\n — The Economist (\n@TheEconomist\n) \nNov 6, 2026",
-      "title": "Дослідження про користь бурого та білого рису",
-      "summary": "Люди, які надають перевагу бурому рису, частіше ведуть здоровий спосіб життя, проте це кореляція, а не прямий причинно-следчий зв'язок. Видання The Economist аналізує, чи дійсно білий рис шкідливий.",
-      "category": "Здоров'я",
-      "tags": [
-        "харчування",
-        "дослідження"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TNX0DMT96OSH00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
-      "published_at": "2026-11-06T01:15:16+00:00",
-      "raw_text": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters\n\nThe Taiwan dollar weakened past the key psychological level of 33 per US dollar for the first time since April 2025, as a broad retreat in artificial intelligence shares weighed on the island’s tech-heavy equity market.",
-      "title": "Валюта Тайваню ослабла до мінімуму через ситуацію з акціями AI",
-      "summary": "Курс тайванського долара впав нижче психологічної позначки у 33 за долар США вперше з квітня 2025 року. Це сталося через падіння акцій технологічних компаній, пов'язаних зі штучним інтелектом.",
-      "category": "Фінанси",
-      "tags": [
-        "Тайвань",
-        "валюта",
-        "економіка",
-        "ШІ"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cvglww2r307ko_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-06T01:13:53+00:00",
-      "raw_text": "Met chief warns policing 'heading for failure' without reform\n\nSir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
-      "title": "Голова Скотленд-Ярду попередив про кризу поліції",
-      "summary": "Сер Марк Роулі заявив, що нинішня система поліції не справляється зі складністю сучасних злочинів без проведення реформ.",
-      "category": "Світ",
-      "tags": [
-        "Велика Британія",
-        "поліція",
-        "реформи"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "holosameryky_22555",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22555",
-      "published_at": "2026-11-06T00:03:51+00:00",
-      "raw_text": "У Брюсселі другий день тривають консультації України\n, США та європейських партнерів щодо гарантій безпеки і післявоєнного відновлення України.\n\n\n\n\nВони проходять \nнапередодні тристоронніх мирних переговорів\n з Росією в Абу-Дабі, запланованих на 10–11 листопада.\n\n\n\n\nЩо вже відомо і які висновки Єврокомісія зробила щодо вступу України до ЄС – розповідає кореспондентка Голосу Америки Українською \nТетяна Висоцька зі штаб-квартири НАТО\n.\n\n\n\n\n📌\n Дивіться тут \n➡️\n \nyoutu.be/X5Phw5mhj9I\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-      "title": "Консультації щодо гарантій безпеки України у Брюсселі",
-      "summary": "У Брюсселі тривають дводенні консультації України, США та європейських партнерів щодо гарантій безпеки і післявоєнного відновлення. Переговори проходять напередодні тристоронньої зустрічі в Абу-Дабі.",
-      "category": "Політика",
-      "tags": [
-        "Брюссель",
-        "безпека",
-        "ЄС",
-        "США",
-        "переговори"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/omqLaI3TOvSP9qwdZZM9VUBgoQrRxKG7IyfNxFvtl9BXsw4zrdqmjRrtcpq5ryr1EBq6AtlT4ImnSHKfkv60_WBMi0vRK1QNAnDXVgg_hKTBeKY2ctrkiy-AiAg1jql0k_hRbJQ_0J3EzlABFJr8rQK-utD_rWIYj3U9BAw2z3jivLsY6T_s0TQxAJ81R-5wZYVibz3bMyjeKytUuo_TYVWa-ER7t9nV-bQsBNn9Rj-UpGEkFjWFLIR1uoi_FW5-dgQJk5ojEvtZGjZmnA_dBerTb8amedNd300XzpbhQAeE3DJYiN3SbfhISLazHZAxX7plkNfYlxvY-lDt5FxwJQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23721",
-          "raw_text": "Україна, США та Європа обговорили майбутні гарантії безпеки для України, а також нову стратегію європейської безпеки\n\n\n\n\nРазом із представниками Франції, Великої Британії, Німеччини, США та НАТО обговорили, якими мають бути гарантії для України з боку Сполучених Штатів та інших партнерів, а також нову стратегію європейської безпеки\n\n\n– розповів голова служби зовнішньої розвідки України Рустем Умєров за підсумками зустрічей у Брюсселі.\n\n\n\n\nЗа його словами, робота над гарантіями безпеки триває, а подробиці обговорень та наступні кроки будуть оприлюднені пізніше.\n\n\n\n\nБільше тут:\n\n\nhttps://www.eurointegration.com.ua/news/2026/11/5/7249377/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-11-05T16:57:16+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TO0KL8KK3NY900",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
-      "published_at": "2026-11-05T23:08:17+00:00",
-      "raw_text": "Latest Oil Market News and Analysis for Nov. 6\n\nOil pushed higher after rebounding on Thursday from a sharp selloff triggered by a Democratic sweep of US midterm elections, as traders weighed the outlook for an end to war in the Middle East.",
-      "title": "Ціни на нафту зросли після попереднього падіння",
-      "summary": "Нафта подорожчала після різкого продажу напередодні, спричиненого політичними новинами у США. Трейдери продовжують оцінювати перспективи завершення конфлікту на Близькому Сході.",
-      "category": "Економіка",
-      "tags": [
-        "нафта",
-        "ринок",
-        "ціни",
-        "трейдери"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-          "raw_text": "US Stocks Find Some Respite as Dip Buyers Move In: Markets Wrap\n\nThe selloff in US stocks paused, with dip buyers moving in to support the bruised artificial intelligence trade after the S&P 500’s steepest drop in more than a year.",
-          "published_at": "2026-11-05T22:17:59+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TO1L2JKJH6V400",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/tiger-global-whale-rock-battered-by-ai-fears-in-painful-october",
-      "published_at": "2026-11-05T23:03:01+00:00",
-      "raw_text": "Lone Pine, Whale Rock, Tiger Global Battered by AI Jitters\n\nLone Pine Capital, Tiger Global Management and Whale Rock Capital Management were among stock-picking hedge funds that were pummeled last month as concerns over AI investments roiled markets.",
-      "title": "Хедж-фонди постраждали через побоювання навколо інвестицій в ШІ",
-      "summary": "Відомі хедж-фонди, зокрема Lone Pine Capital, Tiger Global Management та Whale Rock Capital Management, зазнали збитків минулого місяця. Причиною стали побоювання інвесторів щодо доцільності інвестицій у штучний інтелект.",
-      "category": "Технології",
-      "tags": [
-        "хедж-фонди",
-        "штучний інтелект",
-        "фінанси"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/investors-pick-disney-g-mining-at-sohn-conference-in-queenstown",
-          "raw_text": "Hedge Funds Tout Nvidia, Disney at Sohn Queenstown Conference\n\nStock pickers touted an AI favorite, a Japanese confectionary maker and a Canadian gold miner at the inaugural Sohn Conference in Queenstown, New Zealand.",
-          "published_at": "2026-11-05T23:00:20+00:00"
-        }
-      ]
-    },
-    {
-      "id": "holosameryky_22554",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22554",
-      "published_at": "2026-11-05T23:00:31+00:00",
-      "raw_text": "Чи зможе прихід демократів до влади \nу Конгресі вплинути на зовнішньополітичний курс, яким рухаються США за адміністрації Дональда Трампа?\n\n\n\n\nПро це Голос Америки розпитав \nу політичної аналітикині Катерини Шинкарук.\n\n\n\n\n📌\n \nДивіться тут\n \n➡️\n \nyoutu.be/Z8bba416nNM\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp\n\n\n\n\n#VOAMidterms2026",
-      "title": "Вплив демократів у Конгресі на зовнішню політику США",
-      "summary": "Політична аналітикиня Катерина Шинкарук прокоментувала Голосу Америки можливі зміни у зовнішньополітичному курсі США за адміністрації Дональда Трампа у разі приходу демократів до влади у Конгресі.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "Конгрес",
-        "демократи",
-        "Дональд Трамп"
-      ],
-      "importance": 2,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/cop769mv_g97PABR3LTR7jMmP8PliaURwj5fF6RzCn_R_3vAgcAxP1KsdnW8hNIV3bQPiLLEjoJJ46vaOGKiPg4kKZqYGSHdj3_fPcUWyfhQR7WvEmbwuFox3slGVVHecFycyUnHgnwzJUuZkzuDWRLL530GjNdIHOWfu5yDSAAg-rm-NgfkUXajDlTmRGncTzthLKJlJXy8SWgc3zlXI9EFEO4A1zn2Luv597foiN6Z8HyTVHhQiFJVSzOtFwPQ5qMEOh7VhdEtQFs7_8_VLSC5mO_TO3vYQw3_TDOe-pw3dMlgym4KHNS2IqkXaspJI5MRC6SFE5bddB8i5Fj7yg.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@theeconomistofficial",
-          "source_url": "https://t.me/TheEconomistOfficial/29300",
-          "raw_text": "RT \n@HugoGye\n: \n@TheEconomist\n Burnham sat down with \n@TheEconomist\n this week for his first foreign policy-focused interview, explaining how he plans to put Britain back at the centre of the world stage and why doing so passes the 'Makerfield test'.Read the interview here: \nhttps://t.co/LVT2afd8WD\n — The Economist (\n@TheEconomist\n) \nNov 5, 2026",
-          "published_at": "2026-11-05T17:21:08+00:00"
-        }
-      ]
     }
   ]
 }
