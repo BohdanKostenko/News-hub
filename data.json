@@ -1,12 +1,751 @@
 {
-  "updated_at": "2026-11-14 18:52",
+  "updated_at": "2026-11-14 22:57",
   "digest": [
-    "Уряд спростив отримання статусу УБД для іноземців та осіб без громадянства, які воюють у лавах ЗСУ, скасувавши вимогу щодо довідки про несудимість.",
-    "На Дніпропетровщині СБУ затримала посадовця ЗСУ, який вимагав хабарі у розмірі 20% від премій підлеглих за знищену ворожу техніку.",
-    "Захист трансформаторів на Київщині готовий лише на 55% через дефіцит фінансування, тому об'єкти планують передати Агентству відновлення.",
-    "Генерал СБУ Дука закликав зупинити ворожу інформаційну спецоперацію, спрямовану на дискредитацію вищого керівництва України."
+    "SpaceX успішно випробувала нову технологію посадки ракети Starship.",
+    "У Кременчуці та області оголошено відбій повітряної тривоги.",
+    "Уряд Великої Британії планує розширити програму зайнятості для молоді.",
+    "Порт Нового Орлеана подав позов на $1 млн через зіткнення суден."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_30159",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30159",
+      "published_at": "2026-11-14T22:56:09+00:00",
+      "raw_text": "Florida has become America’s most important red state. If the midterms have taught us anything, though, it is that political fortunes can change quickly \nhttps://t.co/OpkwKMDeo7\n — The Economist (\n@TheEconomist\n) \nNov 14, 2026",
+      "title": "Політична ситуація у штаті Флорида",
+      "summary": "Флорида стала найважливішим республіканським штатом в Америці. Проте результати проміжних виборів показують, що політичні настрої можуть змінюватися дуже швидко.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Флорида",
+        "вибори",
+        "політика"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_48479",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/48479",
+      "published_at": "2026-11-14T22:52:02+00:00",
+      "raw_text": "Відбій тривоги \n✅",
+      "title": "Відбій повітряної тривоги",
+      "summary": "У Кременчуці та області оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "тривога"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14159",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-14T22:51:59+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60778",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-14T22:51:58+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104057",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-11-14T22:51:57+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104055",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-11-14T19:56:47+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14157",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-14T19:56:27+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60776",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-14T19:56:26+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14155",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-14T14:06:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_30158",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30158",
+      "published_at": "2026-11-14T22:46:45+00:00",
+      "raw_text": "Netflix may be big enough to survive as a stand-alone streamer. Disney is buoyed by its theme parks. Skydance, newly created by the merger of Paramount and Warner Bros, looks stuck in the mid-size trap \nhttps://t.co/Scr4vfcfr0\n — The Economist (\n@TheEconomist\n) \nNov 14, 2026",
+      "title": "Аналіз ринку стрімінгових сервісів та медіагігантів",
+      "summary": "Netflix має достатньо масштабів для самостійного виживання, а Disney отримує підтримку від тематичних парків. Водночас новостворена компанія Skydance опинилася у складному становищі середнього гравця ринку.",
+      "category": "Технології",
+      "tags": [
+        "Netflix",
+        "Disney",
+        "медіа",
+        "бізнес"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cm3rgx9p583zo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T22:37:14+00:00",
+      "raw_text": "Alleged Russell Brand rape victim wants age of consent law changed\n\nMia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+      "title": "Жертва Рассела Брэнда вимагає змінити закон про вік згоди",
+      "summary": "Міа Латтер, яка заявила, що зустрілася з одіозним коміком у віці 16 років, виступає за введення диференційованого віку згоди. Це питання піднімається на тлі звинувачень на адресу британського актора.",
+      "category": "Світ",
+      "tags": [
+        "Рассел Брэнд",
+        "суд",
+        "законодавство"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOHNCHVTTCZM00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/uk-government-to-expand-accelerate-youth-job-guarantee-program",
+      "published_at": "2026-11-14T22:30:00+00:00",
+      "raw_text": "UK Government To Expand, Accelerate Youth Job Guarantee Program\n\nThe UK government said it will expand and accelerate its job guarantee program for young people, ahead of the publication next week of a long-awaited review into the causes of rising youth inactivity.",
+      "title": "Уряд Великої Британії розширює програму працевлаштування молоді",
+      "summary": "Британський уряд має намір розширити та прискорити програму гарантій зайнятості для молоді. Це відбувається на тлі підготовки до публікації звіту про причини зростання бездіяльності серед молоді.",
+      "category": "Світ",
+      "tags": [
+        "Велика Британія",
+        "робота",
+        "уряд"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cwe89y2r5j20o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T22:27:06+00:00",
+      "raw_text": "New Orleans port sues tanker owners over cruise ship collision for $1m\n\nAll cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision.",
+      "title": "Порт Нового Орлеана судиться з власниками танкера на $1 млн",
+      "summary": "Позов пов'язаний із зіткненням круїзного лайнера та танкера. Внаслідок інциденту 32 людини отримали несерйозні травми, хоча всі пасажири та члени екіпажу залишилися в безпеці.",
+      "category": "Світ",
+      "tags": [
+        "Новий Орлеан",
+        "суд",
+        "аварія",
+        "круїзний лайнер"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_30157",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30157",
+      "published_at": "2026-11-14T22:26:23+00:00",
+      "raw_text": "Abelardo de la Espriella promised Colombia an iron fist and rip-roaring growth. Approaching 100 days in power, “El Tigre” has started on both \nhttps://t.co/RCbJMIu4Bc\n — The Economist (\n@TheEconomist\n) \nNov 14, 2026",
+      "title": "Перші підсумки правління Абелардо де ла Еспрієльї в Колумбії",
+      "summary": "Абелардо де ла Еспрієлья наближається до 100 днів при владі в Колумбії. Він обіцяв жорстку руку та стрімке економічне зростання, і вже розпочав реалізацію цих обіцянок.",
+      "category": "Світ",
+      "tags": [
+        "Колумбія",
+        "політика",
+        "влади"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOIIC1KIUPS500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+      "published_at": "2026-11-14T22:25:41+00:00",
+      "raw_text": "(Digital) SpaceX Catches Starship in Novel Landing\n\n(Digital) SpaceX Catches Starship in Novel Landing  (Source: Bloomberg)",
+      "title": "SpaceX успішно зловила ракету Starship",
+      "summary": "Компанія SpaceX провела успішне випробування нової технології посадки ракети Starship. Подія стала значним кроком до створення багаторазової транспортної системи.",
+      "category": "Технології",
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "космос"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/8eacd879f8.mp4?token=Vgz5hK8PIP5rmieuzYme8ySY6qe9KU9pjP-RA9FCKSA005PWLic4FmH_uiIKcBn38Z8LEN8z3G1wsUXqaW32_tTboKbtT4bXDPk_VG0swpAHkVQIYaSi2ohHsqNeySCct-Onmg5OGIwA3z4Z1FP_F-EauB57fNqpIvfPwR2DSHipNHzDj8aHhjrXBXU9BUTfG6rjQP1P1hnbmSvXlfJvmNgLipyT7UAXqyW8XeHbu-P0OZBnRsmQfY1becJ2WFPiL_-2zzmSo7OoYkFg3jTbBoq_4J0Fz1vY9ff0eXUlAlo0Mg1XOWHTFOEVyhqfD1_80Ef8oOz4j8xp7hqREQN1bg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/148691",
+          "raw_text": "🚀\n SpaceX вперше в історії успішно «зловила» космічний корабель Starship після польоту на орбіті\n. \n\n\n\n\nПісля 22 годин польоту Starship повернувся на Землю, де його захопили величезні механічні «руки» спеціальної башти Mechazilla на космодромі в Техасі.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+          "published_at": "2026-11-14T21:38:08+00:00"
+        },
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-11-14/spacex-starship-returns-to-starbase-flight-delays-continue-more",
+          "raw_text": "SpaceX Starship Returns to Starbase, Flight Delays Continue,More\n\nSource: Bloomberg, 4:40",
+          "published_at": "2026-11-14T21:33:53+00:00"
+        },
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket",
+          "raw_text": "SpaceX Catches Starship in Novel Landing at Texas Site\n\nSpaceX successfully caught its Starship rocket as it returned to the Texas launch site from orbit, a novel engineering feat and major step toward Elon Musk’s goal of developing a fully reusable system.",
+          "published_at": "2026-11-14T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kremenchugtruexa_48478",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/48478",
+      "published_at": "2026-11-14T22:15:25+00:00",
+      "raw_text": "Реактивний БпЛА курсом на Кременчук.\n\n\n\n\nUPD 00:25: \nна Черкащину. \n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Рух реактивного БпЛА через Кременчук",
+      "summary": "Зафіксовано рух реактивного безпілотника курсом на Кременчук. Пізніше стало відомо про зміну курсу в бік Черкащини.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "тривога",
+        "Черкащина"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104054",
+          "raw_text": "БпЛА на Кременчук зі сходу\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
+          "published_at": "2026-11-14T17:03:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_79294",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79294",
+      "published_at": "2026-11-14T22:09:37+00:00",
+      "raw_text": "🎾\n Еліна Світоліна вже розпочала півфінальний матч Підсумкового турніру проти Лінди Носкової!\n\n\n\n\nСтежте за грою у текстовій трансляції матчу на \nсайті Суспільне Спорт\n.",
+      "title": "Світоліна грає у півфіналі Підсумкового турніру",
+      "summary": "Еліна Світоліна розпочала півфінальний матч Підсумкового турніру проти Лінди Носкової. За грою можна стежити у текстовій трансляції на Суспільне Спорт.",
+      "category": "Спорт",
+      "tags": [
+        "теніс",
+        "Світоліна",
+        "спорт"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/ZoYMO1KscfrQ_tDcoTZRBokD0Gn66iVu_bzeSuXsOrlJ2H45clgzLYCWDVlEHe1iY0PmaGq4ckXYWl40IfHKO1-xNNaMYsfgW4-unOU5hzFLgqYt4DvZwoRS2dySbVpqUJFFnBM9917_9CEBdXGthBhrnceaO9npqsaBP5khuJVVZh_xwPrT6A1eX5Yv84Rksw5NwfosiOTeyrm5fn9Qz9nag2SM8054Ub6GTxjeqyRq6yNpeeRarRSWaX0jPi1qTsDiUBzbgG78D6TRjLkDA6dx-lLOggs3JxbjpmosMXSEHmnoI4NH4fTbVehucEOMWMSYr8ZT84Uz7d9glAFIEA.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_30155",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30155",
+      "published_at": "2026-11-14T22:06:17+00:00",
+      "raw_text": "Gone are the days when fashionistas worth their Vogue subscription wore Lululemon leggings for the coffee run, school run or just to run. Hotter rivals are gaining ground \nhttps://t.co/tWw69vIili\n — The Economist (\n@TheEconomist\n) \nNov 14, 2026",
+      "title": "Конкуренти тіснять Lululemon на ринку легінсів",
+      "summary": "Популярність бренду Lululemon серед любительок моди знижується через появу нових сильних конкурентів. Ринкова ситуація у сегменті спортивного одягу змінюється.",
+      "category": "Світ",
+      "tags": [
+        "мода",
+        "бізнес",
+        "Lululemon"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_30154",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30154",
+      "published_at": "2026-11-14T21:56:27+00:00",
+      "raw_text": "Four states in America considered ballot measures to restrict girls’ and women’s sports to biological females. The midterm results point to a new phase in the fight over trans rights \nhttps://t.co/MsczmH3R2W\n — The Economist (\n@TheEconomist\n) \nNov 14, 2026",
+      "title": "У чотирьох штатах США розглядали обмеження у жіночому спорті",
+      "summary": "Чотири штати США винесли на розгляд питання про обмеження участі у жіночому спорті лише біологічними жінками. Результати виборів вказують на новий етап у дискусії щодо прав трансгендерів.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "спорт",
+        "права",
+        "суспільство"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_48477",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/48477",
+      "published_at": "2026-11-14T21:52:35+00:00",
+      "raw_text": "Загроза БпЛА.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Загроза БпЛА у Кременчуці",
+      "summary": "У місті оголошено загрозу удару безпілотними літальними апаратами. Жителів закликають перебувати в безпечних місцях.",
+      "category": "Безпека",
+      "tags": [
+        "БпЛА",
+        "тривога",
+        "Кременчук"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60775",
+          "raw_text": "БпЛА в напрямку Кременчука з півночі",
+          "published_at": "2026-11-14T17:09:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_91091",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/91091",
+      "published_at": "2026-11-14T21:50:47+00:00",
+      "raw_text": "⛔️\n \nYouTube\n заблокував\n в Україні 16 російських каналів, зокрема іншомовні\n \nверсії мультсеріалу «Маша та Ведмідь».\n\n\n\n\nПід обмеження потрапили канали російських пропагандистів, Z-блогерів та артистів, які підтримують війну проти України. Серед них — канали Олександра Сладкова, Сергія Колясникова, Надії Бабкіної, Юлії Савічевої та гурту Uma2rman\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "YouTube заблокував 16 російських каналів в Україні",
+      "summary": "Відеохостинг обмежив доступ до каналів російських пропагандистів, Z-блогерів та артистів, які підтримують війну. Зокрема, заблоковано версії мультсеріалу «Маша та Ведмідь», а також канали Олександра Сладкова, Надії Бабкіної та інших.",
+      "category": "Технології",
+      "tags": [
+        "YouTube",
+        "блокування",
+        "пропаганда",
+        "Санкції"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_14158",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/14158",
+      "published_at": "2026-11-14T21:50:27+00:00",
+      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+      "title": "Повітряна тривога у Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі оголошено повітряну тривогу через загрозу. Встановлено жовтий рівень небезпеки.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Кременчуцький район"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/j30iACG6UDxSHvoOpJ0FTfXJ5x0TAJeYQPDxO22NwyefRhxzWDIuEUQplKhQtrSJWpowWDtJiHaZnCmTZ1POxpitjSXl-P5KqHAIejXqEJZuUPAlP-SFiIAfGBTe_6VJnP5HT_bN79YWh-1RBZSAFe0WA5zlpv6VArnGprnna2og8sN6mpUJs4abpzRE08qbSAqrTSe8OcGitOYlwJH1B0JLWJ1yJW3aVxPcB9RUIcdxOzcf_aB50HyYuuCFQbbuxOqmO6ONiD0J33iojnLQVo89aR6eANLCSJHm6NETrZEG0px1zhvhhjqQr3ILwpAn6kfUnwxw3BTjJSVlOwxp-g.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60777",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-14T21:50:24+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104056",
+          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+          "published_at": "2026-11-14T21:50:24+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104051",
+          "raw_text": "Вибухи в Кременчуцькому районі\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
+          "published_at": "2026-11-14T14:56:39+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14156",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-14T14:42:41+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14154",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-14T13:33:23+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14153",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-14T13:19:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "suspilnenews_79293",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79293",
+      "published_at": "2026-11-14T21:48:08+00:00",
+      "raw_text": "Справа «Карфаген», «Хімпром» та переговори з РФ — Зеленський поспілкувався із журналістами. Головне, що сказав:  \n🔹\nПитання вступу України до НАТО знову повернулося на порядок денний переговорів щодо завершення війни і гарантій безпеки. За його словами, європейські…",
+      "title": "Зеленський поспілкувався з журналістами: головні заяви",
+      "summary": "Президент Володимир Зеленський провів розмову з журналістами, під час якої обговорив справи «Карфаген» і «Хімпром», а також переговори з РФ. Зокрема, питання вступу України до НАТО знову повернулося на порядок денний.",
+      "category": "Політика",
+      "tags": [
+        "Зеленський",
+        "НАТО",
+        "переговори",
+        "ЗМІ"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOIEWVT96OSG00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/kushner-wants-direct-russia-europe-talks-in-ukraine-peace-push",
+      "published_at": "2026-11-14T21:47:26+00:00",
+      "raw_text": "Kushner Wants Direct Russia-Europe Talks in Ukraine Peace Push\n\nJared Kushner, the US president’s son-in-law who has been serving as a negotiator with Russia and Ukraine, said the Trump administration wants to see direct talks between Moscow and US allies in Europe.",
+      "title": "Кушнер закликає до прямих переговорів між Росією та Європою щодо України",
+      "summary": "Джаред Кушнер заявив, що адміністрація США прагне організувати прямі переговори між Москвою та європейськими союзниками. Це є частиною зусиль щодо мирного врегулювання в Україні.",
+      "category": "Політика",
+      "tags": [
+        "США",
+        "Росія",
+        "Європа",
+        "Україна",
+        "переговори"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "Bloomberg.com",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-11-14/faa-air-travel-should-recover-sunday-ukraine-peace-offer-more",
+          "raw_text": "FAA: Air Travel Should Recover Sunday, Ukraine Peace Offer, More\n\nSource: Bloomberg, 0:00",
+          "published_at": "2026-11-14T17:54:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "truexanewsua_148690",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148690",
+      "published_at": "2026-11-14T21:32:08+00:00",
+      "raw_text": "Нові ідеї щодо припинення російсько-української війни з’явилися під час обговорень з обома сторонами. Деякі з них можуть безпосередньо привести до прориву, а інші – перерости в нові пропозиції, що допоможуть подолати існуючі розбіжності\n, – Кушнер.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "Заяви про нові ідеї щодо припинення війни",
+      "summary": "Під час обговорень з обома сторонами конфлікту з'явилися нові ідеї щодо врегулювання війни. Деякі з них можуть допомогти подолати існуючі розбіжності, заявив Кушнер.",
+      "category": "Політика",
+      "tags": [
+        "війна",
+        "переговори",
+        "політика"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79292",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79292",
+      "published_at": "2026-11-14T21:16:06+00:00",
+      "raw_text": "П'ятеро людей поранені внаслідок російської атаки на Вознесенівський район Запоріжжя, \nповідомив\n т.в.о. очільника ОВА Михайло Семікін.",
+      "title": "Атака на Запоріжжя: п'ятеро поранених",
+      "summary": "Внаслідок російського удару по Вознесенівському району Запоріжжя постраждали п'ятеро людей. Про це повідомив тимчасовий виконувач обов'язків очільника ОВА Михайло Семікін.",
+      "category": "Війна",
+      "tags": [
+        "Запоріжжя",
+        "обстріл",
+        "поранені",
+        "ОВА"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_91089",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/91089",
+      "published_at": "2026-11-14T21:15:49+00:00",
+      "raw_text": "🚨\n На трасі Київ — Харків \nперекинулася\n й загорілася вантажівка з газовим конденсатом. Рух перекрили в обох напрямках.\n\n\n\n\nДТП сталася поблизу Яготина. Водій вантажівки DAF не впорався з керуванням і зіткнувся з відбійником. На місці працюють екстрені служби. Інформацію про загиблих і постраждалих уточнюють\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "ДТП з вантажівкою на трасі Київ — Харків",
+      "summary": "На трасі Київ — Харків поблизу Яготина перекинулася та загорілася вантажівка з газовим конденсатом. Через аварію рух транспорту перекрили в обох напрямках, на місці працюють екстрені служби.",
+      "category": "Події",
+      "tags": [
+        "ДТП",
+        "Яготин",
+        "траса Київ-Харків",
+        "надзвичайна подія"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/RVH1X5c3rZ1yRFODu4O83x4_vHuUaDBXpPXIYGKv8HvmTTTKt34dtU4E5Z22X7Q3Av7kCA4ZjZzYqX9p0CZRzdc9E7Z-iEvzytDUojQMGmKmLieHCARaydkm9FrCen7-iH9QNxTKYiXMzTKOr_Eaf2ORk0l27dM-qch8oooeDHlWdAliGEsFQTUCLTOAaksgJMVVemTu-RYAgt6U58kIugv_GE1JJt_K0bTNyP_OUKQKC5GZ9o2XrInbp8ABX-dAH0OG-GnhaEvM16yNCSApzWAD0NdTbdTcuBIFzsV3mxdisV0Y0XXYySx5qjA6vn2aLvOeJI5F992H3Y_vXpnADw.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/U6z3oCMrFSQG8SmJXlU_9EgGiIx3W7lB6Baykr1jufrWwKI7E4KrOOYPffdDTDA1GDBK-onThqV3c0tfJ2vhRGEPmYOUgandQRCSgMbEcW27bg7yX2ouuVwGgmDKfatlKCk_YFPHwnGvPJ_S8CvBxqpYGSDrOu_rVJWf6cg_0OVGK4ZKdvWynhYIrpZSBKqwB-cKDx8r0ZPfgOdbDSsAWewkbLhKDRKix6VlWahbXD8f_mul5K-SQpnuPrkaIdu_zcX5kALQ2h5bujA11R1MSWbcbeahf5wqRQLiVZ0HIzWwf9fS-Hk6s5ezDorIZh-inJp3-JC5Sch37Kya-LrQ3w.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/148683",
+          "raw_text": "У вогні зараз траса Харів – Київ перед Яготином. Місцеві ЗМІ пишуть про ДТП.  Рух паралізовано, горять автомобілі, попередньо, є жертви.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
+          "published_at": "2026-11-14T20:09:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_91088",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/91088",
+      "published_at": "2026-11-14T21:05:18+00:00",
+      "raw_text": "США вперше \nзапропонували\n Україні членство в НАТО, а на Київщині захист пріоритетних підстанцій поки готовий на 55% — \n#важливезадень\n\n\n\n\n🔸\n США вперше \nзапропонували\n Україні членство в НАТО в обмін на вихід із Донбасу\n\n\n\n\n🔸\n Захист 26 пріоритетних підстанцій на Київщині поки \nготовий\n на 55%\n\n\n\n\n🔸\n Єгор Буркін, відомий як «Мексиканець», визнав, що саме він\n фігурує \nна плівках НАБУ щодо справи «Карфаген», а погрози Бігусу назвав «блефом»\n\n\n\n\n🔸\n Демократи в Сенаті США \nзакликали \nМаска зберегти всі документи, повʼязані з обмеженням роботи Starlink в Україні\n\n\n\n\n🔸\n У США \nзнову дозволили\n внутрішні рейси після того, як через «надзвичайні обставини» призупиняли всі вильоти\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Головні події дня: НАТО, захист підстанцій та справа НАБУ",
+      "summary": "США вперше запропонували Україні членство в НАТО в обмін на вихід із Донбасу, а захист пріоритетних підстанцій на Київщині готовий на 55%. Також фігурант справи «Карфаген» Єгор Буркін визнав свою причетність до плівок НАБУ.",
+      "category": "Головне",
+      "tags": [
+        "НАТО",
+        "США",
+        "енергетика",
+        "НАБУ"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/rJ4zKBB0qF-StMQ9dOYlCewBwP0xaoffW7I7AoWma51uOIqln47DUVNdN5nvrrCdMeMd4Xeff2LakfC3Z97OReVztphnr18UWcmNrdAO72EOPzYtTOe-9avZTjle1nCey2zvHFr-uXfQv5D_taimOC3uHY24L4RVlmj1QRb7svFMBAZxtNLONSkcHdAJSB7MrWNmJfVBfB3THtwI3vMs-DaF_ERBzKCHhaK5hE_nSJ3Bal5-6kLrF42srFKRD2d558YDxtaDWkfzih9yFhNyeD7qcZEFVbWlSZyszhoLq6wJiQkXsfPDHqEf4EgHyquGASP47ujqGRherFUAcfZzmA.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148685",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148685",
+      "published_at": "2026-11-14T20:57:39+00:00",
+      "raw_text": "👀\n Франція, обстановка. Країну \nнакрила\n нова хвиля масових протестів: \nпонад 100 тисяч людей вийшли на вулиці через стрімке зростання цін – це вже п’ята субота масових демонстрацій.\n\n\n\n\nПротестувальники вимагають підвищення зарплат і збільшення видатків на освіту.  У Парижі до акцій долучилися студенти, профспілки та «жовті жилети», а поліція у відповідь застосувала сльозогінний газ. \n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "Нова хвиля масових протестів у Франції",
+      "summary": "Понад 100 тисяч людей вийшли на вулиці французьких міст через зростання цін, вимагаючи підвищення зарплат. У Парижі поліція застосувала проти протестувальників сльозогінний газ.",
+      "category": "Світ",
+      "tags": [
+        "Франція",
+        "протести",
+        "Париж"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/d8b482451d.mp4?token=fF-rMwZhjcfoRtpE4EwIDY30CaesYP-BNjlkc77CMjlzlXgF0ddu_1XbeNo5drw9xRA537CqIS_MxrL7jDEv2k-ck4eHCDQccdT4n5fn8ptwBYPHNeFyKwWoIDpgCn1XHiILvjUiK10seGm-_AUSFSQt3sdwodILI2dc55BEM8dRwK-Atp2Sly9p_XH2Ht2ogx4iCTezNA3Z9PoS2gIz6RSRjikL33wRfK5xDsGUOkPREOFd0-Gz4rVnH0i_ZxJTaLnUV0IbchydYFFOvmhUq6vvqrX12APubVBvV8KExw5EvODRGM6vx4PWoPoJ-uCd8CWYzZmBt6tRPzsf6QblC4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ede9ca95ee.mp4?token=rgHt3I_12ziD5avoiMAyRTksNoesW7gvbI7rm4-L8S5aaWvQGcGerxJRco4djV6HNKnkdPIzslmGBzDu847RnecgSe42OjhkW9mskHCZ7hIwnAz5Fn1MOJIs948VDl6yH3pVfLgivmVqFHI3dDabOdB7xce13WjbhJV0hVAP0FNBGbO7tTsBDw9jeZod0jaAZqqG9BYY8TKvpEJelx141Ej9EqkB69vTmBbsnBAKbIZR2puzKc79LX0Oj27B4Vsa7k6KihGE8_MZ2P7RpoXMwbY-UlgpTXPCzPG4LuYi8o0k82B8PfHmDjhgaufXUoIFYz0An5EI79TCe1gmjW34Ww"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ec54635c81.mp4?token=kfKWDWB-v3-IuYhvzy8db1R8Atb9ikUY0UDP0SOf4UJMBrgJqQG1favbs0wg97uYVRL8IHavwCQSbDIH96YJbn1EL8cuQfOySD0JRbd7dsWm25uW_zUC_yacDjMw3_72Sdi7aVZK8rjbfxjMBrxuzzM5vd2WwPGH0H7uOZbfaEDm-3wEXC1zfR0IVf2QleTuaMNhq1scD2qduArQJHqyFTGiaXJIeyTr1kXTzdy-GCw7_n9nTuB10LV4jh5QuA24v6a5OaiwW5E3FsdgB6fwhCTe56HFTCyEuNKF2tZnjQmpT2L79WO0YZjKFtyxLfvn_4uhIO8LRYe36Np1y7O-Bg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/d6b23cabe0.mp4?token=lOecAkMPtKuZgHwsXY7ZaMPClUjDgGWiQlUASFeGYtHQwj51GkHOTVvkQ9HwJpdLt-rCUqefOTS3ASbwoTIrBP0L50qkPfS0uZL5iwOrhT8UdFFhCsg3_EJzDT1VjBj5OumuK-ze21vPX25x5QeA4y2z7D4oWaJ2NJDDKss25AJiWG27dwFHOhhZ8bO3aGEwhKoBAKYQudrE5BwE2F6j29UWGfdqLHDUWfXtCTALqC97L5h62pbHsHx12R_Mbamj0Z4LEBbv6PS-XcjxspTlydReL7MsRLI2VYJgTuHrbZ277lD5QlbwwwGyB11yW_jiaW0XavyjjG2wf6JbgrGHppu08PeQCtmHhFT-PpMmKA-Lzctt743fCwUAV6ZXOHJrfiHddmMb19qReCBaejCZTSWeyR6s61VQLv1KUDV-xb-oXsPpuG1aJHMw47sZ8CdNsPkC8HkmBX6VTQFgIkDfHzhqMIpJh6ywZktAejMmpbyvlo7Bu3Y6QD4zUbmbuiFDzXs3mnoAqnVfZiH8VvGri3ITAMCefM_38N8GM6e1yRAUpi4IQY1lEI2WQH-6DZQ54618VPvTgC6W5bSiHgJGOzagI1H8eWXZQTwWXfSi8ZPecgfnvmUqEOPtYKmSLLcP0EJWydCIEZFJ8lSlQsh6rDA67Bfi7QGE7mQxGDcLjZ4"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/51d5ccd7c2.mp4?token=e1PPFHRm-RgKn3F7EyDbO7VnWkJTgFvvXT6YWKGI4M1LjMFKARMC8Z7XR_4SO5MZsIARMJDPFOP2Gc63wcXm35UIA9i08efh4PViVX32Pp4ptYNjBsqK0eupFHn4LKXdB8aSxj9LrrhwUgzedDYHGJ07XjswO43UlFKQ-6pzRppbp7p1xUkQBhLSiR2SQ2oOQgYufm24_3rZF52vtcKzYqb5eYtDxj6a-d7klwxxI7I3Azp5kFtnrUG0tEiZ3f6ztvUw_kq5nw7ewzcoMAUUItjnVAag8iKjHmoG95HTLR2dR9MqIyZVpUZd7bs_GX6-M4mirQMMOeRo5kMW7qMlNg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79291",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79291",
+      "published_at": "2026-11-14T20:46:46+00:00",
+      "raw_text": "На Київщині сповільнилося будівництво захисту енергооб'єктів, область взяли під окрему координацію — Калашник:\n\n\n\n\n🔹\n Міністр інфраструктури Микола Калашник \nзаявив\n журналістам, що після його переходу з Київської ОВА до міністерства — будівництво захисту енергооб'єктів на Київщині сповільнилося. Тому область взяли під окрему координацію.\n\n\n\n\n🔹\n За словами міністра, йдеться про захист трансформаторів на 26 підстанціях. 16 липня готовність становила 40%, зараз — 55%. Роботи тривають в умовах дефіциту фінансування.\n\n\n\n\n🔹\n Калашник повідомив, що за його керівництва КОВА перерахувала на будівництво понад 620 мільйонів гривень, а після його переходу до міністерства — ще понад 290 мільйонів.\n\n\n\n\n🔹\n 13 жовтня ОВА запропонувала передати об'єкти Агентству відновлення для завершення робіт. Будівництво перевірить Державна аудиторська служба.\n\n\n\n\n🔹\n Також Калашник \nзаявив\n, що для відновлення руху Південним мостом у Києві потрібно 2–3 місяці. Ремонт оплачуватимуть із міського бюджету.\n\n\n\n\n🔹\n У Києві також будують дві з восьми запланованих понтонних переправ через Дніпро. Одна з них зможе пропускати до 130 автомобілів на добу.",
+      "title": "Сповільнення захисту енергооб'єктів на Київщині",
+      "summary": "Міністр інфраструктури Микола Калашник повідомив про сповільнення будівництва захисту енергооб'єктів на Київщині, через що область взяли під окрему координацію. Роботи на підстанціях тривають за умов дефіциту фінансування та будуть перевірені Держаудитслужбою.",
+      "category": "Енергетика",
+      "tags": [
+        "Київщина",
+        "енергетика",
+        "захист",
+        "уряд"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_48475",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/48475",
+      "published_at": "2026-11-14T20:45:18+00:00",
+      "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 22:44 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Оновлення графіків відключень світла на Полтавщині",
+      "summary": "Компанія «Полтаваобленерго» оновила графіки погодинних відключень електроенергії в регіоні. Зміни набули чинності пізно ввечері.",
+      "category": "ЖКГ",
+      "tags": [
+        "відключення світла",
+        "Полтаваобленерго",
+        "графіки",
+        "Полтавщина"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/JX86XPV51Ohzh64LJ8vTgM6ahHANzUHfley_6bUSxwPtwGQbLGOAEiGVj6rap9Bg3v_Hc7cxUCAR3_O6C6fXp8ViSNWk9LrLUmaJ1lwolkSeC_jqSZTCUfXYtL9RtFCYRZhfnzo2ReeFT6afpzExs3g5uxZQkERqrCI0_omKfiW2KCbRgGIhjljdscNWQCsUIXqlN-55e5MlrPjMSisWJKy57LoEw0_Sw76cKGk1RmxuOUB9x3nH3CBH5AO_Da848lJhuopm5r1zG7JiP4LV2nD4mfxsL3gULHwNXvvApFlRUuzfb_GnoIwGhFOPIahMcbk2PCYXWBnFM0occcv07w.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60773",
+          "raw_text": "🔌\n Графік відключень на неділю, 15 листопада.\n\n\n\n\nСвітла НЕ буде в такі години:\n\n\n\n\n1.1\n — 09:00–10:30, 15:00–17:00, 21:00–22:30\n\n\n1.2\n — 09:30–11:00, 15:30–17:30, 21:30–23:00\n\n\n\n\n2.1\n — 10:00–11:30, 16:00–18:00, 22:00–23:30\n\n\n2.2\n — 10:30–12:00, 16:30–18:30, 22:30–24:00\n\n\n\n\n3.1\n — 11:00–12:30, 17:00–19:00, 23:00–24:00\n\n\n3.2\n — 11:30–13:00, 17:30–19:30, 23:30–24:00\n\n\n\n\n4.1\n — 12:00–13:30, 18:00–20:00\n\n\n4.2\n — 12:30–14:00, 18:30–20:30\n\n\n\n\n5.1\n — 08:00–08:30, 13:00–14:30, 19:00–21:00\n\n\n5.2\n — 08:00–09:00, 13:30–15:00, 19:30–21:30\n\n\n\n\n6.1\n — 08:00–09:30, 14:00–15:30, 20:00–22:00\n\n\n6.2\n — 08:30–10:00, 14:30–16:30, 20:30–22:00",
+          "published_at": "2026-11-14T16:57:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hromadske_ua_91087",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/91087",
+      "published_at": "2026-11-14T20:33:49+00:00",
+      "raw_text": "🗣\n \nГенерал СБУ Сергій Дука \nпогодився \nприйти на засідання Тимчасової слідчої комісії Верховної Ради.\n\n\n\n\nЗасідання відбудеться 18 листопада о 13:00, повідомив голова ТСК Олексій Гончаренко.\n\n\n\n\nДука заявив, що хотів би розповісти власне бачення справи «Карфаген», яку називає «добре спланованою і заздалегідь зрежисованою інформаційно-політичною спецоперацією»\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+      "title": "Генерал СБУ Сергій Дука виступить на ТСК Ради",
+      "summary": "Генерал СБУ Сергій Дука погодився прийти на засідання Тимчасової слідчої комісії Верховної Ради 18 листопада. Він планує розповісти своє бачення справи «Карфаген».",
+      "category": "Політика",
+      "tags": [
+        "СБУ",
+        "Верховна Рада",
+        "ТСК"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/o72HwFgYMGE9LQsQgh2S0XtXYbqTzBiMAgAcBaTvireYIH9POnjfcQ2g4IPBkkLI8XLqjXYCaADiCNqRJrWv3Yt_aJ1m1VVU-p6eiW-Tt1b-T3mU8dqOi0UcNBCB7MWBmvmJxad_lbec2s6YdjNIKoKdN9SAluOJ5CKTL99S5OOM-DKbH3ZOWANBHipoUmyi4rLzU5FIPeePfKPWyQ6j_KkFKJbr4PexrBvjdew9fj5C22BusafOtu9zs8jZi8hqVwr-rruHRrDbrn1X1cZvnhX4ZqU1t3izCfvVaxFz4vOMmNOwbswsX6SQcwTTxdk7xekaxE9_hjpygu5BFmqL7A.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148684",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148684",
+      "published_at": "2026-11-14T20:31:10+00:00",
+      "raw_text": "👀\n «Нам треба $50 мільярдів»: причина масштабного збою авіасполучення США – у застарілій інфраструктурі, яку давно потрібно оновити, – міністр транспорту Даффі закликав Конгрес терміново виділити гроші на модернізацію.   Що відомо зараз: \n▪️\nFAA вже скасувало…",
+      "title": "Масштабний збій авіасполучення у США",
+      "summary": "Міністр транспорту США закликав Конгрес виділити 50 мільярдів доларів на модернізацію застарілої інфраструктури. Через проблеми в системі FAA вже скасувало частину рейсів.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "авіасполучення",
+        "транспорт"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/v2skgTo3Of-ieicnlZOA4NWSaG9A_mFNyAUL2L5iV80LYXyz4th1M1SxCwAEh9b949z-XByUooXFjPzXTZ9Hy-2Z9kWMaJu_WBEapsx7YT2TRXk6FRqCL5wm7mhQA_qESiJ0Eku9Igx7lZFPO-ZhBMvn9vHwBOR1dCZSjVqjcbB9iYJ2PbbAhqPDtXdC84uNM5VUvCOGhgvgJt_9PnzrJC1uvFFaiGAd9MyD9mRS121SBs4oN6BQKLw0yJyBkiKJy-q9gFtZpOEiGvVw7V5pKSTXAD0RwodxdDBKuNAL3S0p4B8TQl8V-V5AyB68ATu1bTIpfh0kThgK4Kv6chB09A.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148682",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148682",
+      "published_at": "2026-11-14T20:05:35+00:00",
+      "raw_text": "❗️\nУвага. Про підвищену загрозу застосування росіянами балістики\n протягом наступних 48 годин повідомляють монітори. \n\n\n\n\nЦіль можливого удару – енергетична інфраструктура Києва та області, також Полтавщини, Харківщини та Дніпропетровщини. За можливості, \nмайте запас питної та технічної води, а також тримайте гаджети зарядженими. \n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
+      "title": "Попередження про загрозу балістичних ударів",
+      "summary": "Моніторингові канали повідомляють про підвищену загрозу балістичних ударів по енергетичній інфраструктурі кількох областей, зокрема Полтавщини, протягом наступних 48 годин. Мешканцям радять зробити запас води та зарядити гаджети.",
+      "category": "Безпека",
+      "tags": [
+        "балістика",
+        "енергетика",
+        "тривога",
+        "попередження"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79290",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79290",
+      "published_at": "2026-11-14T20:02:48+00:00",
+      "raw_text": "Я думав, що помру\", — це перші слова хлопчика, які почув поліцейський, коли приїхав на місце російського удару в Глухові сьогодні. 54-річній бабусі хлопчика наклали турнікет на ногу.  За кілька хвилин РФ ударила вдруге. Поліцейський закрив собою дитину та…",
+      "title": "Наслідки російського удару по Глухову",
+      "summary": "Поліцейський врятував дитину на місці російського удару в Глухові, де окупанти завдали повторного удару за кілька хвилин. Поранень зазнали цивільні, зокрема 54-річна жінка.",
+      "category": "Війна",
+      "tags": [
+        "Глухів",
+        "обстріл",
+        "поліція",
+        "поранені"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/ipuRaFeD_1ge_B94NWVyEZJKGTLmmnNsAoRoDO3F9bXNl6_ffJ1MR1JzxQxXD-jPl5ZsG5SNMGq_lpwb08km0k6yT-_l7KL7HQwl98oRAPFFi7IwuXUqq9ElcRPMP5T-gA5niaGKVpuIeznoW5hbgmMDH5o_ojEGGvCAmNpiqVvZ73IGLOJQdN6Pbi8giqLxOSGH3uncG79IHsdKI27A8lrBgjH0Kpo-sTD1cJo4iFFtdrGYoHCZ3cEpOFEFbV97exj2RtGBMdiYn7qefbbyshB8hmTxBj0yPlnam1i_AMa3jrNlUwwLX1AnrVBAx_KL0m2hg7lgV1o_f25K-ONFqg.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "hromadske_ua_91086",
+      "source_name": "@hromadske_ua",
+      "source_url": "https://t.me/hromadske_ua/91086",
+      "published_at": "2026-11-14T20:01:13+00:00",
+      "raw_text": "🇺🇦\n У Херсоні відтепер офіційно \nвідзначатимуть\n День міста у день звільнення від окупації — 11 листопада.\n\n\n\n\nКрім цього, 1 березня стане Днем вшанування оборонців міста. Рішення ухвалили за результатами громадського обговорення, у якому взяли участь 2066 херсонців\n\n\n\n\n🧡\n \nпідписатися\n \n| \nпідтримати",
+      "title": "У Херсоні змінили дату Дня міста",
+      "summary": "У Херсоні офіційно відзначатимуть День міста 11 листопада — у день звільнення від окупації. Крім того, 1 березня стане Днем вшанування оборонців міста за результатами громадського обговорення.",
+      "category": "Суспільство",
+      "tags": [
+        "Херсон",
+        "свято",
+        "історія"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "TheEconomistOfficial_30144",
       "source_name": "@theeconomistofficial",
@@ -177,24 +916,6 @@
       "related_sources": []
     },
     {
-      "id": "rss_TOI72EXVHD6O00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-11-14/faa-air-travel-should-recover-sunday-ukraine-peace-offer-more",
-      "published_at": "2026-11-14T17:54:14+00:00",
-      "raw_text": "FAA: Air Travel Should Recover Sunday, Ukraine Peace Offer, More\n\nSource: Bloomberg, 0:00",
-      "title": "Відновлення авіасполучення та мирні ініціативи щодо України",
-      "summary": "Федеральне авіаційне управління США прогнозує відновлення авіаперельотів у неділю. Також обговорюються нові пропозиції щодо мирного врегулювання в Україні.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "авіація",
-        "Україна"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "rss_TOI1NGT96OSH00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/fetterman-says-van-hollen-as-senate-leader-would-be-troubling",
@@ -315,35 +1036,28 @@
       "related_sources": []
     },
     {
-      "id": "ok_kremen_60775",
-      "source_name": "@ok_kremen",
-      "source_url": "https://t.me/ok_kremen/60775",
-      "published_at": "2026-11-14T17:09:41+00:00",
-      "raw_text": "БпЛА в напрямку Кременчука з півночі",
-      "title": "Загроза БпЛА для Кременчука",
-      "summary": "Фіксується рух БпЛА з півночі у бік Кременчука. У регіоні оголошено небезпеку.",
-      "category": "Безпека",
+      "id": "holosameryky_22629",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22629",
+      "published_at": "2026-11-14T17:05:57+00:00",
+      "raw_text": "Близько 90% американських компаній попри втрати та ризики унаслідок російських атак \nзалишаються на українському ринку,\n каже президент Американської торговельної палати України Андрій Гундер. \n\n\n\n\nВ інтерв'ю Наталії Леоновій він порадив бізнесам, які розглядають можливість інвестувати в Україну, не чекати закінчення війни, а приходити вже зараз. \nКаже – в Україну зараз інвестувати ризиковано, але ще більш ризиковано – не інвестувати.\n\n\n\n\n📌\n Дивіться тут \n➡️\n \nhttps://youtu.be/qtdjneYpnyA\n\n\n\n\n✅\n Підписуйтеся на \n@holosameryky\n \n\n\n\n\nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "Близько 90% американських компаній залишаються в Україні",
+      "summary": "За словами президента Американської торговельної палати Андрія Гундера, близько 90% американських компаній продовжують працювати в Україні попри ризики. Він закликає інвесторів не чекати закінчення війни.",
+      "category": "Економіка",
       "tags": [
-        "БпЛА",
-        "Кременчук",
-        "Тривога"
+        "інвестиції",
+        "США",
+        "бізнес",
+        "економіка"
       ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
+      "importance": 3,
+      "media_list": [
         {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60774",
-          "raw_text": "БпЛА в напрямку Кременчука з півночі",
-          "published_at": "2026-11-14T17:04:05+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104054",
-          "raw_text": "БпЛА на Кременчук зі сходу\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-          "published_at": "2026-11-14T17:03:08+00:00"
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/gyVPzsAaIrRGgPBS8evdVxcju7g-gsGO_sn9GZN5WqYsIzu45XWdghUssmtofxy2SqARSzgAyLrxA_OCMEofZSPK67yV1GeWg2o-l-uf89IU_YtswKaQD0isWwbX-Dbn7blv8-pM9au89g1IjduC-eOqx5Vx5yRgWNx3d5m1derENfSGAA4pq5f8VTOesXQBrQqLg_KyxkRd2ecq3mUqCE_NK2evgiBrSICpZx_4-eDn4kufVTUNlOe1lpH5ij-2EiL6GwOoK23BtiqjgfBIb4lun9qGMEz_Y1iIdf2Hx94ArRHYpOY1mS-jXV31ga9sIVkJqMMYo8y2gJpuLvi9yw.jpg"
         }
-      ]
+      ],
+      "related_sources": []
     },
     {
       "id": "truexanewsua_148672",
@@ -386,54 +1100,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "ok_kremen_60773",
-      "source_name": "@ok_kremen",
-      "source_url": "https://t.me/ok_kremen/60773",
-      "published_at": "2026-11-14T16:57:53+00:00",
-      "raw_text": "🔌\n Графік відключень на неділю, 15 листопада.\n\n\n\n\nСвітла НЕ буде в такі години:\n\n\n\n\n1.1\n — 09:00–10:30, 15:00–17:00, 21:00–22:30\n\n\n1.2\n — 09:30–11:00, 15:30–17:30, 21:30–23:00\n\n\n\n\n2.1\n — 10:00–11:30, 16:00–18:00, 22:00–23:30\n\n\n2.2\n — 10:30–12:00, 16:30–18:30, 22:30–24:00\n\n\n\n\n3.1\n — 11:00–12:30, 17:00–19:00, 23:00–24:00\n\n\n3.2\n — 11:30–13:00, 17:30–19:30, 23:30–24:00\n\n\n\n\n4.1\n — 12:00–13:30, 18:00–20:00\n\n\n4.2\n — 12:30–14:00, 18:30–20:30\n\n\n\n\n5.1\n — 08:00–08:30, 13:00–14:30, 19:00–21:00\n\n\n5.2\n — 08:00–09:00, 13:30–15:00, 19:30–21:30\n\n\n\n\n6.1\n — 08:00–09:30, 14:00–15:30, 20:00–22:00\n\n\n6.2\n — 08:30–10:00, 14:30–16:30, 20:30–22:00",
-      "title": "Графік відключень світла на 15 листопада",
-      "summary": "Опубліковано детальний графік погодинних відключень електроенергії для черг Кременчука на неділю, 15 листопада. Електрики не буде у визначені години протягом доби.",
-      "category": "Комунальні послуги",
-      "tags": [
-        "Світло",
-        "Графік відключень",
-        "Кременчук"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/NMJgMlMjNGdvSsr0dSOEuZ24ZGdf9iAqWkQ2KUFrakt_YA0AFHXhhc3KCdYd9b5zvK5f81RBn9XgPdQp47_PoTIU7wiQ8WWnW4BAhktKuzQxJqIIgSdUjyzSnv7X4A41InJyLzoIDPuD1Q5tgTRnptMD5gFMNadf1vOrn-JsUlq549Pe5CVLGPonCig1518Oky9Mg_AfCT79lIACS929OzPb-cUBQLeNAfuyWPbuiawzf3uVJ4AiV90_XbYLrl-AeSgfVDivlKZU_CfQCj3o91b5G7X2LiuiOcKTigK34F2e3SkHT97y4QQqW19XDMQcM42RHrjEMMorTvWESXhHvQ.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104053",
-          "raw_text": "Графік відключень електроенергії на завтра, 15 листопада (графік може змінюватися!)\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-          "published_at": "2026-11-14T16:47:18+00:00"
-        },
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/48467",
-          "raw_text": "💡\nГрафіки відключень на завтра для Полтавщини.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-11-14T16:46:18+00:00"
-        },
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/79285",
-          "raw_text": "💡\n Через атаки РФ на енергооб'єкти завтра, 15 листопада, у частині областей цілодобово \nдіятимуть\n графіки погодинних відключень світла, повідомили в Укренерго.",
-          "published_at": "2026-11-14T16:12:53+00:00"
-        },
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/48450",
-          "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 15:02 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-11-14T13:03:17+00:00"
-        }
-      ]
     },
     {
       "id": "hromadske_ua_91077",
@@ -626,53 +1292,6 @@
       "related_sources": []
     },
     {
-      "id": "h_kremenchug_104051",
-      "source_name": "@h_kremenchug",
-      "source_url": "https://t.me/h_kremenchug/104051",
-      "published_at": "2026-11-14T14:56:39+00:00",
-      "raw_text": "Вибухи в Кременчуцькому районі\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-      "title": "Вибухи в Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі пролунали вибухи. Деталі події уточнюються.",
-      "category": "Безпека",
-      "tags": [
-        "вибухи",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/j30iACG6UDxSHvoOpJ0FTfXJ5x0TAJeYQPDxO22NwyefRhxzWDIuEUQplKhQtrSJWpowWDtJiHaZnCmTZ1POxpitjSXl-P5KqHAIejXqEJZuUPAlP-SFiIAfGBTe_6VJnP5HT_bN79YWh-1RBZSAFe0WA5zlpv6VArnGprnna2og8sN6mpUJs4abpzRE08qbSAqrTSe8OcGitOYlwJH1B0JLWJ1yJW3aVxPcB9RUIcdxOzcf_aB50HyYuuCFQbbuxOqmO6ONiD0J33iojnLQVo89aR6eANLCSJHm6NETrZEG0px1zhvhhjqQr3ILwpAn6kfUnwxw3BTjJSVlOwxp-g.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14156",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-14T14:42:41+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14155",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T14:06:31+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14154",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-14T13:33:23+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14152",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T13:14:07+00:00"
-        }
-      ]
-    },
-    {
       "id": "rss_TOHW5XT96OSG00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
@@ -749,37 +1368,6 @@
       "importance": 5,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "sirena_kremenchuk_14153",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/14153",
-      "published_at": "2026-11-14T13:19:17+00:00",
-      "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-      "title": "Кременчуцький район: повітряна тривога (червоний рівень)",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу з підвищеним червоним рівнем небезпеки. Необхідно негайно пройти в укриття.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчуцький район",
-        "тривога",
-        "обстріли"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104043",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🔴\n Червоний рівень",
-          "published_at": "2026-11-14T13:19:17+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14151",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-14T12:08:18+00:00"
-        }
-      ]
     },
     {
       "id": "ok_kremen_60756",
@@ -16401,635 +16989,6 @@
           "published_at": "2026-11-07T15:56:05+00:00"
         }
       ]
-    },
-    {
-      "id": "kremenchugtruexa_47894",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/47894",
-      "published_at": "2026-11-07T22:55:35+00:00",
-      "raw_text": "Реактивний у бік міста.\n\n\n\n\nUPD 01:03:\n чисто.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Реактивний снаряд у бік міста та відбій",
-      "summary": "Зафіксовано рух реактивного снаряда у бік міста. Згодом ситуація стабілізувалася, обстановка чиста.",
-      "category": "Безпека",
-      "tags": [
-        "обстріл",
-        "Кременчук",
-        "небезпека"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29516",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29516",
-      "published_at": "2026-11-07T22:46:23+00:00",
-      "raw_text": "Wine fraud is an ancient crime. But today's criminals know new tricks. They are producing more—and more convincing—counterfeit bottles than ever before, as \n@_WilliamRalston\n reports for 1843 \nhttps://t.co/DMco8nv9xl\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Зростання масштабів підробки вина",
-      "summary": "Шахраї вдосконалюють методи підробки винних пляшок, створюючи все більш переконливі фальсифікації. Масштаби цього давнього злочину значно зросли у сучасних умовах.",
-      "category": "Світ",
-      "tags": [
-        "вино",
-        "злочин",
-        "шахрайство"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29515",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29515",
-      "published_at": "2026-11-07T22:26:27+00:00",
-      "raw_text": "Midterm victories on the Plains will bolster Democrats’ hopes that the region offers more opportunities \nhttps://t.co/AqYhr3GSoQ\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Перемоги демократів на проміжних виборах у США",
-      "summary": "Успіхи демократів на рівнинах США зміцнюють їхні надії на нові політичні можливості в регіоні. Аналіз електоральних перспектив від The Economist.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "вибори",
-        "демократи",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cmy8367lj5xlo_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-07T22:19:59+00:00",
-      "raw_text": "Israel's president tasks opposition leader Eisenkot with forming government\n\nNeither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "title": "Президент Ізраїлю доручив Айзенкоту сформувати уряд",
-      "summary": "Президент Ізраїлю доручив лідеру опозиції сформувати новий уряд країни. Жоден із політичних блоків не зміг здобути більшість за результатами минулотижневих виборів.",
-      "category": "Світ",
-      "tags": [
-        "Ізраїль",
-        "політика",
-        "вибори"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29514",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29514",
-      "published_at": "2026-11-07T22:06:26+00:00",
-      "raw_text": "No other economist of his generation worked across such a breadth of controversial topics. He pioneered carbon prices, pleasing progressives and irking conservatives. He also defended billionaires, with the opposite effect \nhttps://t.co/wEZon63wL8\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Вплив відомого економіста на сучасну економічну думку",
-      "summary": "The Economist публікує матеріал про спадщину видатного економіста його покоління, який працював над суперечливими темами. Він пропонував ціноутворення на викиди вуглецю та водночас захищав інтереси мільярдерів.",
-      "category": "Економіка",
-      "tags": [
-        "економіка",
-        "The Economist",
-        "дослідження"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "holosameryky_22570",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22570",
-      "published_at": "2026-11-07T22:04:53+00:00",
-      "raw_text": "За проміжними виборами у США стежив увесь світ. \nЯк реагують на попередні результати у Європі? \n\n\n\n\nРозповів кореспондент Голосу Америки у Лондоні Богдан Цюпин\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp\n\n\n\n\n#VOAMidterms2026",
-      "title": "Реакція Європи на проміжні вибори у США",
-      "summary": "Кореспондент Голосу Америки у Лондоні Богдан Цюпин розповів про те, як у Європі реагують на попередні результати проміжних виборів у США.",
-      "category": "Світ",
-      "tags": [
-        "вибори у США",
-        "Європа"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78994",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78994",
-      "published_at": "2026-11-07T22:01:14+00:00",
-      "raw_text": "Влучання ударного дрона зафіксували в Київському районі Харкова, повідомив міський голова Ігор Терехов.",
-      "title": "Удар дроном по Харкову",
-      "summary": "У Київському районі Харкова зафіксовано влучання ударного безпілотника. Про це повідомив міський голова Ігор Терехов.",
-      "category": "Війна",
-      "tags": [
-        "Харків",
-        "БПЛА",
-        "обстріл"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_90742",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90742",
-      "published_at": "2026-11-07T21:57:59+00:00",
-      "raw_text": "💬\n \nросійські військовослужбовці активно \nриють\n підземні тунелі на лівому березі окупованої Херсонської області та перейшли до гібридного варіанту наступу \n— начштабу 34-ї бригади морської піхоти.\n\n\n\n\nЗа його словами, ділянки підземних тунелів противника в Херсонській області становлять 20–30 % від усього Лівобережжя. росіяни активно риють підземні тунелі там, де ЗСУ контролюють повітряний простір і не дають їм дістатися до позицій по землі \n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Російські військові риють підземні тунелі на лівобережжі Херсонщини",
-      "summary": "На окупованому лівому березі Херсонської області російські військові активно риють підземні тунелі, які становлять 20-30% від усього Лівобережжя. За словами військових, це пов'язано з переходом до гібридного варіанту наступу через контроль ЗСУ над повітряним простором.",
-      "category": "Війна",
-      "tags": [
-        "Херсонщина",
-        "ЗСУ",
-        "окупація"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78993",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78993",
-      "published_at": "2026-11-07T21:52:16+00:00",
-      "raw_text": "🔹\n Без світла у \nДніпрі\n залишилося понад 60 тисяч споживачів. Знеструмлення відбулися через повторні атаки РФ на енергетику, повідомив керівник ОВА Ганжа.\n\n\n\n\n🔹\n Також внаслідок атаки РФ сталося аварійне знеструмлення у\n Кам'янець-Подільському \nрайоні, повідомив керівник ОВА Тюрін.\n\n\n\n\n🔹\n Унаслідок атаки РФ на \nОдесу\n загинула людина. Пошкоджень зазнала інфраструктура, повідомив керівник МВА Лисак.",
-      "title": "Наслідки російських атак: знеструмлення та жертви в регіонах",
-      "summary": "Через атаки РФ у Дніпрі без світла залишилося понад 60 тисяч споживачів, також є знеструмлення на Хмельниччині. В Одесі внаслідок удару загинула людина та пошкоджено інфраструктуру.",
-      "category": "Війна",
-      "tags": [
-        "Дніпро",
-        "Одеса",
-        "відключення світла",
-        "обстріли"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TO5IORWWD62O00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-11-07/trump-s-wish-ufc-s-white-for-press-sec-herzog-to-tap-eisenkot",
-      "published_at": "2026-11-07T21:36:28+00:00",
-      "raw_text": "Trump’s Wish: UFC’s White for Press Sec, Herzog to Tap Eisenkot\n\nSource: Bloomberg, 5:10",
-      "title": "Політичні новини від Bloomberg",
-      "summary": "Агентство Bloomberg публікує огляд новин щодо ймовірних кадрових рішень Дональда Трампа та політичної ситуації в Ізраїлі.",
-      "category": "Світ",
-      "tags": [
-        "політика",
-        "США",
-        "Bloomberg"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_148201",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/148201",
-      "published_at": "2026-11-07T21:21:34+00:00",
-      "raw_text": "❗️\n5 загиблих: стрілянина сталася в центрі Кракова, — Krakowskie ​info.  Чоловік виїхав на головну площу міста та відкрив вогонь по людях.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
-      "title": "Стрілянина в центрі Кракова: є загиблі",
-      "summary": "У центрі Кракова сталася стрілянина: чоловік виїхав на головну площу міста та відкрив вогонь по людях. Внаслідок інциденту загинуло 5 осіб.",
-      "category": "Світ",
-      "tags": [
-        "Краків",
-        "стрілянина",
-        "надзвичайна подія"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/a6c8160084.mp4?token=QRk2zMdWnIHcS1hhYPcXvsNuq2iq_FdbxO3tUGvxujV_uOzHMEQNfWKbcnu5cMokP1OKuDwxD8Jg3WLZDKCnjTWnImODDHuPur7982g4_4wd0QJl-iIv4wnEJEsbvBwLC-CphIISrCIvEhjTGAKmfC5GoPS-tN7DUEl90lYOsGQlEvgo2sh1uVcfcSZyxWLvoJLREPE-98x4fIYDSkJJ382AzQY29P5UAJMaGldrbXZGMWmN9yH6PwnFPd5b_HUUJTBD67BZMERqXdvypbsA_NaAXXUto9PMssNskvRXRAT7ZVUfbloWTFio9ShX6E2agZ-hBGa7k-fwdjJygNc0nQ"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/148190",
-          "raw_text": "Момент стрілянини в центрі Кракова.  ТРУХА\n⚡️\nУкраїна | Надіслати новину",
-          "published_at": "2026-11-07T18:30:00+00:00"
-        },
-        {
-          "source_name": "@EurointegrationComUa",
-          "source_url": "https://t.me/EurointegrationComUA/23746",
-          "raw_text": "У центрі Кракова сталась стрілянина: повідомляють про загиблих\n\n\n\n\nУ польському Кракові на площі Ринок сталась стрілянина, внаслідок якої є загиблі та поранені.\n\n\n\n\nЯк зазначено, біля костелу Святої Марії працюють медики, на площі приземлився вертоліт Повітряної служби швидкої допомоги.\n\n\n\n\nРечник Малопольської пожежної служби підтвердив, що є загиблі та поранені.\n\n\n\n\nДеталі за посиланням: \nhttps://www.eurointegration.com.ua/news/2026/11/7/7249513/\n\n\n\n\nПідписуйтеся на Telegram\n \nголовного медіа про Європу",
-          "published_at": "2026-11-07T15:14:58+00:00"
-        }
-      ]
-    },
-    {
-      "id": "suspilnenews_78992",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78992",
-      "published_at": "2026-11-07T21:20:51+00:00",
-      "raw_text": "Зеленський висловив співчуття родинам загиблих унаслідок стрілянини в Кракові, він засудив напад, побажав пораненим одужання та заявив про солідарність України з Польщею.  У поліції заявили, що близько 15:00 водій чорного позашляховика стріляв по перехожих…",
-      "title": "Реакція України на стрілянину в Кракові",
-      "summary": "Президент Володимир Зеленський засудив напад у Кракові та висловив співчуття родинам загиблих. За даними поліції, водій позашляховика відкрив вогонь по перехожих.",
-      "category": "Світ",
-      "tags": [
-        "Краків",
-        "стрілянина",
-        "Зеленський"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TO5CU2T9NJLU00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/several-senate-republicans-call-for-delaying-leadership-election",
-      "published_at": "2026-11-07T21:17:24+00:00",
-      "raw_text": "Several Senate Republicans Call for Delaying Leadership Election\n\nSeveral Senate Republicans are pushing to delay the party’s leadership elections scheduled for next week following the GOP’s midterms defeat, a move that may open the door to a potential challenge against John Thune.",
-      "title": "Сенатори-республіканці закликають відкласти вибори керівництва",
-      "summary": "Кілька сенаторів-республіканців вимагають перенести вибори партійного керівництва після проміжних виборів. Це може створити умови для потенційного виклику Джону Туну.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "Сенат",
-        "Республіканці"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_90741",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90741",
-      "published_at": "2026-11-07T21:13:34+00:00",
-      "raw_text": "❗️\n Демократи \nготують\n новий пакет безпекової допомоги для України, обсяг якого може сягнути $15 млрд.\n\n\n\n\nВони сподіваються надати Україні негайну підтримку ще до того як новий склад складе присягу у січні. Одним із пріоритетів на цей період є допомога в енергетичній сфері.\n\n\n\n\nДля цього законодавці, ймовірно, використають щорічний законопроєкт про оборонну політику (NDAA), який має бути ухвалений до закінчення каденції цього Конгресу, як механізм для надання допомоги Києву\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Демократи в США готують пакет допомоги Україні на $15 млрд",
-      "summary": "Американські законодавці планують надати Україні новий пакет допомоги до січня. Пріоритетним напрямком стане підтримка енергетичної сфери.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "допомога",
-        "конгрес"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_148199",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/148199",
-      "published_at": "2026-11-07T20:44:37+00:00",
-      "raw_text": "У москві під час масових затримань молоді почали видавати повістки до військкоматів. Навіть студентам, які мають відстрочку,\n – росЗМІ.\n\n\n\n\nСиловики провели рейди по московських клубах і барах, затримавши понад 100 людей. Людей хапали на вулицях, навіть за незвичайний одяг, і забирали в автозаках. \nЧоловікам групами вручають повістки\n. Деякі затримані заявили про побиття.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-      "title": "У Москві під час масових затримань молоді почали видавати повістки",
-      "summary": "Російські силовики провели рейди по клубах і барах Москви, затримавши понад 100 людей. Затриманим чоловікам масово вручають повістки до військкоматів попри наявність відстрочок.",
-      "category": "Світ",
-      "tags": [
-        "мобілізація",
-        "Москва",
-        "Росія"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_90740",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/90740",
-      "published_at": "2026-11-07T20:37:45+00:00",
-      "raw_text": "Зеленський \nанонсував\n кадрові рішення в СБУ, росіяни атакували балістикою Київ, теракт у Кракові \n— \n#важливезадень\n\n\n\n\n🔸\n Зеленський затвердив законопроєкт про повернення декларування для всіх працівників Служби безпеки. Він також \nанонсував \nнові кадрові рішення в СБУ\n\n\n\n\n🔸\n \nБуданов сплатить штраф\n за те, що говорив російською мовою під час сутичок у Петропавлівській Борщагівці. Розмір штрафу за використання російської мови сягає від 3400 гривень\n\n\n\n\n🔸\n росіяни \nзавдали балістичного удару по Києву\n, унаслідок чого пошкоджено житлові будинки та Північний міст, пʼятеро людей постраждали\n\n\n\n\n🔸\n У ГУР ідентифікували російських військових, причетних до авіаудару в Комишувасі. Кількість загиблих там \nзбільшилася до 55\n\n\n\n\n🔸\n У Кракові чоловік заїхав автомобілем на площу Головний ринок та \nпочав стріляти з автомата.\n Нападником виявився громадянин Польщі, його затримали\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Головні події дня: кадрові рішення в СБУ, удар по Києву та теракт у Кракові",
-      "summary": "Президент анонсував кадрові зміни в СБУ та підписав закон про декларування. Російські війська завдали балістичного удару по Києву, є постраждалі.",
-      "category": "Політика",
-      "tags": [
-        "СБУ",
-        "Київ",
-        "обстріл",
-        "Краків"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/aQPgQC0h3L9smQGXkJXduVxH8HIZ2vxpKD5cE5YFCQx3K71H0PVpvUJmn2BDwHswwHoJ7NeoUeQsMJK2VjNZ0T-kYoDrOpQMxSpUoxqksNJbTWXFQwa5qGgLkD9XXb62OxA6a0kbUolLK6_hYMmoy1vZ5vbenUa9UOt77E70iZhPiJYWoiJm2AZOzJlCp36WiWPtxWfc0_7wKQagByGL4cTlWAya-P9aXMDi4pj3JTEGnizQj8zxmI7nugO53egl_woFFYu36CxG9zO-NRKxKlxl96q34wErR9BN_D9wvTksHYIKbJT0cz9zp1TxFFJaUgoBUz2rF7ZBGCWvgWFbEg.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78978",
-          "raw_text": "Зеленський заявив, що вночі Росія атакувала Київ та область 36 балістичними ракетами. Головною мішенню удару була енергетика.   На Київщині війська РФ обстріляли підстанції, які зʼєднують Рівненську та Хмельницьку АЕС зі столицею і центральними регіонами України.…",
-          "published_at": "2026-11-07T15:08:10+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_29509",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29509",
-      "published_at": "2026-11-07T20:26:04+00:00",
-      "raw_text": "Democrats hope their substantive victories will pave the way back to the White House in 2028. The risk is that their efforts fall short and create an opening for a Republican recovery \nhttps://t.co/7ISlR8aN4o\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Перспективи Демократичної партії на виборах 2028 року",
-      "summary": "Демократи сподіваються, що їхні здобутки прокладуть шлях до повернення в Білий дім у 2028 році. Існує ризик, що зусиль виявиться замало, що дасть шанс Республіканській партії на реванш.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "вибори",
-        "політика"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_148198",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/148198",
-      "published_at": "2026-11-07T20:24:11+00:00",
-      "raw_text": "👀\n \nСвітломаскування знову вводять по Україні: дотримуватися вимог закликали жителів Овруча на Житомирщині\n, – міський голова \nКоруд\n.\n\n\n\n\nВін заявив, що це необхідні безпекові заходи.\n\n\n\n\nОбстановка у регіоні – \nhttps://t.me/+iao-e_wEn1g5NWEy",
-      "title": "На Житомирщині закликають дотримуватися світломаскування",
-      "summary": "У місті Овруч на Житомирщині знову вводять світломаскування. Міський голова Коруд закликав жителів дотримуватися цих вимог задля безпеки.",
-      "category": "Безпека",
-      "tags": [
-        "Овруч",
-        "Житомирщина",
-        "світломаскування",
-        "безпека"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/ZlpOc87DG8b0rNNAT76759tDxb6D9LzAfI9uw8nPDi5v5TGgk6KNB721AXvcA375b38JUBBnMeIML-6eliQjlyG5wxjumA88dMOcVD8qEGc8h_M11ifPEJXLi4rZOg9vcEYLEqe_JPeyPmQRlppfEk8v_p2AB-_IjaE1X-l9jdGZ-uBdW9nXk7MXuTu-_lCMIpaLQrfXVMmZAkkO3c86FTmOBP_qFBz3cuNp5pITp89CtGvT1Fs4AnN0QnCnSQnaOIjQL4Hz4T0Tx_H4ZcSja1ltJqe-JDwkX1GEthBO9t-ttNdR3PN-AO1TUhCWoF-1d-Ds2aVakt6O5hfWhja6Eg.jpg"
-        }
-      ],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_148197",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/148197",
-      "published_at": "2026-11-07T20:22:11+00:00",
-      "raw_text": "🤬\n \nВорожий БПЛА атакував житлову забудову Хмельницька. \nУ місті видно стовп диму. \n\n\n\n\n🔴\nКадри з місця подій: \nhttps://t.me/+i6QY3-Ll2hplNGRi",
-      "title": "Ворожий БПЛА атакував Хмельницький",
-      "summary": "У Хмельницькому внаслідок атаки ворожого безпілотника по житловій забудові піднявся стовп диму. На місці подій працюють відповідні служби.",
-      "category": "Війна",
-      "tags": [
-        "Хмельницький",
-        "БПЛА",
-        "атака",
-        "обстріл"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TO5EP6WWD62O00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-11-07/trump-wants-ufc-s-white-for-press-sec-herzog-to-tap-eisenkot",
-      "published_at": "2026-11-07T20:10:18+00:00",
-      "raw_text": "Trump Wants UFC’s White for Press Sec, Herzog to Tap Eisenkot\n\nSource: Bloomberg, 5:02",
-      "title": "Трамп розглядає кандидатуру Дена Вайта на посаду прессекретаря",
-      "summary": "За даними Bloomberg, Дональд Трамп хоче бачити очільника UFC Дану Вайта своїм прессекретарем. Водночас Герцог планує залучити Айзенкота.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "політика",
-        "Трамп"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/rw16dHIW6tBVRpU-8gLWKRVqWUey_Qm_lr-AIDDeg0RNGKJUpsoulXSMfZwN_cND_pPL_nzm6Js0gkPGgSLtQM58v9POuglvG2xzluUpamtD1OZInPde2wPtitktYuZV-1I85uxwYledpAYVELSteTGAKMRMn5acH0Kq_BpQIircQ3_d5mjzMCEpYpa9JH6I-lu4rWssq7ntHtTqlwwtVDJsySYidtypHEP65EtqHlWWFKJPC6uF4_POpOFxVSCbqdkeiDqVw2uExTEIZkiYRM5mkDh2Jc7J-AUWgXduTOvNgFbOx9kAvzM-r3lGxy_o0OkARxklzDKCGkpyafE3nA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@hromadske_ua",
-          "source_url": "https://t.me/hromadske_ua/90739",
-          "raw_text": "🇺🇸\n \nТрамп \nзапропонував\n очільнику UFC Дейні Вайту посаду прессекретаря Білого дому. \n\n\n\n\nВін також попросив Вайта взяти собі помічників — двох російських бійців UFC Іслама Махачева та Хабіба Нурмагомедова, а також Джастіна Гейджі, Деніела Корм'є, Аманди Нуньєс та Кейли Гарріс.\n\n\n\n\n«Ці люди потрібні нам, щоб захиститися від “божевільних лівих”. Дейні стане унікальним прессекретарем, рівних якому ще не було. Дейно, будь ласка, погоджуйся», — написав Трамп\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-          "published_at": "2026-11-07T19:29:03+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/148196",
-          "raw_text": "🥴\n Трамп запропонував пост прес-секретаря Білого дому главі UFC Вайту. І це ще не все.\n\n\n\n\nТакож він закликав Деайн Вайта взяти російських бійців Іслама Махачева і Хабіба Нурмагомедова своїми помічниками.\n\n\n\n\nТРУХА\n⚡️\nУкраїна \n| \nНадіслати новину",
-          "published_at": "2026-11-07T18:56:49+00:00"
-        },
-        {
-          "source_name": "Bloomberg.com",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/trump-asks-ufc-s-dana-white-to-be-his-next-press-secretary",
-          "raw_text": "Trump Asks UFC’s Dana White to Be His Next Press Secretary\n\nPresident Donald Trump said he is offering the role of White House press secretary to UFC chief Dana White, asking him to “please take the job.”",
-          "published_at": "2026-11-07T18:59:03+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_29507",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29507",
-      "published_at": "2026-11-07T20:06:24+00:00",
-      "raw_text": "Conspiracy theories are nothing new. But never have so many spread so fast, so far and so high. To understand why, turn to three new books \nhttps://t.co/eIQxrF8oOaIllustration\n: Ben Jones \nhttps://t.co/w4q7XxuJaw\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Огляд нових книг про поширення теорій змови",
-      "summary": "Сучасні теорії змови поширюються швидше та ширше, ніж будь-коли раніше. Три нові книги аналізують причини цього феномену.",
-      "category": "Суспільство",
-      "tags": [
-        "книги",
-        "суспільство",
-        "медіа"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78990",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78990",
-      "published_at": "2026-11-07T19:59:24+00:00",
-      "raw_text": "Росія вже \nвикористовує\n супутникову систему «Рассвет» для військового зв'язку над Україною. За даними ГУР, цього року РФ вивела на орбіту 32 такі супутники, але поки зв'язок доступний лише періодично. \n\n\n\n\nЗа даними відомства, у перспективі система дозволить російським операторам отримувати дані з розвідувальних дронів у реальному часі, коригувати їхні маршрути та ухилятися від ППО. Це може підвищити ефективність російських БпЛА й ускладнити їхнє перехоплення засобами РЕБ.",
-      "title": "РФ використовує систему «Рассвет» для зв'язку",
-      "summary": "Росія почала використовувати супутникову систему «Рассвет» для військового зв'язку над Україною. У майбутньому це може покращити управління розвідувальними дронами та ускладнити їхнє перехоплення.",
-      "category": "Війна",
-      "tags": [
-        "ГУР",
-        "технології",
-        "зв'язок",
-        "БпЛА"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "kremenchugtruexa_47888",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/47888",
-      "published_at": "2026-11-07T19:42:01+00:00",
-      "raw_text": "Реактив курсом на Семенівку.  ТРУХА\n⚡️\nКременчук | Надіслати новину",
-      "title": "Повторна загроза для Семенівки",
-      "summary": "Зафіксовано рух реактивного снаряда у напрямку Семенівки. Оголошено небезпеку для мешканців цього району.",
-      "category": "Безпека",
-      "tags": [
-        "Семенівка",
-        "загроза",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29506",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29506",
-      "published_at": "2026-11-07T19:41:22+00:00",
-      "raw_text": "After the Supreme Court weakened an important provision of the Voting Rights Act, lawmakers in the Deep South redrew their House maps to eliminate majority-black districts. That seems to have sparked a backlash \nhttps://t.co/VawWeTfOzp\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Зміни виборчих округів у США викликали суспільну реакцію",
-      "summary": "Після послаблення Закону про виборчі права законодавці на Півдні США перекроїли мандатні карти, ліквідувавши округи з переважно чорнокірідшим населенням. Це рішення викликало хвилю обурення та політичну реакцію.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "вибори",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78989",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78989",
-      "published_at": "2026-11-07T19:37:31+00:00",
-      "raw_text": "Серія вибухів у Черкасах, повідомляють кореспонденти Суспільного.",
-      "title": "Вибухи у Черкасах",
-      "summary": "У Черкасах пролунала серія вибухів. Про це повідомляють кореспонденти Суспільного.",
-      "category": "Безпека",
-      "tags": [
-        "Черкаси",
-        "вибухи",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "kremenchugtruexa_47886",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/47886",
-      "published_at": "2026-11-07T19:29:08+00:00",
-      "raw_text": "Градизьк в укриття.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Загроза обстрілу у Градизьку",
-      "summary": "Жителів Градизька терміново закликали перейти в укриття через загрозу ворожого удару. Ситуація вимагає підвищеної уваги до безпеки.",
-      "category": "Безпека",
-      "tags": [
-        "Градизьк",
-        "укриття",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78988",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78988",
-      "published_at": "2026-11-07T19:24:05+00:00",
-      "raw_text": "Міністра закордонних справ Італії Таяні кілька днів поспіль \nатакують\n кіберзлочинці: публікують його особисті дані в даркнеті та шукають інформацію про його родину, пропонуючи за неї гроші. \n\n\n\n\nТаяні вважає, що став мішенню через підтримку України, а також через заходи з кібербезпеки, які впроваджує його міністерство. Він заявив, що не піддасться залякуванню й продовжить зміцнювати кіберзахист Італії та співпрацю із союзниками.",
-      "title": "Главу МЗС Італії атакують кіберзлочинці через підтримку України",
-      "summary": "Міністра закордонних справ Італії Таяні атакують хакери в даркнеті через його підтримку України та кібербезпекові заходи. Посадовець заявив, що не піддасться залякуванню.",
-      "category": "Світ",
-      "tags": [
-        "Італія",
-        "кібератака",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/qmcomzqwRt4w6Jo0Llg6hZPYXQLwz3M_gScB093-R-Nb1_DSfqWKLtpRJIViGlxvpE3Ihw14jnZtlkS4AWG85udGFoP1ZmORZe5i3HubAWbBcnPYRScP3X2HE0bUjMMdkbC56altBGddAYUO4g2kW8IEFxytgPvrD0kUnmJAtZtLmWQZg9X5QWguYMGNZbIdAa2sIU8rkDkvEZxeVJte-iNZExkvzS4x-bL45uFAs0qnuJ3OYzcFeATNpFi2QIsNjFNg-NUXVXlLq2nzrBlbovOi8c42BsdbsVhd75MfYP0TtpdO9rdjlp3feVw2TmVLnkkO7EuXa6hNwIdKJX5xeA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22567",
-          "raw_text": "🔴️\n️️️️️\n \nДмитро Лубінець – інтервʼю у Вашингтоні.\n\n\n\n\nВід зустрічі у Білому домі Україна \nотримала політичні й дипломатичні сигнали від Меланії Трамп\n про підтримку українців.\n\n\n\n\nПро це \nомбудсмен Дмитро Лубінець\n розповів в інтерв’ю \nжурналістці Голосу Америки Юлії Ярмоленко.\n\n\n\n\n🔵\n У яких регіонах можуть відбутися \nнаступні гуманітарні місії \nза посередництва США?\n\n\n🔵\n Як Лубінець коментує зустріч у Білому домі \nза участі підсанкційних росіян?\n\n\n🔵\n Чи може досвід Олешків вплинути \nна переговори в Абу-Дабі?\n\n\n\n\n📌\n \nДивіться тут\n \n➡️\n \nyoutu.be/9rfdg9LrF0c\n\n\n\n\n🇺🇦\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-11-07T11:02:46+00:00"
-        }
-      ]
-    },
-    {
-      "id": "kremenchugtruexa_47885",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/47885",
-      "published_at": "2026-11-07T19:21:27+00:00",
-      "raw_text": "2 реактива на Кременчук.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Загроза ракетного удару по Кременчуку",
-      "summary": "У Кременчуку зафіксовано рух двох реактивних снарядів. Місцевих жителів закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчук",
-        "обстріл",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/0b588bb55c.mp4?token=FKsQMt6maFTmDIUNvyZThBtsDWujKn4VIGBXlrptMbLaW0op98sFHKCu5aC0DHRImNV1dd83ZWdOTb0_bBQFO3UZrzPzhFx-8JHOrhlYM4LdSlymNJx_ZMPZdyEOj-YdpS8A164NfVEOlhiMJUfxNc4Wght7c4cBhR8fKDzghZ8YnUHwozok-FUQ3O82vAprk4JR-S0gLb0Wnaf8ulwPhe1oen0d5yH1dMLMRSS0JyVjwJnJw4SiKUJWpwQ_tCQa_aHaCj4JEL2e3hoer2kfX2_Cb15B0RntAm0ikxxr_gUANV0FaGyC8rjXdNRrHiY6wVtmrukfdtAxlCzruW7lHIex-2Y6q-tu82fjYOXMwHWJ_uAGkOByO5ZK5_VNANCn0iC4W_NFidc3OnCSPvEmt8Xih--j0XY2c3Sj9H83-1HAzpLW1hBGVC20YBfn5wFUv4XN8iGWClc7DiH-uKCqKs3bw4OHaGmvkZSP1fdNpwMNSkb7xjAnBWAo2aIjwVZi9vqrcLsibkB4kEdQit3eU9ORHJqmL8cakd6-72xzTRap1hIH_w_c__dlMp8gonbtz2yWJLqKvQVigS3JKO1iQU3lbv3HNHNrinWm2taYhKBEDKT1LwPUlZ3gqoQxDlQgXltrSqqmKmy5839jysWo1E4RW2RYt81WPxGqvrfSaBg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@suspilnenews",
-          "source_url": "https://t.me/suspilnenews/78957",
-          "raw_text": "«У підвалі сипалася штукатурка, підлога тремтіла під ногами», — розповідає про минулу ніч під обстрілами киянка Євгенія.\n\n\n\n\nРакета \nвлучила\n поруч із сусіднім будинком. Жінка та її рідні одразу побігли у підвал і згодом почули сильний вибух. Через удар зруйнована квартира однокласника Євгенії. Чоловіка у момент влучання не було вдома.",
-          "published_at": "2026-11-07T08:59:34+00:00"
-        }
-      ]
-    },
-    {
-      "id": "TheEconomistOfficial_29504",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29504",
-      "published_at": "2026-11-07T19:06:04+00:00",
-      "raw_text": "Abdul El-Sayed’s victory gives the left wing of the Democratic Party a powerful new voice in Washington. Moderates, though, have a different take on the result \nhttps://t.co/9efyJF9DfuPhoto\n: Getty Images \nhttps://t.co/T0YQVyX5NF\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Перемога Абдула Ель-Саєда у США",
-      "summary": "Перемога Абдула Ель-Саєда посилила позиції лівого крила Демократичної партії у Вашингтоні. Водночас помірковані політичні сили мають іншу оцінку цього результату.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "політика",
-        "Демократична партія",
-        "Вибори"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78987",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78987",
-      "published_at": "2026-11-07T18:54:07+00:00",
-      "raw_text": "На місце сутичок у Петропавлівській Борщагівці приїхав керівник Офісу президента Буданов, передає УНІАН.  Він поспілкувався з підлітком, якого виявили на місці подій, допоміг йому зателефонувати сестрі та домовився, щоб родичі приїхали й забрали хлопця додому.…",
-      "title": "Керівник ОП прибув на місце сутичок у Петропавлівській Борщагівці",
-      "summary": "На місце подій прибув керівник Офісу президента, який поспілкувався з підлітком та допоміг йому зв'язатися з родичами. Хлопця забрали додому.",
-      "category": "Події",
-      "tags": [
-        "Петропавлівська Борщагівка",
-        "ОП",
-        "події"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
     }
   ]
 }
