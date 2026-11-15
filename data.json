@@ -1,12 +1,412 @@
 {
-  "updated_at": "2026-11-14 22:57",
+  "updated_at": "2026-11-15 02:36",
   "digest": [
-    "SpaceX успішно випробувала нову технологію посадки ракети Starship.",
-    "У Кременчуці та області оголошено відбій повітряної тривоги.",
-    "Уряд Великої Британії планує розширити програму зайнятості для молоді.",
-    "Порт Нового Орлеана подав позов на $1 млн через зіткнення суден."
+    "У Шеньчжені наступного тижня може відбутися зустріч Сі Цзіньпіна та Такаіті Санае для покращення двосторонніх відносин.",
+    "Коаліція прем'єр-міністра Малайзії Анвара Ібрагіма зазнала третьої поспіль поразки на регіональних виборах цього року.",
+    "Іноземні інвестори масово повертаються до Індії, проявляючи інтерес не лише до штучного інтелекту, а й до інших секторів.",
+    "Неанонсована модель штучного інтелекту досягла значного прогресу у розв'язанні складної фізичної задачі про масову щілину Янга-Міллса.",
+    "У Кременчуцькому районі оголошено відбій повітряної тривоги, небезпека минула."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_30170",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30170",
+      "published_at": "2026-11-15T02:26:17+00:00",
+      "raw_text": "The Indian government assumed, because he had received some funding from an American mission society, that he should have come in on a missionary visa. But he was no missionary \nhttps://t.co/vdB6GVDuah\n — The Economist (\n@TheEconomist\n) \nNov 15, 2026",
+      "title": "Справа іноземного громадянина в Індії",
+      "summary": "Уряд Індії помилково класифікував особу як місіонера через американське фінансування. Насправді чоловік не займався місіонерською діяльністю.",
+      "category": "Світ",
+      "tags": [
+        "Індія",
+        "візи",
+        "суспільство"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_30169",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30169",
+      "published_at": "2026-11-15T02:06:27+00:00",
+      "raw_text": "A summit including Xi Jinping and Takaichi Sanae in Shenzhen next week could be the setting of an ice-breaking meeting. Relations between their two countries have been dire, \nhttps://t.co/lsIR8TPDFpPhoto\n: Getty Images \nhttps://t.co/Qiyzhub0Eu\n — The Economist (\n@TheEconomist\n) \nNov 15, 2026",
+      "title": "Зустріч лідерів у Шеньчжені",
+      "summary": "Наступного тижня у Шеньчжені може відбутися зустріч Сі Цзіньпіна та Такаіті Санае. Це може стати кроком до покращення складних відносин між двома країнами.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "міжнародні відносини",
+        "Китай",
+        "Японія"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/WemAo2yAibLgSejrPUYgTBm_Lr3ly7mRkqv0CMLQx7NpOZ8QKqrFPDigrLD3TjfoMIa_UxYqqXUXgjrlUBP2AIi3Ki0uzDbVqerIxKPf6AWhCZc1e4ibE2iHSPeXYclJM5uQ4uAvTg7SDLLJQz1XAhrLoa-Xu8lmSrtafYic_FNkZsTL2t-3-sC1-0PyoXgWqB13WEAx_RUuP90sbjL1gcfipZgfUrIwT4B3xV_DsHVLh6zmb-4_2qLs87d9uGM_7ARPO_ZyBpbKe3dH-00K-O_gSM4DUIET30SeaxSL5MxyiLKJHNVPo0Xp64wqOstaPZ6G9qHg71kbqnSoBbOwIg.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@EurointegrationComUa",
+          "source_url": "https://t.me/EurointegrationComUA/23860",
+          "raw_text": "🇺🇸\n🇨🇳\n🇷🇺\nУ Кремлі заявили, що тристороння зустріч лідерів США, Китаю і Росії відбудеться 19 листопада у Шеньчжені\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/11/14/7250002/",
+          "published_at": "2026-11-14T15:47:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_30168",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30168",
+      "published_at": "2026-11-15T01:46:13+00:00",
+      "raw_text": "Foreign investors have rushed back to India after a long absence. And it is not only AI that is tempting them back \nhttps://t.co/74xmmOcr9v\n — The Economist (\n@TheEconomist\n) \nNov 15, 2026",
+      "title": "Повернення іноземних інвесторів до Індії",
+      "summary": "Іноземні інвестори масово повертаються до Індії після тривалої паузи. При цьому інтерес приваблює не лише розвиток штучного інтелекту, а й інші фактори.",
+      "category": "Економіка",
+      "tags": [
+        "Індія",
+        "інвестиції",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOF1SGKJH6VO00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/anwar-s-coalition-suffers-third-straight-regional-poll-defeat",
+      "published_at": "2026-11-15T01:45:48+00:00",
+      "raw_text": "Anwar’s Coalition Suffers Third Straight Regional Poll Defeat\n\nAn alliance of Malaysia’s two largest ethnic-Malay parties swept the country’s latest regional vote, dealing Prime Minister Anwar Ibrahim’s coalition its third straight electoral setback this year.",
+      "title": "Коаліція Анвара Ібрагіма зазнала поразки на виборах",
+      "summary": "Альянс малайзійських партій здобув перемогу на регіональних виборах. Це вже третя поспіль електоральна поразка для коаліції прем'єр-міністра Анвара Ібрагіма цього року.",
+      "category": "Світ",
+      "tags": [
+        "Малайзія",
+        "політика",
+        "вибори"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_30167",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30167",
+      "published_at": "2026-11-15T01:21:39+00:00",
+      "raw_text": "An unreleased AI model startled the scientific world by making significant progress on the Yang–Mills existence and mass gap problem. Physicists have been checking the bot’s homework \nhttps://t.co/PfUvDQgNZg\n — The Economist (\n@TheEconomist\n) \nNov 15, 2026",
+      "title": "Штучний інтелект досяг прогресу у вирішенні складної фізичної задачі",
+      "summary": "Неанонсована модель штучного інтелекту вразила науковий світ, зробивши значний крок у розв'язанні проблеми існування та масової щілини Янга-Міллса. Фізики наразі перевіряють результати роботи бота.",
+      "category": "Наука",
+      "tags": [
+        "ШІ",
+        "фізика",
+        "наука",
+        "Yang-Mills"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_30166",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30166",
+      "published_at": "2026-11-15T01:06:14+00:00",
+      "raw_text": "The scenarios keeping AI bosses awake at night are no longer purely hypothetical \nhttps://t.co/ej5ROfFv05\n — The Economist (\n@TheEconomist\n) \nNov 15, 2026",
+      "title": "Страхи керівників сфери штучного інтелекту",
+      "summary": "Сценарії апокаліпсису, які турбують керівників AI-компаній, перетворилися з гіпотетичних на реальні загрози. Видання аналізує нові виклики у галузі штучного інтелекту.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "AI",
+        "технології",
+        "The Economist"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "sirena_kremenchuk_14163",
+      "source_name": "@sirena_kremenchuk",
+      "source_url": "https://t.me/sirena_kremenchuk/14163",
+      "published_at": "2026-11-15T00:50:31+00:00",
+      "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+      "title": "Відбій повітряної тривоги в Кременчуцькому районі",
+      "summary": "У Кременчуцькому районі оголошено відбій повітряної тривоги. Небезпека минула.",
+      "category": "Безпека",
+      "tags": [
+        "відбій",
+        "Кременчуцький район"
+      ],
+      "importance": 5,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/j30iACG6UDxSHvoOpJ0FTfXJ5x0TAJeYQPDxO22NwyefRhxzWDIuEUQplKhQtrSJWpowWDtJiHaZnCmTZ1POxpitjSXl-P5KqHAIejXqEJZuUPAlP-SFiIAfGBTe_6VJnP5HT_bN79YWh-1RBZSAFe0WA5zlpv6VArnGprnna2og8sN6mpUJs4abpzRE08qbSAqrTSe8OcGitOYlwJH1B0JLWJ1yJW3aVxPcB9RUIcdxOzcf_aB50HyYuuCFQbbuxOqmO6ONiD0J33iojnLQVo89aR6eANLCSJHm6NETrZEG0px1zhvhhjqQr3ILwpAn6kfUnwxw3BTjJSVlOwxp-g.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60782",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-15T00:50:30+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104061",
+          "raw_text": "🟢\n Відбій повітряної тривоги!",
+          "published_at": "2026-11-15T00:50:30+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104060",
+          "raw_text": "🟡\n \nКременчуцький р-н\n\n\nРівень знижено до жовтого",
+          "published_at": "2026-11-15T00:35:20+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14162",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-15T00:34:52+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60781",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-15T00:34:51+00:00"
+        },
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/48482",
+          "raw_text": "Відбій по балістиці.\n\n\n\n\nUPD 02:50: \nвідбій. \n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+          "published_at": "2026-11-15T00:34:30+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14161",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-15T00:23:16+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60780",
+          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
+          "published_at": "2026-11-15T00:23:15+00:00"
+        },
+        {
+          "source_name": "@h_kremenchug",
+          "source_url": "https://t.me/h_kremenchug/104059",
+          "raw_text": "🔴\n \nКременчуцький р-н\n\n\nРівень підвищено до червоного",
+          "published_at": "2026-11-15T00:23:12+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14160",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-15T00:03:03+00:00"
+        },
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60779",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-15T00:03:02+00:00"
+        },
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/48479",
+          "raw_text": "Відбій тривоги \n✅",
+          "published_at": "2026-11-14T22:52:02+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14159",
+          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
+          "published_at": "2026-11-14T22:51:59+00:00"
+        },
+        {
+          "source_name": "@sirena_kremenchuk",
+          "source_url": "https://t.me/sirena_kremenchuk/14158",
+          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
+          "published_at": "2026-11-14T21:50:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_30165",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/30165",
+      "published_at": "2026-11-15T00:46:20+00:00",
+      "raw_text": "Ted Plafker arrived in China in 1989, and planned to remain a few weeks and return to America to find work as a journalist. He ended up staying, and became a mainstay of The Economist’s China coverage. We remember our colleague \nhttps://t.co/oamrgKN6TC\n — The Economist (\n@TheEconomist\n) \nNov 15, 2026",
+      "title": "Пам’яті Теда Плафкера",
+      "summary": "Видання The Economist згадує свого колегу Теда Плафкера, який прибув до Китаю у 1989 році на кілька тижнів, але залишився і став ключовим автором матеріалів про цю країну.",
+      "category": "Світ",
+      "tags": [
+        "The Economist",
+        "некролог",
+        "медіа"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_148693",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/148693",
+      "published_at": "2026-11-15T00:43:23+00:00",
+      "raw_text": "🟡\nЩе одна «жовта» тривога у Києві.\n\n\n\n\n03:30 – відбій.\n\n\n\n\nСлідкуйте за оновленням ситуації по столиці та області в реальному часі: \nhttps://t.me/kyiv",
+      "title": "Повторна дронова тривога у Києві",
+      "summary": "У столиці зафіксували ще одну «жовту» тривогу через загрозу дронів. Згодом ситуація стабілізувалася та було дано відбій.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "Київ",
+        "БПЛА"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@truexanewsua",
+          "source_url": "https://t.me/truexanewsua/148692",
+          "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\n01:54 – відбій.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
+          "published_at": "2026-11-14T23:18:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rss_TOIHNPKJH6V800",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/australia-auction-clearances-slump-to-six-year-low-as-rates-rise",
+      "published_at": "2026-11-15T00:29:03+00:00",
+      "raw_text": "Australia Auction Clearances Slump to Six-Year Low as Rates Rise\n\nAustralia’s auction clearance rate fell to its lowest in more than six years as the central bank’s interest-rate increases damp demand.",
+      "title": "В Австралії впали показники аукціонів нерухомості",
+      "summary": "Рівень успішності аукціонів з продажу нерухомості в Австралії впав до шестирічного мінімуму. Це сталося через підвищення процентних ставок центральним банком, що знизило попит.",
+      "category": "Економіка",
+      "tags": [
+        "Австралія",
+        "нерухомість",
+        "економіка",
+        "ставки"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "kremenchugtruexa_48481",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/48481",
+      "published_at": "2026-11-15T00:22:37+00:00",
+      "raw_text": "Загроза балістики з Таганрогу.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Загроза балістичного удару",
+      "summary": "У Кременчуці та районі оголошено загрозу застосування балістичного озброєння з напрямку Таганрогу. Мешканців закликали перебувати в безпечних місцях.",
+      "category": "Безпека",
+      "tags": [
+        "тривога",
+        "балістика",
+        "обстріли"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@ok_kremen",
+          "source_url": "https://t.me/ok_kremen/60756",
+          "raw_text": "Загроза балістики!",
+          "published_at": "2026-11-14T13:18:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "h_kremenchug_104058",
+      "source_name": "@h_kremenchug",
+      "source_url": "https://t.me/h_kremenchug/104058",
+      "published_at": "2026-11-15T00:03:14+00:00",
+      "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
+      "title": "Оголошено повітряну тривогу",
+      "summary": "У місті та регіоні пролунала повітряна тривога. Встановлено жовтий рівень загрози.",
+      "category": "Безпека",
+      "tags": [
+        "тривога"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TOIJ1IT9NJLS00",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate",
+      "published_at": "2026-11-14T23:53:48+00:00",
+      "raw_text": "Bitcoin Tumbles to Four-Month Low as Liquidations Accelerate\n\nCryptocurrencies tumbled over the weekend, with Bitcoin slumping to a four-month low as leveraged long positions were liquidated.",
+      "title": "Біткоїн впав до чотиримісячного мінімуму",
+      "summary": "Криптовалюти різко впали за вихідні на тлі масової ліквідації позицій. Біткоїн опустився до найнижчої позначки за останні чотири місяці.",
+      "category": "Економіка",
+      "tags": [
+        "криптовалюта",
+        "Bitcoin",
+        "фінанси"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79296",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79296",
+      "published_at": "2026-11-14T23:39:16+00:00",
+      "raw_text": "У Києві пролунав вибух, повідомили кореспонденти Суспільного.",
+      "title": "Вибух у Києві",
+      "summary": "У Києві пролунав вибух, про що повідомили кореспонденти Суспільного. Деталі інциденту наразі з'ясовуються.",
+      "category": "Місто",
+      "tags": [
+        "Київ",
+        "вибух",
+        "безпека"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79295",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79295",
+      "published_at": "2026-11-14T23:09:16+00:00",
+      "raw_text": "🎾\n Еліна Світоліна — \nфіналістка\n Підсумкового турніру-2026! Українська тенісистка у півфіналі розгромила чешку Лінду Носкову — 6:2, 6:1.\n\n\n\n\nДля Світоліної це третій фінал у кар'єрі на Підсумковому турнірі і перший — за 7 років. У 2018-му вона стала чемпіонкою змагань, у 2019-му — фіналісткою.\n\n\n\n\nУ фіналі Світоліна зіграє з «нейтральною» Міррою Андрєєвою, якій поступилася у першому матчі на турнірі. Гра відбудеться у неділю, 15 листопада.",
+      "title": "Еліна Світоліна вийшла у фінал Підсумкового турніру-2026",
+      "summary": "Українська тенісистка Еліна Світоліна розгромила чешку Лінду Носкову у півфіналі та вийшла у фінал Підсумкового турніру. У вирішальному матчі вона зіграє проти Мірри Андрєєвої.",
+      "category": "Спорт",
+      "tags": [
+        "теніс",
+        "Світоліна",
+        "перемога"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/UuCT_qeK7EOnTHiBbKoz3TYmLcUbHjTeCgkEUFPUJWNd8UyF1HohFnIc_qnWN1p39IUMu3KPLEg8IajEhH8oKET6CJ-ULW-P79CVb6pk0Za-kwN3ouUSHbSymBA2b7Cg_LZLT5j3HFddAQZHRqfU2g1XAPhSP3X9aeBshcS6epeShB6P5Y5UMbOBFR5D8t_NyFg8XtPjKPzdMXbvhpxxCrrNBFyHlb4siHH7oqTWQMlUi65Hi38PNq_gF7mzBR-hqscLQ4qs7drGpOMaU6lpa5_5JzLLNsVHMgpkJxwb0zM_uAY6HeP85pesZfOhhmdD5O7q700H_Qj6DEhFIk4Mng.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/79294",
+          "raw_text": "🎾\n Еліна Світоліна вже розпочала півфінальний матч Підсумкового турніру проти Лінди Носкової!\n\n\n\n\nСтежте за грою у текстовій трансляції матчу на \nсайті Суспільне Спорт\n.",
+          "published_at": "2026-11-14T22:09:37+00:00"
+        }
+      ]
+    },
     {
       "id": "TheEconomistOfficial_30159",
       "source_name": "@theeconomistofficial",
@@ -25,66 +425,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "kremenchugtruexa_48479",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/48479",
-      "published_at": "2026-11-14T22:52:02+00:00",
-      "raw_text": "Відбій тривоги \n✅",
-      "title": "Відбій повітряної тривоги",
-      "summary": "У Кременчуці та області оголошено відбій повітряної тривоги. Небезпека минула.",
-      "category": "Безпека",
-      "tags": [
-        "відбій",
-        "тривога"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14159",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T22:51:59+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60778",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T22:51:58+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104057",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-11-14T22:51:57+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104055",
-          "raw_text": "🟢\n Відбій повітряної тривоги!",
-          "published_at": "2026-11-14T19:56:47+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14157",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T19:56:27+00:00"
-        },
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60776",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T19:56:26+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14155",
-          "raw_text": "🟢\n \nКременчуцький район\n — відбій повітряної тривоги",
-          "published_at": "2026-11-14T14:06:31+00:00"
-        }
-      ]
     },
     {
       "id": "TheEconomistOfficial_30158",
@@ -217,6 +557,12 @@
           "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket",
           "raw_text": "SpaceX Catches Starship in Novel Landing at Texas Site\n\nSpaceX successfully caught its Starship rocket as it returned to the Texas launch site from orbit, a novel engineering feat and major step toward Elon Musk’s goal of developing a fully reusable system.",
           "published_at": "2026-11-14T12:00:00+00:00"
+        },
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "raw_text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\n\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+          "published_at": "2026-11-14T22:09:40+00:00"
         }
       ]
     },
@@ -244,29 +590,6 @@
           "published_at": "2026-11-14T17:03:08+00:00"
         }
       ]
-    },
-    {
-      "id": "suspilnenews_79294",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/79294",
-      "published_at": "2026-11-14T22:09:37+00:00",
-      "raw_text": "🎾\n Еліна Світоліна вже розпочала півфінальний матч Підсумкового турніру проти Лінди Носкової!\n\n\n\n\nСтежте за грою у текстовій трансляції матчу на \nсайті Суспільне Спорт\n.",
-      "title": "Світоліна грає у півфіналі Підсумкового турніру",
-      "summary": "Еліна Світоліна розпочала півфінальний матч Підсумкового турніру проти Лінди Носкової. За грою можна стежити у текстовій трансляції на Суспільне Спорт.",
-      "category": "Спорт",
-      "tags": [
-        "теніс",
-        "Світоліна",
-        "спорт"
-      ],
-      "importance": 2,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/ZoYMO1KscfrQ_tDcoTZRBokD0Gn66iVu_bzeSuXsOrlJ2H45clgzLYCWDVlEHe1iY0PmaGq4ckXYWl40IfHKO1-xNNaMYsfgW4-unOU5hzFLgqYt4DvZwoRS2dySbVpqUJFFnBM9917_9CEBdXGthBhrnceaO9npqsaBP5khuJVVZh_xwPrT6A1eX5Yv84Rksw5NwfosiOTeyrm5fn9Qz9nag2SM8054Ub6GTxjeqyRq6yNpeeRarRSWaX0jPi1qTsDiUBzbgG78D6TRjLkDA6dx-lLOggs3JxbjpmosMXSEHmnoI4NH4fTbVehucEOMWMSYr8ZT84Uz7d9glAFIEA.jpg"
-        }
-      ],
-      "related_sources": []
     },
     {
       "id": "TheEconomistOfficial_30155",
@@ -348,65 +671,6 @@
       "importance": 3,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "sirena_kremenchuk_14158",
-      "source_name": "@sirena_kremenchuk",
-      "source_url": "https://t.me/sirena_kremenchuk/14158",
-      "published_at": "2026-11-14T21:50:27+00:00",
-      "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-      "title": "Повітряна тривога у Кременчуцькому районі",
-      "summary": "У Кременчуцькому районі оголошено повітряну тривогу через загрозу. Встановлено жовтий рівень небезпеки.",
-      "category": "Безпека",
-      "tags": [
-        "тривога",
-        "Кременчуцький район"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/j30iACG6UDxSHvoOpJ0FTfXJ5x0TAJeYQPDxO22NwyefRhxzWDIuEUQplKhQtrSJWpowWDtJiHaZnCmTZ1POxpitjSXl-P5KqHAIejXqEJZuUPAlP-SFiIAfGBTe_6VJnP5HT_bN79YWh-1RBZSAFe0WA5zlpv6VArnGprnna2og8sN6mpUJs4abpzRE08qbSAqrTSe8OcGitOYlwJH1B0JLWJ1yJW3aVxPcB9RUIcdxOzcf_aB50HyYuuCFQbbuxOqmO6ONiD0J33iojnLQVo89aR6eANLCSJHm6NETrZEG0px1zhvhhjqQr3ILwpAn6kfUnwxw3BTjJSVlOwxp-g.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@ok_kremen",
-          "source_url": "https://t.me/ok_kremen/60777",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-14T21:50:24+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104056",
-          "raw_text": "🔴\nПовітряна тривога!\n\n\n🟡\n Жовтий рівень",
-          "published_at": "2026-11-14T21:50:24+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/104051",
-          "raw_text": "Вибухи в Кременчуцькому районі\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-          "published_at": "2026-11-14T14:56:39+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14156",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-14T14:42:41+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14154",
-          "raw_text": "🟡\n \nКременчуцький район\n — повітряна тривога, жовтий рівень",
-          "published_at": "2026-11-14T13:33:23+00:00"
-        },
-        {
-          "source_name": "@sirena_kremenchuk",
-          "source_url": "https://t.me/sirena_kremenchuk/14153",
-          "raw_text": "🔴\n \nКременчуцький район\n — повітряна тривога, червоний рівень",
-          "published_at": "2026-11-14T13:19:17+00:00"
-        }
-      ]
     },
     {
       "id": "suspilnenews_79293",
@@ -1268,30 +1532,6 @@
       "related_sources": []
     },
     {
-      "id": "EurointegrationComUA_23860",
-      "source_name": "@EurointegrationComUa",
-      "source_url": "https://t.me/EurointegrationComUA/23860",
-      "published_at": "2026-11-14T15:47:44+00:00",
-      "raw_text": "🇺🇸\n🇨🇳\n🇷🇺\nУ Кремлі заявили, що тристороння зустріч лідерів США, Китаю і Росії відбудеться 19 листопада у Шеньчжені\n\n\n\n\nБільше у новині: \nhttps://www.eurointegration.com.ua/news/2026/11/14/7250002/",
-      "title": "У Кремлі анонсували зустріч лідерів США, Китаю і Росії",
-      "summary": "У Кремлі заявили про заплановану тристоронню зустріч між лідерами США, Китаю та Росії. Подія має відбутися 19 листопада у місті Шеньчжень.",
-      "category": "Світ",
-      "tags": [
-        "політика",
-        "США",
-        "Китай",
-        "Росія"
-      ],
-      "importance": 3,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/WemAo2yAibLgSejrPUYgTBm_Lr3ly7mRkqv0CMLQx7NpOZ8QKqrFPDigrLD3TjfoMIa_UxYqqXUXgjrlUBP2AIi3Ki0uzDbVqerIxKPf6AWhCZc1e4ibE2iHSPeXYclJM5uQ4uAvTg7SDLLJQz1XAhrLoa-Xu8lmSrtafYic_FNkZsTL2t-3-sC1-0PyoXgWqB13WEAx_RUuP90sbjL1gcfipZgfUrIwT4B3xV_DsHVLh6zmb-4_2qLs87d9uGM_7ARPO_ZyBpbKe3dH-00K-O_gSM4DUIET30SeaxSL5MxyiLKJHNVPo0Xp64wqOstaPZ6G9qHg71kbqnSoBbOwIg.jpg"
-        }
-      ],
-      "related_sources": []
-    },
-    {
       "id": "rss_TOHW5XT96OSG00",
       "source_name": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
@@ -1364,24 +1604,6 @@
         "фронт",
         "ЗСУ",
         "обстріли"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "ok_kremen_60756",
-      "source_name": "@ok_kremen",
-      "source_url": "https://t.me/ok_kremen/60756",
-      "published_at": "2026-11-14T13:18:33+00:00",
-      "raw_text": "Загроза балістики!",
-      "title": "Загроза застосування балістичного озброєння",
-      "summary": "У регіоні зафіксовано загрозу удару балістичними ракетами, жителям рекомендовано пройти в укриття.",
-      "category": "Безпека",
-      "tags": [
-        "балістика",
-        "тривога",
-        "небезпека"
       ],
       "importance": 5,
       "media_list": [],
@@ -16712,283 +16934,6 @@
       "importance": 2,
       "media_list": [],
       "related_sources": []
-    },
-    {
-      "id": "rss_TO5K0CT9NJLZ00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/voters-punish-major-parties-in-cliffhanger-new-zealand-election",
-      "published_at": "2026-11-08T01:34:22+00:00",
-      "raw_text": "Voters Punish Major Parties in Cliffhanger New Zealand Election\n\nNew Zealand’s election remains too close to call, but voters have already delivered a decisive verdict on the major parties, handing smaller rivals their best-ever results and reshaping the country’s political landscape.",
-      "title": "Вибори в Новій Зеландії: виборці покарали провідні партії",
-      "summary": "Парламентські вибори в Новій Зеландії залишаються надзвичайно напруженими, оскільки результати підрахунку голосів ще не визначені остаточно. Водночас менші партії вже здобули свої найкращі результати, змінивши політичний ландшафт країни.",
-      "category": "Світ",
-      "tags": [
-        "Нова Зеландія",
-        "вибори",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cxvgd2nr3e30o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T01:24:58+00:00",
-      "raw_text": "Royal Family join veterans and families at Festival of Remembrance\n\nThe senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
-      "title": "Британська королівська сім'я відвідала Фестиваль пам'яті",
-      "summary": "Старші члени королівської родини долучилися до ветеранів та їхніх сімей на щорічному заході в лондонському Альберт-холі. Подія відбулася напередодні неділі Поминання.",
-      "category": "Суспільство",
-      "tags": [
-        "Британська королівська сім'я",
-        "Ветерани",
-        "Традиції"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78997",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78997",
-      "published_at": "2026-11-08T00:54:02+00:00",
-      "raw_text": "У Луцьку було чути звук вибуху, повідомили кореспонденти Суспільного.",
-      "title": "Звук вибуху у Луцьку",
-      "summary": "У Луцьку пролунав звук вибуху, про що повідомили кореспонденти Суспільного. Деталі інциденту наразі уточнюються.",
-      "category": "Місто",
-      "tags": [
-        "Луцьк",
-        "вибух"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TO5OSIKJH6V800",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/australia-scraps-plan-to-sell-sydney-barracks-after-backlash",
-      "published_at": "2026-11-08T00:49:02+00:00",
-      "raw_text": "Australia Scraps Plan to Sell Sydney Barracks After Backlash\n\nAustralia will retain several historic military sites including barracks in Sydney, following a backlash over plans to divest underused defense properties.",
-      "title": "Австралія скасувала плани продажу історичних військових казарм у Сіднеї",
-      "summary": "Уряд вирішив зберегти у державній власності низку історичних військових об'єктів. Це сталося після хвилі суспильного невдоволення планами щодо продажу недовантаженої оборонної нерухомості.",
-      "category": "Світ",
-      "tags": [
-        "Австралія",
-        "нерухомість",
-        "історія"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cm74pk1g51nko_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T00:48:59+00:00",
-      "raw_text": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat\n\nWhile some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-      "title": "У Німеччині сперечаються щодо майбутнього залишків резиденції Гітлера",
-      "summary": "У Німеччині тривають дискусії про те, що робити зі зруйнованою резиденцією Гітлера «Орлине гніздо». Частина громадян виступає за часткову відбудову, тоді як інші пропонують повністю залишити територію закинутою.",
-      "category": "Світ",
-      "tags": [
-        "Німеччина",
-        "історія"
-      ],
-      "importance": 1,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_cvze47p9jeexo_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T00:31:53+00:00",
-      "raw_text": "Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'\n\nIt was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
-      "title": "Трамп запропонував главі UFC стати прессекретарем Білого дому",
-      "summary": "Дональд Трамп публічно звернувся до Дани Вайта з пропозицією обійняти посаду. Наразі невідомо, наскільки серйозною була ця пропозиція, але Вайт погодився приїхати до Вашингтона на зустріч.",
-      "category": "Світ",
-      "tags": [
-        "сша",
-        "трамп",
-        "політика"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "kremenchugtruexa_47897",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/47897",
-      "published_at": "2026-11-08T00:01:04+00:00",
-      "raw_text": "Реактивний на Кременчук.\n\n\n\n\nUPD 02:03\n: чисто.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Загроза реактивного снаряда на Кременчук та відбій",
-      "summary": "У напрямку Кременчука зафіксовано рух реактивного засобу ураження. Згодом ситуація стабілізувалася і загрозу було знято.",
-      "category": "Безпека",
-      "tags": [
-        "Кременчук",
-        "реактивний",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/148202",
-          "raw_text": "🟡\n Дронова загроза! Київ та низка областей – «жовта» тривога!\n\n\n\n\nВідбій.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-          "published_at": "2026-11-07T23:16:13+00:00"
-        },
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/47887",
-          "raw_text": "Реактив курсом на Семенівку.\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-11-07T19:35:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": "suspilnenews_78996",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78996",
-      "published_at": "2026-11-07T23:46:55+00:00",
-      "raw_text": "На Вінниччині чутно звуки вибухів, повідомляють кореспонденти Суспільного.",
-      "title": "Вибухи на Вінниччині",
-      "summary": "На Вінниччині було чутно звуки вибухів. Інформація уточнюється відповідними службами.",
-      "category": "Безпека",
-      "tags": [
-        "Вінниччина",
-        "вибухи",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29519",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29519",
-      "published_at": "2026-11-07T23:46:23+00:00",
-      "raw_text": "The cruel, vulgar style of MAGA politics never really worked for anyone but Donald Trump, and even for him the act has worn thin. Now Americans have also repudiated the substance of Trumpism \nhttps://t.co/BAz24TwhkF\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Оцінка політичного стилю MAGA",
-      "summary": "Політичний стиль руху MAGA виявився ефективним лише для Дональда Трампа, проте з часом втратив свою привабливість. Американське суспільство також відкинуло сутнісні засади трампізму.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "Трамп",
-        "MAGA"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29518",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29518",
-      "published_at": "2026-11-07T23:26:22+00:00",
-      "raw_text": "The former lawyer’s success in Brazil has caught the eye of leftist leaders around the world who wonder if they can emulate his strategy in their own countries \nhttps://t.co/uw5PtxXpYX\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Успіх бразильського адвоката приваблює лівих лідерів",
-      "summary": "Діяльність колишнього адвоката в Бразилії привернула увагу лівих політиків з усього світу. Вони вивчають його стратегію для можливого застосування у власних країнах.",
-      "category": "Світ",
-      "tags": [
-        "Бразилія",
-        "політика",
-        "стратегія"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_78995",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/78995",
-      "published_at": "2026-11-07T23:19:35+00:00",
-      "raw_text": "Голова Одеської МВА Лисак \nповідомив\n, що через російський удар постраждала інфраструктура міста, одна людина загинула.",
-      "title": "Наслідки російського удару по Одесі",
-      "summary": "Унаслідок ворожої атаки по Одесі загинула одна людина. Пошкоджень зазнала міська інфраструктура.",
-      "category": "Війна",
-      "tags": [
-        "Одеса",
-        "загиблі",
-        "обстріл"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TO5MYPXVHD6O00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/audio/2026-11-07/eisenkot-s-chance-to-form-gov-t-trump-wants-white-for-press-sec",
-      "published_at": "2026-11-07T23:08:49+00:00",
-      "raw_text": "Eisenkot’s Chance to Form Gov’t, Trump Wants White for Press Sec\n\nSource: Bloomberg, 5:04",
-      "title": "Новини політики США та Близького Сходу",
-      "summary": "Bloomberg повідомляє про плани щодо формування уряду в Ізраїлі та кадрові бажання Трампа в США. Це коротке зведення світових новин.",
-      "category": "Світ",
-      "tags": [
-        "політика",
-        "США",
-        "Ізраїль"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_29517",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/29517",
-      "published_at": "2026-11-07T23:01:31+00:00",
-      "raw_text": "Republicans are paying the bill for their strong leader and his idiosyncratic agenda. In the campaign to come, they must battle over what their party stands for \nhttps://t.co/Cm6xx9nS0yIllustration\n: David Simonds \nhttps://t.co/78tNhJpUu5\n — The Economist (\n@TheEconomist\n) \nNov 7, 2026",
-      "title": "Виклики для Республіканської партії США",
-      "summary": "Республіканці стикаються з наслідками підтримки сильного лідера та його специфічного порядку денного. Партії доведеться вести внутрішню боротьбу за визначення свого подальшого ідеологічного курсу.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "республіканці",
-        "вибори"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "ok_kremen_60201",
-      "source_name": "@ok_kremen",
-      "source_url": "https://t.me/ok_kremen/60201",
-      "published_at": "2026-11-07T22:57:49+00:00",
-      "raw_text": "БпЛА на Кременчук",
-      "title": "Загроза БпЛА для Кременчука",
-      "summary": "Зафіксовано рух безпілотних літальних апаратів у напрямку Кременчука. Мешканців закликають перебувати в укриттях.",
-      "category": "Безпека",
-      "tags": [
-        "БпЛА",
-        "Кременчук",
-        "загроза",
-        "дрони"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/47891",
-          "raw_text": "БпЛА на Градизьк.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-11-07T20:56:55+00:00"
-        },
-        {
-          "source_name": "@h_kremenchug",
-          "source_url": "https://t.me/h_kremenchug/103617",
-          "raw_text": "БпЛА на Кременчук\n\n\n\n\nПідписатися\n • \nНадіслати новину\n • \nTT\n • \nIG\n • \nX\n • \nFB",
-          "published_at": "2026-11-07T15:56:05+00:00"
-        }
-      ]
     }
   ]
 }
