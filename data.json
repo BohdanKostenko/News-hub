@@ -1,11 +1,312 @@
 {
-  "updated_at": "2026-11-25 22:29",
+  "updated_at": "2026-11-26 04:24",
   "digest": [
-    "Американські акції відіграли втрати завдяки покупцям на просіданні, потягнувши за собою азіатські ринки.",
-    "Сі Цзіньпін продовжує масштабні кадрові чистки в Політбюро Китаю під приводом боротьби з корупцією.",
-    "У Києві та області оголошено відбій повітряної тривоги, небезпека минула."
+    "Ворожий дрон влучив у багатоповерхівку в Харкові, на місці події виникла пожежа.",
+    "Нові мита США проти Китаю зберігають високі ставки та демонструють прагнення Вашингтона утримувати важелі впливу на Пекін.",
+    "Штучний інтелект прискорює виявлення вразливостей у ПЗ, що в перспективі посилить цифрову інфраструктуру США.",
+    "В Індонезії нікелевого трейдера Аріфа Курніавана оголошено підозрюваним у відмиванні грошей.",
+    "«Полтаваобленерго» оновило актуальні графіки погодинних відключень електроенергії в регіоні."
   ],
   "articles": [
+    {
+      "id": "TheEconomistOfficial_31296",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/31296",
+      "published_at": "2026-11-26T04:06:23+00:00",
+      "raw_text": "Our senior economics writer picks five books for those starting to study the subject \nhttps://t.co/qxU6QuGiXY\n — The Economist (\n@TheEconomist\n) \nNov 26, 2026",
+      "title": "Добірка книг з економіки",
+      "summary": "Старший економічний оглядач видання обрав п'ять книг для початківців у вивченні економіки. Добірка призначена для тих, хто тільки починає вивчати цей предмет.",
+      "category": "Культура",
+      "tags": [
+        "книги",
+        "економіка",
+        "освіта"
+      ],
+      "importance": 1,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TP380OKJH6V500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/indonesian-nickel-trader-named-suspect-in-money-laundering-probe",
+      "published_at": "2026-11-26T03:53:52+00:00",
+      "raw_text": "Indonesian Nickel Trader Named Suspect in Money Laundering Probe\n\nThe Indonesian attorney general’s office has named nickel trader Arif Kurniawan as a suspect in a money laundering case, after warning of irregularities in his business dealings earlier this month.",
+      "title": "Індонезійського нікелевого трейдера оголошено підозрюваним у відмиванні грошей",
+      "summary": "Прокуратура Індонезії назвала трейдера Аріфа Курніавана підозрюваним у справі про відмивання коштів. Раніше відомство попереджало про порушення у його бізнес-операціях.",
+      "category": "Світ",
+      "tags": [
+        "Індонезія",
+        "кримінальні справи",
+        "бізнес"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_31295",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/31295",
+      "published_at": "2026-11-26T03:46:14+00:00",
+      "raw_text": "AI is rapidly accelerating how software vulnerabilities are found. The result may look like digital bedlam, but the effort to fix these flaws could ultimately make America’s digital infrastructure more secure \nhttps://t.co/2um5wU3Dee\n — The Economist (\n@TheEconomist\n) \nNov 26, 2026",
+      "title": "Штучний інтелект у кібербезпеці",
+      "summary": "ШІ прискорює виявлення вразливостей у програмному забезпеченні. Це може тимчасово створити хаос, але в перспективі посилить цифрову інфраструктуру США.",
+      "category": "Технології",
+      "tags": [
+        "ШІ",
+        "кібербезпека",
+        "технології"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TP33PRKJH6V400",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-s-china-tariffs-raise-threat-of-new-test-for-trade-truce",
+      "published_at": "2026-11-26T03:45:09+00:00",
+      "raw_text": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce\n\nChina has signaled it’s unlikely to retaliate against new US tariffs that remain within the bounds of a previously agreed trade deal, but the threat of higher rates shows Washington wants to maintain some leverage over Beijing.",
+      "title": "Нові мита США проти Китаю загрожують торговельній угоді",
+      "summary": "Китай навряд чи відповість на нові обмеження США, оскільки вони в межах попередньої угоди. Проте збереження високих ставок демонструє прагнення Вашингтона утримувати важелі впливу на Пекін.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Китай",
+        "економіка",
+        "торгівля"
+      ],
+      "importance": 4,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "raw_text": "US announces new tariff proposals on EU, China, and other trade partners\n\nThe new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "published_at": "2026-11-25T16:21:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kremenchugtruexa_49284",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/49284",
+      "published_at": "2026-11-26T03:32:17+00:00",
+      "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 05:31 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+      "title": "Оновлення графіків відключень на Полтавщині",
+      "summary": "Компанія «Полтаваобленерго» оновила актуальні графіки погодинних відключень електроенергії в регіоні. Жителів закликають стежити за офіційними оновленнями.",
+      "category": "Суспільство",
+      "tags": [
+        "світло",
+        "відключення",
+        "Полтавщина"
+      ],
+      "importance": 4,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/lD_XL4wzh5HxdQU3TZnTpmJCzlfHJBkjxwTl7uxsaAb3Iom8Fnh5zmb2irL1pbyHwbX9vIUz8D26LFRQ2cx75XT4sDBKzAnq_UTQmno66D_BemyrQHtbOp4TgztI1SwkpYu9Kn98xcEbV1cmsaufKLpboQQcsky_Y0XQMbYOAG3UWEeXiRbhmuUDdDqEx8GRj_YsTPXcLiKD0ncA_LvHaiQuj-MUnize8GflWV-6qzXpqMNdBdlUifMqV0qgpSWq4ok73h46qPGEU6oCpSUfQ7OJlaNqXFvmPCzE1Je_fsz6esV1Mhlk3WenqvOuH2RdltMiwihock479IdHtDq-gw.jpg"
+        }
+      ],
+      "related_sources": [
+        {
+          "source_name": "@kremenchugtruexa",
+          "source_url": "https://t.me/kremenchugtruexa/49279",
+          "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 22:55 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
+          "published_at": "2026-11-25T20:56:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_31294",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/31294",
+      "published_at": "2026-11-26T03:26:27+00:00",
+      "raw_text": "Japan’s sprawling sex industry is thought to be worth ¥2trn-5trn ($12bn-31bn) a year. Lately a debate has raged over how the work is policed \nhttps://t.co/iaBau9KT90\n — The Economist (\n@TheEconomist\n) \nNov 26, 2026",
+      "title": "Секс-індустрія Японії",
+      "summary": "Обсяг секс-індустрії Японії оцінюється у мільярди доларів на рік. Останнім часом тривають гострі дебати щодо методів регулювання та нагляду за цією сферою.",
+      "category": "Світ",
+      "tags": [
+        "Японія",
+        "економіка",
+        "суспільство"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79919",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79919",
+      "published_at": "2026-11-26T03:25:01+00:00",
+      "raw_text": "У Харкові російський дрон влучив по багатоповерхівці, повідомив міський голова Терехов. На місці влучання виникла пожежа.",
+      "title": "Удар ворожого дрона по житловому будинку в Харкові",
+      "summary": "Зафіксовано влучання російського дрона у багатоповерхівку в Харкові. На місці події виникла пожежа.",
+      "category": "Війна",
+      "tags": [
+        "Харків",
+        "дрон",
+        "пожежа"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/79918",
+          "raw_text": "У Харкові російський дрон влучив по багатоповерхівці, повідомив міський голова Терехов. На місці влучання виникла пожежа.",
+          "published_at": "2026-11-26T03:21:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TheEconomistOfficial_31293",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/31293",
+      "published_at": "2026-11-26T03:06:11+00:00",
+      "raw_text": "Sexual-health experts disagree on why the rate of infections is swelling in Europe. What is not disputed is the danger the surge poses \nhttps://t.co/uuQJ4EGvgu\n — The Economist (\n@TheEconomist\n) \nNov 26, 2026",
+      "title": "Зростання інфекцій в Європі",
+      "summary": "Експерти з охорони сексуального здоров'я сперечаються про причини зростання рівня інфекцій у Європі. Проте не викликає сумнівів небезпека, яку становить цей сплеск.",
+      "category": "Світ",
+      "tags": [
+        "медицина",
+        "Європа",
+        "здоров'я"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_31292",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/31292",
+      "published_at": "2026-11-26T02:46:37+00:00",
+      "raw_text": "If the European welfare state looks like a pyramid scheme, its pharaohs are the “baby boomers”. We explain how the cohort has pulled off an intergenerational heist \nhttps://t.co/6GnKbco53x\n — The Economist (\n@TheEconomist\n) \nNov 26, 2026",
+      "title": "The Economist: покоління бебі-бумерів створює загрозу для європейської держави добробуту",
+      "summary": "Європейська держава добробуту стикається з фінансовими викликами через покоління бебі-бумерів. Видання аналізує економічний дисбаланс між поколіннями.",
+      "category": "Світ",
+      "tags": [
+        "Європа",
+        "економіка",
+        "суспільство"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "TheEconomistOfficial_31291",
+      "source_name": "@theeconomistofficial",
+      "source_url": "https://t.me/TheEconomistOfficial/31291",
+      "published_at": "2026-11-26T02:26:11+00:00",
+      "raw_text": "Trump-imitating politics is winning elections, but it may not fix the region’s biggest problems: insecurity and sluggish economies \nhttps://t.co/4ekSPfxoL9\n — The Economist (\n@TheEconomist\n) \nNov 26, 2026",
+      "title": "Політика у стилі Трампа перемагає на виборах, але не вирішує економічних проблем",
+      "summary": "Популістська політика стає успішною на виборах у регіоні, проте вона не здатна подолати ключові виклики — безпеку та мляву економіку. Про це повідомляє The Economist.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "вибори",
+        "економіка"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_c98r7p65edvgo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-26T02:13:00+00:00",
+      "raw_text": "UK government set to publish new treaties agreed with EU\n\nThe BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "title": "UK government to publish new EU treaties",
+      "summary": "The UK government is set to publish new treaties agreed with the EU. Reports indicate they contain a 10-year termination clause for border infrastructure costs.",
+      "category": "Політика",
+      "tags": [
+        "UK",
+        "EU",
+        "treaties"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss_ather_articles_cr3eg1py3gv5o_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-26T00:08:07+00:00",
+      "raw_text": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office\n\nChanging seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "title": "Met Office warns of shifting UK seasons",
+      "summary": "The UK Met Office reports that changing seasons will bring fewer frosts and more hot days. These shifts are already impacting local wildlife and agricultural practices.",
+      "category": "Екологія",
+      "tags": [
+        "UK",
+        "weather",
+        "climate",
+        "Met Office"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_cwp836l8n1jgo_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-26T00:07:51+00:00",
+      "raw_text": "US approves SpaceX plan to send a million data satellites to space\n\nThe Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "title": "US approves SpaceX satellite constellation",
+      "summary": "The US has approved SpaceX's plan to launch a million data satellites into space. The Starmind constellation aims to support growing AI computing power demands efficiently.",
+      "category": "Технології",
+      "tags": [
+        "SpaceX",
+        "US",
+        "satellites",
+        "AI"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "rss__news_articles_c8lydnlkq7xno_1",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-26T00:02:50+00:00",
+      "raw_text": "Stalking law simplified to become one offence\n\nThe new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "title": "UK stalking laws simplified into single offence",
+      "summary": "Legislation regarding stalking in the UK is being simplified into one official offence. This change follows a review that concluded existing laws were too confusing.",
+      "category": "Суспільство",
+      "tags": [
+        "UK",
+        "law",
+        "stalking"
+      ],
+      "importance": 2,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
+      "id": "suspilnenews_79917",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79917",
+      "published_at": "2026-11-25T22:40:55+00:00",
+      "raw_text": "У Києві вже троє постраждалих після балістичної атаки. Двох із них медики госпіталізували. Один поранений перебуває у тяжкому стані. Балістична атака на Київ триває, повідомив міський голова Кличко.",
+      "title": "Зростання кількості постраждалих у Києві",
+      "summary": "Кількість постраждалих у Києві внаслідок триваючої балістичної атаки зросла до трьох осіб. Двоє госпіталізовані, один із них перебуває у тяжкому стані.",
+      "category": "Війна",
+      "tags": [
+        "Київ",
+        "обстріл",
+        "постраждалі"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
     {
       "id": "rss_TP2U2SKIJH8O00",
       "source_name": "Bloomberg.com",
@@ -280,6 +581,43 @@
       "related_sources": []
     },
     {
+      "id": "suspilnenews_79915",
+      "source_name": "@suspilnenews",
+      "source_url": "https://t.me/suspilnenews/79915",
+      "published_at": "2026-11-25T21:40:26+00:00",
+      "raw_text": "У Києві медики госпіталізували одного постраждалого внаслідок російської атаки балістикою, повідомив міський голова Кличко.  Раніше він уточнив, що у Деснянському районі Києва є влучання в будівлю на території промзони, торгівельний центр та ще одну нежитлову…",
+      "title": "Наслідки російської атаки на Київ",
+      "summary": "У Києві внаслідок балістичної атаки зафіксовано влучання у промзону та торговельний центр у Деснянському районі. Медики госпіталізували щонайменше одного постраждалого.",
+      "category": "Війна",
+      "tags": [
+        "Київ",
+        "обстріл",
+        "постраждалі"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": [
+        {
+          "source_name": "@hromadske_ua",
+          "source_url": "https://t.me/hromadske_ua/91603",
+          "raw_text": "❗️\n Київ \nопинився\n під атакою балістичних ракет.\n\n\n\n\nросіяни влучили в ТЦ, будівлю на території промзони та ще одну нежитлову споруду\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
+          "published_at": "2026-11-25T21:31:42+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/79914",
+          "raw_text": "У Києві чутно вибухи, повідомляють кореспонденти Суспільного. Міський голова столиці Кличко підтвердив, що столиця під атакою балістики. У місті оголошено повітряну тривогу через ракетну загрозу.  UPD// У Деснянському районі Києва влучання в будівлю на території…",
+          "published_at": "2026-11-25T21:30:43+00:00"
+        },
+        {
+          "source_name": "@suspilnenews",
+          "source_url": "https://t.me/suspilnenews/79882",
+          "raw_text": "Унаслідок атаки РФ в Одесі вибуховою хвилею пошкоджено вікна в багатоповерховому житловому будинку, повідомив очільник МВА Лисак. Попередньо, одна людина отримала поранення.",
+          "published_at": "2026-11-25T10:21:04+00:00"
+        }
+      ]
+    },
+    {
       "id": "truexanewsua_149500",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/149500",
@@ -388,25 +726,6 @@
       ]
     },
     {
-      "id": "hromadske_ua_91603",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/91603",
-      "published_at": "2026-11-25T21:31:42+00:00",
-      "raw_text": "❗️\n Київ \nопинився\n під атакою балістичних ракет.\n\n\n\n\nросіяни влучили в ТЦ, будівлю на території промзони та ще одну нежитлову споруду\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Київ зазнав атаки балістичних ракет",
-      "summary": "Російські війська завдали удару балістичними ракетами по Києву. Зафіксовано влучання у торговий центр, будівлю на промзоні та нежитлову споруду.",
-      "category": "Місто",
-      "tags": [
-        "Київ",
-        "обстріл",
-        "ракетний удар",
-        "ППО"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
       "id": "rss__news_articles_cm3vgdn037z4o_1",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
@@ -422,24 +741,6 @@
         "економіка"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_79914",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/79914",
-      "published_at": "2026-11-25T21:30:43+00:00",
-      "raw_text": "У Києві чутно вибухи, повідомляють кореспонденти Суспільного. Міський голова столиці Кличко підтвердив, що столиця під атакою балістики. У місті оголошено повітряну тривогу через ракетну загрозу.  UPD// У Деснянському районі Києва влучання в будівлю на території…",
-      "title": "Атака балістикою на Київ: наслідки влучань",
-      "summary": "Київ зазнав ракетної атаки, у місті пролунали вибухи. У Деснянському районі зафіксовано влучання в будівлі на території промзони.",
-      "category": "Війна",
-      "tags": [
-        "Київ",
-        "обстріл",
-        "вибухи"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     },
@@ -468,6 +769,25 @@
           "published_at": "2026-11-25T20:47:05+00:00"
         }
       ]
+    },
+    {
+      "id": "rss_TP2C61R24U9000",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/macy-s-parade-moved-to-saturday-as-storm-bears-down-on-new-york",
+      "published_at": "2026-11-25T21:11:57+00:00",
+      "raw_text": "Macy’s Thanksgiving Parade Moved to Saturday on NYC Storm\n\nFor the first time in its history, the Macy’s Thanksgiving Day Parade is being postponed, after forecasts of high winds made it too dangerous to send the balloons above the streets of Manhattan.",
+      "title": "Парад на День подяки в Нью-Йорку перенесли на суботу через шторм",
+      "summary": "Парад Macy’s уперше в історії відкладено через загрозу сильного вітру, що робить небезпечним запуск гігантських повітряних куль над Манхеттеном. Подія відбудеться у суботу.",
+      "category": "Світ",
+      "tags": [
+        "США",
+        "Нью-Йорк",
+        "погода",
+        "свято"
+      ],
+      "importance": 3,
+      "media_list": [],
+      "related_sources": []
     },
     {
       "id": "hromadske_ua_91602",
@@ -555,29 +875,6 @@
       "related_sources": []
     },
     {
-      "id": "kremenchugtruexa_49279",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/49279",
-      "published_at": "2026-11-25T20:56:17+00:00",
-      "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 22:55 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Оновлення графіків відключень на Полтавщині",
-      "summary": "Компанія «Полтаваобленерго» оновила актуальні графіки погодинних відключень електроенергії для області. Мешканців закликають стежити за змінами.",
-      "category": "ЖКГ",
-      "tags": [
-        "світло",
-        "відключення",
-        "Полтаваобленерго"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/du8aolOFaUwGBC3wikn6DwtuI5WVnqe0f0JrBbwTAhqg-pAWX2kJMfGFJsBYpK2lnkOG7176kMsVWLaF0NZHXmc5JDzHpwRh5iP6_hHbSOY3a5ZmxQFQmFdjDyfvkbuV8ajBcaoqYKFd69uB403UPPgbJ8D2mGCDUvskXf_n6Kvo-HOkqFfG-i3mcgwDieQYRqE4DAD3a5eEioZeQCSD33jEkpzBSoSQBN3m9EfsopRfLb07C3siUvo8EBMnCKKpPQ-k6TyWgwzMFLXNZGoLliYgL5CCXjlyqY2S1sU2WANbz6go83QcVitCL4aH3i__f0nCU2gXay3enOppkaUV9g.jpg"
-        }
-      ],
-      "related_sources": []
-    },
-    {
       "id": "truexanewsua_149498",
       "source_name": "@truexanewsua",
       "source_url": "https://t.me/truexanewsua/149498",
@@ -645,6 +942,25 @@
       "related_sources": []
     },
     {
+      "id": "kremenchugtruexa_49277",
+      "source_name": "@kremenchugtruexa",
+      "source_url": "https://t.me/kremenchugtruexa/49277",
+      "published_at": "2026-11-25T20:30:01+00:00",
+      "raw_text": "❗️\nВорог накопичив балістику та готовий застосувати її найближчим часом\n: під загрозою й Полтавщина, – монітори.\n\n\n\n\nросіяни тримають напоготові зі сходу та південного сходу до 16 ракет «Онікс/Циркон», 6 «KN-23» та 6 «Іскандер-М». Плюс ще 20-25 «Іскандер/С-400» на півночі.\n\n\n\n\nБудьте максимально уважні до тривог!\n\n\n\n\nТРУХА\n⚡️\nКременчук\n | \nНадіслати\n \nновину",
+      "title": "Загроза застосування балістичних ракет",
+      "summary": "Моніторингові канали повідомляють про накопичення ворогом балістичних ракет на різних напрямках, зокрема є загроза для Полтавщини. Громадян закликають реагувати на сигнали повітряної тривоги.",
+      "category": "Безпека",
+      "tags": [
+        "балістика",
+        "загроза",
+        "обстріли",
+        "Полтавщина"
+      ],
+      "importance": 5,
+      "media_list": [],
+      "related_sources": []
+    },
+    {
       "id": "EurointegrationComUA_24011",
       "source_name": "@EurointegrationComUa",
       "source_url": "https://t.me/EurointegrationComUA/24011",
@@ -694,6 +1010,29 @@
         {
           "type": "image",
           "url": "https://cdn4.telesco.pe/file/la6H286BrDeQ_pAZ4dk9M-jOzR2QoW_HJn-L-HlX5ArdO5aHCLEuL9n6IAktVFu8bRXE6tJwfwZulEVCxxnbnPCwIV9_xQP3D2AzzyYyl1neVEMAKD5gHRTWu_Hz1V-GduRiKsw_PnbjrNXTjnnCh0aDnHMptZkx7SMdR8zs_ptAD-FDP0fge7CjRcEk5QCI1mqtvpllZQXDkje_IXA7n095G-boMq1h5hC_wjZTkNilkYFzmGLkRzIcEMYt5XY86atjVbun6SOIUe1hBW6DDE57A5muMl4Nwx3jff3nzcTE8gzFeFEIcj45iEiEUCwAnwbS8vfQz-no0JwHIY2XwQ.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
+      "id": "truexanewsua_149496",
+      "source_name": "@truexanewsua",
+      "source_url": "https://t.me/truexanewsua/149496",
+      "published_at": "2026-11-25T20:16:53+00:00",
+      "raw_text": "🥴\nпутін – гросмейстер політики та історична особистість. Це потрібно визнати,\n – Кушнер.\n\n\n\n\nТакож додав, що путін по доброті душевній погодився не застосовувати ядерну зброю. Ну миротворець, одразу видно \n👍\n👍\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
+      "title": "Кушнер назвав путіна «гроссмейстером політики»",
+      "summary": "Зять колишнього президента США Джаред Кушнер зробив контроверсійну заяву про російського диктатора володимира путіна. Він також заявив, що путін нібито добровільно утримався від застосування ядерної зброї.",
+      "category": "Світ",
+      "tags": [
+        "політика",
+        "США",
+        "росія"
+      ],
+      "importance": 2,
+      "media_list": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/6a18c1ef1c.mp4?token=hE9A3zPSwlxUDUDPW2gE-xlMN30YVBdbC5Ql69naj1Q19kHXVWGTVPSmhM2ywcjtKIejN3ZHnc7iMxqWNz6xTmtR4uyOqh7JE0Zf5IZZ08hkhM_Lfs1ilTlLllEUBMHAmpFDSYnQ2IvwD4Chx_PhCxMvSasMGDev-h30CmiyJz7EkzEkuiED0P8saGa4ZxKZn5HCJrhwompb71IrtO1jBSY-xvwvg648FOzwFDpjw8t4mteqMc2H_J2f41UgUTMkjABAd1OjmI16AklmJdh525VVY7r5cGLmHo9F9HX5LW4_bRckMRaCakH3Lbnq2m4YRjstj-PO7ZLugVrrMwFZZg"
         }
       ],
       "related_sources": []
@@ -808,6 +1147,30 @@
       "related_sources": []
     },
     {
+      "id": "holosameryky_22743",
+      "source_name": "@holosameryky",
+      "source_url": "https://t.me/holosameryky/22743",
+      "published_at": "2026-11-25T17:50:00+00:00",
+      "raw_text": "👉🏻\n \nДесятки компаній, які постачають мікросхеми до Росії, зареєстровані за однією адресою в Гонконгу. \n\n\n\n\nЦе з’ясувала українська недержавна організація Незалежна антикорупційна комісія (НАКО). \n\n\n\n\nЯк виробники можуть посилити контроль за цими поставками? І як обмежити доступ Росії до західних систем штучного інтелекту? \nПро це Наталія Леонова поговорила з виконавчою директоркою НАКО Оленою Трегуб.\n\n\n\n\n \n📌\n Дивіться тут \n➡️\n \nhttps://youtu.be/__94SYioCtY\n\n\n\n\n \nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
+      "title": "НАКО виявила компанії, що постачають мікросхеми до РФ через Гонконг",
+      "summary": "Десятки компаній, які постачають мікросхеми до Росії, зареєстровані за однією адресою в Гонконгу, з'ясувала НАКО. Виконавча директорка організації Олена Трегуб обговорила з журналістами способи посилення контролю за такими поставками.",
+      "category": "Технології",
+      "tags": [
+        "НАКО",
+        "санкції",
+        "Росія",
+        "технології"
+      ],
+      "importance": 3,
+      "media_list": [
+        {
+          "type": "image",
+          "url": "https://cdn4.telesco.pe/file/HDj3BRpGGt8oRXab7jeLhq17HZiFO54VQKC7wBz62mucJ-x-RlS1dD-_XXki4jNSrqj2OUZ9z_IkrAjrBRJB_0bRraPNi-cr17kgq00muG4RXu-oAvMLwcZ2jWhX0XIgUdoiHad0ogKDybWVD1_jQiNS0EvoEZxmmpqOgkafK--AmMSlZf7_s8K_QeH4Y26FR73F5NbBtC61lICLTC9hiLPXh2s551cbGZK43ghjfAkPA8bxBPFSRkvtg5VNOAUQ6Y8TKHA8PQFqDW5NznyviikZE68Wr13HdwlOu522BWQ8RvuJiCVUCONwHqaFPI-RjwaxTfGnM8_uSAQo0L-s8Q.jpg"
+        }
+      ],
+      "related_sources": []
+    },
+    {
       "id": "EurointegrationComUA_24010",
       "source_name": "@EurointegrationComUa",
       "source_url": "https://t.me/EurointegrationComUA/24010",
@@ -846,26 +1209,6 @@
         "ритейл"
       ],
       "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_c893r9ke5p97o_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T16:21:34+00:00",
-      "raw_text": "US announces new tariff proposals on EU, China, and other trade partners\n\nThe new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "title": "Нові митні пропозиції США щодо ЄС та Китаю",
-      "summary": "Сполучені Штати оголосили про плани запровадити нові торговельні мита. Під обмеження можуть потрапити ключові торгові партнери країни, зокрема Європейський Союз та Китай.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "ЄС",
-        "Китай",
-        "економіка",
-        "торгівля"
-      ],
-      "importance": 4,
       "media_list": [],
       "related_sources": []
     },
@@ -928,6 +1271,24 @@
           "url": "https://cdn4.telesco.pe/file/E5sNVEqxwetna0qyhqbImqN-bT4Fbh6zskkeOCBmHoddGxZEI5dXqaQ7nshAi26DpMv_PIAmaFc2hkdpnZa9ruYAknFNjBY5mUKPAatVaFaaCFU6A33ii7ZT3CIuS_kzYUlvB9PhUFGC_844oWYUXCIlIkFY6kyH-vq6DF0PpKl7T9ZCr9yxPqxk-tFTzdwjogh3OQv7zRZOT5wGMxqUaRYHlGZ9kMJXSaim2NZG20lYdTpwP6P8dotc1UaQaOAKmy0kpOqrir-tqreXQyUJfesEYZSWxZwhyVZETIRdsMtfZ9Sf86JA_9hg8QOMx3iQYZExP19hwMiZwAk71V6TJQ.jpg"
         }
       ],
+      "related_sources": []
+    },
+    {
+      "id": "rss_TP2DP6VTTD0500",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/dubai-bank-merger-to-create-159-billion-islamic-lending-giant",
+      "published_at": "2026-11-25T15:48:08+00:00",
+      "raw_text": "Dubai Seals Deal to Form $159 Billion Islamic Banking Giant\n\nDubai Islamic Bank PJSC said it’s buying Emirates Islamic Bank PJSC in an all-stock deal that will create one of the world’s largest listed Islamic-banking groups, with combined assets of about $159 billion.",
+      "title": "У Дубаї створюють ісламський банківський гігант вартістю $159 мільярдів",
+      "summary": "Dubai Islamic Bank купує Emirates Islamic Bank у межах угоди за акціями. Це створить одну з найбільших публічних ісламських банківських груп світу зі спільними активами близько $159 мільярдів.",
+      "category": "Економіка",
+      "tags": [
+        "Дубай",
+        "банки",
+        "злиття і поглинання"
+      ],
+      "importance": 3,
+      "media_list": [],
       "related_sources": []
     },
     {
@@ -1576,24 +1937,6 @@
           "url": "https://cdn4.telesco.pe/file/Y0Mc1kjgxeBNg5bqq2wtDQe5ciqhjDlF0yUk8tDzdrjtF1QQSxXdYxjDRq2Vz_crVh-LSKMWSr2PT-tJDkQ6YJojjXgUMwB1WQxFzrh2f25M5H5f2htvxikdIZ5RYK0E6tCqPYePaSxN8YvWbmJe8DQZYCUatrsek-1f81zLBa_SVcrLPKF-fwb992RT7hyu4a00Xwfh-_pp3TYMafx2ySDr9TM8yeXGrWKNeN--j-TboprQvRaSv7l-de8G9gTf98nxyity6I8H_r343zdOvdT9_9_gvRPd010GVHQpeU-_VmtYKRY_Ak48FtjLFtHP6KuJjPAlcMfzLazY_irkAw.jpg"
         }
       ],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_79882",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/79882",
-      "published_at": "2026-11-25T10:21:04+00:00",
-      "raw_text": "Унаслідок атаки РФ в Одесі вибуховою хвилею пошкоджено вікна в багатоповерховому житловому будинку, повідомив очільник МВА Лисак. Попередньо, одна людина отримала поранення.",
-      "title": "Наслідки атаки РФ в Одесі",
-      "summary": "В Одесі через ворожу атаку пошкоджено вікна в багатоповерхівці. Попередньо, є одна постраждала людина.",
-      "category": "Війна",
-      "tags": [
-        "Одеса",
-        "обстріл",
-        "постраждалі"
-      ],
-      "importance": 5,
-      "media_list": [],
       "related_sources": []
     },
     {
@@ -13395,398 +13738,6 @@
         "інвестиції"
       ],
       "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_30583",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/30583",
-      "published_at": "2026-11-19T01:26:15+00:00",
-      "raw_text": "The year 2027 has long been a focal point for those who plan for a potential Chinese invasion of Taiwan. We explain why in The World Ahead \nhttps://t.co/CQ9NbLAqBE\n — The Economist (\n@TheEconomist\n) \nNov 19, 2026",
-      "title": "Загроза вторгнення Китаю на Тайвань у 2027 році",
-      "summary": "Рік 2027 тривалий час вважається ключовим для аналітиків, які прогнозують можливе вторгнення Китаю на Тайвань. Видання The Economist пояснює причини такого прогнозу.",
-      "category": "Світ",
-      "tags": [
-        "Китай",
-        "Тайвань",
-        "безпека",
-        "геополітика"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_30582",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/30582",
-      "published_at": "2026-11-19T01:17:00+00:00",
-      "raw_text": "Amid much talk of diplomacy, there is little prospect of a deal \nhttps://t.co/YlHB4FItkl\n — The Economist (\n@TheEconomist\n) \nNov 19, 2026",
-      "title": "Перспективи мирної угоди",
-      "summary": "Попри численні розмови про дипломатія, наразі спостерігається мало перспектив для досягнення реальної угоди.",
-      "category": "Світ",
-      "tags": [
-        "дипломатія",
-        "конфлікт",
-        "політика"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TOQ2TIT96OSR00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
-      "published_at": "2026-11-19T01:14:36+00:00",
-      "raw_text": "Copper Rebounds After Rout as Physical Tightness Persists\n\nCopper staged a partial recovery following a steep drop on Wednesday, as traders weighed whether a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs has gone too far.",
-      "title": "Мідь відновлюється після падіння на тлі дефіциту",
-      "summary": "Мідь частково відіграла падіння попереднього дня. Трейдери оцінюють, чи не був розпродаж через штучний інтелект та тарифи надмірним.",
-      "category": "Економіка",
-      "tags": [
-        "мідь",
-        "ринки",
-        "сировина"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_30581",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/30581",
-      "published_at": "2026-11-19T01:11:18+00:00",
-      "raw_text": "There is a danger of tariffs becoming permanent \nhttps://t.co/SMEMZDj3hD\n — The Economist (\n@TheEconomist\n) \nNov 19, 2026",
-      "title": "Ризик перетворення мит на постійні",
-      "summary": "Існує реальна загроза того, що введені мита можуть стати постійними. Це викликає занепокоєння серед економістів.",
-      "category": "Економіка",
-      "tags": [
-        "торгівля",
-        "мита",
-        "економіка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "TheEconomistOfficial_30580",
-      "source_name": "@theeconomistofficial",
-      "source_url": "https://t.me/TheEconomistOfficial/30580",
-      "published_at": "2026-11-19T01:06:21+00:00",
-      "raw_text": "Abelardo de la Espriella promised Colombia an iron fist and rip-roaring growth. Approaching 100 days in power, “El Tigre” has started on both \nhttps://t.co/ogUtz3cc9y\n — The Economist (\n@TheEconomist\n) \nNov 19, 2026",
-      "title": "Політика Абелардо де ла Еспрієльї в Колумбії",
-      "summary": "Наближається 100 днів перебування при владі Абелардо де ла Еспрієльї в Колумбії. Він обіцяв жорстку руку та економічне зростання, і вже почав реалізовувати обидва напрями.",
-      "category": "Світ",
-      "tags": [
-        "Колумбія",
-        "політика",
-        "економіка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TOLKCZT9NJLS00",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-says-he-wouldn-t-make-deals-with-putin-without-ukraine",
-      "published_at": "2026-11-19T01:05:15+00:00",
-      "raw_text": "Trump Says He Wouldn’t Make Deals With Putin Without Ukraine\n\nPresident Donald Trump sought to tamp down on concerns that he would make agreements with Vladimir Putin without input from Ukraine ahead of his meeting with the Russian leader.",
-      "title": "Трамп заявив, що не укладатимегод угод із Путіним без України",
-      "summary": "Дональд Трамп намагався заспокоїти побоювання щодо можливої угоди з Володимиром Путіним поза спиною України. Це сталося напередодні їхньої зустрічі.",
-      "category": "Політика",
-      "tags": [
-        "США",
-        "Росія",
-        "Україна",
-        "Трамп"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@holosameryky",
-          "source_url": "https://t.me/holosameryky/22663",
-          "raw_text": "У середу президент \nСША Дональд Трамп потиснув руки голові КНР Сі Цзіньпіну та президенту Росії Путіну,\n розпочавши візит до Китаю, який, як очікується, включатиме тристоронні переговори між трьома лідерами в четвер.\n\n\n\n\n📌\n Читайте тут \n➡️\n \nhttps://www.holosameryky.com/a/8225064.html\n\n\n\n\nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-          "published_at": "2026-11-18T16:11:54+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TOPZVYKJH6V400",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
-      "published_at": "2026-11-19T00:54:52+00:00",
-      "raw_text": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center\n\nBlue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
-      "title": "Blue Owl планує випуск CMBS на $513 мільйонів для дата-центру Amazon",
-      "summary": "Компанія Blue Owl Capital готує продаж цінних паперів на $513 мільйонів. Кошти підуть на купівлю дата-центру у Вірджинії, орендованого Amazon.",
-      "category": "Економіка",
-      "tags": [
-        "фінанси",
-        "Amazon",
-        "США"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TOO1SBKJH6V800",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
-      "published_at": "2026-11-19T00:32:02+00:00",
-      "raw_text": "Australia’s Jobless Jump Prompts Traders to Price-In Rate Cuts\n\nAustralian unemployment climbed to a five-year high in October with the economy unexpectedly shedding jobs, sending the currency lower as traders boosted bets the Reserve Bank will pivot to interest-rate cuts next year.",
-      "title": "Безробіття в Австралії зросло до п'ятирічного максимуму",
-      "summary": "У жовтні в Австралії зафіксовано несподіване скорочення робочих місць і зростання безробіття до п'ятирічного максимуму. Це призвело до падіння курсу національної валюти та очікувань зниження процентних ставок Резервним банком.",
-      "category": "Економіка",
-      "tags": [
-        "Австралія",
-        "безробіття",
-        "економіка",
-        "ставка"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "truexanewsua_148978",
-      "source_name": "@truexanewsua",
-      "source_url": "https://t.me/truexanewsua/148978",
-      "published_at": "2026-11-19T00:08:17+00:00",
-      "raw_text": "Київ та низка областей – загроза БПЛА\n.\n\n\n\n\nСлідкуйте за оновленням ситуації по Києву та області в реальному часі: \nhttps://t.me/kyiv",
-      "title": "Загроза ударів БПЛА у Києві та областях",
-      "summary": "У Києві та низці регіонів України оголошено загрозу атаки ворожих безпілотників. Мешканців закликають слідкувати за оновленнями.",
-      "category": "Безпека",
-      "tags": [
-        "БПЛА",
-        "Київ",
-        "тривога"
-      ],
-      "importance": 5,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/Q9QwTKWM0boD_JIB1N6F3yb0_KF2iPDkq9xdPgRQWDSHOGT8IkP2MF5i4DtdvLs9i256_-VZbMQGjXZFFYi4QHCe4Y-wFPIDxhGsHwQZJohbjAj0pzuN54URJ6N13dLcXf5VMKfqqzINV432aC2bYr1ehCNwxDNHVbhQ44KqPNH4klUDGMi_KglCJAmd3Y2wRZH-Qh_Sw95nJ5iAoGTOyA1u2jwnwRX1fPi7hsbZ_uWqPHYQ2IDFbGFCnqpzFrA0BjWoiYdooD6RVJIYu3ggnSIkbsJWuMPEWvh4ZwmHhOchLtbV1jHY0YSn4KT-afyH4eNwCSnp2FCrZFcG5hyD_g.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/48819",
-          "raw_text": "Дрон в наш бік.  Труха\n⚡️\nКременчук | Надіслати новину",
-          "published_at": "2026-11-18T23:07:12+00:00"
-        },
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/148976",
-          "raw_text": "❗️\nГотується друга хвиля пусків ракет та БПЛА у напрямку \nКримського\n мосту\n, — росЗМІ.\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
-          "published_at": "2026-11-18T22:23:27+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss__news_articles_c6x2eve321jno_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-19T00:00:59+00:00",
-      "raw_text": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'\n\nA former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-      "title": "Судовий позов проти McDonald's через домагання",
-      "summary": "Колишня працівниця McDonald's закликала компанію змінити ставлення до молодих працівників після того, як суд дозволив продовжити розгляд справи про домагання. Позивачка заявляє про системну проблему щодо неповнолітніх співробітниць.",
-      "category": "Світ",
-      "tags": [
-        "McDonald's",
-        "суд",
-        "скандал"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss__news_articles_c6742m39xgzxo_1",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-18T23:44:27+00:00",
-      "raw_text": "Claude-maker Anthropic poised for more than $1.4tn stock market debut\n\nAnthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-      "title": "Anthropic готується до виходу на фондовий ринок",
-      "summary": "Штучний інтелект-стартап Anthropic, створений п'ять років тому, готується до масштабного дебюту на біржі. Компанія претендує на статус одного з найбільших гравців у галузі.",
-      "category": "Технології",
-      "tags": [
-        "Anthropic",
-        "ШІ",
-        "IPO",
-        "біржа"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "kremenchugtruexa_48821",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/48821",
-      "published_at": "2026-11-18T23:37:06+00:00",
-      "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 01:33 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Оновлення графіків відключень світла на Полтавщині",
-      "summary": "«Полтаваобленерго» оновило графіки погодинних відключень електроенергії для області. Зміни набули чинності вночі.",
-      "category": "Суспільство",
-      "tags": [
-        "світло",
-        "графіки",
-        "Полтаваобленерго"
-      ],
-      "importance": 4,
-      "media_list": [
-        {
-          "type": "image",
-          "url": "https://cdn4.telesco.pe/file/CUk9knprPPnHpbYER3Pi7UcnrgjKNgW4p38CNcZOAT1hhQqgpS3HutjF5CUZWmhv-Lv7KdqyIZ5qVtICMzvCfp217PpOwT-dvm-nI_rI3xMq4mR2dtkSmnEiJQYRB64hzhiFGm-qGUYlX9tPExCDhgxN19kdKtYBb8EeQgr2aRVFtZivWwVCS-0RpP9lSRhzDXGh7Mt893o6XBAWRkt7y_YZcq7Jlxe6I8wYjkTFr1hg3irlZmvZVT2uZGub0m1NVtrTFJ_T6CDqSxRkoesangowDND24mfVB8RyzhmHbOZzjfPCMZzGi2Aba-CPiTaWj0LhWGsbYtTpN990s2JkYA.jpg"
-        }
-      ],
-      "related_sources": [
-        {
-          "source_name": "@kremenchugtruexa",
-          "source_url": "https://t.me/kremenchugtruexa/48804",
-          "raw_text": "💡\nОновлено графіки відключень на Полтавщині.\n\n\n\n\nО 21:10 «Полтаваобленерго» оновили графіки на сьогодні.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-          "published_at": "2026-11-18T19:10:33+00:00"
-        }
-      ]
-    },
-    {
-      "id": "rss_TOPXYWKJH6V500",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-      "published_at": "2026-11-18T23:24:06+00:00",
-      "raw_text": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed\n\nGold climbed from a 14-month low as dip buyers helped cushion growing expectations that the Federal Reserve will hike interest rates.",
-      "title": "Золото зростає після досягнення 14-місячного мінімуму",
-      "summary": "Котирування золота піднялися завдяки покупкам на зниженні цін. Це допомогло компенсувати очікування жорсткішої монетарної політики ФРС.",
-      "category": "Економіка",
-      "tags": [
-        "золото",
-        "ринки",
-        "ФРС"
-      ],
-      "importance": 2,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "rss_TOON56KJH6V500",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-      "published_at": "2026-11-18T23:03:35+00:00",
-      "raw_text": "Latest Oil Market News and Analysis for Nov. 19\n\nOil steadied as traders assessed the outlook for the US-Iran conflict, including the possibility of fresh attacks against Tehran.",
-      "title": "Ситуація на ринку нафти стабілізувалася",
-      "summary": "Ціни на нафту стабілізувалися, оскільки трейдери оцінюють перспективи конфлікту між США та Іраном. Зокрема, ринок реагує на ймовірність нових атак.",
-      "category": "Економіка",
-      "tags": [
-        "нафта",
-        "ринок",
-        "США",
-        "Іран"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "kremenchugtruexa_48818",
-      "source_name": "@kremenchugtruexa",
-      "source_url": "https://t.me/kremenchugtruexa/48818",
-      "published_at": "2026-11-18T23:00:40+00:00",
-      "raw_text": "Дрон в наш бік\n.\n\n\n\n\nТруха\n⚡️\nКременчук\n | \nНадіслати новину",
-      "title": "Рух дрона у напрямку міста",
-      "summary": "Зафіксовано рух ворожого безпілотника в бік Кременчука. Мешканців закликають бути обережними.",
-      "category": "Безпека",
-      "tags": [
-        "дрон",
-        "тривога",
-        "Кременчук"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "suspilnenews_79493",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/79493",
-      "published_at": "2026-11-18T23:00:00+00:00",
-      "raw_text": "Окупаційний голова Криму Сергій Аксьонов повідомив, що внаслідок чергової атаки перекрито рух на Керченському мосту.",
-      "title": "Перекриття руху на Керченському мосту",
-      "summary": "Рух на Керченському мосту перекрито через чергову атаку. Про це заявив окупаційний голова Криму Сергій Аксьонов.",
-      "category": "ВІЙНА",
-      "tags": [
-        "Крим",
-        "Керченський міст",
-        "атака"
-      ],
-      "importance": 4,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "holosameryky_22672",
-      "source_name": "@holosameryky",
-      "source_url": "https://t.me/holosameryky/22672",
-      "published_at": "2026-11-18T22:49:31+00:00",
-      "raw_text": "👉🏻\n За останні дні в США сталася низка технічних збоїв, \nякі вплинули на авіаперевезення, банківську систему, роботу великих компаній і навіть захищеної мережі Агентства національної безпеки. \n\n\n\n\nЇхня кількість і концентрація в часі викликали занепокоєння і хвилю чуток. У середу на слуханнях у Палаті представників законодавці \nнамагалися з'ясувати, чи пов'язані ці події. \n\n\n\n\nЩо відомо про причини збоїв і як пояснюють ситуацію американські посадовці \n– розповідає Тетяна Ворожко.\n\n\n\n\nПідписуйтеся на\n \nTikTok · \nViber\n · \nWhatsApp",
-      "title": "У США розслідують причини низки масштабних технічних збоїв",
-      "summary": "За останні дні в США сталася низка збоїв, що вплинули на авіаперевезення, банки та роботу АНБ, викликавши хвилю чуток. Законодавці на слуханнях у Палаті представників намагалися з'ясувати причини інцидентів.",
-      "category": "Світ",
-      "tags": [
-        "США",
-        "технології",
-        "збої"
-      ],
-      "importance": 3,
-      "media_list": [],
-      "related_sources": []
-    },
-    {
-      "id": "hromadske_ua_91285",
-      "source_name": "@hromadske_ua",
-      "source_url": "https://t.me/hromadske_ua/91285",
-      "published_at": "2026-11-18T22:48:35+00:00",
-      "raw_text": "🔥\n \nКримський міст знову атакували, підтвердив окупаційний «глава» Криму Аксьонов.\n Нині міст перекрили для «оцінки завданих збитків». \n\n\n\n\nТим часом у мережі також з'явилися відео вибухів у Керчі, а Telegram-канали писали, ніби кілька влучань припали на залізничну частину мосту. Автомобільний проліт споруди обвалився після попередньої атаки 17 листопада\n\n\n\n\n🧡\n \nпідписатися\n | \nпідтримати",
-      "title": "Атака на Кримський міст: рух перекрито",
-      "summary": "Окупаційна влада Криму підтвердила чергову атаку на Кримський міст, через що рух ним перекрито. У мережі повідомляють про вибухи у Керчі та ймовірні влучання в залізничну частину.",
-      "category": "Війна",
-      "tags": [
-        "Крим",
-        "Кримський міст",
-        "вибухи",
-        "атака"
-      ],
-      "importance": 5,
-      "media_list": [],
-      "related_sources": [
-        {
-          "source_name": "@truexanewsua",
-          "source_url": "https://t.me/truexanewsua/148973",
-          "raw_text": "❗️\n❗️\nПопередньо \nКримський\n міст було повторно атаковано ракетами\n, — росЗМІ.\n\n\n\n\nА ви як святкуєте вихід ГТА 6? \n😁\n\n\n\n\nТРУХА\n⚡️\nУкраїна |\n \nНадіслати новину",
-          "published_at": "2026-11-18T21:56:55+00:00"
-        }
-      ]
-    },
-    {
-      "id": "suspilnenews_79492",
-      "source_name": "@suspilnenews",
-      "source_url": "https://t.me/suspilnenews/79492",
-      "published_at": "2026-11-18T22:45:58+00:00",
-      "raw_text": "Вибухи пролунали у Чугуївській громаді на Харківщині, повідомляють кореспонденти Суспільного.",
-      "title": "Вибухи у Чугуївській громаді",
-      "summary": "У Чугуївській громаді на Харківщині пролунали вибухи. Про це повідомили кореспонденти Суспільного.",
-      "category": "БЕЗПЕКА",
-      "tags": [
-        "Харківщина",
-        "Чугуїв",
-        "вибухи"
-      ],
-      "importance": 5,
       "media_list": [],
       "related_sources": []
     }
